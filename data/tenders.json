@@ -8412,15 +8412,22 @@
     "closingAtRaw": "09/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
     "publishedAt": "2026-07-08T04:21:00.000Z",
     "contact": {
-      "raw": "Chris Teague Email: chris.teague@esc.nsw.gov.au Tel: 0244741096",
-      "name": "Chris Teague",
-      "email": "chris.teague@esc.nsw.gov.au",
-      "phone": "0244741096"
+      "raw": "Hanna Lloyd Email: hanna.lloyd@esc.nsw.gov.au Tel: 02 4474 1084",
+      "name": "Hanna Lloyd",
+      "email": "hanna.lloyd@esc.nsw.gov.au",
+      "phone": "02 4474 1084"
     },
     "documentCount": 13,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e2aa8946d91b4e5ba9f99ed8d9fd4425s515402sd71226c69feb45098deb3f863569b540s1546",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Chris Teague Email: chris.teague@esc.nsw.gov.au Tel: 0244741096\",\"name\":\"Chris Teague\",\"email\":\"chris.teague@esc.nsw.gov.au\",\"phone\":\"0244741096\"}",
+        "to": "{\"raw\":\"Hanna Lloyd Email: hanna.lloyd@esc.nsw.gov.au Tel: 02 4474 1084\",\"name\":\"Hanna Lloyd\",\"email\":\"hanna.lloyd@esc.nsw.gov.au\",\"phone\":\"02 4474 1084\"}",
+        "at": "2026-09-07T23:08:32.015Z"
+      }
+    ]
   },
   {
     "id": "e3154ba318054b27a0a0352418e9bc3e",
