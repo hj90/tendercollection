@@ -1246,10 +1246,17 @@
       "email": "dean.schipplock@health.qld.gov.au",
       "phone": "0422321231"
     },
-    "documentCount": 8,
+    "documentCount": 9,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=1dc719c79b354cc2821db76d30995a21s524007",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-07T23:06:27.954Z"
+      }
+    ]
   },
   {
     "id": "1fc5c73496eb4a969dab3664db48a3fe",
@@ -2202,10 +2209,17 @@
     "closingAtRaw": "25/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-14T01:04:00.000Z",
     "contact": null,
-    "documentCount": 4,
+    "documentCount": 5,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=38711c687d8d4ca1b60093ea688a5701s521227sbfe2d966aa884191b5a30f84da5d0f3fs1604",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-07T23:06:27.954Z"
+      }
+    ]
   },
   {
     "id": "3894e8ac86e744fa899ee4629f2e1d6e",
@@ -3717,28 +3731,6 @@
     "changes": []
   },
   {
-    "id": "6d3efc345a4d49ddba4466ca29855c26",
-    "source": "vendorpanel",
-    "reference": "VP521541",
-    "title": "QBSC/26/044 - Removal and Disposal of Beach Debris - Wunjunga",
-    "description": "Burdekin Shire Council invites quotations from suitably qualified respondents for the removal and disposal of beach debris to the north of the Wunjunga township, as described in more detail in Part 5 – Scope and in Appendix 1. \n\nCouncil requires all work to be completed by 31 November 2026.",
-    "buyer": "Burdekin Shire Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Environmental & Heritage Services"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-07T23:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 09:00 AM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-17T23:32:00.000Z",
-    "contact": null,
-    "documentCount": 3,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=6d3efc345a4d49ddba4466ca29855c26s521541sf9788d236bae4a7890005ffb3ba88711s1560",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "6d8c1a8dd97c4b58ad6f23dd2b50afe2",
     "source": "vendorpanel",
     "reference": "VP522763",
@@ -3831,10 +3823,17 @@
       "email": "hassan.morshed@health.qld.gov.au",
       "phone": "07 3564 0318"
     },
-    "documentCount": 14,
+    "documentCount": 15,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=6e183bff5d924de998bc398032f4b540s523687s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "15",
+        "at": "2026-09-07T23:06:27.954Z"
+      }
+    ]
   },
   {
     "id": "6e9f1676521e421e9915620d50b4063a",
@@ -3909,6 +3908,29 @@
     "documentCount": 4,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=70280f8f5f2b4089bce459448fde3166s523717sd71226c69feb45098deb3f863569b540s1546",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": []
+  },
+  {
+    "id": "702a17ef6d564489abd86625764f501a",
+    "source": "vendorpanel",
+    "reference": "VP523813",
+    "title": "Principal Contractor for Stage 2 - Balcony Repairs at Hill Houses - Thursday Is",
+    "description": "•\tRemove and dispose of the existing balcony handrails and non-compliant horizontal balustrade systems \n\n•\tSupply and install new compliant hot dip galvanised balustrade and handrail systems incorporating vertical balusters to all nominated balconies in accordance with the National Construction Code (NCC) and relevant Australian Standards. \n\n•\tInspect existing balcony structures, including joists, bearers, decking, steelwork, fixings and supporting members, for deterioration or structural defects prior to installation of the new balustrade system.\n\n•\tReplace or rectify any deteriorated or defective structural members identified during construction where required to facilitate a compliant installation. Any major structural defects identified beyond the scope shall be reported to the Principal for direction prior to proceeding.\n\n•\tModify existing privacy screen framing where required to remove climbable elements and install compliant vertical screening while retaining the...",
+    "buyer": "Torres and Cape Hospital and Health Service",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-22T01:00:00.000Z",
+    "closingAtRaw": "22/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-07T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=702a17ef6d564489abd86625764f501as523813",
+    "firstSeenAt": "2026-09-07T23:06:27.954Z",
     "changes": []
   },
   {
@@ -4513,10 +4535,17 @@
     "closingAtRaw": "18/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-09T23:11:00.000Z",
     "contact": null,
-    "documentCount": 13,
+    "documentCount": 17,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=8036432e1c0447d1af12b25c04eaf890s520354",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "17",
+        "at": "2026-09-07T23:06:27.954Z"
+      }
+    ]
   },
   {
     "id": "80f0d36f6ad14825b521869aa5337272",
@@ -6425,8 +6454,8 @@
       "Construction & Operation"
     ],
     "requestType": "other",
-    "closingAt": "2026-09-10T04:00:00.000Z",
-    "closingAtRaw": "10/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-13T03:41:00.000Z",
     "contact": {
       "raw": "Amanda-Lee Lingard Email: amanda-lee.lingard@livingstone.qld.gov.au Tel: 07 4913 4949",
@@ -6437,7 +6466,20 @@
     "documentCount": 23,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b369f6b80e8e41a9bb9f969a7177ac85s521025s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-10T04:00:00.000Z",
+        "to": "2026-09-16T04:00:00.000Z",
+        "at": "2026-09-07T23:06:27.954Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-07T23:06:27.954Z"
+      }
+    ]
   },
   {
     "id": "b3df269e34cc458ebd857ec0c092e58f",
@@ -7106,6 +7148,28 @@
     "documentCount": 4,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c56eac6824ec46da9e3ce940c1d9e04es522472s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": []
+  },
+  {
+    "id": "c58b3852d32a4f1ba574200c7c24632a",
+    "source": "vendorpanel",
+    "reference": "VP524573",
+    "title": "TEN16730 - Mount Morgan Cemetery Extension",
+    "description": "Mount Morgan Cemetery is a heritage listed cemetery located at East Street, Mount Morgan, within the Rockhampton Region, Queensland. Established in 1886, the cemetery has served the Mount Morgan community for the majority of the town’s history and was entered on the Queensland Heritage Register on 21 October 1992. The site contains numerous memorials, structures, and landscape elements of historical, cultural, social, and aesthetic significance, including the Linda Memorial and a rare Chinese ceremonial burner.\n\nThe land formerly identified as Lot 3614 has undergone a boundary realignment along East Street South and has been consolidated with Lot 184 to form a single allotment. More recently, the consolidated site has been rezoned to Community to support and facilitate the proposed extension of the Mount Morgan Cemetery. This technical specification has been prepared to support the delivery of civil works associated with the cemetery extension, which is intended to provide additional burial capacity...",
+    "buyer": "Rockhampton Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-30T04:00:00.000Z",
+    "closingAtRaw": "30/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-07T23:05:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c58b3852d32a4f1ba574200c7c24632as524573s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "firstSeenAt": "2026-09-07T23:06:27.954Z",
     "changes": []
   },
   {
@@ -7984,6 +8048,32 @@
     "documentCount": 2,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d816bdfda40640d693e9897aad91f2f3s520691",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": []
+  },
+  {
+    "id": "d8dfcbf07acc412eb9500e834afd5693",
+    "source": "vendorpanel",
+    "reference": "VP524155",
+    "title": "RFQ260203 - Emerald Saleyards Delivery Yard Lighting",
+    "description": "The purpose of this Request for Quotation is to engage qualified lighting designers/consultants to undertake the necessary site investigations, prepare a complete lighting design and technical specification for the Emerald Saleyards Delivery Yards.\n\n\nStart Contract Date 09/10/2026\n\nEmerald Saleyards - 2 Batts Street, Emerald, QLD 4720",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "ELEC, Lighting, Equip & Services",
+      "Indust. Production, Manufacturing"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-30T07:00:00.000Z",
+    "closingAtRaw": "30/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-07T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d8dfcbf07acc412eb9500e834afd5693s524155",
+    "firstSeenAt": "2026-09-07T23:06:27.954Z",
     "changes": []
   },
   {

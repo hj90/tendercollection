@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "6d3efc345a4d49ddba4466ca29855c26",
+    "source": "vendorpanel",
+    "reference": "VP521541",
+    "title": "QBSC/26/044 - Removal and Disposal of Beach Debris - Wunjunga",
+    "description": "Burdekin Shire Council invites quotations from suitably qualified respondents for the removal and disposal of beach debris to the north of the Wunjunga township, as described in more detail in Part 5 – Scope and in Appendix 1. \n\nCouncil requires all work to be completed by 31 November 2026.",
+    "buyer": "Burdekin Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Environmental & Heritage Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-07T23:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 09:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-17T23:32:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=6d3efc345a4d49ddba4466ca29855c26s521541sf9788d236bae4a7890005ffb3ba88711s1560",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-07T23:06:27.954Z"
+  }
+]
