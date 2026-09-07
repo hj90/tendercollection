@@ -54,7 +54,7 @@ Forward-notice signals are checked across title and description first. Remaining
 
 ## Daily schedule and DST
 
-`.github/workflows/fetch.yml` uses `cron: '0 6 * * *'` with `timezone: Australia/Sydney` and supports manual `workflow_dispatch`. Current [GitHub documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule) supports IANA timezones. This avoids the older UTC-only limitation and adjusts automatically for daylight saving.
+`.github/workflows/fetch.yml` uses `cron: '0 6 * * *'` with `timezone: Australia/Sydney` and supports manual `workflow_dispatch`. Changes to ingestion scripts, parsers or this workflow also trigger a validation refresh. Current [GitHub documentation](https://docs.github.com/en/actions/reference/workflows-and-actions/workflow-syntax#onschedule) supports IANA timezones. This avoids the older UTC-only limitation and adjusts automatically for daylight saving.
 
 6:00am Sydney corresponds to **20:00 UTC on the previous day during AEST (UTC+10)** and **19:00 UTC on the previous day during AEDT (UTC+11)**. On an older GitHub installation without timezone support, use two UTC schedules (19:00 and 20:00) and gate on the scheduled instant's Sydney offset, not just the runner's current hour. Do not silently use one fixed UTC schedule. Actions scheduling can be delayed; this is a daily target, not a hard real-time guarantee. Public repository schedules may be disabled after extended repository inactivity; monitor Actions and re-enable if needed.
 

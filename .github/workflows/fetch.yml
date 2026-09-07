@@ -4,6 +4,12 @@ on:
     - cron: '0 6 * * *'
       timezone: Australia/Sydney
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - lib/parsers/**
+      - .github/workflows/fetch.yml
 permissions:
   contents: write
 concurrency:
