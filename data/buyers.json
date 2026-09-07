@@ -1,0 +1,594 @@
+{
+  "AFAC": {
+    "state": null,
+    "type": "other"
+  },
+  "Australian Energy Market Operator (AEMO)": {
+    "state": null,
+    "type": "other"
+  },
+  "Ballina Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Balonne Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Banana Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Banyule City Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Barcaldine Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Bayside Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Bega Valley Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Blackall-Tambo Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Blue Mountains City Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Boulia Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Bundaberg Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Burdekin Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Burke Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Cabonne Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Cassowary Coast Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Central Goldfields Shire Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Central Highlands Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Central Queensland University": {
+    "state": "QLD",
+    "type": "university"
+  },
+  "Central Tablelands Mountain Bike Club": {
+    "state": "NSW",
+    "type": "other"
+  },
+  "Cessnock City Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Charters Towers Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "City of Albany": {
+    "state": "WA",
+    "type": "council"
+  },
+  "City of Ballarat": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "City of Bayswater": {
+    "state": "WA",
+    "type": "council"
+  },
+  "City of Boroondara": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "City of Bunbury": {
+    "state": "WA",
+    "type": "council"
+  },
+  "City of Busselton": {
+    "state": "WA",
+    "type": "council"
+  },
+  "City of Canada Bay": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "City of Clarence": {
+    "state": "TAS",
+    "type": "council"
+  },
+  "City Of Gold Coast": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "City of Greater Dandenong": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "City of Ipswich": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "City of Moreton Bay": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "City of Stonnington": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "City of West Torrens": {
+    "state": "SA",
+    "type": "council"
+  },
+  "Cook Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Cootamundra-Gundagai Regional Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Darling Downs Hospital and Health Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Department of Education": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Department of Primary Industries": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Department of Transport and Main Roads": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Dept of Sport, Racing and Olympic Paralympic Games": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Dept of the Environ, Tourism, Science and Innov": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Diamantina Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Dubbo Regional Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "East Gippsland Water": {
+    "state": "VIC",
+    "type": "state-agency"
+  },
+  "Economic Development Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Energy Queensland Limited": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Eurobodalla Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Families, Seniors, Disability Serv & Child Safety": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Far North Queensland Ports Corporation Ltd": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Fire Rescue Victoria": {
+    "state": "VIC",
+    "type": "state-agency"
+  },
+  "Flinders Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Forbes Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Fraser Coast Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Games Independent Infrastructure&Coordination Ath": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "General Goods & Services – Qld Govt Procurement": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Georges River Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Gladstone Area Water Board": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Gladstone Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Goondiwindi Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Greater Bendigo City Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Gunnedah Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Gwydir Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Gympie Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Health and Wellbeing Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Health Infrastructure Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Hinchinbrook Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Hope Vale Aboriginal Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Isaac Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "James Cook University": {
+    "state": "QLD",
+    "type": "university"
+  },
+  "Kempsey Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Legal Aid Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Lithgow City Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Livingstone Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Logan City Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Macedon Ranges Shire Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Mackay Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Mapoon Aboriginal Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Mareeba Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Metro North Hospital and Health Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "MidCoast Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Mildura Rural City Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Mount Alexander Shire Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "Mount Barker District Council": {
+    "state": "SA",
+    "type": "council"
+  },
+  "Mount Isa City Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Murray River Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Muswellbrook Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Narrandera Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Noosa Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "North Burnett Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Northern Peninsula Area Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Oberon Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Palm Island Aboriginal Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Penrith City Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Pinjarra Racing Club": {
+    "state": "WA",
+    "type": "other"
+  },
+  "Port of Townsville Limited": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Port Stephens Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "QBuild": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Building and Construction Commission": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Health": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Hydro": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Queensland Mental Health Commission": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Parliament: Parliamentary Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Police Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland Rail": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Queensland Treasury": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Queensland University of Technology": {
+    "state": "QLD",
+    "type": "university"
+  },
+  "Racing Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Redland City Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Richmond Valley Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Rockhampton Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Seqwater": {
+    "state": "QLD",
+    "type": "goc"
+  },
+  "Shire of Ashburton": {
+    "state": "WA",
+    "type": "council"
+  },
+  "Shire of Broome": {
+    "state": "WA",
+    "type": "council"
+  },
+  "Shire of Kondinin": {
+    "state": "WA",
+    "type": "council"
+  },
+  "Shire of Wiluna": {
+    "state": "WA",
+    "type": "council"
+  },
+  "Snowy Monaro Regional Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Somerset Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "South Bank Corporation": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Southern Downs Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Sunshine Coast Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Sutherland Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Swan Hill Rural City Council": {
+    "state": "VIC",
+    "type": "council"
+  },
+  "TAFE Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Tamworth Regional Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Toowoomba Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Torres and Cape Hospital and Health Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Torres Strait Island Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Tourism and Events Queensland": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Town of Gawler": {
+    "state": "SA",
+    "type": "council"
+  },
+  "Town of Port Hedland": {
+    "state": "WA",
+    "type": "council"
+  },
+  "Townsville City Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Townsville Hospital and Health Service QLD": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "University of Southern Queensland": {
+    "state": "QLD",
+    "type": "university"
+  },
+  "Wagga Wagga City Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Walcha Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Waverley Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Wentworth Shire Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Western Power": {
+    "state": "WA",
+    "type": "goc"
+  },
+  "Whitsunday Regional Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Wide Bay Hospital and Health Service": {
+    "state": "QLD",
+    "type": "state-agency"
+  },
+  "Winton Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Woollahra Municipal Council": {
+    "state": "NSW",
+    "type": "council"
+  },
+  "Woorabinda Aboriginal Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  },
+  "Yarrabah Aboriginal Shire Council": {
+    "state": "QLD",
+    "type": "council"
+  }
+}

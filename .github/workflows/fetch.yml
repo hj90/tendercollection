@@ -1,0 +1,52 @@
+name: Refresh tender feeds
+on:
+  schedule:
+    - cron: '0 6 * * *'
+      timezone: Australia/Sydney
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tender-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm test
+      - name: Fetch both RSS snapshots
+        id: fetch
+        continue-on-error: true
+        run: npm run fetch
+      - name: Save fetch status without timestamp-only commits
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fetch-report
+          path: data/fetch-report.json
+          retention-days: 30
+      - name: Validate static export
+        run: npm run build
+      - name: Commit only changed snapshots or source status
+        run: |
+          git add data/tenders.json data/archive.json data/meta.json
+          if git diff --cached --quiet; then
+            echo 'No data or source-status change; no commit.'
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Refresh public tender snapshots'
+            git push
+          fi
+      - name: Report total feed failure
+        if: steps.fetch.outcome == 'failure'
+        run: |
+          echo 'All feeds failed. Existing records retained; see fetch-report artifact.'
+          exit 1
