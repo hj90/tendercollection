@@ -6550,7 +6550,7 @@
     "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-14T19:00:00.000Z",
     "contact": null,
-    "documentCount": 16,
+    "documentCount": 17,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8569360f6e2a40669e7afa2eeebf41d3s521314s187d3a05decd404191ffe66fba693c4fs1559",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [
@@ -6559,6 +6559,12 @@
         "from": "15",
         "to": "16",
         "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "17",
+        "at": "2026-09-08T04:28:22.661Z"
       }
     ]
   },
