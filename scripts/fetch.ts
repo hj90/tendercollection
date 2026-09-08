@@ -1,6 +1,7 @@
+import {getAusTenderText} from '../lib/austender-http';
 import {readFile,writeFile,rename} from 'node:fs/promises';
 import {parseVendorPanel} from '../lib/parsers/vendorpanel';
-import {parseAusTender,enrichAusTender,AUSTENDER_USER_AGENT,noticeUrl} from '../lib/parsers/austender';
+import {parseAusTender,enrichAusTender} from '../lib/parsers/austender';
 import {diffSnapshots,key} from '../lib/snapshot';
 import {buyerInfo} from '../lib/normalise';
 import type {Tender,ArchivedTender,Buyers,Metadata,Source,ParsedTender} from '../lib/types';
@@ -13,16 +14,13 @@ const snapshots:Partial<Record<Source,ParsedTender[]>>={};
 await Promise.all((Object.keys(urls) as Source[]).map(async source=>{
  const warnings:string[]=[];const warn=(message:string)=>{warnings.push(message);console.warn(`WARNING [${source}] ${message}`);};
  try{
- const response=await fetch(urls[source],{headers:{'User-Agent':source==='austender'?AUSTENDER_USER_AGENT:'TenderCollection/1.0 (+https://tendercollection.vercel.app/about/; public RSS aggregator)','Accept':'application/rss+xml, application/xml, text/xml'},signal:AbortSignal.timeout(45000)});
+ const xml=source==='austender'?await getAusTenderText(urls[source],warn):await (async()=>{
+ const response=await fetch(urls[source],{headers:{'User-Agent':'TenderCollection/1.0 (+https://tendercollection.vercel.app/about/; public RSS aggregator)','Accept':'application/rss+xml, application/xml, text/xml'},signal:AbortSignal.timeout(45000)});
  if(!response.ok)throw new Error(`HTTP ${response.status}`);
- const xml=await response.text();if(xml.length>10_000_000)throw new Error('Unexpectedly large RSS response');
- const records=source==='vendorpanel'?parseVendorPanel(xml,buyers,warn):await enrichAusTender(parseAusTender(xml,warn),async url=>{
- noticeUrl(url);
- const page=await fetch(url,{headers:{'User-Agent':AUSTENDER_USER_AGENT,'Accept':'text/html'},redirect:'error',signal:AbortSignal.timeout(30000)});
- if(!page.ok)throw new Error(`AusTender detail HTTP ${page.status}: ${url}`);
- const html=await page.text();if(html.length>2_000_000)throw new Error('Unexpectedly large AusTender detail page');
- return html;
- },warn);
+ return response.text();
+ })();
+ if(xml.length>10_000_000)throw new Error('Unexpectedly large RSS response');
+ const records=source==='vendorpanel'?parseVendorPanel(xml,buyers,warn):await enrichAusTender(parseAusTender(xml,warn),url=>getAusTenderText(url,warn),warn);
  if(new Set(records.map(key)).size!==records.length)throw new Error('Duplicate feed identifiers');
  // An empty feed is too risky to treat as mass disappearance without operator review.
  if(!records.length)throw new Error('Empty source snapshot; retaining previous records');

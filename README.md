@@ -21,7 +21,7 @@ npm run build
 - VendorPanel: https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all
 - AusTender: https://www.tenders.gov.au/public_data/rss/rss.xml
 
-AusTender was repaired after testing its real feed on 8 September 2026. Its server rejects our custom-only User-Agent but accepts a browser-compatible one that also identifies Tender Collection. No credentials or cookies are used.
+AusTender was repaired after testing its real feed on 8 September 2026. Its server rejects our custom-only User-Agent but accepts a browser-compatible one that also identifies Tender Collection. No credentials or cookies are used. Node HTTP errors are logged with their cause and retried using system curl with normal TLS verification, bounded timeouts, response-size limits and two retries. GitHub-hosted Ubuntu runners include curl; local machines need curl on PATH for this fallback.
 
 The RSS has only title, link, description, GUID and publication date. The fetcher reads the public Atm/Show and Advert/Show pages linked in RSS, sequentially, to obtain agency, closing date, category, location and contact. This is the specifically authorised exception to v1’s RSS-only design. No documents or login pages are fetched. A malformed or failed detail page rejects the entire AusTender refresh and retains the previous snapshot; partial enrichment never triggers mass archival.
 
