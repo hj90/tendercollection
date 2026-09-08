@@ -1,13 +1,13 @@
 import Link from 'next/link';
 import {notFound} from 'next/navigation';
 import {allTenders,meta} from '../../../lib/data';
-import {tenderPath,buyerPath,typeLabels,sourceLabels} from '../../../lib/urls';
+import {tenderRouteId,buyerPath,typeLabels,sourceLabels} from '../../../lib/urls';
 import LocalDate from '../../../components/LocalDate';
 import Notice from '../../../components/Notice';
 import RecordStatus from '../../../components/RecordStatus';
 export const dynamicParams=false;
-export function generateStaticParams(){return allTenders.map(t=>({id:`${t.source}-${t.id}`}));}
-const find=(id:string)=>allTenders.find(t=>`${t.source}-${t.id}`===id);
+export function generateStaticParams(){return allTenders.map(t=>({id:tenderRouteId(t)}));}
+const find=(id:string)=>allTenders.find(t=>tenderRouteId(t)===id);
 export async function generateMetadata({params}:{params:Promise<{id:string}>}){const t=find((await params).id);return {title:t?.title??'Tender not found',description:t?.description.slice(0,155)}}
 export default async function Detail({params}:{params:Promise<{id:string}>}){const t=find((await params).id);if(!t)notFound();const archived='archivedAt' in t?t.archivedAt as string:null;
  return <article className="detail"><Link className="back" href="/">← Browse tenders</Link><div className="badges"><span className="type-badge">{typeLabels[t.requestType]}</span><span>{sourceLabels[t.source]}</span><span>{t.reference??'No reference supplied'}</span>{archived&&<span className="archive-badge">Archived</span>}</div><h1>{t.title}</h1><Link className="detail-buyer" href={buyerPath(t.buyer)}>{t.buyer} →</Link>

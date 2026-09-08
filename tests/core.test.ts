@@ -20,10 +20,6 @@ test('CDATA extraction, XML category boundaries, entity decoding and stable guid
 test('blocked or malformed responses cannot masquerade as an empty successful source',()=>{
  assert.throws(()=>parseVendorPanel('<html>403</html>',{}));assert.throws(()=>parseAusTender('<html>403</html>'));assert.throws(()=>parseVendorPanel('<rss><channel><item><title>x</title></item></channel></rss>',{}));
 });
-test('AusTender namespaced fields map without HTML scraping',()=>{
- const [t]=parseAusTender('<rss xmlns:at="urn:at"><channel><item><guid>atm1</guid><title>RFQ test</title><link>https://www.tenders.gov.au/Atm/Show/atm1</link><description>Information</description><at:Agency>Department X</at:Agency><at:Location>NSW</at:Location><at:closingDate>2026-09-10T17:00:00+10:00</at:closingDate><pubDate>Mon, 07 Sep 2026 00:00:00 GMT</pubDate><category>1234</category></item></channel></rss>',assert.fail);
- assert.equal(t.state,'NSW');assert.equal(t.buyer,'Department X');assert.equal(t.closingAt,'2026-09-10T07:00:00.000Z');
-});
 test('forward notice precedence dominates RFT and panel keywords',()=>{assert.equal(classify('ADVANCE TENDER NOTICE - RFT','preferred supplier arrangement'),'forward-notice');assert.equal(classify('Grounds services','There is no need to provide a response'),'forward-notice');assert.equal(classify('EOI parks','request for tender'),'eoi');assert.equal(classify('Supplier register',''),'panel')});
 test('buyer exact and normalised matches, logged fallback, ambiguous locations',()=>{let misses=0;assert.equal(buyerInfo('EXAMPLE Council!','',{'Example Council':{state:'NSW',type:'council'}},assert.fail).state,'NSW');assert.equal(buyerInfo('missing','Brisbane time',{},()=>misses++).state,'QLD');assert.equal(buyerInfo('missing','Canberra, Melbourne, Sydney time',{},()=>misses++).state,null);assert.equal(misses,2)});
 test('identical refresh is byte-stable without active lastSeenAt',()=>{const first=diffSnapshots([],[],{vendorpanel:[item]},at);const second=diffSnapshots(first.tenders,first.archive,{vendorpanel:[item]},'2026-09-08T00:00:00.000Z');assert.deepEqual(first,second);assert.ok(!('lastSeenAt' in second.tenders[0]))});

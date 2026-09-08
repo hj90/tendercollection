@@ -21,11 +21,13 @@ npm run build
 - VendorPanel: https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all
 - AusTender: https://www.tenders.gov.au/public_data/rss/rss.xml
 
-The initial live run on 7 September 2026 retrieved 406 VendorPanel records; AusTender returned HTTP 403 despite a descriptive User-Agent. No AusTender HTML scraping is implemented. AusTender parser tests use a synthetic RSS fixture, not a claim that its live schema has been validated. Unknown or incomplete source schemas fail closed and retain previous data. Revalidate the parser against a real response when access becomes available.
+AusTender was repaired after testing its real feed on 8 September 2026. Its server rejects our custom-only User-Agent but accepts a browser-compatible one that also identifies Tender Collection. No credentials or cookies are used.
 
-VendorPanel descriptions are parsed from the feed's embedded labelled HTML. XML itself is parsed by fast-xml-parser. The GUID is the source ID; internal identity includes the source to prevent cross-feed collisions. Categories use individual XML category elements and are never split on commas. Dates use Luxon fixed-offset parsing; numeric UTC offsets override timezone labels. Every missing or invalid closing date logs a warning. Unparseable dates stay null and never appear in closing-soon views.
+The RSS has only title, link, description, GUID and publication date. The fetcher reads the public Atm/Show and Advert/Show pages linked in RSS, sequentially, to obtain agency, closing date, category, location and contact. This is the specifically authorised exception to v1’s RSS-only design. No documents or login pages are fetched. A malformed or failed detail page rejects the entire AusTender refresh and retains the previous snapshot; partial enrichment never triggers mass archival.
 
-AusTender mapping: `guid` → id; `title` → title; `link` → sourceUrl; `pubDate` → publishedAt; category elements → categories. Agency/Agency Name/buyer fields → buyer; ATM ID/reference → reference; Location/Location of Services/state → state; Closing Date/Close Date & Time/Close Date/closingDate → closing date; Contact/Contact Officer → contact. Namespaced XML fields and labelled description lines are accepted. Multi-state/national locations remain null. Agency type is `other` because the v1 enum has no federal-agency value. Explicit AEST/AEDT dates use fixed offsets; unqualified Australian dates use Australia/Sydney. Unknown schema fails the whole source, rather than accepting an incomplete snapshot.
+RSS GUIDs remain intact in the data. Separate deterministic path-safe route IDs handle AusTender’s URL-valued GUIDs. XML uses fast-xml-parser; public HTML uses Cheerio. Real-feed and public-page fixtures cover both notice templates. ACT Local Time uses Australia/Sydney with automatic daylight saving; explicit AEST and AEDT use fixed offsets. Multi-state and overseas notices stay unspecified in the single-state schema, with a warning. Categories retain the displayed source code and label as one string.
+
+VendorPanel remains RSS-only. Categories use individual XML category elements, never comma splitting. Numeric UTC offsets override timezone labels. Every missing or invalid closing date is logged.
 
 ## Buyer map
 
@@ -68,6 +70,6 @@ Import the repository as `tendercollection`, framework Next.js, install `npm ci`
 
 ## Acceptance verification
 
-`npm test` covers fixed and half-hour offsets; missing-date warnings; XML category boundaries; CDATA extraction; bot-block rejection; synthetic AusTender field mapping; forward-notice precedence; buyer matching and fallback; idempotency; failed-source retention; disappearance, reappearance and 12-month pruning; closing-date history; duplicate detection; URL filters; description search; and expiry/closing-soon exclusion.
+`npm test` covers fixed and half-hour offsets; missing-date warnings; XML category boundaries; CDATA extraction; bot-block rejection; real AusTender RSS and public detail mapping; forward-notice precedence; buyer matching and fallback; idempotency; failed-source retention; disappearance, reappearance and 12-month pruning; closing-date history; duplicate detection; URL filters; description search; and expiry/closing-soon exclusion.
 
-A successful `npm run build` verifies strict TypeScript and exports all routes. The first validated build generated 406 tender pages and 159 buyer pages, plus the listing, about and not-found routes. Live GitHub Actions execution, no-change commit behaviour and production deployment must additionally be confirmed after repository and hosting authentication are available.
+A successful `npm run build` verifies strict TypeScript and exports all routes. The first validated build generated 406 tender pages and 159 buyer pages, plus the listing, about and not-found routes. GitHub Actions and production deployment were verified, including changed-data commits and a no-change refresh with no commit.

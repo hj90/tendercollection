@@ -1,12 +1,12 @@
 {
   "vendorpanel": {
     "status": "ok",
-    "snapshotAt": "2026-09-07T23:08:32.015Z",
+    "snapshotAt": "2026-09-07T23:56:50.390Z",
     "message": null
   },
   "austender": {
-    "status": "unavailable",
-    "snapshotAt": null,
-    "message": "Feed unavailable; previous snapshot retained. Check the source for current information."
+    "status": "ok",
+    "snapshotAt": "2026-09-07T23:56:50.390Z",
+    "message": null
   }
 }
