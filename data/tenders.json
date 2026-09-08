@@ -1911,6 +1911,30 @@
     "changes": []
   },
   {
+    "id": "00edb5563a0a4b96a68fdcdcdc340c64",
+    "source": "vendorpanel",
+    "reference": "VP524582",
+    "title": "Winton Memorial Swimming Pool Management Agreement",
+    "description": "Winton Shire Council invites tenders from suitably qualified tenderers for the day-to-day management, operation, supervision, and administration of the Winton Memorial Swimming Pool Complex, including the 25m main pool, learn-to-swim pool, toddler pool, aquatic playground, amenities, kiosk/entry building, and associated plant and chemical storage facilities.",
+    "buyer": "Winton Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Community & Social Services",
+      "Real Estate & Property Services",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T00:31:00.000Z",
+    "contact": null,
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=00edb5563a0a4b96a68fdcdcdc340c64s524582",
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
+    "changes": []
+  },
+  {
     "id": "012b9dd7ef184a389d36de51ed40690a",
     "source": "vendorpanel",
     "reference": "VP524180",
@@ -2331,28 +2355,6 @@
     "changes": []
   },
   {
-    "id": "0a7e08605f87495286735322fd6f6875",
-    "source": "vendorpanel",
-    "reference": "VP520411",
-    "title": "26/27-12 DCP-BW-Greenhalghs Road Upgrades Winter Valley",
-    "description": "To meet the project’s objectives, the following sub-projects will be designed and delivered in accordance with the PSP, DCP, IDM, Australian Standards and other industry adopted standards and guidelines (i.e. Austroads, VicRoads).\n\n1.\tDI_JNC_04: Design and construction of Greenhalghs Rd and New N-S Rd (North) Roundabout\n\n2.\tDI_JNC_05: Design ONLY of signalised intersection of Greenhalghs Rd and New N-S Rd (South)\n\n3.\tDI_RD_14: Design and construction of Greenhalghs Rd between new N-S Rd (North) and future Western Link Road (Dyson Dr)\n\n4.\tDI_RD_15: Design and construction of Greenhalghs Rd between new N-S Rd (South) and New N-S Rd (North)",
-    "buyer": "City of Ballarat",
-    "buyerType": "council",
-    "state": "VIC",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
-    "publishedAt": "2026-08-10T03:00:00.000Z",
-    "contact": null,
-    "documentCount": 23,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0a7e08605f87495286735322fd6f6875s520411s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "0ab7dabf32214260889be72e6cf97123",
     "source": "vendorpanel",
     "reference": "VP522033",
@@ -2716,32 +2718,17 @@
     "closingAtRaw": "10/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-20T01:34:00.000Z",
     "contact": null,
-    "documentCount": 5,
+    "documentCount": 6,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=13d81ecc6e02445a982aec9a09d13d20s521858s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "13ed3ad010a642d79673f6aea4854e9c",
-    "source": "vendorpanel",
-    "reference": "VP516905",
-    "title": "27_003 Design and Rectification of Two Landslip Sites for Southern Downs Regional Council",
-    "description": "Dear Valued Suppliers\n\nSouthern Downs Regional Council (“Council”) is seeking a suitably qualified contractor/s to provide design, and construction works for two landslip sites as part of Council’s 2025 DRFA Program. \n\nThe sites are located east of Warwick in the Swanfel area. \n\nThe sites are located on Days Road, Swanfels and Top Swanfels Road, Swanfels. Refer to Attachments C and D for location maps.\n\nA site assessment and option analysis of the sites has been undertaken by Engeo (Australia) Pty Ltd through their Brisbane office. Refer to Attachments A and B. \n\nWorks are targeted for completion by 12 March 2027.",
-    "buyer": "Southern Downs Regional Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-07-14T04:24:00.000Z",
-    "contact": null,
-    "documentCount": 11,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=13ed3ad010a642d79673f6aea4854e9cs516905s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "6",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "1496fbd5280041a58edefc88f384f60a",
@@ -2906,29 +2893,6 @@
     "changes": []
   },
   {
-    "id": "1948746e31dc4d8ab4d1949bc821db1c",
-    "source": "vendorpanel",
-    "reference": "VP521711",
-    "title": "Glenala State School –Sports Facilities Upgrades (Eligible PQC Contractors)",
-    "description": "The Department of Education (DoE) is calling for submissions for:\n\n•\tConstruction of a new Covered 4x court outdoor courts inclusive of:\n\no\tLine marking, basketball, netball, volleyball\n\no\tLighting\n\no\tNew seating between/near seats\n\no\tNew fencing\n\no\tInstall weather shield and bird proofing\n\nRemoval:\n\no\tExisting trees\n\no\tExisting cricket nets\n\nLocated at 63 Glenala Road, Durack, Brisbane, 4077. \n\nTender submissions will be accepted from eligible contractors that satisfy the PQC requirements of this project.\n\nPlease contact Vanessa Walker (Project Manager) on telephone 0417 917 799 or email vanessa.w@thomsonruiz.com for further information.\n\nSubmissions close on Tuesday, 08 September 2026 at 2:00pm via tenders@thomsonruiz.com\n\nSite Visit Details: 17 Monday, August, 2026, Time (1:30pm), 63 Glenala Rd, Durack, Brisbane, 4077. \n\n______________________________________...",
-    "buyer": "Department of Education",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Building Trade, Repairs, Maint.",
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-18T05:19:00.000Z",
-    "contact": null,
-    "documentCount": 0,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=1948746e31dc4d8ab4d1949bc821db1cs521711",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "1953af8666b4449991136adc996dfc93",
     "source": "vendorpanel",
     "reference": "VP523866",
@@ -2967,10 +2931,17 @@
     "closingAtRaw": "05/Oct/2026 12:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-27T07:27:00.000Z",
     "contact": null,
-    "documentCount": 2,
+    "documentCount": 9,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=1a44f21902b14786bb3b18718cedc0f6s523068sd456a7c31da74648a82e328c2f05cd62s1589",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "9",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "1c12ba1f45ee4d9194b162a66495e943",
@@ -3195,28 +3166,6 @@
     "changes": []
   },
   {
-    "id": "205139f1aa724d448e5b5b8b9d30d9d9",
-    "source": "vendorpanel",
-    "reference": "VP520686",
-    "title": "Annual Pest Management Services – Tamworth Regional Council Public Swimming Pool Facilities",
-    "description": "Tamworth Regional Council is seeking quotations from suitably licensed pest management contractors to undertake annual pest treatment services at six public swimming pool facilities.\n\nThe service includes inspection and treatment of spiders, cockroaches and ants across internal and external areas including amenities, changerooms, offices, plant rooms, storage areas, building perimeters, seating areas, fencing, gardens, bin compounds and associated infrastructure.\n\nThe contractor is to provide all labour, supervision, travel, equipment, materials, chemicals, reporting and documentation required to complete the works. All travel, accommodation, mobilisation and associated costs are to be included in the submitted rates.\n\nThe annual pest treatment program must be completed by 12 October 2026.\n\nFacilities included under this RFQ are:\n\n- Barraba Memorial Swimming Pool Complex\n\n- Kootingal Memorial Swimming Pool\n\n- Manilla Memorial Swimming Pool<...",
-    "buyer": "Tamworth Regional Council",
-    "buyerType": "council",
-    "state": "NSW",
-    "categories": [
-      "Building Trade, Repairs, Maint."
-    ],
-    "requestType": "rfq",
-    "closingAt": "2026-09-08T01:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 11:00 AM (UTC+10:00) Canberra, Melbourne, Sydney time",
-    "publishedAt": "2026-08-25T01:11:00.000Z",
-    "contact": null,
-    "documentCount": 3,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=205139f1aa724d448e5b5b8b9d30d9d9s520686s86939366ab6046bc956fc34a397b1db5s1547",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "20e7a09a1bd24f33b05d171f5a2c93fb",
     "source": "vendorpanel",
     "reference": "VP524242",
@@ -3370,10 +3319,17 @@
     "closingAtRaw": "22/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
     "publishedAt": "2026-08-28T19:00:00.000Z",
     "contact": null,
-    "documentCount": 16,
+    "documentCount": 18,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=23e0fbeb3333472d93115b1fc9c75445s523042",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "18",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "2413146c20414d599d40119b2f740074",
@@ -3749,10 +3705,17 @@
     "closingAtRaw": "25/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-31T02:24:00.000Z",
     "contact": null,
-    "documentCount": 13,
+    "documentCount": 14,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2d9b25d8160843368c3263723ea9e1fcs523375s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "14",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "2dc2dd20a17f47edb78f13ca3e80e007",
@@ -3847,10 +3810,17 @@
     "closingAtRaw": "30/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-09-03T04:12:00.000Z",
     "contact": null,
-    "documentCount": 6,
+    "documentCount": 8,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=300725178f7d49cdbe97620c5ae2fd7ds524002sd71226c69feb45098deb3f863569b540s1546",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "8",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "3101988dbb5243cda2b03b247bb9e79d",
@@ -3916,10 +3886,17 @@
     "closingAtRaw": "29/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-09-04T19:00:00.000Z",
     "contact": null,
-    "documentCount": 13,
+    "documentCount": 17,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=319ceed3bffb4685acb439402fd5b952s524142",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "17",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "33d96e904e8543b8be87b365cddd5ae8",
@@ -3963,29 +3940,6 @@
     "contact": null,
     "documentCount": 2,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=34925a18d39f40e4afb9c01f7fdfa3f7s523871s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "354ec57668bc43b1a438afd4c762c9a7",
-    "source": "vendorpanel",
-    "reference": "VP480798",
-    "title": "Long Term Maintenance Dredging (LTMD) - Queensland GOC Ports",
-    "description": "x",
-    "buyer": "Port of Townsville Limited",
-    "buyerType": "goc",
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation",
-      "Marine Transp. Products & Services"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-06-16T06:44:00.000Z",
-    "contact": null,
-    "documentCount": 13,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=354ec57668bc43b1a438afd4c762c9a7s480798",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -4076,30 +4030,6 @@
     "contact": null,
     "documentCount": 5,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=369b0f3716914abca1f84930af043307s524141",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "37307fa737a546469c28652017ef9607",
-    "source": "vendorpanel",
-    "reference": "VP518135",
-    "title": "ITT2551 Construction of Seawall and Stormwater Improvements - Diamond Head, Golden Beach",
-    "description": "Sunshine Coast Council is seeking tenders for the Construction of Diamond Head Seawall Foreshore Protection Works and associated civil and landscaping works at Golden Beach. The site extends from the carpark opposite Raleigh St, to the south approximately 220m towards Roy St. \n\nThe works to be performed under this Contract include the supply, installation and testing & commissioning of all materials, fabrication, plant, labour and the performance of all operations of whatever kind necessary for the complete and proper construction of the works to the standards and quality specified on drawings, and specifications, within the Contract documentation.\n\nProject includes:\n\n•\tSeawall construction\n\n•\tCivil construction \n\n•\tLandscape construction\n\n•\tMaintenance period \n\nThis is a lump sum contract with an anticipated commencement in late October 2026, and a required completion by June 2027.\n\nA site information session will be held in acco...",
-    "buyer": "Sunshine Coast Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Building Products & Materials",
-      "Building Trade, Repairs, Maint.",
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T02:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-07-24T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 29,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=37307fa737a546469c28652017ef9607s518135",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -4448,29 +4378,6 @@
     "contact": null,
     "documentCount": 12,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=4042ca25ba6f4ec98a6a0104f53b0d6as523034",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "40f3931f2719491395a86dd34edf5277",
-    "source": "vendorpanel",
-    "reference": "VP521253",
-    "title": "Management of Outdoor Pools",
-    "description": "This Request for Tender is for the management and operation of two Council owned public swimming pools for a period of two years with a one year extension option.\n\nThe two swimming pools are:\n\n1.\tMoama Public Pool - Blair Street, Moama NSW 2731\n\n2.\tMathoura Public Pool - Mathoura Street, Mathoura NSW 2710",
-    "buyer": "Murray River Council",
-    "buyerType": "council",
-    "state": "NSW",
-    "categories": [
-      "Real Estate & Property Services",
-      "Sport, Recreation Equip, Services"
-    ],
-    "requestType": "rft",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
-    "publishedAt": "2026-08-14T05:34:00.000Z",
-    "contact": null,
-    "documentCount": 4,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=40f3931f2719491395a86dd34edf5277s521253",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -4988,28 +4895,6 @@
     "changes": []
   },
   {
-    "id": "534fcd370a5646439efe008e636b4926",
-    "source": "vendorpanel",
-    "reference": "VP520499",
-    "title": "2627-02 Dandenong Park - Red Gum Rest Playground Redevelopment",
-    "description": "Council is seeking a suitably experience contractor for the expansion of the existing Red Gum Rest Playground area located in Dandenong Park on Lonsdale Street, Dandenong. The playground expansion will include a diverse range of play equipment to cater for a range of ages and abilities.",
-    "buyer": "City of Greater Dandenong",
-    "buyerType": "council",
-    "state": "VIC",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
-    "publishedAt": "2026-08-12T03:02:00.000Z",
-    "contact": null,
-    "documentCount": 1,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=534fcd370a5646439efe008e636b4926s520499s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "55ba0694fe374995bee60fcd4413edb4",
     "source": "vendorpanel",
     "reference": "VP523009",
@@ -5022,14 +4907,27 @@
       "Marine Transp. Products & Services"
     ],
     "requestType": "rfq",
-    "closingAt": "2026-09-24T04:00:00.000Z",
-    "closingAtRaw": "24/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "closingAt": "2026-09-25T04:00:00.000Z",
+    "closingAtRaw": "25/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-27T01:02:00.000Z",
     "contact": null,
     "documentCount": 3,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=55ba0694fe374995bee60fcd4413edb4s523009s6845ca88bf954fec83be2c7b557fe55fs1584",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-24T04:00:00.000Z",
+        "to": "2026-09-25T04:00:00.000Z",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "24/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "25/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "55bd2434558541e8bc9fefdd3cb84f98",
@@ -5163,10 +5061,17 @@
     "closingAtRaw": "28/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-09-07T05:18:00.000Z",
     "contact": null,
-    "documentCount": 7,
+    "documentCount": 9,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=580f7f61b0e541899d1f246f215b4986s524359",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "9",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "584d2a89c76946c081a2aec7a9b21790",
@@ -6527,10 +6432,17 @@
     "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-25T05:35:00.000Z",
     "contact": null,
-    "documentCount": 5,
+    "documentCount": 6,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=817f38d97d1349d3a654cc9e4736d612s522442sf9788d236bae4a7890005ffb3ba88711s1560",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "6",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "839387c2c7a147559e92d9ccf09fcdea",
@@ -6548,14 +6460,27 @@
       "Plant & Equipment - Hire"
     ],
     "requestType": "rft",
-    "closingAt": "2026-09-14T07:00:00.000Z",
-    "closingAtRaw": "14/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "closingAt": "2026-09-17T07:00:00.000Z",
+    "closingAtRaw": "17/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-24T03:17:00.000Z",
     "contact": null,
     "documentCount": 11,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=839387c2c7a147559e92d9ccf09fcdeas522446",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T07:00:00.000Z",
+        "to": "2026-09-17T07:00:00.000Z",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "17/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "843ed3b01f3e4bffaa602695507098f0",
@@ -6596,10 +6521,17 @@
     "closingAtRaw": "18/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
     "publishedAt": "2026-07-17T05:31:00.000Z",
     "contact": null,
-    "documentCount": 28,
+    "documentCount": 35,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=84743470146b42938dfb31d6195dd6ees517412s1be3b358b92a46719b11b51c8e9ad2c7s1551",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "28",
+        "to": "35",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "8569360f6e2a40669e7afa2eeebf41d3",
@@ -6618,10 +6550,17 @@
     "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-14T19:00:00.000Z",
     "contact": null,
-    "documentCount": 15,
+    "documentCount": 16,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8569360f6e2a40669e7afa2eeebf41d3s521314s187d3a05decd404191ffe66fba693c4fs1559",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "15",
+        "to": "16",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "860f75d3f14a4b648e714e37f98c5df4",
@@ -6808,28 +6747,6 @@
     "changes": []
   },
   {
-    "id": "8db38f0a6a2449cb93db61c31a988463",
-    "source": "vendorpanel",
-    "reference": "VP519782",
-    "title": "TEN/2996 - Supply of Bituminous Mixes",
-    "description": "Bundaberg Regional Council is inviting offers for the supply of bituminous mixes\n\nDocuments attached for downloading:\n\nTEN/2996 - Invitation to Offer\n\nTEN/2996 - Returnable Schedules \n\nTEN/2996 - Supply of Goods Contract \n\nSubmissions must be returned via Vendor Panel",
-    "buyer": "Bundaberg Regional Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Building Products & Materials"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-07T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 3,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8db38f0a6a2449cb93db61c31a988463s519782sd71226c69feb45098deb3f863569b540s1546",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "8e640fa442864d1dbc518413e9882522",
     "source": "vendorpanel",
     "reference": "VP520818",
@@ -6946,28 +6863,6 @@
     "contact": null,
     "documentCount": 4,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=90a4a972115a44bc9184c491948702bes522407s1991046f131e478484526408672ab4aas1572",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "91a28d0429d24ee69c23649097d95a55",
-    "source": "vendorpanel",
-    "reference": "VP520234",
-    "title": "CN-26692 - 2026-27 SDRC Reseals for the Darling Downs District on the State and National Network",
-    "description": "The Department of Transport and Main Roads (TMR or the “Principal”) invites prequalified F5 category Tenderers to submit a Tender for Reseal works on the Darling Downs Network. There will not be a mandatory pre-lodgement conference for this Contract.\n\nTo obtain documents, eligible prequalified contractors must email: dd_pc@tmr.qld.gov.au to apply for access, the relevant company ABN must be included in this email. Once approved, documentation will be made available at the BAS website: https://www.hpw.qld.gov.au/bas/etender/.\n\nSubmissions are to be lodged electronically via the tender site https://www.hpw.qld.gov.au/bas/etender by 2:00pm on Tuesday 8th September 2026.",
-    "buyer": "Dept of Transport and Main Roads-Darling Downs",
-    "buyerType": null,
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "panel",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-10T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 0,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=91a28d0429d24ee69c23649097d95a55s520234s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -7327,8 +7222,8 @@
       "Plant & Equipment - Purchase"
     ],
     "requestType": "other",
-    "closingAt": "2026-09-16T05:00:00.000Z",
-    "closingAtRaw": "16/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "closingAt": "2026-09-28T05:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-31T06:15:00.000Z",
     "contact": {
       "raw": "Hassan Morshed Email: hassan.morshed@health.qld.gov.au Tel: 07 3564 0318",
@@ -7336,10 +7231,29 @@
       "email": "hassan.morshed@health.qld.gov.au",
       "phone": "07 3564 0318"
     },
-    "documentCount": 4,
+    "documentCount": 5,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9c19a6a2f3c84c80b5fed38729043dees523433s111af72106254df692875753cc768ed3s1597",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-16T05:00:00.000Z",
+        "to": "2026-09-28T05:00:00.000Z",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "16/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "to": "28/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "9c63131492414c539ba14f9c9caf84d6",
@@ -7360,28 +7274,6 @@
     "contact": null,
     "documentCount": 7,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9c63131492414c539ba14f9c9caf84d6s524193s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "9c69b6adad0e40fa9c10200cd4ef60cc",
-    "source": "vendorpanel",
-    "reference": "VP518567",
-    "title": "Design and Construct - Heating of 2 Pools at Tambo Aquatic Centre",
-    "description": "Council is seeking submissions form a suitably qualified and experienced contractors for the design, supply, installation and commissioning of a heating system for the pools at the Tambo Aquatic Centre.\n\nThe successful contractor will be required to provide a complete turnkey solution, including all necessary design, equipment, installation works, testing and commissioning.",
-    "buyer": "Blackall-Tambo Regional Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Mechanical Plant, Equip, Services"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-07-27T06:17:00.000Z",
-    "contact": null,
-    "documentCount": 6,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9c69b6adad0e40fa9c10200cd4ef60ccs518567saf6be4dd37634301a99f64fdc3ea3e79s1587",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -7552,10 +7444,17 @@
     "closingAtRaw": "17/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-06T19:00:00.000Z",
     "contact": null,
-    "documentCount": 14,
+    "documentCount": 15,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=9faa421c3d73465cbe49c53c753a829fs519882",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "15",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "9fb24f033a934fc2894ef905050d83f0",
@@ -7800,6 +7699,28 @@
     "changes": []
   },
   {
+    "id": "a40c691946f14c03b1c07dd63a85ae6f",
+    "source": "vendorpanel",
+    "reference": "VP524695",
+    "title": "Expression of Interest – Sunshine Coast Recreation Precinct Café Lease",
+    "description": "The Department of Sport, Racing and Olympic and Paralympic Games (DSROPG) invites Expressions of Interest from suitably qualified and experienced café and hospitality operators to lease and operate the existing café facility at Sunshine Coast Recreation Precinct (SCRP).\n\nDSROPG will conduct an optional site inspection and industry briefing at Sunshine Coast Recreation Precinct, 80 Currimundi Road, Currimundi QLD, to provide interested respondents with an opportunity to inspect the café facility and ask questions relating to the EOI on 9.30-10.30am Tuesday 15 September 2026.\n\nRespondents wishing to attend must register their attendance, including the names of no more than three personnel, by emailing procurement@sport.qld.gov.au no later than 10am Monday 14th September 2026.\n\nAny information provided during the site inspection or industry briefing that may affect respondent submissions will be communicated to all respondents.\n\nTo assist with your submission following doc...",
+    "buyer": "Dept of Sport, Racing and Olympic Paralympic Games",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Travel & Tourism"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-02T01:00:00.000Z",
+    "closingAtRaw": "02/Oct/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T04:07:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=a40c691946f14c03b1c07dd63a85ae6fs524695s6f595f4695fd4d68b10e17b09b3a8675s1607",
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
+    "changes": []
+  },
+  {
     "id": "a44deb1772f84ffc95c9ec54f6f55f5b",
     "source": "vendorpanel",
     "reference": "VP520897",
@@ -7903,6 +7824,28 @@
     "changes": []
   },
   {
+    "id": "a4994549a51d420ea7f1702a764bb75b",
+    "source": "vendorpanel",
+    "reference": "VP524683",
+    "title": "ISIS DISTRICT SHS - Construct - Changing Places and Covered Walkway",
+    "description": "Construction - Changing Places and Covered Walkway",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-01T04:00:00.000Z",
+    "closingAtRaw": "01/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T04:11:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=a4994549a51d420ea7f1702a764bb75bs524683s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
+    "changes": []
+  },
+  {
     "id": "a6b926986ade497796c729b0cdf6a8cb",
     "source": "vendorpanel",
     "reference": "VP524334",
@@ -7986,10 +7929,17 @@
     "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-17T05:04:00.000Z",
     "contact": null,
-    "documentCount": 4,
+    "documentCount": 5,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=aa1cf998aa6c4b4e9f02ebb4e39546b6s521511s3042a24f284440dda01247ddebc36fa8s1553",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "aaac05843763461693f840db498c3db9",
@@ -8092,29 +8042,6 @@
     "changes": []
   },
   {
-    "id": "ada358306665485b93e4b2e867ef3fae",
-    "source": "vendorpanel",
-    "reference": "VP521735",
-    "title": "Log Stack Processing and Transportation - Harcourt Bushfire",
-    "description": "Mount Alexander Shire Council (‘Council’) incurred significant damage to trees during the January 2026 Harcourt bushfires and as a result a high number of trees were removed. Council is seeking suitably skilled and qualified contractors to undertake and complete processing and transportation of the log stacks as detailed in the tender.\n\nSite Inspection will be held as follows:\n\nDate:\tMonday 31 August 2026\n\nTime:\t1pm\n\nLocation:\tVictorian Miniature Railway, Harmony Way, Harcourt \n\nRSVP:\tprocurement@mountalexander.vic.gov.au",
-    "buyer": "Mount Alexander Shire Council",
-    "buyerType": "council",
-    "state": "VIC",
-    "categories": [
-      "Forestry",
-      "Horticulture & Arboriculture"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
-    "publishedAt": "2026-08-18T06:38:00.000Z",
-    "contact": null,
-    "documentCount": 2,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ada358306665485b93e4b2e867ef3faes521735",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "adf6236c2bc34120a0c32422f5d37d16",
     "source": "vendorpanel",
     "reference": "VP520335",
@@ -8173,10 +8100,23 @@
       "Advertising and Media Services",
       "Architecture, Design, Planning",
       "Building Trade, Repairs, Maint.",
+      "Cleaning Services, Equip, Supplies",
+      "Construction & Operation",
       "ELEC, Lighting, Equip & Services",
       "Engineer, Research, Tech services",
       "Environmental & Heritage Services",
-      "Waste Management & Landfill"
+      "Graphical, Photographic & Art",
+      "Horticulture & Arboriculture",
+      "Indust. Automat'n, Process Control",
+      "Indust. Production, Manufacturing",
+      "IT & Telecomms",
+      "Mechanical Plant, Equip, Services",
+      "Parking, Traffic Services & Equip",
+      "Plant & Equipment - Hire",
+      "Printing & Distribution Services",
+      "Signs & Barriers",
+      "Waste Management & Landfill",
+      "Water & Sewage"
     ],
     "requestType": "panel",
     "closingAt": "2026-09-09T06:00:00.000Z",
@@ -8186,7 +8126,14 @@
     "documentCount": 7,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ae540bcbcc4c4642ae136b9aaa3f4b2ds521753",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "categories",
+        "from": "[\"Advertising and Media Services\",\"Architecture, Design, Planning\",\"Building Trade, Repairs, Maint.\",\"ELEC, Lighting, Equip & Services\",\"Engineer, Research, Tech services\",\"Environmental & Heritage Services\",\"Waste Management & Landfill\"]",
+        "to": "[\"Advertising and Media Services\",\"Architecture, Design, Planning\",\"Building Trade, Repairs, Maint.\",\"Cleaning Services, Equip, Supplies\",\"Construction & Operation\",\"ELEC, Lighting, Equip & Services\",\"Engineer, Research, Tech services\",\"Environmental & Heritage Services\",\"Graphical, Photographic & Art\",\"Horticulture & Arboriculture\",\"Indust. Automat'n, Process Control\",\"Indust. Production, Manufacturing\",\"IT & Telecomms\",\"Mechanical Plant, Equip, Services\",\"Parking, Traffic Services & Equip\",\"Plant & Equipment - Hire\",\"Printing & Distribution Services\",\"Signs & Barriers\",\"Waste Management & Landfill\",\"Water & Sewage\"]",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "aeb693a8f84948a5bb89d8f94f9ee6a1",
@@ -8279,10 +8226,17 @@
       "email": "chris.teague@esc.nsw.gov.au",
       "phone": "0244741096"
     },
-    "documentCount": 32,
+    "documentCount": 34,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b15d5eb38f614cb0b523c778c6be02b9s518001",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "32",
+        "to": "34",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "b199dd5819684b21ae16b569ad42020f",
@@ -8415,29 +8369,6 @@
     "changes": []
   },
   {
-    "id": "b3e73cfd9f294538992702a91dfdf7b1",
-    "source": "vendorpanel",
-    "reference": "VP520121",
-    "title": "ITT2569 - Commercial Lease - 6-8 Omrah Avenue Caloundra",
-    "description": "Tenders are invited for the lease of the former Caloundra Library complex located at 6-8 Omrah Avenue Caloundra. \n\nThe subject property comprises two (2 separate) buildings\n\n?\tTenancy 1 - 6 Omrah Avenue – 134sqm internal lettable areas*\n\n?\tTenancy 2 – 8 Omrah Avenue - 954qm internal lettable area*\n\n?\tCombined Tenancy- 6-8 Omrah Avenue - 1088sqm internal lettable area*\n\nThe entire lease area comprises approximately 2800m and is situated in the heart of the Caloundra CBD, with proximity to surrounding community infrastructure and services.\n\nThe property is in a ready state for occupation and is offered as a warm shell.\n\nCouncil’s preferred leasing outcoming is a combined tenancy comprising Tenancy 1 and Tenancy 2. \n\nNotwithstanding this preference, Council will accept submissions for either individual tenancy.\n\nCouncil reserves the right to award one or both tenancies to one or more Respondents.:\n\nFollowing selec...",
-    "buyer": "Sunshine Coast Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Management Advisory Services",
-      "Real Estate & Property Services"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T02:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-07T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 5,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b3e73cfd9f294538992702a91dfdf7b1s520121",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "b40d3ae395724c059e2391971251bf25",
     "source": "vendorpanel",
     "reference": "VP523218",
@@ -8458,6 +8389,28 @@
     "documentCount": 3,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b40d3ae395724c059e2391971251bf25s523218",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": []
+  },
+  {
+    "id": "b49102ea0e324b5ea192d2b541d1ab7a",
+    "source": "vendorpanel",
+    "reference": "VP522653",
+    "title": "Supply, Delivery and Roll-out of Food Organics & Garden Organics (FOGO) Mobile Garbage Bins",
+    "description": "Swan Hill Rural City Council (Council) is seeking suppliers for the supply, delivery and roll-out of mobile FOGO garbage bins, kitchen caddies and biodegradable liners to eligible households across the municipality, with services commencing by April 2027 or earlier.\n\nCouncil invites suitably qualified suppliers to propose practical, cost-effective solutions that enable a coordinated municipal roll-out, including dependable supply, timely delivery, household distribution and implementation support.",
+    "buyer": "Swan Hill Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-06T04:00:00.000Z",
+    "closingAtRaw": "06/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-08T04:07:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b49102ea0e324b5ea192d2b541d1ab7as522653se8fec92d55d7442e83a58602a4243b67s1610",
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
     "changes": []
   },
   {
@@ -8553,28 +8506,6 @@
     "contact": null,
     "documentCount": 1,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b9e5510a0a0a4beeb72904f4f5aec861s522767s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "bacb05d8e6144e45bde625f52847875b",
-    "source": "vendorpanel",
-    "reference": "VP520558",
-    "title": "CQ Trade Contract Painting Services",
-    "description": "The State of Queensland through the Department of Housing and Public Works (Customer) is seeking to establish a Standing Offer Arrangement (SOA) for the provision of Services to the Customer, and herby invites offers for the SOA:\n\nSOA Name: Trade Contractor Painting Services \n\nSOA Number: QBTCPA26CQ\n\nFor the provision of Painting services within Central Queensland \n\n\nNOTE: THIS TENDER IS FOR CENTRAL QUEENSLAND REGION ONLY.\n\nPlease contact QBuildCQProcurement@hpw.qld.gov.au for any further queries in relation to this arrangement.",
-    "buyer": "QBuild",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Building Trade, Repairs, Maint."
-    ],
-    "requestType": "panel",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-10T23:54:00.000Z",
-    "contact": null,
-    "documentCount": 2,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=bacb05d8e6144e45bde625f52847875bs520558s86939366ab6046bc956fc34a397b1db5s1547",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -8731,10 +8662,17 @@
     "closingAtRaw": "10/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
     "publishedAt": "2026-08-12T03:48:00.000Z",
     "contact": null,
-    "documentCount": 14,
+    "documentCount": 15,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=bf9dfb01405d4bf5b9520a311d13a4fas520819",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "15",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "bfbbade7954f4db693dca121e7e7b7d3",
@@ -8963,10 +8901,17 @@
     "closingAtRaw": "22/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-24T02:41:00.000Z",
     "contact": null,
-    "documentCount": 16,
+    "documentCount": 18,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c2db758cbf694873a34f56d450a9371fs521879s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "18",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "c37c7f414ee94297a62f2523786af60b",
@@ -9062,28 +9007,6 @@
     "changes": []
   },
   {
-    "id": "c56eac6824ec46da9e3ce940c1d9e04e",
-    "source": "vendorpanel",
-    "reference": "VP522472",
-    "title": "BHTSP Contract Administration Panel - Aug 26",
-    "description": "The Department of Transport and Main Roads (TMR) is seeking applications for new applicants to join the BHTSP Contract Administration Panel.\n\nThis application process is only for new applicants wishing to join the BHTSP Contract Administration Panel (existing BHTSP Contract Administration Panel Members are not permitted to apply for this process).\n\nThe Department of Transport and Main Roads (TMR) is delivering the Bruce Highway Targeted Safety Program (BHTSP). The Bruce Highway is a vital 1,673 kilometre north-south corridor in Queensland, connecting Brisbane to Cairns. In January 2025, the Australian and Queensland governments announced a joint funding commitment of $9 billion towards the BHTSP to enhance safety and uplift deficient sections of the highway to achieve a three-star rating.\n\nThe BHTSP focuses on sections of the Bruce Highway between Gympie and Cairns with a high safety risk.\n\nProjects to be delivered through the BHTSP will be awarded to prequalified contr...",
-    "buyer": "Department of Transport and Main Roads",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "panel",
-    "closingAt": "2026-09-08T01:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-24T04:45:00.000Z",
-    "contact": null,
-    "documentCount": 4,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c56eac6824ec46da9e3ce940c1d9e04es522472s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "c58b3852d32a4f1ba574200c7c24632a",
     "source": "vendorpanel",
     "reference": "VP524573",
@@ -9115,7 +9038,9 @@
     "buyerType": "council",
     "state": "QLD",
     "categories": [
-      "Plant & Equipment - Hire"
+      "Horticulture & Arboriculture",
+      "Plant & Equipment - Hire",
+      "Vehicles"
     ],
     "requestType": "panel",
     "closingAt": "2026-09-09T06:00:00.000Z",
@@ -9123,9 +9048,22 @@
     "publishedAt": "2026-08-18T18:33:00.000Z",
     "contact": null,
     "documentCount": 7,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c5ad9520b4fb48d6b7ecb3c71035c3a2s521752s90fda021298944128b048e87ef2d5b11s1596",
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=c5ad9520b4fb48d6b7ecb3c71035c3a2s521752",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "categories",
+        "from": "[\"Plant & Equipment - Hire\"]",
+        "to": "[\"Horticulture & Arboriculture\",\"Plant & Equipment - Hire\",\"Vehicles\"]",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "sourceUrl",
+        "from": "https://www.vendorpanel.com.au/tsi.axd?id=c5ad9520b4fb48d6b7ecb3c71035c3a2s521752s90fda021298944128b048e87ef2d5b11s1596",
+        "to": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=c5ad9520b4fb48d6b7ecb3c71035c3a2s521752",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "c5eb6a899d9a493cb0be578e5abc4e06",
@@ -9234,34 +9172,6 @@
     "contact": null,
     "documentCount": 7,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c8853824a2734c9d928f46cf1da5d753s524178s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "c9953e506a8447a7a94eacaf8167bc87",
-    "source": "vendorpanel",
-    "reference": "VP520504",
-    "title": "Cooktown Multi-Purpose Health Service (MPHS) Redevelopment – Enabling Works - Civil Contractor",
-    "description": "The State of Queensland through Queensland Health (the Principal), invites you to submit a Tender for the provision of a suitably qualified civil contractor to construct the Enabling Works for the Cooktown MPHS Redevelopment in accordance with the Invitation documents.\n\nThe Queensland Government is investing $200 million to redevelop the Cooktown Multipurpose Health Service (CMPHS), improving access to care for Cooktown and surrounding communities.\n\nHealth Infrastructure Queensland in partnership with Torres and Cape Hospital and Health Service are responsible for delivery of the project as part of the Hospital Rescue Plan. The project will deliver a range of essential healthcare facilities and services to meet the needs of the community and reduce the need for patients to travel outside the region.\n\nThe scope of this request is for an enabling works package the Project team have identified to mitigate risks to the main construction which is planned in 2027.\n\nFor detail...",
-    "buyer": "Health Infrastructure Queensland",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Building Trade, Repairs, Maint.",
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-11T03:32:00.000Z",
-    "contact": {
-      "raw": "Dean Schipplock Email: dean.schipplock@health.qld.gov.au Tel: 0422321231",
-      "name": "Dean Schipplock",
-      "email": "dean.schipplock@health.qld.gov.au",
-      "phone": "0422321231"
-    },
-    "documentCount": 21,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=c9953e506a8447a7a94eacaf8167bc87s520504",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -9399,28 +9309,6 @@
     "contact": null,
     "documentCount": 1,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=cc39b0fa2d0241c9b6fea32208a374b1s522377se98f238c627243e7b15598cc3cf6cd26s1562",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "ccf92a1c3ad04e229979f26a10078954",
-    "source": "vendorpanel",
-    "reference": "VP520342",
-    "title": "CN-26774 Northern Districts Reseal Package 2 - FY 2026/2027",
-    "description": "Suitably qualified Contractors are invited to tender for CN-26774 Northern Districts Reseal Package 2 FY 2026/2027\n\nTender documents are available on the Building and Asset Services website: https://etender.hpw.qld.gov.au/.\n\nSubmissions are to be electronic via the Building and Asset Services eTender website https://etender.hpw.qld.gov.au/.",
-    "buyer": "Department of Transport and Main Roads - North Qld",
-    "buyerType": null,
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T02:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-09T22:56:00.000Z",
-    "contact": null,
-    "documentCount": 0,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=ccf92a1c3ad04e229979f26a10078954s520342s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -10169,28 +10057,6 @@
     "changes": []
   },
   {
-    "id": "df289d5886ee4af1af90ca85e0013795",
-    "source": "vendorpanel",
-    "reference": "VP519940",
-    "title": "Expression of Interest (EOI) Tiaro Bypass-Bruce Highway (Gympie-Maryborough)",
-    "description": "Contract no. CN-24518 (371601 – 228/10B)\n\nContractors pre-qualified at level R4/ B3/ F150 plus or higher are invited to submit expressions of interest for construction of the Bruce Highway (Gympie – Maryborough), Tiaro Bypass.\n\nPrequalified contractors are to email BUND_PPS@tmr.qld.gov.au to be registered for access to the expression of interest documents which will be available on the Energy and Public Works QBuild eTender website https://etender.hpw.qld.gov.au/\n\nSubmissions are to be electronic via the Energy and Public Works QBuild eTender website https://etender.hpw.qld.gov.au/\n\nWhere a prequalification level is stated, the Principal is not obliged to provide documents, consider or accept an expression of interest unless the company is appropriately registered under the Department of Transport and Main Roads Prequalification System for the levels outlined in the expression of interest.",
-    "buyer": "Department of Transport and Main Roads",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "eoi",
-    "closingAt": "2026-09-08T02:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-05T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 0,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=df289d5886ee4af1af90ca85e0013795s519940s50c818bb80c044cab1c37a23ba39eee8s1554",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "dfb8cfb12f424237a4e3ab2d8907c25c",
     "source": "vendorpanel",
     "reference": "VP524045",
@@ -10323,10 +10189,17 @@
     "closingAtRaw": "17/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
     "publishedAt": "2026-08-30T23:08:00.000Z",
     "contact": null,
-    "documentCount": 7,
+    "documentCount": 8,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e21c811d43414aff9f974009ef052fafs523036",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "8",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ]
   },
   {
     "id": "e2aa8946d91b4e5ba9f99ed8d9fd4425",
@@ -10511,29 +10384,6 @@
     "changes": []
   },
   {
-    "id": "e599a1615d84425f9a7638ad2d2b729e",
-    "source": "vendorpanel",
-    "reference": "VP520777",
-    "title": "BSC 26/27 - T01 - St George Showground GAB Bore Construction",
-    "description": "Balonne Shire Council invites Tenders from suitably qualified Tenderers for the decommissioning of an existing bore (RN397) on Henry St, St George and construction of a new bore from the Gubberamunda Sandstone aquifer of the Great Artesian Basin (GAB) in St George Showground as described in more detail in Part 5 – Scope. \n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
-    "buyer": "Balonne Shire Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation",
-      "Engineer, Research, Tech services"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-12T03:30:00.000Z",
-    "contact": null,
-    "documentCount": 11,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e599a1615d84425f9a7638ad2d2b729es520777",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
     "id": "e5a5e12bf04a4ff298dc2750b09f261e",
     "source": "vendorpanel",
     "reference": "VP522541",
@@ -10602,29 +10452,6 @@
     "contact": null,
     "documentCount": 11,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e858d7560ed64782ae0c53b0e4f72d08s524231s86939366ab6046bc956fc34a397b1db5s1547",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "e85dfe1775bc46c0bbee800f64e2b3b8",
-    "source": "vendorpanel",
-    "reference": "VP520104",
-    "title": "TEN/2893 Waste Facilities Maintenance",
-    "description": "Council is inviting submissions from suitably qualified and experienced Suppliers for the provision of mechanical, hydraulic and associated maintenance services for Council's Waste Management and Resource Recovery Facilities.\n\nThe majority of works will be undertaken at the Bundaberg Materials Recovery Facility and Bundaberg Waste Management Facility located on University Drive, Bundaberg. The successful Supplier will also be required to provide maintenance, repairs and breakdown support across Council's landfill and transfer station network as required.\n\nThe Contract includes both scheduled preventative maintenance and reactive maintenance services. Key responsibilities will include the maintenance and repair of critical assets such as the MRF trommel, conveyor systems, balers, hydraulic equipment, motors, gearboxes, hydraulic tip wells, transfer station hydraulic gates and other operational plant and equipment. The Supplier may also be required to undertake inspections, fault diagnosis, ...",
-    "buyer": "Bundaberg Regional Council",
-    "buyerType": "council",
-    "state": "QLD",
-    "categories": [
-      "Building Trade, Repairs, Maint.",
-      "Indust. Production, Manufacturing"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-14T19:00:00.000Z",
-    "contact": null,
-    "documentCount": 5,
-    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e85dfe1775bc46c0bbee800f64e2b3b8s520104",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -10964,28 +10791,6 @@
     "contact": null,
     "documentCount": 2,
     "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=efa6d9bcfb2844f09dd051a28bdc2c39s521236",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "efae5348c909471789e45f7c7971a462",
-    "source": "vendorpanel",
-    "reference": "VP520340",
-    "title": "CN-26773 Northern Districts Reseal Package 1 - FY 2026/2027",
-    "description": "Suitably qualified Contractors are invited to tender for CN-26773 Northern Districts Reseal Package 1 FY 2026/2027\n\nTender documents are available on the Building and Asset Services website: https://etender.hpw.qld.gov.au/.\n\nSubmissions are to be electronic via the Building and Asset Services eTender website https://etender.hpw.qld.gov.au/.",
-    "buyer": "Department of Transport and Main Roads - North Qld",
-    "buyerType": null,
-    "state": "QLD",
-    "categories": [
-      "Construction & Operation"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T02:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-09T22:57:00.000Z",
-    "contact": null,
-    "documentCount": 0,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=efae5348c909471789e45f7c7971a462s520340s50c818bb80c044cab1c37a23ba39eee8s1554",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
@@ -11458,28 +11263,6 @@
     "contact": null,
     "documentCount": 18,
     "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fe204159baf548159756bd16ed142ba9s520053sbfe2d966aa884191b5a30f84da5d0f3fs1604",
-    "firstSeenAt": "2026-09-07T13:44:00.867Z",
-    "changes": []
-  },
-  {
-    "id": "fe3c0a4b3d3d4fe3b83e8973550eaa60",
-    "source": "vendorpanel",
-    "reference": "VP520788",
-    "title": "QPWS Fire Protective Clothing",
-    "description": "The Department of the Environment, Tourism, Science and Innovation invites Offers from Suppliers for Invitation to Offer (ITO) No. P253557 for the provision of Queensland Parks and Wildlife Services (QPWS) Fire Protective Clothing.\n\nThe scope of this ITO focusses on the supply of fire Personal Protective Clothing (PPC) across the State including jackets, trousers and shirts produced in accordance with Part B: Contract Details, Attachment 1 - QPWS Fire Protective Clothing Specifications for issue to fire trained staff and required to be worn by personnel when undertaking fire operations including planned burns and wildfire response.",
-    "buyer": "Dept of the Environ, Tourism, Science and Innov",
-    "buyerType": "state-agency",
-    "state": "QLD",
-    "categories": [
-      "Clothing & Safety Equipment"
-    ],
-    "requestType": "other",
-    "closingAt": "2026-09-08T04:00:00.000Z",
-    "closingAtRaw": "08/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
-    "publishedAt": "2026-08-12T23:17:00.000Z",
-    "contact": null,
-    "documentCount": 7,
-    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fe3c0a4b3d3d4fe3b83e8973550eaa60s520788s529f97afb6ce4c0f8f5a74a457644052s1552",
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": []
   },
