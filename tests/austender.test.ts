@@ -12,3 +12,16 @@ test('advertisement template works with the same labelled fields',()=>{const see
 test('ACT local time follows daylight saving; explicit offsets remain fixed',()=>{assert.equal(parseAusTenderClosing('8-Sep-2026 2:00 pm (ACT Local Time)',assert.fail,'test'),'2026-09-08T04:00:00.000Z');assert.equal(parseAusTenderClosing('8-Dec-2026 2:00 pm (ACT Local Time)',assert.fail,'test'),'2026-12-08T03:00:00.000Z');assert.equal(parseAusTenderClosing('8-Dec-2026 2:00 pm (AEST)',assert.fail,'test'),'2026-12-08T04:00:00.000Z');});
 test('broken, mismatched or unparseable pages reject the source snapshot',async()=>{assert.throws(()=>parseAusTenderDetail(seeds[0],'<html>Request blocked</html>'));assert.throws(()=>parseAusTenderDetail(seeds[1],html));let warnings=0;assert.throws(()=>parseAusTenderDetail(seeds[0],html.replace('8-Sep-2026 2:00 pm','unknown date'),()=>warnings++));assert.equal(warnings,1);await assert.rejects(enrichAusTender(seeds.slice(0,2),async url=>{if(url===seeds[0].sourceUrl)return html;throw new Error('HTTP 403')},()=>{}),/HTTP 403/);});
 test('only public notice links are fetched, with safe static route IDs',()=>{assert.throws(()=>noticeUrl('https://other.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225'));assert.throws(()=>noticeUrl('https://www.tenders.gov.au/Atm/ViewDocuments/df4a612e-1fde-4d92-b078-66a8f6c9e225'));const t={...seeds[0],source:'austender'};assert.equal(tenderRouteId(t),'austender-Atm-Show-df4a612e-1fde-4d92-b078-66a8f6c9e225');assert.equal(tenderPath(t),'/tender/austender-Atm-Show-df4a612e-1fde-4d92-b078-66a8f6c9e225/');});
+
+test('closed-notice redirects are limited to the same notice and host',async()=>{
+ const {closedNoticeRedirect,getAusTenderText}=await import('../lib/austender-http');
+ const source=seeds[0].sourceUrl;const destination='/Atm/ShowClosed/df4a612e-1fde-4d92-b078-66a8f6c9e225?PreviewMode=False';
+ assert.equal(closedNoticeRedirect(source,destination),'https://www.tenders.gov.au'+destination);
+ assert.throws(()=>closedNoticeRedirect(source,'https://example.com/login'));
+ assert.throws(()=>closedNoticeRedirect(source,'/RegisteredUser/Login'));
+ assert.throws(()=>closedNoticeRedirect(source,destination.replace('df4a612e','00000000')));
+ const originalFetch=globalThis.fetch;const seen:string[]=[];
+ try{globalThis.fetch=async(input)=>{seen.push(String(input));return seen.length===1?new Response(null,{status:302,headers:{location:destination}}):new Response(html)};
+ assert.equal(await getAusTenderText(source,()=>{}),html);assert.equal(seen.length,2);
+ }finally{globalThis.fetch=originalFetch;}
+});

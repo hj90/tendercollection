@@ -9,6 +9,7 @@ on:
     paths:
       - scripts/**
       - lib/parsers/**
+      - lib/austender-http.ts
       - .github/workflows/fetch.yml
 permissions:
   contents: write
