@@ -1,5 +1,59 @@
 [
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/4e0338d5-6a9c-41d3-affc-23816bf1c903",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/4e0338d5-6a9c-41d3-affc-23816bf1c903",
+    "reference": "P26/267",
+    "title": "AIC Criminology Research Fund 2026",
+    "description": "The Commonwealth as represented by the Australian Institute of Criminology (AIC) is seeking sumissions for the Criminology Research Fund 2026.\nThe Criminology Research Fund (CRF) program is a competitive program that provides funds to support the conduct of high quality, policy-relevant research projects in the area of crime and criminal justice. The CRF is funded through annual contributions by the Commonwealth, State and Territory Governments.\nThe CRF program is administered by the AIC on the basis of recommendations from the Criminology Research Advisory Council (Advisory Council). The Advisory Council, which includes representatives from each of the contributing Governments, provides recommendations to the Director of the AIC on research priorities and an assessment of applications made under the annual CRF program. The Advisory Council bases its assessment on the recommendations of an Academic Panel chaired by the Academic Advisor (an AIC research staff member).\nThe AIC will award contracts in varying values.",
+    "publishedAt": "2026-07-13T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Institute of Criminology",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "93131703 - Research programs"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-08T07:00:00.000Z",
+    "closingAtRaw": "8-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "AIC Procurement\nEmail Address:\nACICTenders@acic.gov.au\nWeb Address:\nhttps://www.aic.gov.au/crg",
+      "name": "AIC Procurement",
+      "email": "ACICTenders@acic.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225",
+    "reference": "PROC-8302",
+    "title": "NDIA Salesforce Backup and Disaster Recovery Solution",
+    "description": "Salesforce Backup and Disaster Recovery Solution",
+    "publishedAt": "2026-08-13T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Services Australia",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "81112200 - Software maintenance and support"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-08T04:00:00.000Z",
+    "closingAtRaw": "8-Sep-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Contact Officer\nEmail Address:\ntenders@ndis.gov.au",
+      "name": "Contact Officer",
+      "email": "tenders@ndis.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
     "id": "0a7e08605f87495286735322fd6f6875",
     "source": "vendorpanel",
     "reference": "VP520411",
@@ -93,6 +147,46 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "25e22ee5bca14b9b8be431476adbea0c",
+    "source": "vendorpanel",
+    "reference": "VP521177",
+    "title": "ROPS - Electrical Services",
+    "description": "Cook Shire Council (the Principal) invites Tenders from suitably qualified Tenderers for appointment as a pre-qualified supplier of electrical services as described in more detail in the attached.",
+    "buyer": "Cook Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-18T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=25e22ee5bca14b9b8be431476adbea0cs521177s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerReference": "T00626",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-06T04:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 06 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-20T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
     "id": "291a0c22d6dd404b8e4ba44942041e2b",
     "source": "vendorpanel",
     "reference": "VP520492",
@@ -166,6 +260,46 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "35e8c423fcfe497eb3e01c77f8c3aa3a",
+    "source": "vendorpanel",
+    "reference": "VP520440",
+    "title": "QRP-25-16 - North Coast Line South - Culvert Replacement",
+    "description": "This project comprises the replacement of 13 deteriorated culverts located between Peterson and Benaraby on the North Coast Line South corridor. The scope of works includes the full replacement of the existing concrete box culvert structures, removal and disposal of existing culverts and associated components, and construction of new culvert infrastructure, with all works to be completed with set closure periods. Construction to start in January 2027.",
+    "buyer": "Queensland Rail",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Railway, Tramway and Track"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-10T04:03:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=35e8c423fcfe497eb3e01c77f8c3aa3as520440sa8d781e850824c0190b34284ab13cf05s5205",
+    "vendorPanelDetails": {
+      "buyerReference": "QRP-26-15",
+      "opensAt": "2026-08-09T14:00:00.000Z",
+      "opensAtRaw": "Monday 10 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-02T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 02 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-20T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
     "id": "37307fa737a546469c28652017ef9607",
     "source": "vendorpanel",
     "reference": "VP518135",
@@ -189,6 +323,115 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "3b7310a253734efa9409717ab7e756df",
+    "source": "vendorpanel",
+    "reference": "VP521260",
+    "title": "SSROC T2026-02 Supply and Delivery of Agricultural Products Services",
+    "description": "SSROC T2026-02 Supply and Delivery of Agricultural Products Services\n\nSouthern Sydney Regional Organisation of Councils (SSROC) on behalf of its participating member and associate member Councils invites responses from suitably qualified companies for the abovementioned selective Request for Tender (RFT).\n\nPlease refer to the attached RFT documents on VendorPanel.\n\nAll questions relating to tender content should be raised via the online vendor Panel Forum associated with the RFT.\n\nAddenda and Additional information will be published and distributed via this portal.\n\nContract Term: 5 Year (with 2 twelve months extension options)",
+    "buyer": "Waverley Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Chemicals, Biochemical, Gas",
+      "Horticulture & Arboriculture",
+      "Indust. Production, Manufacturing"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-14T01:39:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=3b7310a253734efa9409717ab7e756dfs521260",
+    "vendorPanelDetails": {
+      "buyerReference": "SSROC T2026-02",
+      "opensAt": "2026-08-13T14:00:00.000Z",
+      "opensAtRaw": "Friday 14 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-02T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 02 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-12-07T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 08 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-17T03:54:00.000Z",
+          "question": "Are there any requirements for solid turf supply and installation or just seeds?",
+          "answeredAt": "2026-08-18T00:02:00.000Z",
+          "answer": "Dear Tenderer,\n\nThank you for your enquiry.\n\nPlease note that the scope of works requires grass seeding only. There is no requirement for the supply or installation of solid turf under this tender.\n\nTenderers should allow for the supply and application of seed in accordance with the project specifications and requirements."
+        },
+        {
+          "askedAt": "2026-08-27T04:53:00.000Z",
+          "question": "Will the Principle consider or allow the following:\n\n1.The submission of an alternate or accompanying format price file, for the following reasons:\n\n a) The Items requested in the price file are quite generalised and will potentially limit the principles’ ability to choose the most appropriate product available, or limit the supplier’s\n\nability to recommend the most suitable product\n\nb) By allowing alternate or accompanying price/product files, more options will be available to the principle, increasing the ability to achieve a desired result\n\nc) By allowing an alternate format, suppliers will likely be able to update the principle on price variations in a more detailed manner\n\n2. Quarterly updates to product/price files, for the following reasons:\n\na) Many specified products will fall under agency platforms, meaning price changes and timings will be dictated to by the product suppliers and not the tender suppliers\n\nb) Volatility in fertiliser pricing on the back of the middle east conflict\n\nc) By allowing more regular price reviews, suppliers will be able to ensure best value is being provided to the Principle and will ensure price files are maintained accurately, which is important from an invoicing point of view, and matching the principles PO’s",
+          "answeredAt": "2026-08-28T05:54:00.000Z",
+          "answer": "Dear Tenderer,\n\nThank you for your enquiry regarding SSROC T2026-02 Supply and Delivery of Agricultural Products Services Tender.\n\nIn response to your specific questions:\n\n1.\tThe RFT already contemplates this scenario. Tenderers are reminded of the following provisions that remain in effect:\n\nThe Pricing Schedule (Form 7) contained within Part 3-2 Mandatory Returnable Schedules must be completed in full using the prescribed Excel format. The RFT expressly states that “Tenderers must not alter the contents or formatting of the Pricing Schedule, other than to include additional line items where relevant or referred to in the pricing table.” Accordingly, the prescribed Form 7 remains a mandatory conforming requirement and cannot be omitted or replaced.\n\nAt the same time, the RFT expressly encourages innovation, stating that “Tenderers are encouraged to submit innovative or alternative ways of servicing this contract.” An alternate or supplementary product/price file may be submitted, provided that:\n\na.\tA fully compliant and conforming Tender, including a completed Form 7, is submitted in the first instance.\n\nb.\tThe alternate or supplementary file is submitted through Form 22 (Summary of Alternative Tenders) as an alternative or supplementary submission and is clearly identified as such.\n\nc.\tThe supplementary file is cross-referenced to the relevant line items contained in Form 7.\n\nd.\tThe alternate file does not replace or contradict the conforming schedule and may only be submitted as a supplement to it.\n\nTenderers are also reminded that the basket of goods contained in Form 7 is recognised within the RFT as a generic and representative basket only and is not intended to encompass all products that may be procured under the Agreement. Councils may engage Preferred Suppliers for items outside the basket through the SSROC Vendor Panel at the rates and conditions agreed under the PSMA.\n\n2. This matter is governed by the Preferred Supplier Master Agreement (PSMA).\n\nThe RFT states that \"the Agreement Terms and conditions of pricing, price variations and replacement costs are stipulated in the Preferred Supplier Master Agreement (PSMA)\" (Part 4 of the RFT). Tenderers are directed to review the draft PSMA in full.\n\nThe formal contract review mechanism includes an Annual Contract Review Report, which encompasses pricing review and market benchmarking as standard components. This represents the primary structured mechanism for price file updates under the Agreement.\n\nTenderers wishing to propose departures from the pricing variation provisions of the draft PSMA — including any proposal for more frequent (e.g. quarterly) price reviews — are invited to do so via Form 6 (Proposed Contract Departures) in the Part 3-1 Returnable Schedules. Any such departure will be considered by SSROC on its merits and may be subject to negotiation following evaluation. Proposed departures will not render a tender non-conforming, but the Principal reserves the right to accept, reject, or negotiate any proposed departure.\n\nTenderers proposing a quarterly mechanism are encouraged to include in their Form 6 submission the specific categories or product lines for which the departure is sought, the proposed triggering criteria, and any suggested guardrails (e.g. CPI or index caps, notice periods), to facilitate the Principal's assessment.\n\nShould you require any further clarification, please submit your questions through the tender portal in accordance with the tender process and timelines outlined in the tender documentation.\n\nWe thank you for your interest in this opportunity and look forward to receiving your submission."
+        },
+        {
+          "askedAt": "2026-08-31T22:59:00.000Z",
+          "question": "Dear Procurement Team,\n\nUpon reviewing the provided tender documents and the attached excel workbook, we are unable to locate Form 6 Proposed Departures from the PMSA, could you please advise where this form can be located.\n\nThank you.",
+          "answeredAt": "2026-08-31T23:22:00.000Z",
+          "answer": "Dear Tenderer,\n\nThank you for your enquiry.\n\nPlease note that the Proposed Contract Departures (Form 6) is included in the SSROC T2026-02 Part 3-1 Tender Forms document and can be found on Page 10.\n\nShould you require any further clarification, please do not hesitate to contact us."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
+    "id": "3d94d82a317b43598fb22e20cc9a6e8c",
+    "source": "vendorpanel",
+    "reference": "VP521769",
+    "title": "ITO | Linen Hire and Laundry Service",
+    "description": "TAFE Queensland seeks to establish a Standing Offer Arrangement (SOA) with multiple suppliers for the provision of Linen Hire and Laundry Services.\n\nTAFE Queensland operates across six regions throughout Queensland, delivering practical, industry relevant training programs and supporting a diverse range of campus facilities. Five regions operate facilities including, but not limited to, training kitchens, hospitality training environments, student accommodation, healthcare training areas, and general campus amenities. These facilities require reliable, high quality linen hire and laundry services to support hygiene, presentation, and operational efficiency.\n\nSuppliers are invited to respond to this Invitation to Offer (ITO) in accordance with the requirements outlined in the attached documents.",
+    "buyer": "TAFE Queensland",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Domestic & Consumer ELEC",
+      "Personal & Domestic Services"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-18T23:28:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=3d94d82a317b43598fb22e20cc9a6e8cs521769",
+    "vendorPanelDetails": {
+      "buyerReference": "TQC0013881",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-02T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 02 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Darling Downs\n3: Far North\n4: Gold Coast\n5: Northern\n6: South West\n7: Sunshine Coast\n8: West Moreton\n9: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-23T22:13:00.000Z",
+          "question": "Q1 - Can you provide more detailed usage information for each site so transport and volumes can be better understood and considered in our offer.\n\nQ2 - With delivery to a campus where multiple areas are using the linen service is it expected that the provider deliver to each user area or will delivery be to one central point at the campus and collected from this staging area by users\n\nQ3 - Can you clarify what contract term you are seeking to implement with successful provider eg 1 2 or 3 years",
+          "answeredAt": "2026-08-23T22:47:00.000Z",
+          "answer": "Q1. Can you provide more detailed usage information for each site so transport and volumes can be better understood and considered in our offer?\n\nResponse:\n\nTAFE Queensland has provided the best available information to support suppliers in preparing their offers. The volumes included within the procurement documentation are indicative only and have been developed for evaluation purposes.\n\nPlease refer to Attachment A – Specification and Attachment C – Linen Hire & Laundry Pricing List (Pricing Scenario tab) for indicative demand information.\n\nAs outlined in the Specification, service demand varies by campus and is influenced by factors such as student enrolments, training schedules, practical class delivery, events, facility utilisation, and seasonal activity. Accordingly, TAFE Queensland is unable to provide guaranteed site-specific usage volumes. Suppliers should base their offers on their capacity to service nominated locations and accommodate fluctuations in demand throughout the contract term.\n\nThe current estimated demand across the TAFE Queensland network is approximately 2,750 to 4,300 items per week; however, actual volumes may be higher or lower depending on operational requirements.\n\nQ2. With delivery to a campus where multiple areas are using the linen service, is it expected that the provider deliver to each user area or will delivery be to one central point at the campus and collected from this staging area by users?\n\nResponse:\n\nFor the purposes of tender evaluation, suppliers should assume that delivery and collection will occur at a single nominated delivery point within each campus.\n\nSpecific delivery arrangements may vary between campuses and service areas and will be confirmed during implementation with the successful supplier(s). Suppliers may identify any assumptions, site requirements, or alternative service delivery approaches within their offer submission.\n\nQ3. Can you clarify what contract term you are seeking to implement with the successful provider, e.g. 1, 2 or 3 years?\n\nResponse:\n\nThe contract term is stated in both the Invitation to Offer and Attachment A – Specification. The proposed Standing Offer Arrangement term is three (3) years, with an option for TAFE Queensland to extend the arrangement by up to two (2) additional periods of twelve (12) months each, at TAFE Queensland's discretion. The maximum potential term is therefore five (5) years."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
   },
   {
     "id": "40f3931f2719491395a86dd34edf5277",
@@ -547,6 +790,112 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "d816bdfda40640d693e9897aad91f2f3",
+    "source": "vendorpanel",
+    "reference": "VP520691",
+    "title": "CQ Trade Contract Pest Control Services",
+    "description": "The State of Queensland through the Department of Housing and Public Works (Customer) is seeking to establish a Standing Offer Arrangement (SOA) for the provision of Services to the Customer, and herby invites offers for the SOA:\n\nSOA Name: Trade Contractor Pest Control Services\n\nSOA Number: QBTCPC26CQ\n\nFor the provision of Pest Control Services within Central Queensland\n\n\nNOTE: THIS TENDER IS FOR CENTRAL QUEENSLAND REGION ONLY.\n\nPlease contact QBuildCQProcurement@hpw.qld.gov.au for any further queries in relation to this arrangement.",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-11T05:25:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d816bdfda40640d693e9897aad91f2f3s520691",
+    "vendorPanelDetails": {
+      "buyerReference": "QBTCPC26CQ",
+      "opensAt": "2026-08-10T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 11 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-04T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 04 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": "This new trade contract Standing Offer Arrangement (SOA) will replace the current Building UMMUS SOA.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-11T23:39:00.000Z",
+          "question": "Good morning,\n\nIn Part D – Schedule of Prices under “Termite Treatment”, it asks for confirmation that employee(s) hold a QBCC Termite Management – Chemical and a QBCC Termite Management – Physical licence. However, the services listed only require a QBCC Termite Management – Chemical licence.\n\nCould you please confirm whether both licences are required, or only Chemical licensing for this tender?",
+          "answeredAt": "2026-08-12T03:04:00.000Z",
+          "answer": "(edited on 13/Aug/2026 10:58 AM)\n\nThank you for your enquiry.\n\nTenderers are required to hold both a QBCC Termite Management – Chemical licence and a QBCC Termite Management – Physical licence.\n\nWhile the termite treatment services currently listed in the Schedule of Rates primarily require a Termite Management – Chemical licence, the contract may include other termite management works that require a Termite Management – Physical licence. As subcontracting is not permitted under this arrangement, suppliers must be appropriately licensed to undertake the full range of potential termite-related services that may arise during the contract term.\n\nAccordingly, the requirement for both licence types remains unchanged, and tenderers should ensure they can demonstrate compliance with both licensing requirements in their submission.\n\nPlease also note.\n\nThe QBCC Termite Management - Physical licence (along with the QBCC Termite Management – Chemical Licence) is only required if offering for the termite treatments, which is optional under this trade. The mandatory requirement for this SOA is the Pest Management Licence issued by Qld Health, which is required to undertake the basic and additional treatments etc."
+        },
+        {
+          "askedAt": "2026-09-02T03:38:00.000Z",
+          "question": "Hi Procurement\n\nCan you please confirm that if we have no subcontractors to propose for the services, we do not have to submit the Appendix C - Schedule of Subcontractors and that our submission will still be conforming ie not alternative?\n\nThanks",
+          "answeredAt": "2026-09-02T03:48:00.000Z",
+          "answer": "Yes Correct if you are not subcontracting you do not need to submit appendix C - Schedule of Subcontractors"
+        },
+        {
+          "askedAt": "2026-09-03T00:17:00.000Z",
+          "question": "Hi Procurement\n\nCan you please confirm - if we are a pest control business, we are not allowed to provide subcontactors for termite works ONLY? but we are able to nominate for other pest services ie snakes, native species removal, etc?\n\nThank you",
+          "answeredAt": "2026-09-03T00:57:00.000Z",
+          "answer": "Good morning,\n\nYes, that is correct. Termite works must be performed by the contracted business and cannot be subcontracted.\n\nFor any items outside the termite scope, subcontractors can be nominated in Appendix C and engaged subject to QBuild approval."
+        },
+        {
+          "askedAt": "2026-09-03T01:05:00.000Z",
+          "question": "Hi Procurement\n\nCan you confirm that the Annexure D Purchase Contract Conditions is for jobbing/ reactive services only? and that the contract for ongoing maintenance services will be created separately once the contractor is engaged under the SOA?",
+          "answeredAt": "2026-09-03T01:29:00.000Z",
+          "answer": "Good morning,\n\nThis SOA covers reactive maintenance, planned maintenance, and housing vacant maintenance. A separate contract is required for ongoing regular servicing of certain sites, which is managed through our Service Maintenance team."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
+    "id": "daf5790b5a8041169e04ed844d302080",
+    "source": "vendorpanel",
+    "reference": "VP520146",
+    "title": "ROCKHAMPTON - Construction - New Neighbourhood Centre",
+    "description": "The Queensland Government is seeking Proposals for 90650BLD1 - Rockhampton - Construction - New Neighbourhood Centre\n\nThis is a PQC project.\n\nTender please note:\n\nTender documentation and submission for this project is available from the QBuild ETender website (https://etender.hpw.qld.gov.au), Reference number: 90650BLD1\n\nWhere a PQC requirement is stated, the Principal is not obliged to provide tender documents, consider or accept a tender unless the tenderer is appropriately registered under the Queensland Government's PQC System.\n\nNB: If you find you are not eligible, please contact PQC directly on 1800072621 to discuss your registration.\n\nAll Tenderers must hold a QBCC Licence for either - Low, Medium or Open Building categories to be eligible.",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-09T04:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-07T00:43:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=daf5790b5a8041169e04ed844d302080s520146s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerReference": "90650BLD1",
+      "opensAt": "2026-08-06T14:00:00.000Z",
+      "opensAtRaw": "Friday 07 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-07T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 07 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T04:26:33.566Z"
   },
   {
     "id": "df289d5886ee4af1af90ca85e0013795",
