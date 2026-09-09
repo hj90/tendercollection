@@ -4,6 +4,7 @@ export type BuyerType = 'council'|'state-agency'|'university'|'goc'|'other';
 export type RequestType = 'rft'|'rfq'|'eoi'|'panel'|'forward-notice'|'other';
 export type Buyers = Record<string, {state: State|null; type: BuyerType}>;
 export type VendorPanelDetails = {
+ opportunityDescription?:string|null;
  buyerReference:string|null;opensAt:string|null;opensAtRaw:string|null;
  queryCutoffAt:string|null;queryCutoffAtRaw:string|null;
  expectedDecisionAt:string|null;expectedDecisionAtRaw:string|null;

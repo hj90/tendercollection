@@ -23,6 +23,7 @@ export function parseVendorPanelPreview(html:string):VendorPanelDetails {
  const $=load(html);if(!$('.opportunityPreviewMinHeading').length||!/VP Reference/i.test($.text()))throw new Error('Invalid VendorPanel public preview');const map=fields($);
  const raw=(name:string)=>map.get(name)??null;
  const textSection=(title:RegExp)=>section($,title)[0]?.find('.opportunityPreviewContent').first().html();
+ const opportunityHtml=textSection(/^What the buyer is requesting$/i);
  const buyerQuestions=section($,/^Questions asked by the buyer$/i).map(row=>clean(row.find('.opportunityPreviewContent').html()??'')).filter(Boolean);
  const serviceRegions=section($,/^Regions of Service$/i).flatMap(row=>row.find('.opportunityPreviewContent li').toArray().map(el=>clean($(el).html()??''))).filter(Boolean);
  const publicQuestions=section($,/^Information requested by others$/i).flatMap(row=>{
@@ -32,6 +33,6 @@ export function parseVendorPanelPreview(html:string):VendorPanelDetails {
  });
  const updates=section($,/^Updates made to this Request$/i).flatMap(row=>{const description=clean(row.find('.opportunityPreviewContent').html()??'');if(!description||/^None\.\.\.$/i.test(description))return [];return [{at:dated(clean(row.find('.opportunityPreviewMinHeading').html()??'')),description}];});
  const opensAtRaw=raw('opens'),queryCutoffAtRaw=raw('supplier query cut-off'),expectedDecisionAtRaw=raw('expected decision');
- return {buyerReference:raw('buyers reference #'),opensAt:dated(opensAtRaw??''),opensAtRaw,queryCutoffAt:dated(queryCutoffAtRaw??''),queryCutoffAtRaw,expectedDecisionAt:dated(expectedDecisionAtRaw??''),expectedDecisionAtRaw,
+ return {opportunityDescription:opportunityHtml?clean(opportunityHtml):null,buyerReference:raw('buyers reference #'),opensAt:dated(opensAtRaw??''),opensAtRaw,queryCutoffAt:dated(queryCutoffAtRaw??''),queryCutoffAtRaw,expectedDecisionAt:dated(expectedDecisionAtRaw??''),expectedDecisionAtRaw,
   background:textSection(/^Background information/i)?clean(textSection(/^Background information/i)!):null,desiredOutcomes:textSection(/^Desired Outcomes/i)?clean(textSection(/^Desired Outcomes/i)!):null,buyerQuestions,serviceRegions,publicQuestions,updates};
 }
