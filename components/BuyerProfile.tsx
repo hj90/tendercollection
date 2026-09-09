@@ -1,6 +1,6 @@
 import type {VendorPanelDetails} from '../lib/types';
 
-function website(raw:string|null){
+function website(raw:string|null|undefined){
  if(!raw)return null;
  try{const url=new URL(raw);return ['http:','https:'].includes(url.protocol)?url.href:null}catch{return null}
 }
