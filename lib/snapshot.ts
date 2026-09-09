@@ -10,8 +10,8 @@ export function diffSnapshots(active:Tender[],archive:ArchivedTender[],snapshots
  for(const t of incoming){if(t.source!==source)throw new Error('Source mismatch');if(unique.has(key(t)))throw new Error(`Duplicate feed guid ${key(t)}; retaining snapshot`);unique.set(key(t),t);}
  for(const t of previous)if(!unique.has(key(t)))history.set(key(t),{...t,archivedAt:now});
  const old=new Map(previous.map(t=>[key(t),t]));
- for(const [id,t] of unique){const prior=old.get(id)??history.get(id);const changes=[...(prior?.changes??[])];
- if(prior)for(const field of Object.keys(t) as (keyof ParsedTender)[]){if(JSON.stringify(prior[field])!==JSON.stringify(t[field]))changes.push({field,from:typeof prior[field]==='string'?prior[field] as string:JSON.stringify(prior[field]),to:typeof t[field]==='string'?t[field] as string:JSON.stringify(t[field]),at:now});}
+ for(const [id,t] of unique){const prior=old.get(id)??history.get(id);const changes=[...(prior?.changes??[])].filter(change=>change.field!=='vendorPanelDetails');
+ if(prior)for(const field of Object.keys(t) as (keyof ParsedTender)[]){if(field in prior&&JSON.stringify(prior[field])!==JSON.stringify(t[field]))changes.push({field,from:typeof prior[field]==='string'?prior[field] as string:JSON.stringify(prior[field]),to:typeof t[field]==='string'?t[field] as string:JSON.stringify(t[field]),at:now});}
  next.push({...t,firstSeenAt:prior?.firstSeenAt??now,changes});history.delete(id);
  }
  }

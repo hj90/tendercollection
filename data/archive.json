@@ -93,6 +93,55 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "291a0c22d6dd404b8e4ba44942041e2b",
+    "source": "vendorpanel",
+    "reference": "VP520492",
+    "title": "Walcha Sewer Manhole Remediation",
+    "description": "In 2023 Walcha Council undertook investigation works including maintenance hole inspections and\n\nsmoke testing to identify sources of infiltration and inflow (I&I) within the Walcha sewer network.\n\nWalcha Council have identified priority manhole remediation locations and seeking to engage a qualified contractor to complete the works.\n\nThe Works generally include:\n\n- Remediation of defective maintenance holes identified in the FITT inspection program;\n\n- Remediation of Council-owned defects identified through the smoke testing program;\n\n- Validation of asset condition and ownership;\n\n- Minor excavation, repair and reinstatement works associated with the above; and\n\n- Documentation and reporting to support Council’s asset management system.\n\nThese works are to be completed prior to the end financial year 2026-2027.",
+    "buyer": "Walcha Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-08T07:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-10T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 25,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=291a0c22d6dd404b8e4ba44942041e2bs520492s786e232eacbb4e31b23c50bf234a0226s1611",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-08T10:14:35.772Z"
+  },
+  {
+    "id": "2ce0faa3ec6b4d99846183951fbf4f8e",
+    "source": "vendorpanel",
+    "reference": "VP521678",
+    "title": "Children’s Services - Childcare Equipment Supplies",
+    "description": "The tender is for the supply of childcare equipment is split into five (5) categories as specified:\n\n•\tCategory A – Construction\n\n•\tCategory B – Furniture & Storage\n\n•\tCategory C – Outdoor Equipment\n\n•\tCategory D – Puzzles\n\n•\tCategory E – Role Play\n\nOnline Ordering and Customer Service \n\nThe provider must offer an online ordering system compatible with Tech One (Finance One) and provide a direct point of contact for handling queries and complaints. The system should be cloud-based, compatible with various devices, and include features such as offline functionality, WCAG 2.0 compliance, and robust security measures\n\nDelivery and Packaging \n\nThe provider must ensure proper, safe, and secure packaging and timely delivery of goods. Delivery should be made in full to the specified locations, and any delays must be promptly communicated\n\nQuality and Standards \n\nAll goods delivered must conform to the specif...",
+    "buyer": "Penrith City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Furniture & Furnishings",
+      "Horticulture & Arboriculture",
+      "Music, Game, Toy, Art, Craft & Edu",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-08T06:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 04:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-18T04:58:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2ce0faa3ec6b4d99846183951fbf4f8es521678",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-08T10:14:35.772Z"
+  },
+  {
     "id": "354ec57668bc43b1a438afd4c762c9a7",
     "source": "vendorpanel",
     "reference": "VP480798",
@@ -212,6 +261,29 @@
     "archivedAt": "2026-09-07T23:06:27.954Z"
   },
   {
+    "id": "71c152b646dc486e8722f7e2574c4434",
+    "source": "vendorpanel",
+    "reference": "VP520815",
+    "title": "Browns Gap Road Repair Works",
+    "description": "Browns Gap Road Repair Works under DRFA funding",
+    "buyer": "Lithgow City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-08T07:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-12T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=71c152b646dc486e8722f7e2574c4434s520815s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-08T10:14:35.772Z"
+  },
+  {
     "id": "8db38f0a6a2449cb93db61c31a988463",
     "source": "vendorpanel",
     "reference": "VP519782",
@@ -233,6 +305,32 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "8e640fa442864d1dbc518413e9882522",
+    "source": "vendorpanel",
+    "reference": "VP520818",
+    "title": "Sale of Biochar",
+    "description": "Logan City Council (Council) invites Expressions of Interest (EOI) from suitably qualified organisations interested in purchasing the biochar produced at Council's Loganholme Wastewater Treatment Plant.\n\nThis Expression of Interest seeks to identify capable industry partners who can demonstrate viable, sustainable, and commercially attractive end-use applications for biochar. Council intends to establish a market understanding for its biochar product and explore potential commercial arrangements.\n\nA site visit will be held for prospective respondents as per the Brief to Respondents.\n\nAny questions and responses shall be collated, documented and distributed to all respondents to ensure equity and fairness. All enquiries in relation to this expression of interest must be submitted via VendorPanel.\n\nCompleted responses must be submitted using the response documents via the VendorPanel Portal. You are able to reference and attach relevant separate documentation as part of y...",
+    "buyer": "Logan City Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Farming & Animal Services & Equip",
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-09-08T05:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-17T22:47:00.000Z",
+    "contact": null,
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=8e640fa442864d1dbc518413e9882522s520818",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
     "id": "91a28d0429d24ee69c23649097d95a55",
@@ -303,6 +401,30 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "adf6236c2bc34120a0c32422f5d37d16",
+    "source": "vendorpanel",
+    "reference": "VP520335",
+    "title": "PR000127 Lease (Operation & Maintenance) of Aviation Fuel Supply Facility",
+    "description": "Charters Towers Regional Council invites tenders from suitably qualified and experienced operators for the lease, (operation and maintenance) of the aviation fuel supply facility at Charters Towers Airport. The successful proponent will be responsible for the supply and management of Avgas and Jet A1 fuel services, facility maintenance, regulatory compliance, environmental management, safety systems, and customer service. \n\nFurther information can be found in the attached Tender documentation \n\nTenders must be lodged electronically through VendorPanel \n\nCouncil reserves the right to invite all tenderers to change their tenders to take account of a change in the tender specification.\n\n \n\nCouncil's representative for this tender is Paul Weston, Procurement & Depot Coordinator, who can be contacted on 07 4761 5300.",
+    "buyer": "Charters Towers Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Aircraft & Aviation Services",
+      "Fuel & Oils"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-08T07:00:00.000Z",
+    "closingAtRaw": "08/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-16T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=adf6236c2bc34120a0c32422f5d37d16s520335",
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
     "id": "b3e73cfd9f294538992702a91dfdf7b1",

@@ -3,12 +3,22 @@ export type State = 'NSW'|'VIC'|'QLD'|'SA'|'WA'|'TAS'|'NT'|'ACT';
 export type BuyerType = 'council'|'state-agency'|'university'|'goc'|'other';
 export type RequestType = 'rft'|'rfq'|'eoi'|'panel'|'forward-notice'|'other';
 export type Buyers = Record<string, {state: State|null; type: BuyerType}>;
+export type VendorPanelDetails = {
+ buyerReference:string|null;opensAt:string|null;opensAtRaw:string|null;
+ queryCutoffAt:string|null;queryCutoffAtRaw:string|null;
+ expectedDecisionAt:string|null;expectedDecisionAtRaw:string|null;
+ background:string|null;desiredOutcomes:string|null;
+ buyerQuestions:string[];serviceRegions:string[];
+ publicQuestions:{askedAt:string|null;question:string;answeredAt:string|null;answer:string|null}[];
+ updates:{at:string|null;description:string}[];
+};
 export type Tender = {
  id: string; source: Source; reference: string|null; title: string; description: string;
  buyer: string; buyerType: BuyerType|null; state: State|null; categories: string[];
  requestType: RequestType; closingAt: string|null; closingAtRaw: string|null; publishedAt: string|null;
  contact: {name?:string;email?:string;phone?:string;raw:string}|null;
  documentCount: number|null; sourceUrl: string; firstSeenAt: string;
+ vendorPanelDetails?:VendorPanelDetails;
  changes: {field:string;from:string;to:string;at:string}[];
 };
 export type ParsedTender = Omit<Tender,'firstSeenAt'|'changes'>;

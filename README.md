@@ -27,7 +27,7 @@ The RSS has only title, link, description, GUID and publication date. The fetche
 
 RSS GUIDs remain intact in the data. Separate deterministic path-safe route IDs handle AusTender’s URL-valued GUIDs. XML uses fast-xml-parser; public HTML uses Cheerio. Real-feed and public-page fixtures cover both notice templates. ACT Local Time uses Australia/Sydney with automatic daylight saving; explicit AEST and AEDT use fixed offsets. Multi-state and overseas notices stay unspecified in the single-state schema, with a warning. Categories retain the displayed source code and label as one string.
 
-VendorPanel remains RSS-only. Categories use individual XML category elements, never comma splitting. Numeric UTC offsets override timezone labels. Every missing or invalid closing date is logged.
+VendorPanel discovery remains RSS-based. The refresh also reads the anonymous public preview linked from each RSS record to enrich individual pages with opening and query cut-off dates, expected decision date, background, desired outcomes, buyer questions, service regions, public Q&A and buyer updates. Six bounded workers fetch previews; a failed preview retains that tender's previous enrichment without failing or shrinking the RSS snapshot. No supplier login, tender documents or submission pages are accessed. Categories use individual XML category elements, never comma splitting. The listing filter maps both source taxonomies into 13 shared browsing groups while preserving each source's original category labels on cards and tender pages. Numeric UTC offsets override timezone labels. Every missing or invalid closing date is logged.
 
 ## Buyer map
 

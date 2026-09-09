@@ -1,7 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';
 import {parseDate,classify,buyerInfo} from '../lib/normalise';
 import {parseVendorPanel} from '../lib/parsers/vendorpanel';import {parseAusTender} from '../lib/parsers/austender';
-import {diffSnapshots} from '../lib/snapshot';import {filterListings,createIndex,compact} from '../lib/search';
+import {diffSnapshots} from '../lib/snapshot';import {categoryGroup,categoryGroups,filterListings,createIndex,compact} from '../lib/search';
 import type {ParsedTender,Tender,ArchivedTender} from '../lib/types';
 const at='2026-09-07T00:00:00.000Z';
 const item:ParsedTender={id:'abc',source:'vendorpanel',reference:'VP1',title:'Request for tender',description:'Bridge maintenance',buyer:'Example Council',buyerType:'council',state:'QLD',categories:['Building Trade, Repairs, Maint.'],requestType:'rft',closingAt:'2026-09-10T07:00:00.000Z',closingAtRaw:'10/Sep/2026 05:00 PM (UTC+10:00) Brisbane time',publishedAt:at,contact:null,documentCount:0,sourceUrl:'https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=abc'};
@@ -30,9 +30,19 @@ test('disappearance archives; failure keeps other source unchanged; reappearance
 test('amended closing dates append one history entry and do not repeat',()=>{const changed={...item,closingAt:'2026-09-20T07:00:00.000Z'};const first=diffSnapshots([active],[],{vendorpanel:[changed]},at);assert.deepEqual(first.tenders[0].changes,[{field:'closingAt',from:item.closingAt,to:changed.closingAt,at}]);assert.deepEqual(diffSnapshots(first.tenders,[],{vendorpanel:[changed]},at),first)});
 test('12-month archive retention and duplicate detection',()=>{const old:ArchivedTender={...active,archivedAt:'2025-09-06T00:00:00.000Z'};assert.equal(diffSnapshots([], [old],{},at).archive.length,0);assert.throws(()=>diffSnapshots([active],[],{vendorpanel:[item,item]},at))});
 test('URL filters round-trip with punctuation, full description search, and expiry rules',()=>{
- const items=[active,{...active,id:'forward',requestType:'forward-notice' as const},{...active,id:'past',closingAt:'2026-08-01T00:00:00Z'}];const index=createIndex(items);const compactItems=items.map(compact);assert.ok(!('description' in compactItems[0]));
- const params=new URLSearchParams({q:'bridge',state:'QLD',category:'Building Trade, Repairs, Maint.',buyer:'Example Council',source:'vendorpanel',type:'rft',window:'7',sort:'closing'});
+ const items=[active,{...active,id:'forward',requestType:'forward-notice' as const},{...active,id:'past',closingAt:'2026-08-01T00:00:00Z'}];const index=createIndex(items);const compactItems=items.map(compact);assert.ok(!('description' in compactItems[0]));assert.equal(compactItems[0].summary,'Bridge maintenance');
+ const params=new URLSearchParams({q:'bridge',state:'QLD',category:'construction',buyer:'Example Council',source:'vendorpanel',type:'rft',window:'7',sort:'closing'});
  assert.equal(filterListings(compactItems,index,new URLSearchParams(params.toString()),Date.parse(at)).length,1);
  assert.equal(filterListings(compactItems,index,new URLSearchParams('sort=closing'),Date.parse(at)).length,1);
  assert.equal(filterListings(compactItems,index,new URLSearchParams(),Date.parse(at)).length,2);
+});
+test('source taxonomies merge into concise shared category groups',()=>{
+ assert.equal(categoryGroup('IT & Telecomms'),'it');
+ assert.equal(categoryGroup('81112200 - Software maintenance and support'),'it');
+ assert.equal(categoryGroup('Building Trade, Repairs, Maint.'),'construction');
+ assert.equal(categoryGroup('72100000 - Building construction and support and maintenance and repair services'),'construction');
+ assert.equal(categoryGroup('Vehicles'),'transport');
+ assert.equal(categoryGroup('85100000 - Comprehensive health services'),'health');
+ assert.equal(categoryGroup('Unclassified source term'),'other');
+ assert.equal(new Set(categoryGroups.map(([key])=>key)).size,categoryGroups.length);
 });

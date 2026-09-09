@@ -1,4 +1,5 @@
 import {getAusTenderText} from '../lib/austender-http';
+import {enrichVendorPanel} from '../lib/vendorpanel-http';
 import {readFile,writeFile,rename} from 'node:fs/promises';
 import {parseVendorPanel} from '../lib/parsers/vendorpanel';
 import {parseAusTender,enrichAusTender} from '../lib/parsers/austender';
@@ -20,7 +21,7 @@ await Promise.all((Object.keys(urls) as Source[]).map(async source=>{
  return response.text();
  })();
  if(xml.length>10_000_000)throw new Error('Unexpectedly large RSS response');
- const records=source==='vendorpanel'?parseVendorPanel(xml,buyers,warn):await enrichAusTender(parseAusTender(xml,warn),url=>getAusTenderText(url,warn),warn);
+ const records=source==='vendorpanel'?await enrichVendorPanel(parseVendorPanel(xml,buyers,warn),active.filter(t=>t.source==='vendorpanel'),undefined,warn):await enrichAusTender(parseAusTender(xml,warn),url=>getAusTenderText(url,warn),warn);
  if(new Set(records.map(key)).size!==records.length)throw new Error('Duplicate feed identifiers');
  // An empty feed is too risky to treat as mass disappearance without operator review.
  if(!records.length)throw new Error('Empty source snapshot; retaining previous records');
