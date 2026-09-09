@@ -481,6 +481,51 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "6c2ffa6d83604682bb2cb55e36a11252",
+    "source": "vendorpanel",
+    "reference": "VP520915",
+    "title": "1560-2026Q Parks Depot Propagations House Design, Supply and Construction",
+    "description": "Council is seeking Quotes for the design, supply and installation of a propagation house at our Parks Depot, including fitout, slab and services connection.\n\nThere will be a mandatory site inspection for Contractors, or their representatives, to visit site on Tuesday 25 August 2026 at 10:00am.",
+    "buyer": "Banyule City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-09T05:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-13T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=6c2ffa6d83604682bb2cb55e36a11252s520915sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerReference": "1560-2026Q",
+      "opensAt": "2026-08-13T14:00:00.000Z",
+      "opensAtRaw": "Friday 14 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-07T05:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 07 September 2026 03:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-08-20T22:13:00.000Z",
+          "description": "Dear Contractors.\n\nThis isn't really an Addendum as such but it's the only way the system allows us to send a message.\n\nI write to reiterate that the site visit on Tuesday 25 August at 10am is MANDATORY. This is due to the access conditions on site and you need to understand these to provide an accurate quote. It doesn't count if you have worked at the site previously.\n\nA register of who visits will be taken by the project manager on Tuesday.\n\nIf you submit against this RFQ and have not attended the site visit, your submission will be non-compliant and not assessed."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-09T05:00:09.608Z"
+  },
+  {
     "id": "6d3efc345a4d49ddba4466ca29855c26",
     "source": "vendorpanel",
     "reference": "VP521541",
@@ -792,6 +837,110 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "d3be1daf8633443dae4a959105370d82",
+    "source": "vendorpanel",
+    "reference": "VP520759",
+    "title": "Provision of a Signage Design Manual",
+    "description": "The City of Clarence is seeking an experienced environmental graphic designer or signage design specialist to develop a practical and contemporary Signage Design Manual that provides a consistent, accessible and durable approach to signage across Council-managed places and facilities. The Manual should provide clear design and technical guidance so Council can design, procure, install, maintain and progressively replace standard signage across Clarence.\n\nIt is desirable that the consultant has demonstrated experience in city-wide or local government signage systems, including design strategy, documentation and implementation guidance.\n\nThe purpose of this project is to develop and implement a comprehensive Signage Design Manual for the City of Clarence. The manual will ensure that future public signage across the city is consistent, clear, and effective, aligning with urban design best practice, accessibility standards, and the visual identity of City of Clarence.\n\nThis manual will serve as a key reference for the design, placement and maintenance of signage across all Council-managed assets and public spaces, supporting a cohesive and welcoming city experience for residents and visitors alike.\n\nThe public spaces, facilities, and assets within City of Clarence are currently signed using a wide range of designs, materials, and messaging approaches. This has resulted in an inconsistent visual identity and, at times, confusion for the community. The absence of clear, consolidated design standards impacts communication, accessibility and a consistent maintenance approach.\n\nTo address these challenges and plan proactively for a growing and evolving community, we want to develop a new Signage Design Manual that:\n\n•\tEstablishes a clear and consistent visual style for all signage\n\n•\tReflects the character, identity and values of the City of Clarence\n\n•\tImproves user experience, wayfinding and accessibility\n\n•\tProvides practical design and implementation guidance for future projects\n\nThis project is being undertaken at a pivotal time. We have revised our 10-year Strategic Plan, are progressing a place branding project and are renewing our Signage Policy. We have recently refreshed our brand to bring its visual style into the modern era and endorsed a Reconciliation Action Plan and Customer Experience Strategy.\n\nMany of the City’s current signs are aged or outdated, reinforcing the need for a coordinated, forward-looking approach. The new manual will also incorporate flexibility for emerging technologies such as digital and interactive signage and allow for future brand evolution if required.\n\nCLOSE OF QUOTATIONS\n\n3pm, Wednesday 09 September 2026\n\nLATE QUOTATIONS WILL NOT BE ACCEPTED",
+    "buyer": "City of Clarence",
+    "buyerType": "council",
+    "state": "TAS",
+    "categories": [
+      "Graphical, Photographic & Art",
+      "Marketing & Communications",
+      "Printing & Distribution Services",
+      "Signs & Barriers"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-09T05:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 03:00 PM (UTC+10:00) Hobart time",
+    "publishedAt": "2026-08-11T23:43:00.000Z",
+    "contact": {
+      "raw": "Rebecca-Ann Riseley Email: rriseley@ccc.tas.gov.au Tel: 6217 9767",
+      "name": "Rebecca-Ann Riseley",
+      "email": "rriseley@ccc.tas.gov.au",
+      "phone": "6217 9767"
+    },
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d3be1daf8633443dae4a959105370d82s520759",
+    "vendorPanelDetails": {
+      "buyerReference": "Q1637-26",
+      "opensAt": "2026-08-11T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 12 August 2026 (Tasmania Standard Time)",
+      "queryCutoffAt": "2026-09-09T05:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 03:00 PM (Tasmania Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (Tasmania Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Tasmania\n1: Greater Hobart\n2: Southern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-13T05:49:00.000Z",
+          "question": "Will the place brand be completed - or nearing completion - when this project begins? Place brand regularly has an impact on signage - there will be occasions where the preference for future signage is place brand eg a 'mixed audience' sign like wayfinding, entry signs or interpretative, and the place brand often works well to lead the visuals for these. It would be great to look at this project through a place and Council brand lens and develop a strategy that considers both, but understand the timing may not align.",
+          "answeredAt": "2026-08-19T23:21:00.000Z",
+          "answer": "Good Morning,\n\nYes - the place brand project in in the design stage currently and we expect to see some of the design principles within a month or two. Further discussion will follow however we will be able to brief the signage manual designer on this process and keep them informed of its progress."
+        },
+        {
+          "askedAt": "2026-08-13T05:50:00.000Z",
+          "question": "Will we be able to work with Council and/or preferred sign print and install suppliers to define things like fabrication specifications, installation specifications and material standards? As these differ from Council to Council and sometimes supplier to supplier, so we would want strong input from Council ont his.",
+          "answeredAt": "2026-08-19T23:22:00.000Z",
+          "answer": "Good Morning,\n\nIt is the expectation that the designer will work with Council on this and once we have some options, these could be tested with a few suppliers to ensure ease of fabrication, and test costs involved."
+        },
+        {
+          "askedAt": "2026-08-13T05:51:00.000Z",
+          "question": "The RFQ states that an 'existing signage audit' is out of scope. However understanding the existing signage is critical to success of a new approach. Will Council be able to provide an audit, or at least examples of existing signs?",
+          "answeredAt": "2026-08-19T23:23:00.000Z",
+          "answer": "Good Morning,\n\nWe can provide a full range of examples of the type of signs the manual needs to address - please note this project does not extend to road signage. In general, we'd like the manual to provide a series of standard sizes and designs - based on good practice signage standards - rather than re-create what is currently across the city."
+        },
+        {
+          "askedAt": "2026-08-13T05:53:00.000Z",
+          "question": "The deliverables include 'fabrication-ready files'; can we please confirm that's only for the examples that are designed for the manual? Not final, production-ready artwork for every current Council sign? As 'fabrication-ready' would generally mean it has all the final information in place, approved, and ready to print, whereas a design manual is more for examples than finished artwork.",
+          "answeredAt": "2026-08-19T23:25:00.000Z",
+          "answer": "Good Morning,\n\nThe signage manual is intended to provide templates/examples which can be applied across all signage to standardise our signage\n\nCouncil want to make sure we have design files, logos/fonts that we can then use to prepare our own sign proofs in house to be fabricated by signage suppliers."
+        },
+        {
+          "askedAt": "2026-08-13T05:54:00.000Z",
+          "question": "Are you able to provide any guidance on budget? Projects like this have huge budget ranges based on number of design examples, number of design concepts required, expected size of design manual, so if you can provide even a budget range, or upper limit, that would be ideal.",
+          "answeredAt": "2026-08-13T06:38:00.000Z",
+          "answer": "Good Afternoon,\n\nThank you for your enquiry.\n\nCouncil is unable to disclose the budget or budget range for this project.\n\nWarm Regards,\n\nRebecca Riseley"
+        },
+        {
+          "askedAt": "2026-08-18T00:58:00.000Z",
+          "question": "Existing signage understanding :\n\nCould you please provide more detail on the required level of investigation and understanding of the existing signage that’s required. Does the Council expect a site visit by the consultant or will the Council supply photographic records?\n\nNumber of templates:\n\nFor pricing purposes we have assumed approximately 26 individual sign templates in total, distributed as follows: Informational (3), interpretive (5), tracks and trails (6), directional and wayfinding (5), regulatory and warning (7). Can Council confirm this is a reasonable basis or advise a preferred number?\n\nFabrication-ready files :\n\nDoes Council require dimensioned, production-ready artwork per template (e.g. vector artwork with cut lines, panel sizes, substrate call-outs) suitable for issue directly to a fabricator, or design intent drawings that a fabricator would then shop-detail?\n\n'Design drawing template':\n\nCan you please specify the deliverables for the ‘design drawings/templates’ line item?\n\nTemplate content and character limits:\n\nFor the design templates, we have assumed the Council will provide final sign content, and that our deliverable is a template with defined text zones and maximum character counts per zone (rather than the written content itself). Can Council confirm this, or advise if drafting sign copy is expected to sit within our scope?\n\nOn interpretive content specifically:\n\nInterpretive signage is listed at a number of sites. We have assumed the deliverable is the interpretive template and content structure, and that the historical research, copywriting and any associated heritage or cultural consultation for site-specific consultation are excluded. Can Council confirm this? If interpretive content development is required, could Council indicate the number of sites and whether existing research material is available?\n\nAboriginal place names and cultural interpretation:\n\nContract Schedule 1 requires the design system to accommodate Aboriginal place names, language and cultural interpretation \"including consultation requirements.\" We have assumed our deliverable is documenting the consultation protocol and approval pathway within the Manual, and that Council will lead, fund and manage any direct engagement with the community and relevant Aboriginal organisations. Can Council confirm this? If the consultant is expected to convene that engagement, could Council advise which organisations it works with and whether existing protocols or agreements are in place under the Reconciliation Action Plan?\n\nInstallation specifications:\n\nWhat level of detail on installation is required for each signage type? Are we to assume these will all be installed in ground? do we need to provide recommendations for both? Does the Council have existing standard pole/fitting details to align to?\n\nIcons and pictograms:\n\nWill Council provide icons and pictograms, or is sourcing and creating these assets part of the consultant's scope?\n\nBraille:\n\nIs braille required across the entire suite of templates? Is the contractor to supply fabrication specifications for braille signage?\n\nWorkshops and meetings:\n\nHow many workshops and meetings are allocated as part of the project? Are they required to be in person? And if so, where would they be held?",
+          "answeredAt": "2026-08-20T00:48:00.000Z",
+          "answer": "Good Morning,\n\nExisting signage:\n\nCouncil are able to provide some images of the types of signs we have across the city; however, we expect some level of site investigation by the consultant will be beneficial to understand the landscape of signage.\n\nNumber of templates:\n\nThis is a reasonable basis.\n\nFabrication-ready files:\n\nCouncil would like templates of final artwork - editable files which includes exact dimensions, bleeds, vector artwork etc.\n\n'Design drawing template':\n\nThis refers to:\n\n•\tVisual concepts showing what the finished item will look like\n\n•\tDimensions and proportions\n\n•\tLayouts for each sign/panel/item\n\n•\tapplication of our visual brand guide\n\n•\tMaterials or finishes\n\n•\tTemplates that can be reused for future items\n\n•\tFiles supplied in particular formats (e.g. Illustrator, InDesign)\n\n•\tAnd Installation requirements\n\nTemplate content and character limits:\n\nYes, it is confirmed council will generate final content for the signage\n\nOn interpretive content specifically:\n\nCorrect, all historical research, copywriting or consultation is excluded from this project. Council would hope to have space for interpretative signage options on some of the templates.\n\nAboriginal place names and cultural interpretation:\n\nCouncil will coordinate any Aboriginal place name content, approval and details. We would simply seek that there are provisions for this to be featured on some of the signage templates. Additionally, it has been indicated Council wants the designer to see if there were opportunities to link to the Reconciliation Action Plan (this may relate to colors/themes/artwork/acknowledgement of Country).\n\nInstallation specifications:\n\nMost of our city signage are fitted to the ground in our open spaces. Guidance on how these are to be installed would be preferred (i.e. height or signposts to keep sign at eyeline). This is a requirement of the project to have the manual specify the height, size, post and installation requirements so that signage is consistent and uniform in appearance and height datum in the landscape.\n\nIcons and pictograms:\n\nYes - council can provide icons where needed and within visual branding guidelines, however there may be additional icons that we need to get assistance with.\n\nBraille:\n\nNo.\n\nWorkshops and meetings:\n\nIn Person either in council offices or in Hobart. Over video call can also be considered for the right candidate."
+        },
+        {
+          "askedAt": "2026-08-25T04:40:00.000Z",
+          "question": "Is it ok to provide the whole response in a different format eg branded PDF, as long as the 'Quotation Form' section follows the same content structure as the Word document provided?",
+          "answeredAt": "2026-08-25T05:24:00.000Z",
+          "answer": "Good Afternoon,\n\nCouncil will accept the part 5 agreement in another format so long as it contains every question and section of the part 5 including the signing block.\n\nShould parts of the part 5 be missed/not included it may mean the submission is non-conforming or scores poorly.\n\nCouncil will also accept the part 5 in its original format with directions to go to a specific part of the response e.g. under Third-party quality accreditation \"please see appendix 2\""
+        },
+        {
+          "askedAt": "2026-08-25T05:08:00.000Z",
+          "question": "Can you please clarify what is meant by 'Number of lost time injuries', followed by 'Number of person days on contract', followed by 'Total days lost due to injuries' in criterion 2B? These don't feel relevant to this type of project and we've certainly never had lost time injuries in previous projects as a design agency, but if it needs to be filled out can you please let us know what we should put in each section?",
+          "answeredAt": "2026-08-25T05:36:00.000Z",
+          "answer": "Good Afternoon,\n\nnumber of lost time injuries - was there any injuries that caused a loss of time to the contract\n\nnumber of person days on contract - how many days did you work on the listed contract\n\ntotal days lost due to injuries - did any of the above lost time injuries result in days' worth of loss.\n\ne.g. 2 lost time injuries - 240 days on contract - resulted in 4 days lost due to injuries.\n\nShould these metrics be available please include them in your response. Should they not be available you will not be penalised for leaving this particular section blank however you should be able to provide the number of days you were on the contract."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The City of Clarence is seeking an experienced environmental graphic designer or signage design specialist to develop a practical and contemporary Signage Design Manual that provides a consistent, accessible and durable approach to signage across Council-managed places and facilities. The Manual should provide clear design and technical guidance so Council can design, procure, install, maintain and progressively replace standard signage across Clarence.\n\nIt is desirable that the consultant has demonstrated experience in city-wide or local government signage systems, including design strategy, documentation and implementation guidance.\n\nThe purpose of this project is to develop and implement a comprehensive Signage Design Manual for the City of Clarence. The manual will ensure that future public signage across the city is consistent, clear, and effective, aligning with urban design best practice, accessibility standards, and the visual identity of City of Clarence.\n\nThis manual wi...",
+        "to": "The City of Clarence is seeking an experienced environmental graphic designer or signage design specialist to develop a practical and contemporary Signage Design Manual that provides a consistent, accessible and durable approach to signage across Council-managed places and facilities. The Manual should provide clear design and technical guidance so Council can design, procure, install, maintain and progressively replace standard signage across Clarence.\n\nIt is desirable that the consultant has demonstrated experience in city-wide or local government signage systems, including design strategy, documentation and implementation guidance.\n\nThe purpose of this project is to develop and implement a comprehensive Signage Design Manual for the City of Clarence. The manual will ensure that future public signage across the city is consistent, clear, and effective, aligning with urban design best practice, accessibility standards, and the visual identity of City of Clarence.\n\nThis manual will serve as a key reference for the design, placement and maintenance of signage across all Council-managed assets and public spaces, supporting a cohesive and welcoming city experience for residents and visitors alike.\n\nThe public spaces, facilities, and assets within City of Clarence are currently signed using a wide range of designs, materials, and messaging approaches. This has resulted in an inconsistent visual identity and, at times, confusion for the community. The absence of clear, consolidated design standards impacts communication, accessibility and a consistent maintenance approach.\n\nTo address these challenges and plan proactively for a growing and evolving community, we want to develop a new Signage Design Manual that:\n\n•\tEstablishes a clear and consistent visual style for all signage\n\n•\tReflects the character, identity and values of the City of Clarence\n\n•\tImproves user experience, wayfinding and accessibility\n\n•\tProvides practical design and implementation guidance for future projects\n\nThis project is being undertaken at a pivotal time. We have revised our 10-year Strategic Plan, are progressing a place branding project and are renewing our Signage Policy. We have recently refreshed our brand to bring its visual style into the modern era and endorsed a Reconciliation Action Plan and Customer Experience Strategy.\n\nMany of the City’s current signs are aged or outdated, reinforcing the need for a coordinated, forward-looking approach. The new manual will also incorporate flexibility for emerging technologies such as digital and interactive signage and allow for future brand evolution if required.\n\nCLOSE OF QUOTATIONS\n\n3pm, Wednesday 09 September 2026\n\nLATE QUOTATIONS WILL NOT BE ACCEPTED",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-09T05:00:09.608Z"
+  },
+  {
     "id": "d816bdfda40640d693e9897aad91f2f3",
     "source": "vendorpanel",
     "reference": "VP520691",
@@ -919,6 +1068,85 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "e2aa8946d91b4e5ba9f99ed8d9fd4425",
+    "source": "vendorpanel",
+    "reference": "VP515402",
+    "title": "New Sports Amenity Facility -Modular Style",
+    "description": "Eurobodalla Shire Council is calling for tenders to design and construct a new sports amenity facility at Batemans Bay. Building is to be constructed in the style of transportable/demountable buildings\n\nProject is to be completed by October 2027",
+    "buyer": "Eurobodalla Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-09T05:00:00.000Z",
+    "closingAtRaw": "09/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-07-08T04:21:00.000Z",
+    "contact": {
+      "raw": "Hanna Lloyd Email: hanna.lloyd@esc.nsw.gov.au Tel: 02 4474 1084",
+      "name": "Hanna Lloyd",
+      "email": "hanna.lloyd@esc.nsw.gov.au",
+      "phone": "02 4474 1084"
+    },
+    "documentCount": 13,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e2aa8946d91b4e5ba9f99ed8d9fd4425s515402sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerReference": "2526-110",
+      "opensAt": "2026-07-07T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 08 July 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-07T05:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 07 September 2026 03:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (AUS Eastern Standard Time)",
+      "background": "The local AFL sports club has entered the regional league level. The AFL has minimum facility guidelines and the current onsite facilities do not cover these regional requirements. The project is to build an additional stand alone facility with the additional requirement considered in the design.",
+      "desiredOutcomes": "The desired out come is to provide the local AFL sports club with the minimum facility requirement to meet the regional league guidelines.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: ACT (all other areas)\n2: Canberra",
+        "New South Wales\n1: Central West\n2: Far West\n3: Hunter\n4: Illawarra\n5: Mid-North Coast\n6: Murray\n7: Murrumbidgee\n8: Northern\n9: Richmond-Tweed\n10: South Eastern\n11: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-17T05:56:00.000Z",
+          "question": "Could you please confirm whether the scope includes replacement, extension or upgrade of existing perimeter fencing, ball-stop fencing, player dugouts and spectator barriers, or whether the Contractor is only required to remove, modify and reinstate fencing impacted by the building works and associated access requirements.",
+          "answeredAt": "2026-08-18T02:15:00.000Z",
+          "answer": "The following is in response to a recent question.\n\nCould you please confirm whether the scope includes replacement, extension or upgrade of existing perimeter fencing, ball-stop fencing, player dugouts and spectator barriers, or whether the Contractor is only required to remove, modify and reinstate fencing impacted by the building works and associated access requirements.\n\nResponse\n\nThe contractor is only required to remove, modify and reinstate fencing impacted by the building works and associated access requirements."
+        },
+        {
+          "askedAt": "2026-08-18T03:21:00.000Z",
+          "question": "RFI-01: Please confirm which edition of the AFL Preferred Community Facility Guidelines the AP-001 minimum sizes are drawn from (2019 or 2024). The two editions differ in several respects relevant to this design, including an additional Umpire Briefing Room requirement and the optional status of several rooms at Regional level in the 2024 edition.\n\nRFI-02: Please confirm whether First Aid/Medical Room (15 sqm), Doctors Room (10 sqm) and Gym/Fitness Area (25 sqm) are to be treated as mandatory inclusions, given the current AFL guideline lists these as optional at Regional level.\n\nRFI-03: Please confirm the public toilet provision (male, female and accessible sizing) tenderers should design to, as this is not included within AP-001.\n\nRFI-04: Fig.3/DR-001 shows an indicative footprint of approximately 32m x 12m. Please confirm whether this is a fixed maximum building envelope or an indicative guide only, and whether tenderers may propose a larger footprint where necessary to meet AP-001 minimums.\n\nRFI-05: Please confirm whether the amenity building must be a single connected structure, or whether a linked or separate two-pavilion arrangement (e.g. a detached change room block) would be acceptable on the site.\n\nRFI-06: Please confirm whether a partial second storey/mezzanine, as referenced in Section 4.1 for the timekeeper/scoring box, is acceptable in principle, and advise any fire, access and structural requirements that would apply.\n\nRFI-07: Please provide the site survey and geotechnical information referenced in the Contract Documents list, to allow tenderers to confirm building setout, levels and footing design.\n\nRFI-08: Please confirm the minimum boundary setback/run-off distance applicable between the proposed building and the playing field boundary.\n\nRFI-09: Please confirm the orientation requirement for the kiosk (Western side) - whether this is fixed relative to true north or relative to the oval/spectator side of the building.\n\nRFI-10: Please confirm any specific corrosion/durability standards Council expects for coastal-environment cladding, fixings and external hardware, beyond general NCC compliance.\n\nRFI-11: Please confirm whether operable/movable walls between change rooms, to allow flexible combined use, are a preference or a requirement.\n\nRFI-12: Please clarify the expected timeframe and process for AFL design approval referenced in Section 4.2.1, and confirm whether this occurs prior to or following contract award.\n\nRFI-13: Please advise whether existing utility service records (Telstra, Essential Energy) for the site are available\n\nRFI-14: As the project is funded via a Commonwealth grant, please confirm whether there is a total project budget or cost cap tenderers should be designing to.\n\nRFI-15: Please confirm the expected patronage/crowd size the facility should be sized for, relevant to the external covered viewing area, kiosk and public toilet sizing.",
+          "answeredAt": "2026-08-19T06:02:00.000Z",
+          "answer": "The following responses are provided to clarify recent questions\n\nRFI-01: Please confirm which edition of the AFL Preferred Community Facility Guidelines the AP-001 minimum sizes are drawn from (2019 or 2024). The two editions differ in several respects relevant to this design, including an additional Umpire Briefing Room requirement and the optional status of several rooms at regional level in the 2024 edition.\n\nRESPONSE\n\nThe minimum sizes are drawn from the 2024 guidelines. Some building items have been excluded based on discussions with stake holders. The umpire briefing room is not required.\n\nRFI-02: Please confirm whether First Aid/Medical Room (15 sqm), Doctors Room (10 sqm) and Gym/Fitness Area (25 sqm) are to be treated as mandatory inclusions, given the current AFL guideline lists these as optional at Regional level.\n\nRESPONSE\n\nYes, these are mandatory items in the design\n\nRFI-03: Please confirm the public toilet provision (male, female and accessible sizing) tenderers should design to, as this is not included within AP-001.\n\nRESPONSE\n\nPublic toilets are not required in the new building only player amenities listed in the scope\n\nRFI-04: Fig.3/DR-001 shows an indicative footprint of approximately 32m x 12m. Please confirm whether this is a fixed maximum building envelope or an indicative guide only, and whether tenderers may propose a larger footprint where necessary to meet AP-001 minimums.\n\nRESPONSE\n\nThe building should be designed to the existing footprint; however, ramps/stairs can be accommodated outside of the footprint on the southwest side of the building. The transition to the field can be outside of this footprint but must be smooth. The Principal may, at its sole discretion, consider alternative tenders, provided the alternative tender meets the scope, functional intent and design concept expressed in the tender document. If an alternative tender is proposed, submit a detailed description of the alternative stating clearly the manner in which it differs from the detailed requirements of the RFT documents and including separate tender schedules applicable to the alternative.\n\nAlternative tenders will not be considered unless the Tenderer has submitted a conforming tender.\n\nRFI-05: Please confirm whether the amenity building must be a single connected structure, or whether a linked or separate two-pavilion arrangement (e.g. a detached change room block) would be acceptable on the site.\n\nRESPONSE\n\nBoth options would be acceptable\n\nRFI-06: Please confirm whether a partial second storey/mezzanine, as referenced in Section 4.1 for the timekeeper/scoring box, is acceptable in principle, and advise any fire, access and structural requirements that would apply.\n\nRESPONSE\n\nPartial second storey /mezzanine would be acceptable. Design requirements would have to be compliant with the NCC , however accessible access would not be required on the second floor.\n\nRFI-07: Please provide the site survey and geotechnical information referenced in the Contract Documents list, to allow tenderers to confirm building setout, levels and footing design.\n\nRESPONSE\n\nThe Site survey was provided in the original suit of documents , Ref S003-S-1, Geo Tec report was added 9 July Ref S-005H\n\nRFI-08: Please confirm the minimum boundary setback/run-off distance applicable between the proposed building and the playing field boundary.\n\nRESPONSE\n\nMinimum Boundary run off is 4M to the player dugout/fences /gates. The building would need to accommodate these distances\n\nRFI-09: Please confirm the orientation requirement for the kiosk (Western side) - whether this is fixed relative to true north or relative to the oval/spectator side of the building.\n\nRESPONSE\n\nThe Kiosk is to be facing the oval/field of play\n\nRFI-10: Please confirm any specific corrosion/durability standards Council expects for coastal-environment cladding, fixings and external hardware, beyond general NCC compliance.\n\nRESPONSE\n\nNothing beyond general NCC requirements\n\nRFI-11: Please confirm whether operable/movable walls between change rooms, to allow flexible combined use, are a preference or a requirement.\n\nRESPONSE\n\nOperable / movable walls are not a requirement but will be considered\n\nRFI-12: Please clarify the expected timeframe and process for AFL design approval referenced in Section 4.2.1, and confirm whether this occurs prior to or following contract award.\n\nRESPONSE\n\nConcept design to be submitted with tender. Throughout the design process Council will be liaising with the AFL to ensure the building design meets the AFL minimal requirements\n\nRFI-13: Please advise whether existing utility service records (Telstra, Essential Energy) for the site are available\n\nRESPONSE\n\nNot available\n\nRFI-14: As the project is funded via a Commonwealth grant, please confirm whether there is a total project budget or cost cap tenderers should be designing to.\n\nRESPONSE\n\nCouncil will not be providing the project budget\n\nRFI-15: Please confirm the expected patronage/crowd size the facility should be sized for, relevant to the external covered viewing area, kiosk and public toilet sizing.\n\nRESPONSE\n\nNo public toilets required. Kiosk serving size to be a minimum of 30mtr Sq. No specific requirements for external covered viewing area\n\n1.NCC lift requirement\n\nUnder NCC 2022, a two-storey Class 9b building is required to provide a means of access to the upper floor that complies with the accessibility provisions in NCC Section F. This typically requires a passenger lift or equivalent compliant access solution. This requirement was not contemplated in the original RFT scope and would represent a significant addition to the project cost and building footprint.\n\nPlease confirm whether council has considered this NCC requirement and whether a compliant accessible path of travel to the second floor is expected to be provided within the Contractor's scope. If so, please confirm whether a passenger lift is required or whether an alternative compliant access solution would be acceptable.\n\nRESPONSE\n\nCouncil has considered the accessibility requirements required for the second floor of the proposed building and is of the view that accessible access to the second floor is not required. This position is based on the anticipated limited patronage and use of the upper level and previous advice.\n\n2. Floor-to-floor headroom\n\nBased on the site levels available in S-005 and the current ground floor datum, a second floor FFL at 5RL to 5.5RL results in a floor-to-floor height that may not achieve a workable internal headroom at ground floor level. Please confirm the basis for the specified RL range, specifically whether it refers to the finished floor level of the second storey or another datum, and whether there is any flexibility in this specification to achieve a compliant and functional ground floor ceiling height.\n\nRESPONSE\n\nThe specified RL range is based on the adjacent double storey building, with the intention that the proposed second storey floor level the new building aligns generally with the height and appearance of the existing building .There is an opportunity to excavate the current ground level to reach the acquired levels\n\n3. Building footprint\n\nThe inclusion of a lift or equivalent accessible access solution, together with stair access, may require additional floor area within the 12m x 32m building footprint that was not allowed for in the original scope. Please confirm whether the footprint constraint remains fixed at 12m x 32m with these additional elements included, or whether any allowance for access infrastructure outside the primary footprint will be considered.\n\nRESPONSE\n\nThe allowance for access infrastructure outside the primary footprint will be considered\n\nRFI-\n\nPlease confirm whether a Development Application is genuinely not required given the development without consent classification stated in the RFT, or whether any conditions or notifications apply as a separate planning process (REF?)\n\nRESPONSE\n\nCouncil Can confirm no development application is required for this project"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-07-09T03:45:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t S-005H~1.DWG\n\n2. Added: \t RFT252~1.DOC\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-03T02:59:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t RFT 2526-110 ADENDUM 2 (1).pdf\n\n2. Added: \t RFT 2526-110 Summary Scope Specifications - (1) (1).pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-12T03:32:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t RFT 2526-110 ADENDUM 3 (1).docx\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Chris Teague Email: chris.teague@esc.nsw.gov.au Tel: 0244741096\",\"name\":\"Chris Teague\",\"email\":\"chris.teague@esc.nsw.gov.au\",\"phone\":\"0244741096\"}",
+        "to": "{\"raw\":\"Hanna Lloyd Email: hanna.lloyd@esc.nsw.gov.au Tel: 02 4474 1084\",\"name\":\"Hanna Lloyd\",\"email\":\"hanna.lloyd@esc.nsw.gov.au\",\"phone\":\"02 4474 1084\"}",
+        "at": "2026-09-07T23:08:32.015Z"
+      }
+    ],
+    "archivedAt": "2026-09-09T05:00:09.608Z"
   },
   {
     "id": "e599a1615d84425f9a7638ad2d2b729e",
