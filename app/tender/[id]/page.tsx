@@ -4,6 +4,7 @@ import {allTenders,meta} from '../../../lib/data';
 import {tenderRouteId,buyerPath,typeLabels,sourceLabels} from '../../../lib/urls';
 import LocalDate from '../../../components/LocalDate';
 import RecordStatus from '../../../components/RecordStatus';
+import BuyerProfile from '../../../components/BuyerProfile';
 export const dynamicParams=false;
 export function generateStaticParams(){return allTenders.map(t=>({id:tenderRouteId(t)}));}
 const find=(id:string)=>allTenders.find(t=>tenderRouteId(t)===id);
@@ -11,7 +12,7 @@ export async function generateMetadata({params}:{params:Promise<{id:string}>}){c
 export default async function Detail({params}:{params:Promise<{id:string}>}){const t=find((await params).id);if(!t)notFound();const archived='archivedAt' in t?t.archivedAt as string:null;const details=t.vendorPanelDetails;
  return <article className="detail"><Link className="back" href="/">← Browse tenders</Link><div className="badges"><span className="type-badge">{typeLabels[t.requestType]}</span><span>{sourceLabels[t.source]}</span><span>{t.reference??'No reference supplied'}</span>{archived&&<span className="archive-badge">Archived</span>}</div><h1>{t.title}</h1><Link className="detail-buyer" href={buyerPath(t.buyer)}>{t.buyer} →</Link>
  {t.requestType==='forward-notice'&&<p className="alert forward">Forward notice: this announces future procurement and is not open for submissions. Any listed closing date is a source notice date.</p>}{meta[t.source].status==='unavailable'&&<p className="alert">This source feed is unavailable. This record is from a previous snapshot and may be out of date.</p>}
- <RecordStatus closingAt={t.closingAt} archivedAt={archived}/><div className="detail-grid"><section className="detail-content"><section className="detail-section"><h2>About this opportunity</h2><p className="description">{t.description||'No description supplied.'}</p></section>
+ <RecordStatus closingAt={t.closingAt} archivedAt={archived}/><div className="detail-grid"><section className="detail-content"><BuyerProfile buyer={t.buyer} details={details}/><section className="detail-section"><h2>About this opportunity</h2><p className="description">{t.description||'No description supplied.'}</p></section>
  {details?.background&&<section className="detail-section"><h2>Background</h2><p className="description">{details.background}</p></section>}
  {details?.desiredOutcomes&&<section className="detail-section"><h2>Desired outcomes and requirements</h2><p className="description">{details.desiredOutcomes}</p></section>}
  {!!details?.buyerQuestions.length&&<section className="detail-section"><h2>Questions from the buyer</h2><ol className="buyer-questions">{details.buyerQuestions.map((question,i)=><li key={i}>{question}</li>)}</ol></section>}

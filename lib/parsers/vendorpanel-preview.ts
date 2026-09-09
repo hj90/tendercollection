@@ -17,7 +17,7 @@ function section($:CheerioAPI,title:RegExp):Cheerio<AnyNode>[] {
  const heading=$('.opportunityPreviewMaxHeading').filter((_,el)=>title.test($(el).text().trim())).first();if(!heading.length)return [];
  return heading.nextUntil('.opportunityPreviewMaxHeading','.opportunityPreviewInnerRow').toArray().map(el=>$(el));
 }
-function fields($:CheerioAPI){const result=new Map<string,string>();$('.opportunityPreviewInnerRow').each((_,el)=>{const row=$(el);const name=row.find('.opportunityPreviewMinHeading').first().text().trim().toLowerCase();const content=row.find('.opportunityPreviewContent').first();if(name&&content.length&&!result.has(name))result.set(name,clean(content.html()??''));});return result;}
+function fields($:CheerioAPI){const result=new Map<string,string>();$('.opportunityPreviewInnerRow').each((_,el)=>{const row=$(el);const name=row.find('.opportunityPreviewMinHeading').first().text().trim().toLowerCase().replace(/:\s*$/,'');const content=row.find('.opportunityPreviewContent').first();if(name&&content.length&&!result.has(name))result.set(name,clean(content.html()??''));});return result;}
 const dated=(value:string)=>parseVendorPanelPreviewDate(value)||null;
 export function parseVendorPanelPreview(html:string):VendorPanelDetails {
  const $=load(html);if(!$('.opportunityPreviewMinHeading').length||!/VP Reference/i.test($.text()))throw new Error('Invalid VendorPanel public preview');const map=fields($);
@@ -33,6 +33,6 @@ export function parseVendorPanelPreview(html:string):VendorPanelDetails {
  });
  const updates=section($,/^Updates made to this Request$/i).flatMap(row=>{const description=clean(row.find('.opportunityPreviewContent').html()??'');if(!description||/^None\.\.\.$/i.test(description))return [];return [{at:dated(clean(row.find('.opportunityPreviewMinHeading').html()??'')),description}];});
  const opensAtRaw=raw('opens'),queryCutoffAtRaw=raw('supplier query cut-off'),expectedDecisionAtRaw=raw('expected decision');
- return {opportunityDescription:opportunityHtml?clean(opportunityHtml):null,buyerReference:raw('buyers reference #'),opensAt:dated(opensAtRaw??''),opensAtRaw,queryCutoffAt:dated(queryCutoffAtRaw??''),queryCutoffAtRaw,expectedDecisionAt:dated(expectedDecisionAtRaw??''),expectedDecisionAtRaw,
+ return {opportunityDescription:opportunityHtml?clean(opportunityHtml):null,buyerAddress:raw('location'),buyerWebsite:raw('website'),buyerDescription:raw('business info'),buyerReference:raw('buyers reference #'),opensAt:dated(opensAtRaw??''),opensAtRaw,queryCutoffAt:dated(queryCutoffAtRaw??''),queryCutoffAtRaw,expectedDecisionAt:dated(expectedDecisionAtRaw??''),expectedDecisionAtRaw,
   background:textSection(/^Background information/i)?clean(textSection(/^Background information/i)!):null,desiredOutcomes:textSection(/^Desired Outcomes/i)?clean(textSection(/^Desired Outcomes/i)!):null,buyerQuestions,serviceRegions,publicQuestions,updates};
 }
