@@ -21,7 +21,7 @@ export function parseNSW(data:NSWData,warn:(message:string)=>void):ParsedTender[
   if(!job.title||!job.company||!job.url)throw new Error(`NSW job ${index} is missing required fields`);
   const sourceUrl=safeSourceUrl(job.url,'nsw');
   const publishedAt=job.postedDate?parseDate(DateTime.fromFormat(job.postedDate,'d-LLL-yyyy HH:mm',{locale:'en',zone:'Australia/Sydney'}).toISO()??job.postedDate,warn,`NSW job ${job.url}`):null;
-    return {id:new URL(sourceUrl).pathname.split('/').filter(Boolean).pop()??sourceUrl,source:'nsw' as const,reference:null,title:job.title,description:job.description?.trim()??'',buyer:job.company,buyerType:null,state:'NSW' as const,categories:[],requestType:requestType(job),closingAt:null,closingAtRaw:null,publishedAt,contact:null,documentCount:null,sourceUrl};
+  return {id:new URL(sourceUrl).pathname.split('/').filter(Boolean).pop()??sourceUrl,source:'nsw' as const,reference:null,title:job.title,description:job.description?.trim()??'',buyer:job.company,buyerType:null,state:'NSW' as const,categories:[],requestType:requestType(job),closingAt:null,closingAtRaw:null,publishedAt,contact:null,documentCount:null,sourceUrl};
  });
  if(new Set(records.map(record=>record.id)).size!==records.length)throw new Error('Duplicate NSW opportunity identifiers');
  return records;
@@ -32,18 +32,17 @@ export function parseNSWDetail(data:NSWDetail,sourceUrl:string,warn:(message:str
  const overview=data.sections?.find(section=>section.heading==='Overview')?.content??'';
  const field=(name:string)=>overview.match(new RegExp(`(?:^|\\n)${name}:\\n([^\\n]*)`,'i'))?.[1]?.trim()??null;
  const source=safeSourceUrl(sourceUrl,'nsw');
- const opportunityID=metadata?.opportunityID??metadata?.opportunityId??source.match(/\/([^/]+)\/?$/)?.[1]??source;
- const buyer=metadata?.managedBy??field('Managed')??'NSW Government';
- const publishDate=metadata?.publishDate;
+ const opportunityID=metadata.opportunityID??metadata.opportunityId??source.match(/\/([^/]+)\/?$/)?.[1]??source;
+ const buyer=metadata.managedBy??field('Managed')??'NSW Government';
  const title=data.title?.trim()??opportunityID;
  const description=data.description?.trim()??'';
  const date=(raw:string|null,context:string)=>{
-  if(!raw){warn(`${context}: missing date`);return null;}
-  const date=DateTime.fromFormat(raw,'dd-LLL-yyyy h:mm a',{locale:'en',zone:'Australia/Sydney'});
-  if(date.isValid)return date.toUTC().toISO();
+  if(!raw)return null;
+  const parsed=DateTime.fromFormat(raw,'dd-LLL-yyyy h:mm a',{locale:'en',zone:'Australia/Sydney'});
+  if(parsed.isValid)return parsed.toUTC().toISO();
   warn(`${context}: unparseable date ${JSON.stringify(raw)}`);return null;
  };
- const publishedAt=publishDate?date(publishDate+' 12:00 PM',`NSW detail ${source} publish date`):null;
+ const publishedAt=metadata.publishDate?date(metadata.publishDate+' 12:00 PM',`NSW detail ${source} publish date`):null;
  const documents=(data.links??[]).map(link=>link.url?.trim().replace(/^https:\/{2,}/i,'https://')).filter((url):url is string=>Boolean(url&&/^https?:\/\//i.test(url)&&/\.pdf(?:[?#]|$)/i.test(url)));
  const contactName=metadata.primaryContact??metadata.primaryContactName;
  const contactParts=[contactName,metadata.primaryContactEmail,metadata.primaryContactPhone].filter(Boolean);
