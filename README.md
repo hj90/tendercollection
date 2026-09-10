@@ -20,6 +20,7 @@ npm run build
 
 - VendorPanel: https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all
 - AusTender: https://www.tenders.gov.au/public_data/rss/rss.xml
+- NSW tenders: supplied snapshot in `data/nsw.json`, sourced from https://buy.nsw.gov.au/
 
 AusTender was repaired after testing its real feed on 8 September 2026. Its server rejects our custom-only User-Agent but accepts a browser-compatible one that also identifies Tender Collection. No credentials or cookies are used.
 

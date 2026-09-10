@@ -1,0 +1,1337 @@
+{
+  "jobs": [
+    {
+      "company": "Transport for NSW",
+      "description": "Transport for NSW (TfNSW) seeks suppliers for the fabrication and supply of movable median components to support the operation and maintenance of the State road network.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "8-Oct-2026 15:00",
+      "salary": null,
+      "title": "Movable Median Components Fabrication",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/55001DB9-9F72-4A4B-B4A71E12BDFA5FF9"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Opportunity at Blacktown Hospital with seven retail tenancies being available for lease at the very centre of the campus.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "8-Oct-2026 15:00",
+      "salary": null,
+      "title": "Blacktown Hospital Retail Precinct",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C3E16BE8-A8BE-4A9D-B6866B34C2088CD6"
+    },
+    {
+      "company": "Premier's Department",
+      "description": "The Premier’s Department (PD) is undertaking a tender process to identify a single supplier to provide Facilities Management (FM) services.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "22-Oct-2026 15:00",
+      "salary": null,
+      "title": "Facilities Management Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/6A18EFDE-F05C-4A7B-97BEF9915237E1A9"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Transport for NSW is seeking to engage a suitably qualified and experienced Contractor to provide Risk Management Services for the Future Fleet Program (FFP).",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "8-Oct-2026 15:00",
+      "salary": null,
+      "title": "Future Fleet Program – Risk Management Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/59DCF704-885C-48D1-BE34B3DEB74A98AF"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW seeks the services of a Contractor or Contractors for the provision of uniforms for Vivid Sydney 2027, 2028 & 2029.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Uniform Supplier - Vivid Sydney 2027, 2028 & 2029",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/2F1484EE-D9D1-442B-9C8072DBB70D23C1"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "Transport for NSW, seeks the supply and delivery of truck-mounted Elevated Work Platforms (EWPs), including High-rail EWPs for maintenance and inspection activities across the Sydney Harbour Bridge.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "12-Oct-2026 15:00",
+      "salary": null,
+      "title": "Sydney Harbour Bridge – Supply of Truck-Mounted Elevated Working Platforms",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/CBD37F38-5656-4C10-8D4219C1B3CF5DE5"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW (DNSW) is seeking responses from Site Management Services suppliers to support the safe and effective planning, organisation and delivery of Vivid Sydney.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "6-Oct-2026 15:00",
+      "salary": null,
+      "title": "Vivid Sydney Site Management Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8A0DDB65-2BE7-4816-8847943DD2A5616A"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Request for Tender - SOA for Operating Theatre Part B Mobile Equipment, Maintenance and associated Consumables - HSSP_HC26_OTEB988",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "Request for Tender - SOA for Operating Theatre Part B Mobile Equipment, Maintenance and associated Consumables - HSSP_HC26_OTEB988",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C7D8C0BF-5ADB-45D4-924A85EE697A4260"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "This Scheme for construction work between $1 million and $9 million.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2028 23:59",
+      "salary": null,
+      "title": "Scheme for construction work between $1 million and $9 million",
+      "url": "https://buy.nsw.gov.au/scheme/91298A01-D6FA-DAD3-41503346175CC63D"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "This is the Procurement List for Construction Services valued over $9 million (excluding GST).",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2028 23:59",
+      "salary": null,
+      "title": "Procurement List for Construction Services valued over $9 million",
+      "url": "https://buy.nsw.gov.au/scheme/C4ACD80D-4BB7-4FC2-8B0DADB72831651B"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "NSW Ambulance (NSWA) is seeking submissions from suitably qualified suppliers to submit proposals for Tow Truck services for the NSWA fleet vehicles",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Oct-2026 15:00",
+      "salary": null,
+      "title": "Auto Services for NSW Ambulance Fleet -Tow Trucks",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C5A4C400-CFB4-4F2D-9548AD64DBF2905A"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "NSW Ambulance (NSWA) is seeking submissions from suitably qualified suppliers to submit proposals for the supply and installation of Windscreens for the NSWA fleet vehicles.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Oct-2026 15:00",
+      "salary": null,
+      "title": "Auto Accessories for NSW Ambulance Fleet - Windscreens",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/20712A42-288C-4A74-A7C8ED041E547781"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "B5681 Jingellic Bridge Repaint",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "B5681 Jingellic Bridge Repaint – Scaffold Works",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/7FEA2D98-41D8-4FD6-9308EFA29D380AB9"
+    },
+    {
+      "company": "Canterbury-Bankstown Council",
+      "description": "Council is seeking qualified and experienced Contractors to manage and undertake the manual Segregation of green waste at KWMC using onsite available machinery.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "16-Sep-2026 15:00",
+      "salary": null,
+      "title": "Kelso Green Waste Segregation Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/631F5C16-AF54-4253-BEA1F501168A2770"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW seeks the services of a Contractor to manage and deliver Operations Manager (Event Access and Community Programs) Services for Vivid Sydney 2027, 2028 & 2029.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "18-Sep-2026 15:00",
+      "salary": null,
+      "title": "Operations Manager (Event Access & Community Programs) - Vivid Sydney 2027, 2028, 2029",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B4DFB4CB-BD62-4476-9447926E22C9758B"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Select tender for drainage, pavement, median and signage works at Parker & Stafford St, Penrith. TfNSW prequalification required: F1 (Financial) and R2 (Roadworks).",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "Parker Street and Stafford Street Drainage Pavement and Median Construction Works",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8B7B3893-60F2-442A-A90771CB5883051C"
+    },
+    {
+      "company": "Powerhouse",
+      "description": "Powerhouse seeks to engage suitably qualified photographer/s to document the five inaugural exhibitions of Powerhouse Parramatta in support of the museum’s opening on 7 November 2026.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "23-Sep-2026 15:00",
+      "salary": null,
+      "title": "Powerhouse Parramatta Exhibition Documentation – Request for Quote",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/461889F2-2A0F-4F42-8CD5E5FA7E4F7316"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW seeks the services of a Contractor to undertake the role of Ticketing Manager for Vivid Sydney 2027, 2028 & 2029.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "23-Sep-2026 15:00",
+      "salary": null,
+      "title": "Ticketing Manager - Vivid Sydney 2027, 2028, 2029",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/F7C8900E-41DC-43C0-B1216284297E4B8D"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW seeks the services of a Contractor to coordinate and deliver Head of Programming & Partnerships Services for Vivid Sydney 2027 and 2028.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "23-Sep-2026 15:00",
+      "salary": null,
+      "title": "Head of Programming & Partnerships - Vivid Sydney 2027 & 2028",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/24355AD3-343C-474A-87406A136A053C45"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Early Notice - a Request for Tender for the Newell Highway Flood Mitigation West Wyalong to Forbes – Detailed Design Services may be issued as an Open Tender to suitably qualified tenderers.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "6-Oct-2026 15:00",
+      "salary": null,
+      "title": "Newell Highway Flood Mitigation West Wyalong to Forbes – Detailed Design Services - Early Notice",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/BED77B88-5EEC-4049-8188B27257E5FAD5"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Request for Tender Standing Offer Arrangement: Goods and Services (RFT Reference Number HSSP_HC25-978- Supplementary)",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Request for Tender Standing Offer Arrangement: Goods and Services (RFT Reference Number HSSP_HC25-978- Supplementary)",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/A13D4579-6E26-4E6B-B5047E9F75F62439"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Assess the effectiveness, usability, safety, reliability, and operational suitability of autonomous cleaning technologies in healthcare environments.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "25-Sep-2026 15:00",
+      "salary": null,
+      "title": "Cleaning Automation Initiative EOI (Phase 1)",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/53358DBF-71CE-47EC-A11C4A40897862B2"
+    },
+    {
+      "company": "NSW Department of Communities and Justice",
+      "description": "Department of Communities and Justice seeks external legal service providers to supplement internal capacity in:\n(1) Children's Court Advocacy and\n(2) Advice and Claims (Legal Entitlements)",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "1-Mar-2027 15:00",
+      "salary": null,
+      "title": "Child Law Legal Services Panel",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/ECC7FD9B-8B10-4AFD-9FDCBF29B2300FF8"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "Under the Shared Use of Schools arrangement, the Termed licence for Out of School Hours Care (OOSH) is due for renewal. These service will include Before and After School Care (BASC).",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "Standalone OOSH Licence - Bolwarra Public School",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/85F839EE-E833-450B-9A72627D53295C07"
+    },
+    {
+      "company": "Department of Climate Change, Energy, the Environment and Water",
+      "description": "The National Parks and Wildlife Service seeks to engage a qualified contractor to undertake civil works to stabilise a road cutting slope and reduce geotechnical risks to road users.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Snow Ridge Road (KNP5) CH50.8km Stabilisation Project in Kosciuszko National Park",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/9A6BC793-78B4-4DF5-BA1F6D8137DA6B8F"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Fire System Maintenance – Northern Tunnels & Coffs Harbour Tunnels",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "18-Sep-2026 15:00",
+      "salary": null,
+      "title": "Fire Systems Maintenance - Northern Tunnels & Coffs Harbour Tunnels",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/39C6B57C-7353-4DA3-8960A79A6F490210"
+    },
+    {
+      "company": "Placemaking NSW",
+      "description": "Pyrmont Bridge Timber Supply Panel",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "5-Oct-2026 15:00",
+      "salary": null,
+      "title": "Pyrmont Bridge Timber Supply Panel",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/9759CE22-107C-4F24-9E79A4A9A39C20D9"
+    },
+    {
+      "company": "Hawkesbury City Council",
+      "description": "Road Rehabilitation Works at\n1). Mileham St, South Windsor – Harpur Cres. to Wimbow Place\n2). Pecks Rd, North Richmond - Grose Vale Rd to Campbell St\n3). Church St - From James St to No 71 - Bi",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "28-Sep-2026 15:00",
+      "salary": null,
+      "title": "Tender for Road Rehabilitation Works",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4067AB22-25D4-48CB-AB05A784286CE5BA"
+    },
+    {
+      "company": "Water Group",
+      "description": "The works require an upgrade to the Woolshed Regulator Access Tracks (ie; partial reforming, grading and surfacing for all weather access) including a culvert replacement",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "28-Sep-2026 15:00",
+      "salary": null,
+      "title": "Yanga National Park - Package 5 - Access Tracks",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/2BECCC1E-89B9-46F8-BFD8BB239D93B79D"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Council (the Principal) is seeking Tenders from appropriately qualified and experienced Contractors for appointment to a panel for the provision of professional legal services.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "29-Sep-2026 15:00",
+      "salary": null,
+      "title": "RFT T-2026-11 Legal Service Panel",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C5B1AE2D-B2C3-466D-9C5E585FDA363353"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "Design and Construction of the Dorrigo ARC Skywalk, part of the greater works package for Dorrigo National Park.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "20-Oct-2026 15:00",
+      "salary": null,
+      "title": "Proposed Dorrigo Skywalk D&C",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/AC6276B4-C5BE-4DBD-ADB20A5D3E0030C4"
+    },
+    {
+      "company": "Department of Planning, Housing and Infrastructure",
+      "description": "Delivery of Leadership Workshops under the Fresh Start Program to build the leadership, communication and people‑management capability of NSW local government employees.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "Training provider for leadership workshops – Fresh Start program 2026-2029",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8BE4B7BA-59FB-4337-A32DF974611A32AF"
+    },
+    {
+      "company": "Department of Climate Change, Energy, the Environment and Water",
+      "description": "Construction and upgrade of the lower Dead Horse Gap Walking Track in Kosciuszko National Park, including walking track, steps, drainage and timber infrastructure works.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "5-Oct-2026 15:00",
+      "salary": null,
+      "title": "Dead Horse Gap Walking Track Renewal Works 2026-27 – Kosciuszko National Park",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B0DCF043-E1B1-4546-BB7D17796F8C708E"
+    },
+    {
+      "company": "Forestry Corporation of NSW",
+      "description": "Requesting Tenders to undertake drill, blast & crushing operations in several quarries in the Bathurst region of NSW. Each work type may be done as a package or separated by drill & blast or crushing.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "4-Oct-2026 15:00",
+      "salary": null,
+      "title": "Bathurst Drill, Blast and Crush Quarry Tender",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/643C3EC7-A18C-4790-B5C5A92F67578AED"
+    },
+    {
+      "company": "Health Infrastructure",
+      "description": "Expression of Interest for Curatorial Arts Consultant to coordinate planning, delivery and commissioning stage of selected artwork opportunities as outlined in the Arts consultant brief.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "Rouse Hill Hospital – Curatorial Arts Consultant - Expression of Interest",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C8B96667-F04B-45FD-AE3718A45CB8AD2C"
+    },
+    {
+      "company": "Botanic Gardens of Sydney",
+      "description": "Temporary food and beverage outlets at The Point, The Cove and QEII Gate at the Royal Botanic Garden Sydney.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "6-Oct-2026 15:00",
+      "salary": null,
+      "title": "Temporary Food and Beverage Outlets at Royal Botanic Garden Sydney",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/13ECE5B0-F5DB-47AD-92A24A1C2C4A868A"
+    },
+    {
+      "company": "Health Infrastructure",
+      "description": "Specialist advice is required to assist in developing the equipment scope and performance specifications for industrial laundry equipment prior to engagement with suppliers",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "2-Oct-2026 15:00",
+      "salary": null,
+      "title": "NSW Health Linen Services Project - Industrial Laundry Consultant",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/A2962DF3-01AE-400E-A50EFEAC11031120"
+    },
+    {
+      "company": "Essential Energy",
+      "description": "Essential Energy is seeking indicative pricing and market information for a suitably qualified service provider to provide a full suite of fire safety services over a five-year period.",
+      "jobType": "Request for information (RFI)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "RFI Fire Safety Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/211C40FB-5D66-4BA7-83E3C927D53CBC44"
+    },
+    {
+      "company": "NSW Department of Customer Service",
+      "description": "A competitive pool of prequalified service providers to undertake the statutory appointment function for Fair Trading NSW.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "15-Mar-2027 23:59",
+      "salary": null,
+      "title": "Statutory Appointments",
+      "url": "https://buy.nsw.gov.au/scheme/8D134AF1-EF1D-204A-C5964F3CD72325E7"
+    },
+    {
+      "company": "eHealth NSW",
+      "description": "eHealth NSW is looking to engage a Single Vendor to provide a Statewide Server and Storage - Support & Maintenance services solution for out of warranty equipment for NSW Health",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Whole of Health - Server and Storage - Support & Maintenance RFP - Reissued",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/5D074FDB-BC90-4D2B-A02471B6EA406E69"
+    },
+    {
+      "company": "NSW Department of Customer Service",
+      "description": "The Scheme lists suppliers with expertise across advertising and digital communications categories.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "30-Apr-2028 23:59",
+      "salary": null,
+      "title": "Advertising and Digital Communications Services",
+      "url": "https://buy.nsw.gov.au/scheme/1FDD7AFF-E523-29D0-13878F776CE4D35C"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "Slope stabilisation and reinstatement of pavements for Majors Creek Mountain Road and Araluen Road",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "13-Oct-2026 15:00",
+      "salary": null,
+      "title": "Majors Creek and Araluen Road - Slip Repairs",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/91A1ED41-BF7C-44FD-ABB3F7A5BEA55121"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "Construction of the upgrade to Jindabyne Wastewater Treatment Plant from 8,000EP to 16,000EP",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "15-Oct-2026 15:00",
+      "salary": null,
+      "title": "Jindabyne Wastewater Treatment Plant - Construction",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C0532779-9404-410E-A6451B4476A8CF37"
+    },
+    {
+      "company": "Blacktown City Council",
+      "description": "Blacktown City Council is seeking proposal from qualified and experienced person(s), firms or entities to provide pest management services for council facilities on a regular and on as needed basis.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "23-Sep-2026 15:00",
+      "salary": null,
+      "title": "Pest management services for council facilities",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/3B85A033-7ABB-400A-8AAF6181207306E8"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Request for Tender - Nuclear Medicine and Associated Equipment and Maintenance - HSSP_HC26_NUC971",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "9-Oct-2026 15:00",
+      "salary": null,
+      "title": "Request for Tender - Nuclear Medicine and Associated Equipment and Maintenance - HSSP_HC26_NUC971",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/CC5C92D1-287A-44D0-977B805249E8CA08"
+    },
+    {
+      "company": "SafeWork NSW",
+      "description": "SafeWork NSW procurement for an integrated Body Worn Video solution including devices, digital evidence management, implementation, training, support and maintenance services.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "2-Oct-2026 15:00",
+      "salary": null,
+      "title": "Body Worn Video Hardware & Support Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/97BD463E-09EB-4587-8C9BC0E64BA8189B"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Council (the Principal) is seeking Quotations from appropriately qualified and experienced Contractors to convert an existing ozone/bromine pool disinfection system to chlorine/UV disinfection.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "Q-2026-44 UV Disinfection System Installation – Moss Vale War Memorial Aquatic Centre",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8D6D3581-F0E5-44CF-8E6EA0E046DB5DE1"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Council (the Principal) is seeking Quotations from appropriately qualified and experienced Contractors for the environmentally responsible collection and recycling of tyres from Moss Vale, NSW.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "29-Sep-2026 15:00",
+      "salary": null,
+      "title": "Q-2026-43 Tyre Collection & Recycling",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/3854340F-C74F-42F3-8889EB9B6618E6C3"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "This RFI process will enable Transport to refine the PSCP procurement and delivery strategy to create a sustainable contracting regime that delivers improved outcomes for the people of NSW.",
+      "jobType": "Request for information (RFI)",
+      "location": null,
+      "postedDate": "22-Sep-2026 15:00",
+      "salary": null,
+      "title": "Industry Consultation - Passenger Services Contracting Program - RFI",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/3289A03A-84B9-480C-BBE111ABB18AC1F6"
+    },
+    {
+      "company": "NSW Rural Fire Service",
+      "description": "This Request for Tender (RFT) seeks the supply, support and ongoing management of Water Delivery, Drafting and Supply Equipment for the NSW RFS.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "22-Oct-2026 15:00",
+      "salary": null,
+      "title": "NSW RFS Water Delivery, Drafting and Supply Equipment",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8F5ADE15-3C1C-43DC-BB25F7F17E110A04"
+    },
+    {
+      "company": "NSW Department of Customer Service",
+      "description": "A prequalification scheme covering the acquisition, processing and supply of spatial data and remote sensing services.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Mar-2028 23:59",
+      "salary": null,
+      "title": "Remote Sensing Services and Equipment Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/1C132E95-DA3D-9683-2C7F54C02DFC2F0F"
+    },
+    {
+      "company": "NSW Telco Authority",
+      "description": "SCM0053 is for provision of a range of equipment, infrastructure, and specialist services to build, operate, and maintain telecommunication networks.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "30-Apr-2027 23:59",
+      "salary": null,
+      "title": "Operational Telecommunications Equipment, Infrastructure and Services",
+      "url": "https://buy.nsw.gov.au/scheme/2F4D6FCB-A284-8C44-137434F7292ED668"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Tenders are invited from pre-qualified contractors with Transport for NSW, under the National Prequalification Scheme, to deliver the construction of road safety improvement along Appin Road",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "24-Sep-2026 15:00",
+      "salary": null,
+      "title": "Appin Road Safety Improvements between Mount Gilead and Brian Road - Notice with Confidentiality Deed",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/A2D1FB82-82C3-4FBF-99ABB61188C25DD9"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Tenders are invited from pre-qualified contractors with Transport for NSW, under the National Prequalification Scheme to deliver the Early Works of Appin Road and St Johns Road Intersection Upgrade.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "2-Oct-2026 15:00",
+      "salary": null,
+      "title": "Appin Road and St Johns Road Intersection Upgrade – Early Works",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/19E22B2A-F571-4332-A98E6DD8EBABE1CC"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "This Request for Tender (RFT) invites submissions from suitably qualified suppliers to provide the Pest Control Services across all MLHD sites.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "The Provision of Pest Control Services across all MLHD Sites",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/DB37D02C-822E-45CD-90B77A99F87A8407"
+    },
+    {
+      "company": "Department of Climate Change, Energy, the Environment and Water",
+      "description": "This project involves a monitoring program to measure habitat parameters, including hollow-bearing trees, large trees and stem density, across all 22 ecological thinning trial sites within Murray Vall",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Ecological Thinning Trial: Habitat Parameters and Stem Density Monitoring 2026-2027",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/1916F0AF-E881-4443-BC05031D297D65FF"
+    },
+    {
+      "company": "Department of Primary Industries and Regional Development",
+      "description": "Tocal Agricultural Centre, Paterson NSW, invites open tenders for the design, supply, installation and commissioning of an upgraded irrigation system at Tocal Glendarra Dairy.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "17-Sep-2026 15:00",
+      "salary": null,
+      "title": "Tocal Irrigation System",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/575DFEEF-4853-4DA9-87319CAA8B739E31"
+    },
+    {
+      "company": "Government Architect NSW",
+      "description": "Prequalified experts to advise on design quality and innovation in the built environment.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "30-Aug-2029 17:00",
+      "salary": null,
+      "title": "Government Architect's Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/8E669DF3-DA54-89BF-A34DDB3F56F120A5"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Tender are invited from suitably qualified Contractors to carry out Ferry 58 Overhaul and Out of Water inspection.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "18-Sep-2026 15:00",
+      "salary": null,
+      "title": "Overhauling of Ferry 58 - Wisemans Ferry",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/474FD5D2-9A06-4BD5-83069EE622CF4BD9"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Wingecarribee Shire Council is seeking Expressions of Interest from qualified facilitators to form a panel of providers to deliver community waste reduction, reuse and sustainability workshops.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "EOI-2026-2 - Community Waste Reduction, Reuse and Sustainability Workshop Facilitators August - 2026",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/56C67198-5A1E-453D-A79A19401DB5FCC2"
+    },
+    {
+      "company": "Sydney Trains",
+      "description": "Testing, Inspection, Calibration & Servicing (TICS) Management Services of >8,000 Minor Plant & Equipment (MPE) assets across the Sydney Trains network including asset register management.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "14-Oct-2026 15:00",
+      "salary": null,
+      "title": "Testing, Inspection, Calibration & Servicing (TICS) Principal Contractor",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/043746CE-06BA-4080-A14DD3D8F6545130"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "Under the Shared Use of Schools arrangement, the Termed licence for Out of School Hours Care (OOSH) is due for renewal. These service will include Before and After School Care (BASC), VC and SDD.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "23-Sep-2026 15:00",
+      "salary": null,
+      "title": "Standalone OOSH Licence - Kegworth Public School",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/7B030E5A-E8BC-4771-8FD8EFCF743818E1"
+    },
+    {
+      "company": "Local Land Services",
+      "description": "Western Local Land Services is seeking suitably qualified Professional Kangaroo Harvesters for a panel to support kangaroo management in Western NSW.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "1-Oct-2026 15:00",
+      "salary": null,
+      "title": "Western Local Land Services Vertebrate Animal Control Contractors Panel - Kangaroos",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/D5DF7738-69AA-41FA-B10E744BE9988A66"
+    },
+    {
+      "company": "NSW Department of Communities and Justice",
+      "description": "The Employee Assistance Program (EAP) is counselling and support services for employees of the Department and Corrective Services NSW, and their immediate family members.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "9-Oct-2026 15:00",
+      "salary": null,
+      "title": "Provision of Employee Assistance Program",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/620FD31B-BA1C-4967-AF39C1A691BFB4CE"
+    },
+    {
+      "company": "NSW Telco Authority",
+      "description": "Supply, delivery, and implementation of Cisco network switching hardware, software and support, Palo Alto Networks firewall/security hardware, software and support, and associated professional service",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Market engagement for procurement of Network Switching, Firewall Security Hardware, Software and Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/F05CB46E-8FC5-4AF1-A995A31370A4F7E2"
+    },
+    {
+      "company": "NSW Department of Customer Service",
+      "description": "Deliver small business advisory services across NSW to build capability, strengthen resilience, improve business performance and provide targeted support for priority industries, cohorts and regions.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "28-Sep-2026 15:00",
+      "salary": null,
+      "title": "Small Business Advisory Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/5AD8FE2E-4743-4CC0-96A32731FD67B110"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "Request for Proposal (RFP) for TINSW Fitness to Drive - Online Medical Forms (FTD-OMF) RFP - WS5682184941.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "14-Oct-2026 15:00",
+      "salary": null,
+      "title": "TfNSW Fitness to Drive - Online Medical Forms (FTD-OMF)",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/98EEA601-CA53-419F-94374EE7C5554709"
+    },
+    {
+      "company": "Camden Council",
+      "description": "Camden Council invites tenders for Professional legal advice, representation and related legal services to support Council. A description of the requirements can be found in Council’s Tender document.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "Provision of Legal Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C11F43EC-B6D0-4EB9-9BDFDD8C44FFB27E"
+    },
+    {
+      "company": "NSW Rural Fire Service",
+      "description": "This Request for Tender (RFT) is for the supply of Protective and Uniform Footwear for the New South Wales Rural Fire Service (NSW RFS or RFS)",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026 15:00",
+      "salary": null,
+      "title": "NSW RFS Protective and Corporate Footwear RFT",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4569993F-63E3-4976-B35F22CA94FB06CC"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Retroreflectivity data collection 2026 - 26.0000130165.0518",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "14-Sep-2026",
+      "salary": null,
+      "title": "Retroreflectivity data collection 2026",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/E5BA8D01-552B-40BA-BCE8DF1D1FA1374E"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Council (the Principal) is seeking Quotations from appropriately qualified and experienced Contractors to replace, supply and install three hundred (300) water meters of various sizes across multiple",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "22-Sep-2026",
+      "salary": null,
+      "title": "Q-2026-50 Water Meter Renewal Program 2026-2027",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4706CE0E-6628-4C18-A7C959E30C7B5F88"
+    },
+    {
+      "company": "NSW Police Force",
+      "description": "Supply of commercial car parking rate information and FBT reporting services to support car parking fringe benefit valuations, taxable value calculations, and ongoing ATO compliance.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "13-Oct-2026",
+      "salary": null,
+      "title": "FBT Car Parking Reports",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/15AE3140-D0F6-498A-88C53A55F7939A04"
+    },
+    {
+      "company": "NSW Department of Communities and Justice",
+      "description": "Provision of foundation skills and vocational training services for inmates in NSW correctional centres, focused on improving educational attainment, employability, and community reintegration.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "14-Sep-2026",
+      "salary": null,
+      "title": "Education and Vocational Training Services for CSNSW",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/0D273186-7D05-4DBC-87065E48450A56E7"
+    },
+    {
+      "company": "Department of Climate Change, Energy, the Environment and Water",
+      "description": "To establish a panel of service providers to deliver National Australian Built Environment Rating System (NABERS) Independent Design Review services.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "9-Oct-2026",
+      "salary": null,
+      "title": "Expression of Interest: NABERS Embodied Carbon Independent Design Review Panel (2027 - 2030)",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/1FEB33A1-C306-4ABA-B5E5D27E2807F152"
+    },
+    {
+      "company": "NSW Procurement",
+      "description": "The Performance and Management Scheme is for NSW government buyers to acquire professional services.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "28-Feb-2027",
+      "salary": null,
+      "title": "Prequalification Scheme: Performance and Management Services",
+      "url": "https://buy.nsw.gov.au/scheme/5686462E-F515-F34D-DF4D7C89274AD889"
+    },
+    {
+      "company": "NSW Reconstruction Authority",
+      "description": "Engagement of Independent NSW State Appointed Auditor – DRFA Claims",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "24-Sep-2026",
+      "salary": null,
+      "title": "Engagement of Independent NSW State Appointed Auditor – DRFA Claims",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/9A2BC422-30F6-484C-A4E7FD945C49E20E"
+    },
+    {
+      "company": "Sydney Metro",
+      "description": "SMC-26-1588 - WSA Finalisation and Auxiliary Works (FAW) – Corridor Restoration Works\n- Seed Procurement",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "17-Sep-2026",
+      "salary": null,
+      "title": "WSA Finalisation and Auxiliary Works – Corridor Restoration Works – Seed Procurement",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/15248B9F-44E6-4266-BF4B49B8B7DA74F5"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Transport for NSW (TfNSW) invites suitably experienced tenderers to undertake the construction of Macquarie Park Precinct & Bus Interchange project.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "11-Sep-2026",
+      "salary": null,
+      "title": "Macquarie Park Precinct & Bus Interchange",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/912F5EBC-2EA1-4812-8396664149532E13"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "NSW Health will be inviting interested suppliers to participate in the upcoming open tender for the provision of Paramedics Income Protection Insurance on behalf of NSW Ambulance.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2026",
+      "salary": null,
+      "title": "Income Protection Insurance for Ambulance NSW",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/E583B161-131C-4366-94B9A14109F2773D"
+    },
+    {
+      "company": "Destination NSW",
+      "description": "Destination NSW seeks the services of a Contractor or Contractors to coordinate and deliver Temporary Fencing Services for Vivid Sydney 2027, 2028 & 2029.",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Vivid Sydney – Temporary Fencing Services 2027, 2028 & 2029",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4928C951-B5A1-4944-8703885C96E2054F"
+    },
+    {
+      "company": "Mid North Coast Local Health District",
+      "description": "THE KHWA Program is designed to deliver an increase in key health worker accommodation across rural and regional areas of NSW with MNCLHD receiving funds under the program for Coffs Harbour.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "24-Sep-2026 15:00",
+      "salary": null,
+      "title": "Coffs Harbour Key Health Worker Accommodation (KHWA) Project - Expression of Interest",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/A11818DA-013B-46E5-BF1A9BACCBDEF503"
+    },
+    {
+      "company": "Local Land Services",
+      "description": "This tender is to deliver cane toad control and surveillance services across the North Coast region to support regional pest and biosecurity management.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Cane Toad Control and Surveillance - North Coast Local Land Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B11A6A8E-CD7F-407A-8BA56C9DAA217F58"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "Transport for NSW maintains and operates vehicular ferry sites across New South Wales. This procurement initiative aims to secure reliable fuel suppliers for ferries.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Fuel supply for vehicular ferries",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/E01D41E4-F5D7-4B6E-99475353026AD7EE"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Minor Physical Works and Services - Transport for NSW Conservation Fund (TCFP008) - Tree Fern Creek Rainforest Restoration Project",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "14-Sep-2026 15:00",
+      "salary": null,
+      "title": "Transport for NSW Conservation Fund (TCFP008) - Tree Fern Creek Rainforest Restoration Project",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/83470748-8394-4468-A19CAD2E4EA505E9"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Transport for NSW is inviting suitably experienced and qualified organisations to register their interest in the design and construction of the Windsor Road Upgrade at Rouse Hill.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "24-Sep-2026 15:00",
+      "salary": null,
+      "title": "Windsor Road Upgrade at Rouse Hill – Registration of Interest",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/A244FD7E-C2E4-47EA-B2AD45B2752A1988"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "Tow Services to support the Mitchell's Causeway Detour. One Heavy Tow Truck 24 hours per day 7 days per week. One Heavy Tow Truck and one Light Tow Truck 12 hours per day, 7 days per week",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "16-Sep-2026 15:00",
+      "salary": null,
+      "title": "Vehicle Towing Services – Mitchell’s Causeway Detour",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/5D87AFD8-B232-4374-ABC2DC43BEEC980A"
+    },
+    {
+      "company": "Energy Corporation of NSW",
+      "description": "EnergyCo is seeking for suitable service providers for the Economic Modelling and Regulatory Advisory panel to provide energy market modelling, cost benefit analysis and regulatory advisory services.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "21-Sep-2026 15:00",
+      "salary": null,
+      "title": "Economic Modelling and Regulatory Advisory Panel",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/84E1EEB6-0293-4E50-A2387B555200A68B"
+    },
+    {
+      "company": "Department of Climate Change, Energy, the Environment and Water",
+      "description": "Seeking to commission an Aboriginal branding artwork that will serve as a culturally authentic visual identity across departmental initiatives, communications, and engagement activities",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "EOI Aboriginal Visual Identity",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/BB8AC61C-4325-4716-B9697BE90C1D3C35"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "A pre-qualified list of suppliers who provide high quality services for built heritage conservation.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2026 17:00",
+      "salary": null,
+      "title": "Built Heritage Conservation Consultants",
+      "url": "https://buy.nsw.gov.au/scheme/91E8E22E-DE55-D3C2-DF85EA825AC06FC8"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "Services providing injury triage assistance to a Transport Cluster employee who has reported a workplace injury or illness. SIRA accredited service provider.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "18-Sep-2026 15:00",
+      "salary": null,
+      "title": "Injury Illness Assist (AII) Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/5DE78CF4-5D1D-429C-9055F707A8F61E6A"
+    },
+    {
+      "company": "Local Land Services",
+      "description": "Local Land Services invites suitably qualified contractors to join a panel for the delivery of pest animal management services throughout the North Coast Region.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "17-Sep-2026 15:00",
+      "salary": null,
+      "title": "North Coast Local Land Services Pest Animal Contractors Panel",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8897C237-1A3D-414F-A86429DC4790F4D4"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "NSW Department of Education scheme of prequalified suppliers to provide cleaning services within the Hunter Central Coast Region.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "22-May-2029 00:00",
+      "salary": null,
+      "title": "Cleaning Services Contractors for the Hunter Central Coast",
+      "url": "https://buy.nsw.gov.au/scheme/E1F615BC-1B07-4214-A98083A8E2E7566B"
+    },
+    {
+      "company": "NSW Procurement",
+      "description": "SCM0007 is open to applications from recruitment organisations for the provision of contingent labour to NSW Government and eligible buyers.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "28-Feb-2028 23:59",
+      "salary": null,
+      "title": "Prequalification Scheme: Contingent Workforce",
+      "url": "https://buy.nsw.gov.au/scheme/65CDBCCA-EA61-2354-9ECAFC84AE5A95B8"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Transport for NSW (TfNSW) is inviting suitably experienced and qualified organisations to participate in an Expression of Interest (EOI) for the design and construction of the Milton Ulladulla bypass.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "15-Oct-2026 15:00",
+      "salary": null,
+      "title": "Milton Ulladulla bypass – Expression of Interest (EOI)",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/89A1C946-1BB5-40A2-AC7690ADC0CFCD34"
+    },
+    {
+      "company": "Camden Council",
+      "description": "Camden Council invites tenders for Supply and Delivery of Pre-mix Concrete. A detailed description of the requirements can be found in council’s Request for Tender document.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "16-Sep-2026 15:00",
+      "salary": null,
+      "title": "Supply and Delivery of Ready-Mix Concrete",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/FFF98D82-803C-4065-A57032A44B09D021"
+    },
+    {
+      "company": "Transport Asset Manager (TAM) of NSW",
+      "description": "Transport Asset Manager (TAM) seeks an experienced operator to design, deliver and operate an immersive visitor experience within Sydney's historic St James Tunnels",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "1-Oct-2026 15:00",
+      "salary": null,
+      "title": "Unlock St James Tunnels – Engagement of Operator for Visitor Experience",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/BBF9AEEC-0CE1-4AFA-A4F0B8E70CF5A627"
+    },
+    {
+      "company": "School Infrastructure",
+      "description": "Kingsgrove North High School - Automated Carpark Gates",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "14-Sep-2026 15:00",
+      "salary": null,
+      "title": "Kingsgrove North High School - Automated Carpark Gates",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/0D7C2F8A-8FDD-4EEB-8EC0B21BA840A50A"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "Provision of security personnel at Bourke Health Service and Walgett Health Service.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "22-Sep-2026 15:00",
+      "salary": null,
+      "title": "Rural and Remote Integrated Security",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4806B84C-AA93-47DA-81525B6B562516F0"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "SWSLHD seeks to establish a panel of providers to deliver approved TACP services across the SWSLHD.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "Transitional Aged Care Program",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/4E3AEBFD-883E-4A4F-A213DE8773A7D4D8"
+    },
+    {
+      "company": "School Infrastructure",
+      "description": "Fall prevention mesh around the school and construction of an external breakout space and new full accessible bathroom.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "15-Sep-2026 15:00",
+      "salary": null,
+      "title": "Woronora Public School - Fall Prevention Mesh",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/428BFFAF-09A0-4563-9A1518DCB0A01DF4"
+    },
+    {
+      "company": "Bradfield Development Authority",
+      "description": "Suppliers of Metrology equipment now have the opportunity to become qualified vendors to the Advanced Manufacturing Research Facility (AMRF) located in Bradfield.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "30-Aug-2027 15:00",
+      "salary": null,
+      "title": "Bundle 28 Metrology Panel for the AMRF",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/F069EF5B-544E-49D6-B44C4B77CB54BDAE"
+    },
+    {
+      "company": "Bradfield Development Authority",
+      "description": "Suppliers of Raw Materials now have the opportunity to become qualified vendors to the Advanced Manufacturing Research Facility (AMRF) located in Bradfield.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "30-Aug-2027 15:00",
+      "salary": null,
+      "title": "Bundle 25 Raw Materials Panel for the AMRF",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/3AB3D56D-B5DE-47D7-8FAB389B81CF1B2F"
+    },
+    {
+      "company": "Bradfield Development Authority",
+      "description": "Suppliers of Manufacturing Tooling equipment now have the opportunity to become qualified vendors to the Advanced Manufacturing Research Facility (AMRF) located in Bradfield.",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "30-Aug-2027 15:00",
+      "salary": null,
+      "title": "Bundle 26 Manufacturing Tooling Panel for the AMRF",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/8DAE0378-605D-4E56-80075A94C869F060"
+    },
+    {
+      "company": "HealthShare NSW",
+      "description": "NSW Health will be inviting interested suppliers to participate in the upcoming open tender for the provision of Fixed Wing Non-Emergency Patient Transport (NEPT) Services on behalf of NSW Ambulance.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "17-Sep-2026 15:00",
+      "salary": null,
+      "title": "Advance Market Notice - Fixed Wing Non-Emergency Patient Transport Services",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/26E67DF4-46BD-4AAF-B3DF757CA8583235"
+    },
+    {
+      "company": "Bradfield Development Authority",
+      "description": "Suppliers of Workshop ICT equipment now have the opportunity to become qualified vendors to the Advanced Manufacturing Research Facility (AMRF) located in Bradfield",
+      "jobType": "Request for proposal (RFP)",
+      "location": null,
+      "postedDate": "30-Aug-2027 15:00",
+      "salary": null,
+      "title": "Bundle 29 Workshop ICT Panel for the AMRF",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B121778B-7697-4AA6-894801363365E6A0"
+    },
+    {
+      "company": "NSW Rural Fire Service",
+      "description": "Cleaning Portable Toilets and Showers",
+      "jobType": "Request for quote (RFQ)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Cleaning Portable Toilets and Showers; RFQ# 762",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/061CF7A4-BF8C-4544-A48B7FA9441D0E3D"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "The NSW Department of Education's Calendar for\nCultural Diversity is shared with over 2,200 schools annually, viewed over 18,000 times online and downloaded over 8,000 times each year.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "14-Sep-2026 15:00",
+      "salary": null,
+      "title": "2027 Calendar for Cultural Diversity Sponsorship Prospectus",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/E7F0D14C-B078-41FD-849C095CCFC0C17B"
+    },
+    {
+      "company": "Wingecarribee Shire Council",
+      "description": "Council (the Principal) is seeking Tenders from appropriately qualified and experienced Contractors for the construction of the Church Road and David Woods Sports Fields lighting upgrades.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "29-Sep-2026 15:00",
+      "salary": null,
+      "title": "T-2026-16 David Wood and Church Road Playing Fields Lighting Upgrades",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/9316645B-DFC8-4180-91F5FF121CEDD0C4"
+    },
+    {
+      "company": "Energy Corporation of NSW",
+      "description": "This is an Advance Notice for the Technical and Construction Support Services for Hunter Transmission Project tender aiming to be published by early September 2026.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "NOTICE ONLY: Technical and Construction Support Services for Hunter Transmission Project",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/7EE0FEEC-BB80-48FD-8F9A6042BEAA88A9"
+    },
+    {
+      "company": "Aboriginal Housing Office",
+      "description": "The Aboriginal Housing Office (AHO) intends to procure scoping and Contract administrator services across 720 properties located in the Murdi Paaki region.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Scoping and CA Procurement -Murdi Paaki",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C508E3AF-48F4-419D-8222F695F7E24F64"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "It is to procure construction-related consultancy services for engagement fees up to $9M ex GST.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2028 23:59",
+      "salary": null,
+      "title": "Scheme for Consultants in Construction up to $9M Consultancy Fee",
+      "url": "https://buy.nsw.gov.au/scheme/341FD096-090A-B129-43EE2AA4F09FE7CA"
+    },
+    {
+      "company": "NSW Police Force",
+      "description": "NSWPF intends to appoint one Primary Supplier and one or more Supplementary Suppliers to deliver Vehicle Commissioning and Decommissioning Services that ensures consistent, high-quality outcomes.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "2-Oct-2026 15:00",
+      "salary": null,
+      "title": "Commissioning and Decommissioning NSWPF Vehicles",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B84923AB-AC8B-48F9-927BCC53B01E9309"
+    },
+    {
+      "company": "School Infrastructure",
+      "description": "Hunter Central Coast - Reactive Maintenance",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "2-Nov-2026 15:00",
+      "salary": null,
+      "title": "Hunter Central Coast - Reactive Maintenance",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/B612893B-FAE3-4FFE-A10A82039B5741DE"
+    },
+    {
+      "company": "Camden Council",
+      "description": "Camden Council invites tenders for Supply and Delivery of Portable Hostile Vehicle Mitigation (HVM) Barrier System. A description of the requirements can be found in Council’s RFT document.",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": "16-Sep-2026 15:00",
+      "salary": null,
+      "title": "Supply and Delivery of Portable Hostile Vehicle Mitigation (HVM) Barrier System",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/C9CE48BD-49BE-4150-9D004C0E9CBC7595"
+    },
+    {
+      "company": "Transport Infrastructure Projects",
+      "description": "Transport for NSW (TfNSW) invites from suitably experienced tenderers to undertake the Collaborative Design and Construction (CD&C) of Mona Vale Road West Upgrade.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": "11-Sep-2026 15:00",
+      "salary": null,
+      "title": "Mona Vale Road Upgrade between McCarrs Creek Road and Powderworks Road (MVRW) - Expression of Interest",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/72AD20B8-C46C-46E0-BF62158FE96C0994"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "This scheme is for general construction works valued up to $1M and is mandated by PBD-2014-04C.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2028 23:59",
+      "salary": null,
+      "title": "General construction works up to $1M",
+      "url": "https://buy.nsw.gov.au/scheme/D7BD8CCD-A397-DAFE-759AD93ED43DBB1C"
+    },
+    {
+      "company": "NSW Trustee and Guardian",
+      "description": "Property Services division to engage Waste Clearance, Disposal or Transport of inventory from Customer properties in preparation for sale or leasing.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "22-May-2028 17:00",
+      "salary": null,
+      "title": "NSW Property Services Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/E01559E9-89FA-42DF-B446609A923C1DC7"
+    },
+    {
+      "company": "Subsidence Advisory NSW",
+      "description": "The scheme covers services for the investigation of possible damage from mine subsidence and services required during the claim assessment process.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "31-Dec-2026 23:59",
+      "salary": null,
+      "title": "Subsidence Advisory NSW Independent Assessment Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/532183BA-A854-5574-CFE46BA4327DF6C2"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "The scheme is a pool of suppliers prequalified to supply digital engineering services for infrastructure projects.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "30-Sep-2027 17:00",
+      "salary": null,
+      "title": "Digital Engineering Services",
+      "url": "https://buy.nsw.gov.au/scheme/43F38E32-9C11-5A4C-9E5A661F40C0926C"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "ASTP Scheme provides the Department of Education with access to providers who transport students with disability.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Prequalification Scheme: Assisted School Travel Program (ASTP)",
+      "url": "https://buy.nsw.gov.au/scheme/FB683BBE-CEF6-4E97-82558CA6C0E723FC"
+    },
+    {
+      "company": "School Infrastructure",
+      "description": "Western Sydney Facilities Maintenance Contract - Reactive Maintenance Suppliers",
+      "jobType": "Request for tender (RFT)",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Western Sydney Facilities Maintenance Contract - Reactive Maintenance Suppliers",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/AFDA6313-7432-4EEF-87D2FCE1122661E4"
+    },
+    {
+      "company": "NSW Procurement",
+      "description": "Under the NSW Government Motor Vehicle Scheme approved providers may supply passenger cars, SUVs, light and heavy commercial vehicles.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Pre-qualification Scheme: Motor Vehicles",
+      "url": "https://buy.nsw.gov.au/scheme/A6772C83-C56C-5CDC-21C0F22C9EE29A01"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "Specialist allied health and behaviour support for NSW Public Schools. For Schools seeking to engage a provider, refer to http://bit.ly/3CxM1Or",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Specialist Allied Health and Behaviour Support Provider Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/13A07328-AEC8-49F7-8B2F3CAED4DAF859"
+    },
+    {
+      "company": "NSW Public Works",
+      "description": "This Procurement List has been established to comply with PBD-2019-05-EPP.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Procurement List for Consultants in Construction for services valued above $9M",
+      "url": "https://buy.nsw.gov.au/scheme/73DA840A-F90C-3D39-E7410B4477A3E1D5"
+    },
+    {
+      "company": "NSW Procurement",
+      "description": "SCM12 prequalifies suppliers to source, assess and select talent for NSWG ongoing and temporary roles.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "TAS - Talent Acquisition Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/B6D82251-EC1A-4C79-CD33757F0C5F5910"
+    },
+    {
+      "company": "NSW Procurement",
+      "description": "Deliver the full scope of electric vehicle supply equipment goods, installation works and maintenance services.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "NSW Government Electric Vehicle Fleet Charging Infrastructure Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/F1A4E764-D8DC-2AE6-5A39A372D187C39F"
+    },
+    {
+      "company": "Department of Planning, Housing and Infrastructure",
+      "description": "The land and asset valuation scheme is for valuation service providers, both general and specialty, including statutory and financial.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Land and Asset Valuation",
+      "url": "https://buy.nsw.gov.au/scheme/3358C16B-D148-2A2F-C48BBA4B1DABFDD3"
+    },
+    {
+      "company": "Department of Communities and Justice",
+      "description": "Approved prequalified list of suppliers to receive invitations to tender on Homes NSW residential construction projects up to $9m.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "Homes NSW, Housing Portfolio Residential Building Works up to $9m",
+      "url": "https://buy.nsw.gov.au/scheme/7C55C391-0499-FB27-2F34F51F9CA282ED"
+    },
+    {
+      "company": "NSW Department of Education",
+      "description": "The NSW Department of Education organises conferences to support teachers, aspiring teachers, head teachers, faculty leaders and other staff groups.",
+      "jobType": "Expression of interest (EOI)",
+      "location": null,
+      "postedDate": null,
+      "salary": null,
+      "title": "2026 Teacher Conferences",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/6759A92B-5CF3-420C-AB08B9A4BCDA22B1"
+    },
+    {
+      "company": "Health Infrastructure",
+      "description": "The list includes Contractors for Health Infrastructure projects valued at over $9 million. See 'HOW TO APPLY'.",
+      "jobType": "Proposed opportunity (P-RFT)",
+      "location": null,
+      "postedDate": "30-Sep-2029 15:00",
+      "salary": null,
+      "title": "Expressions of Interest for Health Infrastructure Contractor Procurement List",
+      "url": "https://buy.nsw.gov.au/prcOpportunity/6CD74A2D-741E-468D-8EBC7FC2C0541760"
+    },
+    {
+      "company": "Department of Communities and Justice",
+      "description": "Modern Methods of Construction Manufacturing Suppliers who provide off site manufacturing and prefabricated products.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "1-May-2027 23:59",
+      "salary": null,
+      "title": "Modern Methods of Construction Procurement List",
+      "url": "https://buy.nsw.gov.au/scheme/FF2B5A81-CDAB-45E1-89E8D1A6D58F0B16"
+    },
+    {
+      "company": "Public Service Commission",
+      "description": "A panel of service providers for employment related medical assessments and other medical services.",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "17-Oct-2026 23:59",
+      "salary": null,
+      "title": "Employment Related Medical Services Prequalification Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/EF2B4207-9032-9776-9A32EA84102D0151"
+    },
+    {
+      "company": "Transport for NSW",
+      "description": "The scheme is a pool of suppliers prequalified to support concept design, detail design and delivery of Transport for NSW road infrastructure projects",
+      "jobType": "Schemes",
+      "location": null,
+      "postedDate": "30-Sep-2027 23:59",
+      "salary": null,
+      "title": "Technical Services Registration Scheme",
+      "url": "https://buy.nsw.gov.au/scheme/95F51E37-FC59-C5DA-94FA0D1F144DC4C5"
+    }
+  ],
+  "pageTitle": "All opportunities",
+  "pageType": "jobListing",
+  "totalJobs": 134
+}

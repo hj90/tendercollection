@@ -6,7 +6,7 @@ export const normaliseName = (s:string) => s.toLowerCase().replace(/[^a-z0-9]/g,
 export function classify(title:string, description:string):RequestType {
  const forward = /\b(?:forward notice|advance[d]? (?:tender )?notice|prior information notice|future tender|intention to (?:go to market|invite)|do not (?:respond|submit)|no (?:need to provide a response|response (?:is )?required))\b/i;
  if(forward.test(title+' '+description)) return 'forward-notice';
- const rules:[RequestType,RegExp][] = [['panel',/\b(?:prequalified|pre-qualified|standing offer|preferred supplier|supplier (?:panel|register)|panel arrangement)\b/i],['eoi',/\b(?:eoi|expressions? of interest)\b/i],['rfq',/\b(?:rfq|requests? for quot(?:e|es|ation|ations))\b/i],['rft',/\b(?:rft|requests? for tenders?|invitation to tender)\b/i]];
+ const rules:[RequestType,RegExp][] = [['panel',/\b(?:prequalified|pre-qualified|standing offer|preferred supplier|supplier (?:panel|register)|panel arrangement)\b/i],['eoi',/\b(?:eoi|expressions? of interest)\b/i],['rfq',/\b(?:rfq|requests? for quot(?:e|es|ation|ations))\b/i],['rfp',/\b(?:rfp|requests? for proposals?)\b/i],['rft',/\b(?:rft|requests? for tenders?|invitation to tender)\b/i]];
  for(const text of [title,description]) for(const [type,re] of rules) if(re.test(text)) return type;
  return 'other';
 }
@@ -35,8 +35,9 @@ export function parseContact(raw:string|null):Tender['contact'] {
  const name=raw.split(/Email\s*:|Tel(?:ephone)?\s*:|Phone\s*:/i)[0].trim();
  return {raw,...(name?{name}:{}),...(email?{email}:{}),...(phone?{phone}:{})};
 }
-export function safeSourceUrl(raw:string,source:'vendorpanel'|'austender') {
+export function safeSourceUrl(raw:string,source:'vendorpanel'|'austender'|'nsw') {
  const url=new URL(raw); const domain=source==='vendorpanel'?'vendorpanel.com.au':'tenders.gov.au';
- if(!['https:','http:'].includes(url.protocol)||!(url.hostname===domain||url.hostname.endsWith('.'+domain))) throw new Error('Unexpected source URL');
+ const allowed=source==='nsw'?'buy.nsw.gov.au':domain;
+ if(!['https:','http:'].includes(url.protocol)||!(url.hostname===allowed||url.hostname.endsWith('.'+allowed))) throw new Error('Unexpected source URL');
  return url.href;
 }
