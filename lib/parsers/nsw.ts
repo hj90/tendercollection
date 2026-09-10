@@ -2,7 +2,7 @@ import {DateTime} from 'luxon';
 import {classify,parseDate,safeSourceUrl} from '../normalise';
 import type {ParsedTender} from '../types';
 
-type NSWJob={company:string;description:string|null;jobType:string|null;location:string|null;postedDate:string|null;title:string;url:string};
+type NSWJob={company:string;description:string|null;jobType:string|null;location:string|null;postedDate:string|null;salary?:string|null;title:string;url:string};
 type NSWData={jobs:NSWJob[]};
 type NSWDetail={description?:string;links?:{url?:string}[];metadata?:{category?:string;closeDate?:string;managedBy?:string;opportunityID?:string;opportunityId?:string;primaryContact?:string;primaryContactName?:string;primaryContactEmail?:string;primaryContactPhone?:string;publishDate?:string;type?:string};sections?:{heading:string;content:string}[];title?:string};
 
