@@ -1,17 +1,17 @@
 {
   "vendorpanel": {
     "status": "ok",
-    "snapshotAt": "2026-09-09T22:04:31.613Z",
+    "snapshotAt": "2026-09-10T07:06:28.027Z",
     "message": null
   },
   "austender": {
     "status": "ok",
-    "snapshotAt": "2026-09-09T22:04:31.613Z",
+    "snapshotAt": "2026-09-10T07:06:28.027Z",
     "message": null
   },
   "nsw": {
     "status": "ok",
-    "snapshotAt": "2026-09-10T00:00:00.000Z",
+    "snapshotAt": "2026-09-10T07:06:28.027Z",
     "message": null
   }
 }
