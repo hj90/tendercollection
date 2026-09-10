@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://www.tenders.gov.au/Advert/Show/87d6582b-75a1-4dbd-a3fc-38abed249ad1",
+    "sourceUrl": "https://www.tenders.gov.au/Advert/Show/87d6582b-75a1-4dbd-a3fc-38abed249ad1",
+    "reference": "PROC-9177452",
+    "title": "Enhancing wheat adaptability for stable yields under variable climates: an integrated genetic and agronomic approach",
+    "description": "Climate variability is making Australian wheat production more challenging, with drought and interacting stresses such as heat, nutrient limitation and soil constraints increasingly affecting crop performance across regions and seasons. These stresses can reduce yield stability and create greater seasonal risk for growers. One opportunity to address this challenge is to better understand and use wheat’s adaptive plasticity-the ability of wheat plants to adjust growth, development and resource use in response to changing conditions. Adaptive plasticity may help crops reduce yield loss in dry or stressful seasons while maintaining yield potential when conditions are favourable. While wheat breeding programs select for broad adaptation, the specific traits, benchmarks and selection approaches that support adaptive plasticity are not yet routinely defined or targeted. Through this investment, GRDC aims to identify, validate and translate priority plasticity traits into breeder-ready knowledge, datasets, genetic resources and selection guidance. This EOI seeks to identify capable Respondents to participate in a potential multi-stage procurement process to deliver this work.",
+    "publishedAt": "2026-08-03T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-09-10T07:00:00.000Z",
+    "closingAtRaw": "10-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Justine Morgan\nPhone:\n+61 2 6166 4510\nEmail Address:\ntenders@grdc.com.au\nDocument(s) Contact Name:\nJustine Morgan\nDocument(s) Contact Phone:\n+61 2 6166 4510\nDocument(s) Contact Email:\ntenders@grdc.com.au",
+      "name": "Justine Morgan",
+      "email": "tenders@grdc.com.au",
+      "phone": "+61 2 6166 4510"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-10T22:02:21.264Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/0cfa9d36-97d4-495f-8065-eb1a9048fb63",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/0cfa9d36-97d4-495f-8065-eb1a9048fb63",
+    "reference": "ATM_2026_3494",
+    "title": "Develop Generic Geological Disposal Concepts and Facility Design",
+    "description": "Options for implementation and delivery of a geological disposal program to support the management and disposal of low to higher activity waste.",
+    "publishedAt": "2026-08-13T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Industry, Science and Resources",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "81100000 - Professional engineering services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-10T04:00:00.000Z",
+    "closingAtRaw": "10-Sep-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Sallyann Lloyd\nEmail Address:\narwatenders@industry.gov.au",
+      "name": "Sallyann Lloyd",
+      "email": "arwatenders@industry.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-10T22:02:21.264Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/435f4bd7-bb8d-4cde-88e6-355f94842b45",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/435f4bd7-bb8d-4cde-88e6-355f94842b45",
     "reference": "PSC002916-01",
