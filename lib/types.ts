@@ -1,7 +1,7 @@
-export type Source = 'vendorpanel' | 'austender';
+export type Source = 'vendorpanel' | 'austender' | 'nsw';
 export type State = 'NSW'|'VIC'|'QLD'|'SA'|'WA'|'TAS'|'NT'|'ACT';
 export type BuyerType = 'council'|'state-agency'|'university'|'goc'|'other';
-export type RequestType = 'rft'|'rfq'|'eoi'|'panel'|'forward-notice'|'other';
+export type RequestType = 'rft'|'rfq'|'rfp'|'eoi'|'panel'|'forward-notice'|'other';
 export type Buyers = Record<string, {state: State|null; type: BuyerType}>;
 export type VendorPanelDetails = {
  opportunityDescription?:string|null;
@@ -19,6 +19,7 @@ export type Tender = {
  buyer: string; buyerType: BuyerType|null; state: State|null; categories: string[];
  requestType: RequestType; closingAt: string|null; closingAtRaw: string|null; publishedAt: string|null;
  contact: {name?:string;email?:string;phone?:string;raw:string}|null;
+ documents?: string[];
  documentCount: number|null; sourceUrl: string; firstSeenAt: string;
  vendorPanelDetails?:VendorPanelDetails;
  changes: {field:string;from:string;to:string;at:string}[];

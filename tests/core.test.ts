@@ -1,6 +1,7 @@
 import test from 'node:test';import assert from 'node:assert/strict';
 import {parseDate,classify,buyerInfo} from '../lib/normalise';
 import {parseVendorPanel} from '../lib/parsers/vendorpanel';import {parseAusTender} from '../lib/parsers/austender';
+import {parseNSW} from '../lib/parsers/nsw';
 import {diffSnapshots} from '../lib/snapshot';import {categoryGroup,categoryGroups,filterListings,createIndex,compact} from '../lib/search';
 import type {ParsedTender,Tender,ArchivedTender} from '../lib/types';
 const at='2026-09-07T00:00:00.000Z';
@@ -21,6 +22,7 @@ test('blocked or malformed responses cannot masquerade as an empty successful so
  assert.throws(()=>parseVendorPanel('<html>403</html>',{}));assert.throws(()=>parseAusTender('<html>403</html>'));assert.throws(()=>parseVendorPanel('<rss><channel><item><title>x</title></item></channel></rss>',{}));
 });
 test('forward notice precedence dominates RFT and panel keywords',()=>{assert.equal(classify('ADVANCE TENDER NOTICE - RFT','preferred supplier arrangement'),'forward-notice');assert.equal(classify('Grounds services','There is no need to provide a response'),'forward-notice');assert.equal(classify('EOI parks','request for tender'),'eoi');assert.equal(classify('Supplier register',''),'panel')});
+test('NSW snapshot maps jobs, dates, types and source URLs',()=>{const records=parseNSW({jobs:[{company:'Transport for NSW',description:'Request for proposal services',jobType:'Request for proposal (RFP)',location:null,postedDate:'8-Oct-2026 15:00',salary:null,title:'Bridge works',url:'https://buy.nsw.gov.au/prcOpportunity/example'}]},assert.fail);assert.equal(records[0].source,'nsw');assert.equal(records[0].state,'NSW');assert.equal(records[0].requestType,'rfp');assert.equal(records[0].publishedAt,'2026-10-08T04:00:00.000Z');assert.equal(records[0].closingAt,null)});
 test('buyer exact and normalised matches, logged fallback, ambiguous locations',()=>{let misses=0;assert.equal(buyerInfo('EXAMPLE Council!','',{'Example Council':{state:'NSW',type:'council'}},assert.fail).state,'NSW');assert.equal(buyerInfo('missing','Brisbane time',{},()=>misses++).state,'QLD');assert.equal(buyerInfo('missing','Canberra, Melbourne, Sydney time',{},()=>misses++).state,null);assert.equal(misses,2)});
 test('identical refresh is byte-stable without active lastSeenAt',()=>{const first=diffSnapshots([],[],{vendorpanel:[item]},at);const second=diffSnapshots(first.tenders,first.archive,{vendorpanel:[item]},'2026-09-08T00:00:00.000Z');assert.deepEqual(first,second);assert.ok(!('lastSeenAt' in second.tenders[0]))});
 test('disappearance archives; failure keeps other source unchanged; reappearance restores firstSeenAt',()=>{

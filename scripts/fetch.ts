@@ -3,25 +3,28 @@ import {enrichVendorPanel} from '../lib/vendorpanel-http';
 import {readFile,writeFile,rename} from 'node:fs/promises';
 import {parseVendorPanel} from '../lib/parsers/vendorpanel';
 import {parseAusTender,enrichAusTender} from '../lib/parsers/austender';
+import {parseNSW} from '../lib/parsers/nsw';
 import {diffSnapshots,key} from '../lib/snapshot';
 import {buyerInfo} from '../lib/normalise';
 import type {Tender,ArchivedTender,Buyers,Metadata,Source,ParsedTender} from '../lib/types';
 const now=new Date().toISOString();
 const read=async<T,>(name:string):Promise<T>=>JSON.parse(await readFile(`data/${name}.json`,'utf8'));
 const [active,archive,buyers,meta]=await Promise.all([read<Tender[]>('tenders'),read<ArchivedTender[]>('archive'),read<Buyers>('buyers'),read<Metadata>('meta')]);
-const urls:Record<Source,string>={vendorpanel:'https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all',austender:'https://www.tenders.gov.au/public_data/rss/rss.xml'};
+const urls:Record<Source,string>={vendorpanel:'https://www.vendorpanel.com.au/PublicTendersRssV2.aspx?mode=all',austender:'https://www.tenders.gov.au/public_data/rss/rss.xml',nsw:'https://buy.nsw.gov.au/'};
 const report:{at:string;sources:Record<string,unknown>}={at:now,sources:{}};
 const snapshots:Partial<Record<Source,ParsedTender[]>>={};
 await Promise.all((Object.keys(urls) as Source[]).map(async source=>{
  const warnings:string[]=[];const warn=(message:string)=>{warnings.push(message);console.warn(`WARNING [${source}] ${message}`);};
  try{
+ const records=source==='nsw'?parseNSW(JSON.parse(await readFile('data/nsw.json','utf8')),warn):await (async()=>{
  const xml=source==='austender'?await getAusTenderText(urls[source],warn):await (async()=>{
  const response=await fetch(urls[source],{headers:{'User-Agent':'TenderCollection/1.0 (+https://tendercollection.vercel.app/about/; public RSS aggregator)','Accept':'application/rss+xml, application/xml, text/xml'},signal:AbortSignal.timeout(45000)});
  if(!response.ok)throw new Error(`HTTP ${response.status}`);
  return response.text();
  })();
  if(xml.length>10_000_000)throw new Error('Unexpectedly large RSS response');
- const records=source==='vendorpanel'?await enrichVendorPanel(parseVendorPanel(xml,buyers,warn),active.filter(t=>t.source==='vendorpanel'),undefined,warn):await enrichAusTender(parseAusTender(xml,warn),url=>getAusTenderText(url,warn),warn);
+ return source==='vendorpanel'?await enrichVendorPanel(parseVendorPanel(xml,buyers,warn),active.filter(t=>t.source==='vendorpanel'),undefined,warn):await enrichAusTender(parseAusTender(xml,warn),url=>getAusTenderText(url,warn),warn);
+ })();
  if(new Set(records.map(key)).size!==records.length)throw new Error('Duplicate feed identifiers');
  // An empty feed is too risky to treat as mass disappearance without operator review.
  if(!records.length)throw new Error('Empty source snapshot; retaining previous records');

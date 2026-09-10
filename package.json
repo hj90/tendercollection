@@ -6,6 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "fetch": "node --import tsx scripts/fetch.ts",
+    "scrape:nsw": "node --import tsx scripts/scrape-nsw.ts",
+    "scrape:nsw:batch": "node --import tsx scripts/scrape-nsw-batch.ts",
+    "scrape:nsw-list": "node --import tsx scripts/scrape-nsw-list.ts",
+    "import:nsw": "node --import tsx scripts/import-nsw.ts",
     "test": "node --import tsx --test tests/*.test.ts",
     "typecheck": "tsc --noEmit"
   },

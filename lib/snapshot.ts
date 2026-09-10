@@ -3,7 +3,7 @@ import type {Tender,ParsedTender,ArchivedTender,Source} from './types';
 export const key=(t:{source:Source;id:string})=>`${t.source}:${t.id}`;
 export function diffSnapshots(active:Tender[],archive:ArchivedTender[],snapshots:Partial<Record<Source,ParsedTender[]>>,now:string) {
  const next:Tender[]=[];const history=new Map(archive.map(t=>[key(t),t]));
- for(const source of ['vendorpanel','austender'] as const){
+ for(const source of ['vendorpanel','austender','nsw'] as const){
  const previous=active.filter(t=>t.source===source);const incoming=snapshots[source];
  if(incoming===undefined){next.push(...previous);continue;}
  const unique=new Map<string,ParsedTender>();
