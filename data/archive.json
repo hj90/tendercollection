@@ -204,6 +204,33 @@
     "archivedAt": "2026-09-09T22:04:31.613Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/df489bf3-1b90-4336-a2a4-39213c988e9f",
+    "reference": "AIMSRFT787",
+    "title": "AIMS Index of Marine Industry",
+    "description": "The AIMS Index of Marine Industry is produced on a biennial basis. The 2025 edition updated estimates for 2021–22 and 2022–23 and introduced an initial qualitative discussion of blue economy concepts.\nAIMS is seeking suitably qualified economic consultancies to deliver the AIMS Index of Marine Industry 2027, including a strengthened Blue Economy and Blue Carbon assessment.The 2027 Index should:\n• Maintain a robust and backwards-comparable time series of marine industry output, value added and employment.\n• Include a concise but structured Blue Economy module, with explicit coverage of blue carbon ecosystems and nature-based solutions as emerging economic and environmental assets.\n• Include a concise section outlining key differences from the 2025 Index in data, methods, and findings.\nThe work will be undertaken with regard to relevant Australian Government and international blue economy, ocean accounting and climate policy frameworks.",
+    "publishedAt": "2026-08-10T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Institute of Marine Science",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "81121500 - Economic analysis"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-14T07:00:00.000Z",
+    "closingAtRaw": "14-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Mark Kelly\nEmail Address:\ntenders@aims.gov.au\nWeb Address:\nhttp://www.austender.gov.au",
+      "name": "Mark Kelly",
+      "email": "tenders@aims.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/df4a612e-1fde-4d92-b078-66a8f6c9e225",
     "reference": "PROC-8302",
@@ -3322,6 +3349,77 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "0f64d058655c413692480951d6798be0",
+    "source": "vendorpanel",
+    "reference": "VP521527",
+    "title": "Footpath Construction Works - Nyah, Swan Hill and Piangil",
+    "description": "Swan Hill Rural City Council invites tenders for the construction of concrete shared user paths at various locations in Swan Hill, Piangil and Nyah. The works are divided into five (5) separable portions. While Council encourages tenderers to submit a tender for all five portions, submissions for one or more individual portions will also be considered.\n\nCertain works are located within road reserves managed by the Department of Transport and Planning (DTP). Tenderers proposing to undertake these works must hold the applicable DTP prequalification. Refer to section 2.4 below for details.",
+    "buyer": "Swan Hill Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T04:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-17T06:28:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0f64d058655c413692480951d6798be0s521527s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "45 Splatt St\nSwan Hill, Victoria 3585\nAustralia",
+      "buyerWebsite": "https://www.swanhill.vic.gov.au/",
+      "buyerDescription": "Swan Hill Rural City Council, \"The Heart of the Murray\" is a bustling provincial centre just three and a half hours from Melbourne and five and a half hours from Adelaide.The region is renowned for its world class produce, spectacular landscapes and close proximity to the Murray River. Our region runs adjacent to the Murray River for nearly 200 kilometres and encompasses 6,000 square kilometres and home to 20,000 people.",
+      "buyerReference": "27 12 1905",
+      "opensAt": "2026-08-16T14:00:00.000Z",
+      "opensAtRaw": "Monday 17 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 September 2026 (AUS Eastern Standard Time)",
+      "background": "Swan Hill Rural City Council is a local government authority, spanning approximately 6,116 square kilometres and serving a population of around 21,000 people.\n\nLocated along the Murray River in northern Victoria, the municipality includes the townships of Swan Hill, Robinvale, Lake Boga, Nyah, Nyah West, Piangil, Beverford, Woorinen South, Ultima, Manangatang and Boundary Bend.\n\nFootpaths are key assets managed by the Council and are vital for the community as they enhance pedestrian safety, accessibility and drainage. Council’s responsibilities include maintaining and improving this infrastructure through ongoing construction, renewal and upgrade works.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you included in your submission evidence demonstrating that appropriate OHS and risk management systems are in place and that safe systems of work will be maintained throughout the delivery of the Contract?",
+        "Do you hold the minimum insurance policies and coverage levels specified in Part C – General Conditions of Contract, and have you included evidence of this in your submission?",
+        "If tendering for Separable Portions A, B and/or C, have you included in your submission evidence of current VicRoads Traffic Management Accreditation?"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Loddon\n2: Mallee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-31T22:02:00.000Z",
+          "question": "Can we please get some more information around the hydroseeding specifications or what the Council specified grass mix is.",
+          "answeredAt": "2026-09-02T02:17:00.000Z",
+          "answer": "Thanks for your question. Council prefers to have 80 (Rye) : 20 (Kikuyu)."
+        },
+        {
+          "askedAt": "2026-09-01T00:47:00.000Z",
+          "question": "For line item 4.1 in the Separable Portion C (Part A) since they no longer make 300mm RCP pipe anymore can we use 300mm storm pro in its place.",
+          "answeredAt": "2026-09-03T01:57:00.000Z",
+          "answer": "Hi Tenderer\n\nPlease put your pricing as per the availability of materials stating the reason for alternate choice. Thank you."
+        },
+        {
+          "askedAt": "2026-09-08T20:49:00.000Z",
+          "question": "Morning,\n\nIn the Provisional item 6.3. What material is to be used for the 200mm Capping Materials",
+          "answeredAt": "2026-09-09T05:21:00.000Z",
+          "answer": "Hi Tenderer\n\nThank you for your interest in the project. We would prefer Class 3 crushed rock as 6.3 capping material under the provisional items."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-04T03:49:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Tender Addendum_1.pdf\n\n2. Added: \t VIN331-StormPRO-installation-Guide_122560.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "13d81ecc6e02445a982aec9a09d13d20",
     "source": "vendorpanel",
     "reference": "VP521858",
@@ -3441,6 +3539,63 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "176a10d9d1bc43e18390807428b692c6",
+    "source": "vendorpanel",
+    "reference": "VP522267",
+    "title": "IRC-IS-0526-T475 Residential Renewals Moranbah",
+    "description": "Isaac Regional Council (Council) is seeking qualified contractors to undertake residential renovation works across three (3) unoccupied properties. The primary objective of this project is to bring these homes/properties up to current living and safety standards. The request for tender has two (2) separable portions. Council may award to individual contractors for each Portion, or to a sole contractor for the entirety of the works.\n\nThe Separable Portions are:\n\nSeparable Portion A\n\n- Unit 05, 17 Utah Dr, Moranbah QLD 4744\n\n- Unit 23, 17 Utah Dr, Moranbah QLD 4744\n\nSeparable Portion B\n\n- 37 Kennedy St, Moranbah QLD 4744\n\nMandatory Site Meeting 1 September 2026, see tender documents for further information.\n\nTender Closes 2pm 14 September 2026.\n\nKind Regards,\n\nIsaac Regional Council",
+    "buyer": "Isaac Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-14T04:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-21T05:25:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=176a10d9d1bc43e18390807428b692c6s522267s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "1 Batchelor Parade\nMoranbah, Queensland 4744\nAustralia",
+      "buyerWebsite": "http://www.isaac.qld.gov.au/",
+      "buyerDescription": "Isaac Regional Council was formed on Saturday 15 March 2008 through the amalgamation of three former shires: Belyando, Broadsound and Nebo. Council’s role is to provide facilities throughout the region in an effective and efficient manner and encourage strategic and sustainable development of the area for the benefit of all citizens.",
+      "buyerReference": null,
+      "opensAt": "2026-08-20T14:00:00.000Z",
+      "opensAtRaw": "Friday 21 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-25T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 26 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy\n2: Mackay\n3: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-26T03:53:00.000Z",
+          "question": "Good afternoon,\n\nI hope you are having a great week. In the initial documentation it notes an onsite attendance to be undertaken Tuesday 1st September. Our business is based in Brisbane with a trade network throughout SEQ but also in the Central QLD area. If you are able to advise when an timeline of attendance is to be undertaken, that would be greatly appreciated to then ensure attendance to run through the scope, timeline for works to be undertaken that would be fantastic.\n\nThanks.",
+          "answeredAt": "2026-08-26T04:10:00.000Z",
+          "answer": "Good afternoon,\n\nPlease note that the RSVP for the mandatory site meeting is due by Saturday 29 August 2026, however, you may submit your RSVP at any time prior to this deadline.\n\nThe mandatory site meeting will provide an opportunity to review each property in detail and discuss any queries or concerns you may have. Alternatively, questions and concerns can also be raised through the Vendor Panel platform.\n\nKind Regards,\n\nIsaac Regional Council"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Isaac Regional Council (Council) is seeking qualified contractors to undertake residential renovation works across three (3) unoccupied properties. The primary objective of this project is to bring these homes/properties up to current living and safety standards. The request for tender has two (2) separable portions. Council may award to individual contractors for each Portion, or to a sole contractor for the entirety of the works.\n\nThe Separable Portions are:\n\nSeparable Portion A \n\n- Unit 05, 17 Utah Dr, Moranbah QLD 4744\n\n- Unit 23, 17 Utah Dr, Moranbah QLD 4744\n\nSeparable Portion B \n\n- 37 Kennedy St, Moranbah QLD 4744\n\nMandatory Site Meeting 1 September 2026, see tender documents for further information. \n\nTender Closes 2pm 14 September 2026. \n\nKind Regards, \n\nIsaac Regional Council",
+        "to": "Isaac Regional Council (Council) is seeking qualified contractors to undertake residential renovation works across three (3) unoccupied properties. The primary objective of this project is to bring these homes/properties up to current living and safety standards. The request for tender has two (2) separable portions. Council may award to individual contractors for each Portion, or to a sole contractor for the entirety of the works.\n\nThe Separable Portions are:\n\nSeparable Portion A\n\n- Unit 05, 17 Utah Dr, Moranbah QLD 4744\n\n- Unit 23, 17 Utah Dr, Moranbah QLD 4744\n\nSeparable Portion B\n\n- 37 Kennedy St, Moranbah QLD 4744\n\nMandatory Site Meeting 1 September 2026, see tender documents for further information.\n\nTender Closes 2pm 14 September 2026.\n\nKind Regards,\n\nIsaac Regional Council",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "189efe68d5314fc280f49b9dc74e37db",
@@ -3883,6 +4038,80 @@
     "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
+    "id": "29396794115d43c09fa1bf6ce33f5c15",
+    "source": "vendorpanel",
+    "reference": "VP518228",
+    "title": "CMS Support and Maintenance Services",
+    "description": "The City of Bayswater (“the Principal”) is a WA local government located approximately eight kilometres north-east of the Perth CBD. It includes the suburbs of Bayswater, Bedford, Embleton, Morley, Noranda, Maylands and parts of Mount Lawley and Dianella.\n\nThe Principal is seeking responses from suitably qualified and experienced CMS content support providers (\"Respondents\") to deliver ongoing content management support services for its corporate website, which operates on the Kentico Xperience cloud platform.\n\nThe Principal intends to contract the successful Respondent (“Contractor”) for an initial term of 24 months, with three (3) term extension options each of 12 months for a maximum Contract Term of 60 months. A decision to exercise a term extension option will be at the sole discretion of the Principal and subject to the Principal’s operational requirements and the Contractor’s performance.\n\nThe Statement of Requirement (Part 2 of this Request) sets out a full description of the Principal’s requirements in relation to this Request.",
+    "buyer": "City of Bayswater",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T06:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-02T21:00:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=29396794115d43c09fa1bf6ce33f5c15s518228se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "61 Broun Ave\nMorley, Western Australia 6062\nAustralia",
+      "buyerWebsite": "http://www.bayswater.wa.gov.au/",
+      "buyerDescription": "Known as the “Garden City”, City of Bayswater covers a beautifully maintained area of 33km2 located just 8km north-east of Perth. It is home to a number of picturesque, exciting and educational attractions and 10km of Swan River foreshore.",
+      "buyerReference": "QUOT-413B",
+      "opensAt": "2026-08-02T16:00:00.000Z",
+      "opensAtRaw": "Monday 03 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T06:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 02:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2027-03-12T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 13 March 2027 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-03T02:21:00.000Z",
+          "question": "We are an Australian sole trader and do not currently hold the insurance limits specified in Part 3. Would the City accept a binding undertaking to obtain the required $10 million public liability, $1 million cyber liability and appropriate sole-trader personal accident insurance prior to contract execution or service commencement, with Certificates of Currency supplied within seven days of notification as preferred respondent? Please also clarify the intended $50 million limit for personal accident insurance applicable to a sole trader and the required professional indemnity limit referenced in Part 2.",
+          "answeredAt": "2026-08-03T02:35:00.000Z",
+          "answer": "Hi Wesley,\n\nIf you could, please submit what you have already plus your intention to obtain if awarded. All insurance requirements (except WC) are desired and not necessarily required, dependent on a few factors that can be reviewed by the Principal during the evaluation process.\n\nThe Worker's Compensation is mandatory and standard for organisations, and Personal Accident Insurance is the equivalent for sole traders.\n\nProfessional Indemnity is not required for this RFQ and was referenced by mistake. If a supplier does hold this insurance, we encourage them to provide a copy for our review regardless.\n\nPlease let me know if you have further clarification."
+        },
+        {
+          "askedAt": "2026-09-07T04:54:00.000Z",
+          "question": "Clause 4.22.10.1 requires personal information to be stored and processed within Australia unless otherwise approved in writing, and not transferred outside Australia without prior written consent and appropriate safeguards.\n\nCould the City please clarify:\n\n1. Whether the City would consider granting written consent under clause 4.22.10.1 for named personnel located outside Australia to perform functions that do not involve access to personal information, and what safeguards it would expect;\n\n2. Whether such consent should be sought at the time of Response or addressed post-award through the Onboarding Plan; and\n\n3. Whether Respondents should assume that administrative access to the Kentico Xperience CMS necessarily carries access to personal information, or whether segregation is achievable within the platform configuration being delivered under the separate migration work package.",
+          "answeredAt": "2026-09-07T05:15:00.000Z",
+          "answer": "Hi, thanks for the questions. Please allow us a few days to compile the answer for you. We will post the response as an Addendum (additional document). Thank you"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-08T03:24:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t QUOT-413B - Addendum 01.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "description",
+        "from": "The City of Bayswater (“the Principal”) is a WA local government located approximately eight kilometres north-east of the Perth CBD. It includes the suburbs of Bayswater, Bedford, Embleton, Morley, Noranda, Maylands and parts of Mount Lawley and Dianella.\n\nThe Principal is seeking responses from suitably qualified and experienced CMS content support providers (\"Respondents\") to deliver ongoing content management support services for its corporate website, which operates on the Kentico Xperience cloud platform. \n\nThe Principal intends to contract the successful Respondent (“Contractor”) for an initial term of 24 months, with three (3) term extension options each of 12 months for a maximum Contract Term of 60 months. A decision to exercise a term extension option will be at the sole discretion of the Principal and subject to the Principal’s operational requirements and the Contractor’s performance. \n\nThe Statement of Requirement (Part 2 of this Request) sets out a full description ...",
+        "to": "The City of Bayswater (“the Principal”) is a WA local government located approximately eight kilometres north-east of the Perth CBD. It includes the suburbs of Bayswater, Bedford, Embleton, Morley, Noranda, Maylands and parts of Mount Lawley and Dianella.\n\nThe Principal is seeking responses from suitably qualified and experienced CMS content support providers (\"Respondents\") to deliver ongoing content management support services for its corporate website, which operates on the Kentico Xperience cloud platform.\n\nThe Principal intends to contract the successful Respondent (“Contractor”) for an initial term of 24 months, with three (3) term extension options each of 12 months for a maximum Contract Term of 60 months. A decision to exercise a term extension option will be at the sole discretion of the Principal and subject to the Principal’s operational requirements and the Contractor’s performance.\n\nThe Statement of Requirement (Part 2 of this Request) sets out a full description of the Principal’s requirements in relation to this Request.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "2ce0faa3ec6b4d99846183951fbf4f8e",
     "source": "vendorpanel",
     "reference": "VP521678",
@@ -4195,6 +4424,59 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "39f741bd07b44d92a1e8cace80589400",
+    "source": "vendorpanel",
+    "reference": "VP522128",
+    "title": "T27011 - Statutory Planning Public Notice Installation Services Panel",
+    "description": "Contract No. T27011 - Statutory Planning Public Notice Installation Services Panel\n\nTenders are invited for the Statutory Planning Public Notice Installation Service.\n\nCouncil is seeking submissions from suitably qualified and experienced contractors for the provision of public notification signage services associated with statutory planning applications. The services include the production, installation, maintenance, inspection and removal of public notice signs at locations throughout the municipality, in accordance with Council requirements and relevant legislative obligations.\n\nThe successful contractor will be required to provide a reliable, responsive and customer-focused service that supports Council’s statutory planning processes. Tenderers will be expected to demonstrate their experience in delivering similar services, their capacity to meet service timeframes, quality assurance processes, reporting capabilities, and commitment to workplace health and safety. Council intends to appoint a contractor that can deliver a consistent and efficient service while providing value for money.\n\nNOTE: The Vendor Panel online forum closes five business days prior to the abovementioned tender closing date. Council reserves the right not to accept the lowest or any Tender, or part thereof. Tenders received after the closing time will not be considered.",
+    "buyer": "City of Stonnington",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Printing & Distribution Services",
+      "Signs & Barriers"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T02:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-21T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=39f741bd07b44d92a1e8cace80589400s522128",
+    "vendorPanelDetails": {
+      "buyerAddress": "311 Glenferrie Rd\nMalvern, Victoria 3143\nAustralia",
+      "buyerWebsite": "https://www.stonnington.vic.gov.au/Home",
+      "buyerDescription": "The City of Stonnington is a local government area located within the metropolitan area of Melbourne, Australia. It comprises the inner south-eastern suburbs, between 3 and 13 km (2 and 8 mi), from the Melbourne CBD. The city covers an area of 25.7 km2 (9.9 sq mi).\n\nWithin twenty years of the settlement of Melbourne in 1835, the Prahran Municipality (later City of Prahran) was formed in 1855, followed by the Gardiner Road Board (later City of Malvern) in 1856.\n\nThe late 19th century saw substantial residential and commercial development such that by 1891 Prahran had a population of almost 40,000 and Malvern 11,000. Following the election of the Kennett government in the Spring of 1992, as part of a comprehensive reorganisation of local government in Victoria, the Cities of Malvern and Prahran were amalgamated to form the City of Stonnington.",
+      "buyerReference": "T27011",
+      "opensAt": "2026-08-21T14:00:00.000Z",
+      "opensAtRaw": "Saturday 22 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-10T02:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 12:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": "Companies responding to this category will be required to provide external notification and advertising services to support statutory planning processes including preparation, printing and distribution of notices in accordance with legislative requirements.\n\nThis includes public notices, letters to adjoining owners and occupiers, and on-site signage, ensuring accuracy, timeliness, and compliance with relevant planning legislation and Council standards.\n\nThe service must be reliable, responsive to Council timeframes, and capable of managing varying volumes of work during peak periods, while maintaining clear communication and quality assurance throughout the notification process.",
+      "buyerQuestions": [
+        "Have you completed and attached the following tender submission schedules?\n- T27011 - Part E - RFT Response Schedules"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Contract No. T27011 - Statutory Planning Public Notice Installation Services Panel\n\nTenders are invited for the Statutory Planning Public Notice Installation Service.\n\nCouncil is seeking submissions from suitably qualified and experienced contractors for the provision of public notification signage services associated with statutory planning applications. The services include the production, installation, maintenance, inspection and removal of public notice signs at locations throughout the municipality, in accordance with Council requirements and relevant legislative obligations.\n\nThe successful contractor will be required to provide a reliable, responsive and customer-focused service that supports Council’s statutory planning processes. Tenderers will be expected to demonstrate their experience in delivering similar services, their capacity to meet service timeframes, quality assurance processes, reporting capabilities, and commitment to workplace health and safety. Council int...",
+        "to": "Contract No. T27011 - Statutory Planning Public Notice Installation Services Panel\n\nTenders are invited for the Statutory Planning Public Notice Installation Service.\n\nCouncil is seeking submissions from suitably qualified and experienced contractors for the provision of public notification signage services associated with statutory planning applications. The services include the production, installation, maintenance, inspection and removal of public notice signs at locations throughout the municipality, in accordance with Council requirements and relevant legislative obligations.\n\nThe successful contractor will be required to provide a reliable, responsive and customer-focused service that supports Council’s statutory planning processes. Tenderers will be expected to demonstrate their experience in delivering similar services, their capacity to meet service timeframes, quality assurance processes, reporting capabilities, and commitment to workplace health and safety. Council intends to appoint a contractor that can deliver a consistent and efficient service while providing value for money.\n\nNOTE: The Vendor Panel online forum closes five business days prior to the abovementioned tender closing date. Council reserves the right not to accept the lowest or any Tender, or part thereof. Tenders received after the closing time will not be considered.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "3b7310a253734efa9409717ab7e756df",
     "source": "vendorpanel",
     "reference": "VP521260",
@@ -4302,6 +4584,173 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
+    "id": "3dc6e990769540b68e727258b518433d",
+    "source": "vendorpanel",
+    "reference": "VP522181",
+    "title": "5603-6500-0001 Escott Weir Repair",
+    "description": "Burke Shire Council invites tenders from suitably qualified tenderers for the construction of DRFA restoration works on the Escott weir.\n\nThe scope of works required under the contract includes repairs to the existing water supply weir. Repairs are undertaken with a combination of sheet piling, concrete fill and rock protection.",
+    "buyer": "Burke Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T04:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-21T01:01:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=3dc6e990769540b68e727258b518433ds522181s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "19 Main St\nBuderim, Queensland 4556\nAustralia",
+      "buyerWebsite": "http://www.burke.qld.gov.au/",
+      "buyerDescription": "The Shire of Burke is in far North West Queensland on the Gulf of Carpentaria, adjoining the Northern Territory border.\n\nBurketown is located on the Savannah Way, one of the world's great transcontinental road journeys for adventure travellers.\n\nBurketown is 2,115km to the north west of Brisbane, the capital of Queensland, and 2,100km from Darwin. The Shire lies on the southern coast of the Gulf of Carpentaria and and shares a border with the Northern Territory.",
+      "buyerReference": "5603-6500-0001",
+      "opensAt": "2026-08-20T14:00:00.000Z",
+      "opensAtRaw": "Friday 21 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Please complete Response Schedules within the Tender documents."
+      ],
+      "serviceRegions": [
+        "Queensland\n1: North West"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-27T04:31:00.000Z",
+          "question": "The questions for this Escott Weir Repair job:\n\n1. Can we have the Geo Tech report for the foundation and soil condition of the work area please? As we need to install the spec sheet pile 4mm thick & 5.5 meters deep under the working ground (6 meters depth of the sheet piles), it's very important to have that Geo Tech report for the soil condition.\n\n2. Can we use the nearest empty space near the weir to be a site establishment for the site facilities (office, lunchroom, etc.) put the equipment within the site fence please?\n\n3. About the traffic management plan, can we ask the permit from the council, or should we ask the traffic management company to apply for that?\n\nThanks very much.",
+          "answeredAt": "2026-09-01T05:49:00.000Z",
+          "answer": "1. Please refer to GT25-014-25 issued by ARO, uploaded today.\n\n2. Yes, site facilitites can be located near the weir within road reserve\n\n3. The contractor will arrange for a TMD to draft a traffic management plan and TGS for the works. The successful contractor will issue this to council for approval."
+        },
+        {
+          "askedAt": "2026-08-31T05:20:00.000Z",
+          "question": "Hi there,\n\nCan we use the Brand Terra the steel sheet pile STC S355 BTPILESEC SCH 5 or the VINYL pile STC TKV620 to replace the sheet pile PSH3-700 from Piling Solutions please? From the Terra company the item can replace this Piling Solutions, As the Piling solution still haven't sent the price out, the Vinyl sheet pile will be 9.5mm thick, more echo-friendly, never get rusted, long life-span, and cheaper. So, can you please let us know if it's ok to quote with different brand and material replacement for the price. Thanks very much.\n\nCarter",
+          "answeredAt": "2026-09-01T05:50:00.000Z",
+          "answer": "Good Afternoon,\n\nAs long as the section modulus is greater than the specified pile, the nominated alternatives are acceptable.\n\nWe would consider this substitution to be an alternate tender. Please ensure you submit both a conforming tender as well as the non-conforming tender. Please advise if any issues in this regard."
+        },
+        {
+          "askedAt": "2026-09-03T01:03:00.000Z",
+          "question": "Good morning. Can Council please provide the geotechnical report for this project.",
+          "answeredAt": "2026-09-03T01:52:00.000Z",
+          "answer": "Please refer to GT25-014-25 Issue 1.pdf (119.0 Kb), added to the Vendorpanel request yesterday."
+        },
+        {
+          "askedAt": "2026-09-03T03:17:00.000Z",
+          "question": "RFI - Geotech Report\n\nHi Council,\n\nCould we please request any available Geotech reports or site investigations to determine ground conditions for sheet piling works. If these sheets were to hit anything underground in the driving process, they will bend very easily rendering the job unsuccessful.\n\nRFI - Wet Season\n\nHi Council,\n\nCould you please advise of any funding constraints that require the project to be complete prior to wet season? Given Leadtime on sheet piles is around 3weeks this becomes increasingly risky in an already heavy flow stream to perform works.\n\nRFI - Existing Concrete Slab\n\nHi Council,\n\nthe project drawings do not clearly demonstrate a saw cut line or demolition details, section A and B both show mass concrete fill behind downstream sheets. Is there replacement of existing slab required?\n\nRFI - Cultural Heritage\n\nHi Council,\n\nHas cultural heritage inspection of the work area been undertaken or will be undertaken prior to contract award to ensure no delays occur?\n\nRFI - Sheet Pile material & Method\n\nHi Council,\n\nIs construction sequencing flexible? currently there is large amount of dump rock and rock erosion control bags present within downstream work area. The current designed sheet piles would be unable to be driven through any rocky materials and therefore would require downstream toe to be excavated prior to commencing sheet piles. If these sheets were to hit anything underground in the driving process, they will bend very easily rendering the job unsuccessful.\n\nRFI - Local Traffic\n\nHi Council,\n\nGiven the required construction methodology will generate significant increased flows through section 2 of the weir. Has community consultation been sought to advise of significant increase in safety risks when crossing this weir during construction? Proposal to close to local traffic should be considered given the increase in safety risks.",
+          "answeredAt": "2026-09-07T04:11:00.000Z",
+          "answer": "RFI - Geotech Report\n\nAnswer: Please refer to GT25-014-25 Issue 1.pdf (119.0 Kb), uploaded to Vendorpanel on 01/09/2026.\n\nRFI - Wet Season\n\nAnswer: Current intent is to complete the Works this year.\n\nRFI - Existing Concrete Slab\n\nAnswer: Replacement on the existing slab is not required. The Tenderer is to identify in their response how they will repair any temporary demolition required to facilitate the Works.\n\nRFI - Cultural Heritage\n\nAnswer: All works are located along within the road reserve. The local cultural heritage body has been notified of the Works.\n\nRFI - Sheet Pile material & Method\n\nAnswer: Contractor may advise on alternative sequencing, if preferred, provided the scope doesn't change. Changes to sequencing alone shall be considered as a confirming tender. \n\nRFI - Local Traffic\n\nAnswer: Access must be maintained at all times. Current water level has fallen allowing access to be currently maintained."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-01T05:51:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t GT25-014-25 Issue 1.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Burke Shire Council invites tenders from suitably qualified tenderers for the construction of DRFA restoration works on the Escott weir. \n\nThe scope of works required under the contract includes repairs to the existing water supply weir. Repairs are undertaken with a combination of sheet piling, concrete fill and rock protection.",
+        "to": "Burke Shire Council invites tenders from suitably qualified tenderers for the construction of DRFA restoration works on the Escott weir.\n\nThe scope of works required under the contract includes repairs to the existing water supply weir. Repairs are undertaken with a combination of sheet piling, concrete fill and rock protection.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
+    "id": "3e66eafd0a4a4161be0eba357d489301",
+    "source": "vendorpanel",
+    "reference": "VP522450",
+    "title": "PSA00330 - Audio Visual Partner",
+    "description": "Townsville City Council is seeking to establish a Preferred Supplier Arrangement with a suitably qualified and experienced audio visual (AV) partner.\n\nThe purpose of this arrangement is to establish a strategic audio-visual technology partner capable of providing design, supply, installation, commissioning, integration, maintenance, lifecycle management, training and support services for Council's existing and future audiovisual environments. Council reserves the right to procure goods and services outside this arrangement where operational, technical or commercial circumstances warrant.",
+    "buyer": "Townsville City Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Audio Visual Photo Equip & Supp.",
+      "IT & Telecomms"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-14T02:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T03:36:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=3e66eafd0a4a4161be0eba357d489301s522450",
+    "vendorPanelDetails": {
+      "buyerAddress": "103 Walker St\nTownsville City, Queensland 4810\nAustralia",
+      "buyerWebsite": "https://www.townsville.qld.gov.au/",
+      "buyerDescription": "The City of Townsville is an Australian local government area (LGA) located in North Queensland, Australia. It encompasses the city of Townsville, together with the surrounding rural areas, to the south are the communities of Alligator Creek, Woodstock and Reid River, and to the north are Northern Beaches and Paluma, and also included is Magnetic Island. Townsville is considered to be the capital of North Queensland.",
+      "buyerReference": "PSA00330",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T02:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-04T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 05 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-01T05:43:00.000Z",
+          "question": "Are we required to decommission the old systems?\n\nPublic BYOD Rooms - Logitech Rally Bar, Rally Bar Mini, or Rally system (BYOD Mode) with Tap control, and Philips display. This may suggest these are not MTR rooms but BYOM rooms, thus not requiring a Tap. The users laptop plugs into the Rally bar using the Extend or HDMI/USB and drives the meeting using the Rally Bar for camera, mic and speakers. Is this correct?\n\nBespoke AV rooms/sites - Involving control and signalling equipment from AMX, SVSi, Extron, Extron NAV, Biamp, Q-SYS, BSS, Kramer, Audinate, Bose, Lumens\n\nThese rooms require floor plans or photos with room dimensions and a functional brief to accurately quote. After receiving the floor plans/photos, I am happy to hold a stakeholder meeting over Teams to discuss the process and functional requirements. We conduct this work nationally and if the Council can provide the requested information we won't need to attend any site visits. Alternatively as another option we may be able to quote a Consultation to fly in a specialist to go through each room and design them appropriately.\n\nWe can provide and install under carpet floor track. We will however need to understand specifics around power and data requirements at the display and at the table so we can quote accurately.",
+          "answeredAt": "2026-09-03T01:35:00.000Z",
+          "answer": "Are we required to decommission the old systems?\n\nYes. Where an engagement involves the replacement of an existing AV system, the supplier may be required to decommission the superseded equipment. Specific decommissioning, disposal, and related requirements will be defined and agreed on a project-by-project basis through the applicable Statement of Work (SoW).\n\nPublic BYOD Rooms:\n\no These facilities are purely BYOD Rooms. As of Sept 2026, only 2 of these rooms exist however Council has plans for approx. 5-8 more to be installed. Current rooms (and some future rooms) are/will be based on Rally Bar/Rally Bar Mini BYOD mode: as per Logitech diagrams:\n\nhttps://www.logitech.com/content/dam/prosupport/vc-general/vc-product-wiring-diagrams.pdf#page=18.\n\nRetaining the Logitech Tap in place allows for Camera control, volume control and muting etc. It is an optional extra we use and require.\n\no Other rooms will involve Logitech rally parts, minus the MTR NUC. None of these are built as of Sept 2026, but are intended to be installed.\n\nTo be built as per Logitech Diagram: https://www.logitech.com/content/dam/prosupport/vc-general/vc-product-wiring-diagrams.pdf#page=41\n\nFor these units we use the Logitech BT remote for Camera and volume control.\n\nBespoke Rooms/systems:\n\no 7 bespoke systems utilising a combination of AMX, SVSi, Extron, Extron NAV, Biamp, Q-SYS, BSS, Kramer.\n\no These rooms are summarised as below:\n\n1. Local Disaster Coordination Centre - AMX Control, SVSi routing, BOSE DSP, various displays. AMX Code available. Schematic not available.\n\n2. Council Chambers - AMX Control, SVSi routing, NDI cameras & routing, Coriomaster windowing processor, Biamp Tesira DSP, Lumens Streaming. AMX Code available, Schematic available (attached).\n\n3. Riverway Library – AMX Control, SVSi routing, Biamp Tesira DSP, AMX Code available. Schematic available (attached).\n\n4. Riverway Stadium – Extron and BSS Control, Extron DTP routing, Kramer matrix switcher routing, BSS DSP. Extron code available, BSS code NOT available, Schematic for Extron Side available (attached) No schematic available for BSS side.\n\n5. Northern Beaches Community Centre. – Extron Control, Extron NAV routing, Q-SYS DSP. Extron Code available, Schematic available (attached).\n\n6. Project Connect Workshop – Extron Control, Kramer routing, Cisco Room Bar MTR. Extron Code available, Schematic available (attached).\n\n7. Daly Rd Gugu Badham Room 1st Floor – AMX Control, SVSi routing, BOSE DSP. AMX Code not available, Basic schematic available (attached). Room intended to be demolished/rebuilt within 18 months.\n\nSchematics for the above noted meeting rooms have been attached to this tender\n\nFloortrack Installation:\n\no We use Cisco Room Bars in MTR mode. Floor track products are used to provide a safe data path between the meeting room table and the wall where the display/meeting bar are mounted.\n\no This data path facilitates\n\n - mains power from the wall,\n\n - Logitech extend for wired content/BYOD,\n\n - Cat6 run for Cisco AES67 table mics,\n\n - Cat6 run for Cisco navigator control panel,\n\n - Cat6 run for 2nd Cisco Mic or future use."
+        },
+        {
+          "askedAt": "2026-09-07T23:52:00.000Z",
+          "question": "In 1 - Scope of Work, PSA00330 – Audio Visual Partner, PG 9 refers to 13 Bespoke rooms requiring Annual Maintenance.\n\nIn PSA00330-Audio_Visual_Partner_II_Schedule_2-Response_Schedule_v1.0, Business Requirement 2.7 it asks for Biannual checks for all AV systems.\n\nCan you confirm which direction you would like this priced at? Annual on Bespoke or Biannual for all 96 Rooms.",
+          "answeredAt": "2026-09-09T03:45:00.000Z",
+          "answer": "Thank you for your clarification question.\n\nWe request that the maintenance schedule is priced so that the bespoke rooms are serviced biannually and the 96 standard meeting rooms annually.\n\nGiven their higher complexity, greater number of components and increased criticality, the bespoke rooms present a higher risk of failure and would benefit from more frequent maintenance. The standard meeting rooms are generally reliable, receive firmware updates automatically and faults are typically straightforward to resolve."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T01:37:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\nSchematics to Bespoke Rooms.\n\n1. Added: \t (Addendum) ADM - Chambers SCHEMATIC V1.0.pdf\n\n2. Added: \t (Addendum) DALY - Gugu Badham Schematic.pdf\n\n3. Added: \t (Addendum) Project connect 143W L2 design.pdf\n\n4. Added: \t (Addendum) RIV - Function Room Schematic V1.pdf\n\n5. Added: \t (Addendum) TCC Northern Beaches Evac Centre - Detailed Design.pdf\n\n6. Added: \t (Addendum) TCC Riverway - AV SCHEMATICS.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-10T00:57:00.000Z",
+          "description": "Closing date has been amended to Monday 14th September 2026 - 12pm"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Townsville City Council is seeking to establish a Preferred Supplier Arrangement with a suitably qualified and experienced audio visual (AV) partner. \n\nThe purpose of this arrangement is to establish a strategic audio-visual technology partner capable of providing design, supply, installation, commissioning, integration, maintenance, lifecycle management, training and support services for Council's existing and future audiovisual environments. Council reserves the right to procure goods and services outside this arrangement where operational, technical or commercial circumstances warrant.",
+        "to": "Townsville City Council is seeking to establish a Preferred Supplier Arrangement with a suitably qualified and experienced audio visual (AV) partner.\n\nThe purpose of this arrangement is to establish a strategic audio-visual technology partner capable of providing design, supply, installation, commissioning, integration, maintenance, lifecycle management, training and support services for Council's existing and future audiovisual environments. Council reserves the right to procure goods and services outside this arrangement where operational, technical or commercial circumstances warrant.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-11T02:00:00.000Z",
+        "to": "2026-09-14T02:00:00.000Z",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "11/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "to": "14/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "40f3931f2719491395a86dd34edf5277",
@@ -5334,6 +5783,62 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "7bf22e92ceb24ccebee14cce4f267ebb",
+    "source": "vendorpanel",
+    "reference": "VP522303",
+    "title": "Facade Cleaning and Access System Inspection and Testing",
+    "description": "The Queensland Parliamentary Service (QPS) is calling for submissions from suitably qualified suppliers for the provision of Façade Cleaning and Access System Inspection and Testing at the Parliamentary Precinct.",
+    "buyer": "Queensland Parliament: Parliamentary Service",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Cleaning Services, Equip, Supplies",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T00:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T04:04:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7bf22e92ceb24ccebee14cce4f267ebbs522303",
+    "vendorPanelDetails": {
+      "buyerAddress": "2A George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.parliament.qld.gov.au/global/parliamentary-service",
+      "buyerDescription": "The Queensland Parliamentary Service stands as the backbone of the Legislative Assembly, empowering it to fulfil its critical functions of crafting laws, scrutinising finances, overseeing government actions, and fostering public discourse. Guided by unwavering integrity, we provide comprehensive administrative and support services to the Assembly, its committees, and Members, both within the parliamentary precinct and across the state's electorates. Our commitment to learning, innovation, client focus, and valuing our diverse workforce fuels our dedication to excellence. We are the Parliamentary Service, servants of democracy, safeguarding and strengthening the institution that shapes Queensland's future.",
+      "buyerReference": "2026LAQ037",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T00:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Gold Coast\n3: Sunshine Coast"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-10T08:24:00.000Z",
+          "question": "Can suppliers submit for the facade-cleaning component only? If a single response must cover both components, may the access-system inspection and testing be delivered by an approved specialist subcontractor or consortium member? Please confirm the mandatory licences or accreditations and minimum insurance limits for the head contractor and specialist subcontractor, and whether any mandatory briefing or site inspection applies.",
+          "answeredAt": "2026-09-11T02:23:00.000Z",
+          "answer": "Tenderers may submit a response for the full scope of services or for an individual service component as follows:\n\n•\tFaçade and Window Cleaning Services Only and/or\n\n•\tAnchor Point Inspection, Testing and Certification Services Only or\n\n•\tBoth Service Components as a Single Submission.\n\nWhere a Tenderer elects to submit for both service components but does not directly perform anchor point inspection and testing services, the Tenderer may engage a suitably qualified specialist subcontractor or consortium partner to undertake these works. Any proposed subcontractor or consortium member must be clearly identified within the tender submission, including their qualifications, experience, certifications and relevant licences.\n\nFor facade and window cleaning works via rope access:\n\n•\tCurrent Queensland Work Health and Safety compliance.\n\n•\tPersonnel holding a current General Construction Induction (White Card).\n\n•\tRope access technicians certified through an internationally recognised rope access scheme, such as:\n\no\tIRATA (Industrial Rope Access Trade Association) or\n\no\tSPRAT (Society of Professional Rope Access Technicians).\n\n•\tDemonstrated competency in working at heights and rescue procedures.\n\nFor anchor point inspection, testing and certification services:\n\n•\tDemonstrated competency to inspect and certify fall-arrest anchor systems in accordance with the relevant Australian Standards.\n\n•\tInspection and testing personnel suitably qualified and experienced in:\n\no AS/NZS 1891 series.\n\no AS/NZS 5532\n\no\tAS/NZS 4488 (where rope access systems are utilised).\n\n•\tUse of calibrated testing equipment and provision of certification documentation upon completion.\n\nMinimum insurance limits are noted in the ITO documentation, and a non-mandatory site inspection has already been held."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T06:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 2026LAQ037 - Addendum No. 1.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "80f0d36f6ad14825b521869aa5337272",
     "source": "vendorpanel",
     "reference": "VP521020",
@@ -5512,6 +6017,62 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T10:14:35.772Z"
+  },
+  {
+    "id": "8f09d843d3e749b8beab246a796077d2",
+    "source": "vendorpanel",
+    "reference": "VP521353",
+    "title": "T27008 - Malvern Valley Golf Course Irrigation Stage 2 & 3",
+    "description": "Contract No. T27008 - Irrigation Upgrade at MVGC – Stages 2 & 3\n\nCouncil invites suitably qualified and experienced contractors to submit tenders for the delivery of Stages 2 & 3 – Irrigation Upgrade works at the Malvern Valley Public Golf Course.\n\nThe successful contractors will be required to provide all labour, materials, equipment, services and facilities necessary to complete the works in accordance with the project drawings and specifications\n\nAn optional site visit is planned for Thursday 27th August 2026 – details can be found in Part A of the RFT package.",
+    "buyer": "City of Stonnington",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Electronic Components & Supplies",
+      "Horticulture & Arboriculture",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-14T02:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-14T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=8f09d843d3e749b8beab246a796077d2s521353",
+    "vendorPanelDetails": {
+      "buyerAddress": "311 Glenferrie Rd\nMalvern, Victoria 3143\nAustralia",
+      "buyerWebsite": "https://www.stonnington.vic.gov.au/Home",
+      "buyerDescription": "The City of Stonnington is a local government area located within the metropolitan area of Melbourne, Australia. It comprises the inner south-eastern suburbs, between 3 and 13 km (2 and 8 mi), from the Melbourne CBD. The city covers an area of 25.7 km2 (9.9 sq mi).\n\nWithin twenty years of the settlement of Melbourne in 1835, the Prahran Municipality (later City of Prahran) was formed in 1855, followed by the Gardiner Road Board (later City of Malvern) in 1856.\n\nThe late 19th century saw substantial residential and commercial development such that by 1891 Prahran had a population of almost 40,000 and Malvern 11,000. Following the election of the Kennett government in the Spring of 1992, as part of a comprehensive reorganisation of local government in Victoria, the Cities of Malvern and Prahran were amalgamated to form the City of Stonnington.",
+      "buyerReference": "T27008",
+      "opensAt": "2026-08-14T14:00:00.000Z",
+      "opensAtRaw": "Saturday 15 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-07T02:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 07 September 2026 12:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed and attached the following tender submission schedules?\n- T27008 - Part E - RFT Response Schedules\n- T27008 - Part F - Price Schedule"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Contract No. T27008 - Irrigation Upgrade at MVGC – Stages 2 & 3\n\nCouncil invites suitably qualified and experienced contractors to submit tenders for the delivery of Stages 2 & 3 – Irrigation Upgrade works at the Malvern Valley Public Golf Course. \n\nThe successful contractors will be required to provide all labour, materials, equipment, services and facilities necessary to complete the works in accordance with the project drawings and specifications\n\nAn optional site visit is planned for Thursday 27th August 2026 – details can be found in Part A of the RFT package.",
+        "to": "Contract No. T27008 - Irrigation Upgrade at MVGC – Stages 2 & 3\n\nCouncil invites suitably qualified and experienced contractors to submit tenders for the delivery of Stages 2 & 3 – Irrigation Upgrade works at the Malvern Valley Public Golf Course.\n\nThe successful contractors will be required to provide all labour, materials, equipment, services and facilities necessary to complete the works in accordance with the project drawings and specifications\n\nAn optional site visit is planned for Thursday 27th August 2026 – details can be found in Part A of the RFT package.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "8f1724ed8b16458599413a255ec2b9cd",
@@ -5897,6 +6458,61 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "9896e5673caf42abba386dea3ff53453",
+    "source": "vendorpanel",
+    "reference": "VP522054",
+    "title": "T-MSC2026-05 Provision of Debt Management Services",
+    "description": "Mareeba Shire Council invites Tenders from suitably qualified respondents for the provision of Debt Management Services across a suite of revenue control activities as described in more detail in the attached documents.",
+    "buyer": "Mareeba Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Financial & Insurance Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T01:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-20T03:25:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9896e5673caf42abba386dea3ff53453s522054s705bbe8bb5a84e26870c08bf1c8d7674s1563",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Rankin St\nMareeba, Queensland 4880\nAustralia",
+      "buyerWebsite": "https://msc.qld.gov.au/",
+      "buyerDescription": "Mareeba Shire is a growing, confident and sustainable Shire on the Atherton Tablelands in Far North Queensland. A Shire of diversity with a vibrant, multicultural population and landscapes that vary from World Heritage Rainforest and breathtaking waterfalls to productive agricultural farms and cattle properties. The Shire’s estimated population of just over 22,000, is dispersed across 53,457km2. Most of the Shire’s population resides in the Mareeba and Kuranda townships with the remaining 6,000 people in the many small, rural and remote communities including Chillagoe, Almaden, Petford, Dimbulah, Mutchilba, Koah, Speewah, Biboohra, Mt Molloy, Julatten, Mt Carbine, Irvinebank and Watsonville.",
+      "buyerReference": null,
+      "opensAt": "2026-08-19T14:00:00.000Z",
+      "opensAtRaw": "Thursday 20 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T01:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 11:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-25T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 26 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-23T22:12:00.000Z",
+          "question": "Good Morning,\n\nFor clarification please:\n\nISO 27001 - Mandatory Criteria\n\nWhere a Respondents use Microsoft 365 environments for its information and record management but does not itself hold ISO 27001 certification, please confirm whether Council will accept providing Microsoft’s current ISO/IEC 27001 certification as evidence of compliance with this mandatory criterion?\n\nData Transfer / System Access – Scope\n\nPlease confirm how Council intends to provide debtor account data to the successful Contractor, for example via Excel/CSV files, secure file transfer, access to Council systems, or another method? Please also confirm whether any direct system integration is required?\n\nPricing - Tender Form Price\n\nCouncil does not guarantee referral volumes or committed work, however the Tender Form requests a single total Price. Please confirm what Tenderers should enter as the total Price in the Tender Form?\n\nLegal Recovery / Sale of Land - Subcontracting\n\nWhere a Respondent proposes to use subcontractors for legal recovery and Sale of Land activities, please confirm whether Council will accept an approved external law firm for these services.",
+          "answeredAt": "2026-08-24T00:50:00.000Z",
+          "answer": "1 - Whilst desirable, ISO 27001 compliance/certification is not mandatory. We will issue an amendment to the scope.\n\n2 - Council can provide the information via Excel/CSV Files either via email or secure file transfer depending on the Contractors systems and requirements.\n\nDirect system integration is not required.\n\n3 - As per the page 23 of the T-MSC2026-05_Response_Schedule.docx - please provide a detailed outline of all costs associated with the provision of this service, including any applicable fees, charges and other costs.\n\n4 - Council confirms that it is acceptable for a Respondent to engage an approved external law firm to undertake legal recovery and Sale of Land activities, subject to the Respondent remaining responsible for the performance of the subcontracted services and ensuring compliance with all applicable legislation, Council policies and contractual requirements."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-24T00:58:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) T-MSC2026-05 Addendum 01.doc\n\n2. Added: \t (Addendum) T-MSC2026-05 Scope V2.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
     "id": "9913f2b0eb554cd2a4405f3a683cc0dc",
     "source": "vendorpanel",
     "reference": "VP522015",
@@ -6061,6 +6677,84 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-10T07:06:28.027Z"
+  },
+  {
+    "id": "aa1cf998aa6c4b4e9f02ebb4e39546b6",
+    "source": "vendorpanel",
+    "reference": "VP521511",
+    "title": "Connecting Kin (T210) and Equipping Kin (T211), – South East Region (Region wide service)",
+    "description": "The Customer (being the Department of Families, Seniors, Disability Services, and Child Safety, (the department)) is seeking quotes for one service provider to deliver the following two service types:\n\nConnecting Kin (T210) services are responsible for targeted family mapping and engagement leading to new family connection or family members making application to be assessed as kinship carers (engagement focused). Outsourced non-government Connecting Kin services may work in conjunction with current regional Child Safety Finding Kin teams.\n\nEquipping Kin (T211) services are responsible for supporting initial kinship carer assessments, including provisional approval assessments. Services will provide all necessary supports to have kinship carers approved so they can commence caring (assessment focused). Outsourced non-government Equipping Kin services may work in conjunction with current regional Child Safety Finding Kin teams.",
+    "buyer": "Families, Seniors, Disability Serv & Child Safety",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Community & Social Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T04:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-17T05:04:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=aa1cf998aa6c4b4e9f02ebb4e39546b6s521511s3042a24f284440dda01247ddebc36fa8s1553",
+    "vendorPanelDetails": {
+      "buyerAddress": "111 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.families.qld.gov.au/",
+      "buyerDescription": "Department of Families, Seniors, Disability Services and Child Safety - The department's vision is for Queensland’s children, young people, seniors, carers and people with disability to be safe, empowered in their families, communities and culture and thriving socially and economically",
+      "buyerReference": "DFSDSCS257",
+      "opensAt": "2026-08-16T14:00:00.000Z",
+      "opensAtRaw": "Monday 17 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-25T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 26 October 2026 (E. Australia Standard Time)",
+      "background": "As per the RFQ document",
+      "desiredOutcomes": "As per the RFQ document",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-26T00:23:00.000Z",
+          "question": "Will the Department considering multiple suppliers to deliver one or both service types or would they only consider one supplier to deliver one or both service types?",
+          "answeredAt": "2026-08-26T01:57:00.000Z",
+          "answer": "Hi Francoise,\n\nPlease find attached VP_521511_Addendum_Clarification_01_DFSDSCS257 on Vendor Panel as the response to your clarification."
+        },
+        {
+          "askedAt": "2026-08-26T01:49:00.000Z",
+          "question": "Will the Department consider multiple suppliers to deliver one or both service types or would they only consider one supplier to deliver one or both service types?",
+          "answeredAt": "2026-08-26T01:58:00.000Z",
+          "answer": "Hi Francoise,\n\nPlease find attached VP_521511_Addendum_Clarification_01_DFSDSCS257 on Vendor Panel as the response to your clarification."
+        },
+        {
+          "askedAt": "2026-09-01T07:59:00.000Z",
+          "question": "Could the department please clarify the required pricing basis for Connecting Kin (T210) and Equipping Kin (T211) in the supplier response form?\n\nWe would appreciate confirmation of what is meant by the “single priced unit” field, and whether pricing is intended to be submitted as:\n\none fixed price for delivery of the service,\n\nan annual price,\n\na rate per family/participant, or\n\nanother defined pricing unit.\n\nIf applicable, please also confirm whether the pricing unit differs between T210 and T211.\n\nThis clarification will assist us to ensure our commercial response is aligned with the department’s intended pricing format.",
+          "answeredAt": "2026-09-08T02:35:00.000Z",
+          "answer": "Suppliers are required to complete Attachment A – Financial Plan and demonstrate how the available funding will be utilised to deliver the required outputs and outcomes for Connecting Kin (T210) and Equipping Kin (T211).\n\nFor clarity:\n\n•\tConnecting Kin (T210) is funded to deliver 8,760 hours of case management per annum.\n\n•\tEquipping Kin (T211) is funded to deliver 410 Provisionally Approved/Initial Kinship Assessments per annum.\n\nSuppliers should complete the Financial Plan based on the funding and unit costs provided in Attachment A. The Financial Plan will be assessed as part of Evaluation Criterion 5 – Model and Cost Effectiveness.\n\nFor further information regarding deliverables, outputs and reporting requirements for T210 and T211, suppliers should refer to the Family Based Care Services Investment Specification, particularly Section 9 – Deliverables and Performance Measures.\n\nThis response has also been uploaded on Vendor Panel as Addendum_Clarification_02_DFSDSCS257"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-26T01:58:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) VP_521511_Addendum_Clarification_01_DFSDSCS257.docx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-08T02:36:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) VP_521511_Addendum_Clarification_02_DFSDSCS257.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-08T04:25:30.028Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "aaac05843763461693f840db498c3db9",
@@ -6591,6 +7285,73 @@
       }
     ],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "b199dd5819684b21ae16b569ad42020f",
+    "source": "vendorpanel",
+    "reference": "VP522297",
+    "title": "RFQ Boulia Depot Signage Shed",
+    "description": "Boulia Shire Council invites Quotations from suitably qualified respondents for the construction of a footing/slab and retaining wall, and design and construct a shed to sit on the site of the old depot signage shed at the council depot in Boulia.",
+    "buyer": "Boulia Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-14T04:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-21T06:29:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b199dd5819684b21ae16b569ad42020fs522297",
+    "vendorPanelDetails": {
+      "buyerAddress": "73 Elm St\nBarcaldine, Queensland 4725\nAustralia",
+      "buyerWebsite": "https://www.boulia.qld.gov.au/home-1",
+      "buyerDescription": "The Shire of Boulia is a local government area in Central West Queensland, bordering the Northern Territory. Its administrative centre is in the town of Boulia.\n\nMap of Boulia Division and adjacent local government areas, March 1902\nIt covers an area of 60,906 square kilometres (23,515.9 sq mi), and has existed as a local government entity since 1887.",
+      "buyerReference": null,
+      "opensAt": "2026-08-20T14:00:00.000Z",
+      "opensAtRaw": "Friday 21 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-17T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 18 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-31T01:50:00.000Z",
+          "question": "Please confirm if there are existing services, power, lighting, water reticulation?\n\nWho is responsible to supply services to the motorized roller doors?",
+          "answeredAt": "2026-09-01T23:03:00.000Z",
+          "answer": "Hi Greg,\n\nSupply of power to the shed will be by others.\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-09-08T00:10:00.000Z",
+          "question": "Morning,\n\nWe are just inquiry into machinery available by council for use on this project. I.e\n\n1 - Loader for batching plant ?\n\n2 - Lay down yard for batch plant/materials ?\n\n3 - Excavator/bobcat for earthworks ?\n\n4 - Water storage tank for wash down and mixing ?",
+          "answeredAt": "2026-09-08T01:59:00.000Z",
+          "answer": "Hi Gavin,\n\nConcrete may be purchased off Boulia Shire Council. Rates are as per the Fees and Charges Schedule on Council’s website.\n\nTenderers should arrange to utilize their own plant and equipment, as Council's plant is often located on remote roadworks sites.\n\nThe depot area is connected to potable water.\n\nKind regards."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-02T01:47:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum 1 (ID 38262).pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-02T05:55:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum 2 (ID 41193).pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "b2dacf9c421f4107b40a16cd9003d280",
@@ -8661,6 +9422,142 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "fb359ae452184efaa11e3b13b8c59154",
+    "source": "vendorpanel",
+    "reference": "VP517039",
+    "title": "RFT2627-03 South Hedland Aquatics Facility Design Services",
+    "description": "The Town of Port Hedland is seeking a multidisciplinary design team to develop the Aquatic Centre and associated precinct through a traditional, linear design development process.\n\nThe proposed Aquatic Centre comprises approximately 1,250m² of internal accommodation and 4,390m² of external aquatic and recreation facilities, supported by a minimum of 420 car parking bays. The facility includes front-of-house functions such as reception and administration, flexible meeting and training spaces, a café, crèche, communications and cleaning facilities, and a comprehensive changing village incorporating family, accessible and Changing Places amenities. Operational areas include a pool office with oversight of all water bodies, a first aid room with direct pool and ambulance access, substantial internal and external storage, and dedicated wet and dry plant rooms. The external aquatic offering includes a 50m x 25m, 10-lane competition pool capable of supporting water polo, a 20m x 10m learn-to-swim warm water pool, a leisure water and splash play area, spectator facilities for approximately 200 people, extensive pool concourse areas, landscaped recreation space and associated parking infrastructure.",
+    "buyer": "Town of Port Hedland",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Architecture, Design, Planning"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-14T07:00:00.000Z",
+    "closingAtRaw": "14/Sep/2026 03:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-07-15T02:54:00.000Z",
+    "contact": null,
+    "documentCount": 23,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fb359ae452184efaa11e3b13b8c59154s517039s4d7945fe3b9f4b55a77b46e57c87863fs1544",
+    "vendorPanelDetails": {
+      "buyerAddress": "Cajarina Rd\nWedgefield, Western Australia 6721\nAustralia",
+      "buyerWebsite": "http://www.porthedland.wa.gov.au/",
+      "buyerDescription": "Port Hedland is transforming into a vibrant attractive regional city with a community that are proud to live, work and play in the heart of the Pilbara.",
+      "buyerReference": "RFT2627-03",
+      "opensAt": "2026-07-14T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 15 July 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T07:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 03:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-12T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 13 November 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Pilbara"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-07-21T07:53:00.000Z",
+          "question": "The Client Brief for Design section 3 states that each design consultant will be engaged directly by the Client. It also includes a list of required disciplines. The Brief states that consultants can submit as a “consortium” or as “individual specialist consultants for their respective disciplines”. Can you please confirm that the submission response to this RFT can be from an individual discipline (such as architect/lead designer) and does not need to include all disciplines?",
+          "answeredAt": "2026-08-04T05:01:00.000Z",
+          "answer": "Please see Addednum 1"
+        },
+        {
+          "askedAt": "2026-07-21T23:22:00.000Z",
+          "question": "We request a copy of the current cost plan and budget information for the Concept please.",
+          "answeredAt": "2026-08-04T05:01:00.000Z",
+          "answer": "Please see Addednum 1"
+        },
+        {
+          "askedAt": "2026-07-29T23:02:00.000Z",
+          "question": "Could we please have a response to our query issued on 21 July? Or advice as to when we will receive a response? thanks",
+          "answeredAt": "2026-08-04T05:02:00.000Z",
+          "answer": "Apologies for the last response. Please see Addendum 1."
+        },
+        {
+          "askedAt": "2026-08-06T05:33:00.000Z",
+          "question": "1.\tFor clarity and following addendum 1, can you please confirm that Quantity surveyors / cost managers can submit individually to the RFT?\n\n2.\tFurther to the above, can you please confirm the stages of design that require a QS’s input and what services are required eg:\n\na.\tConcept Design\n\nb.\tSchematic Design\n\nc.\tDeveloped Design\n\nd.\tDetailed Design\n\ne.\tTender Procurement\n\nf.\tConstruction\n\ng.\tCommissioning\n\n3.\tIn the fee schedule, there is no entry for Developed Design, does this mean that this is not required? We note that it is outlined in the brief.\n\n4.\tUnder Part 5 of the RFT in Qualitative Criteria Description, there are two solely design related criteria, the Design Narrative and the Innovation in Design. Can you please confirm that a QS firm can exclude these requirements from a Quantity Surveyor / Cost Manager submission as we are not responsible for the design.",
+          "answeredAt": "2026-08-10T03:36:00.000Z",
+          "answer": "Please see Addendum 2. Thanks"
+        },
+        {
+          "askedAt": "2026-08-07T01:42:00.000Z",
+          "question": "In the Aquatic Client Brief for Design, Section 4.5.1 identifies three water bodies, which align with the Site Arrangement shown in the Concept Design document. However, Item 32-Leisure Water in the Aquatic Approved Schedule of Accommodation also includes the Lap Walking Lanes, which are not clearly identified in the Site Arrangement.\n\nPlease confirm whether the Lap Walking Lanes is adjacent to the Water Play and forms part of a single 600 m² water body, or whether it is not included in the project scope.",
+          "answeredAt": "2026-08-12T04:57:00.000Z",
+          "answer": "Please see Addendum 3"
+        },
+        {
+          "askedAt": "2026-08-11T05:27:00.000Z",
+          "question": "Hi there,\n\nIn bringing together a competitive response, we are keen to seek an extension of time for the submission, especially regarding specialist consultants inputs. If there is possibility for an extra week that would be benificial for the project and our submissions.",
+          "answeredAt": "2026-08-12T04:57:00.000Z",
+          "answer": "Please see addendum 4"
+        },
+        {
+          "askedAt": "2026-08-12T02:37:00.000Z",
+          "question": "Could the client please confirm if they are willing to accept a standard limitation of liability capped at $20M to ensure our Professional Indemnity insurance policy remains fully valid and enforceable for this project? as an unlimited liability clause makes the project uninsurable.",
+          "answeredAt": "2026-08-12T05:36:00.000Z",
+          "answer": "Please see Addendum 5"
+        },
+        {
+          "askedAt": "2026-08-18T00:39:00.000Z",
+          "question": "Within the Appendix 1 - Section 4.8 Design Proof-of Performance, there is a request for designers provide examples of operational performance, Capex/ and Opex data. As designers/ consultants, we dont have access to this information and would like to clarify whether this requirement is intended to be directed to contractors whom would likely have this information/ data as part of their on-going maintenance services? And if so, could this requirement be waived for designers/ consultants?\n\nWithin Appendix 1 - Section 4.1.1, the scope states to design, supply, install, commission and demonstrate a complete water treatment system. Given that this is a design tender only, we should seek clarification on this, noting that the supply, install, commission and demonstrate aspects would generally fall under an appointed Contractor?\n\nregards,\n\nByron Wessels\n\nHames Sharley",
+          "answeredAt": "2026-08-18T04:43:00.000Z",
+          "answer": "Please see Addendum 6"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-04T05:00:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 1 RFT2627-03.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-10T02:39:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 2 RFT2627-03 South Hedland Aquatics Facility Design Services.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-12T04:59:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum 3 RFT2627-03.docx\n\n2. Added: \t Addendum 4 RFT2627-03.docx\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-12T05:35:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 5 RFT2627-03.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-18T04:42:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 6 RFT2627-03.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-19T04:27:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum 7 RFT2627-03.docx\n\n2. Added: \t Appendix 11-Civil-SiteInvestigations&ConceptDesignReport.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-27T00:47:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 8 RFT2627-03.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-01T05:38:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum 9 RFT2627-03.docx\n\n2. Added: \t Appendix 10 Rev 1-Aquatics -Target design programme-Tender.pdf\n\n3. Added: \t Appendix 9-design_fees_cost_submission.xlsx\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-03T01:30:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 10 RFT2627-03.docx\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Town of Port Hedland is seeking a multidisciplinary design team to develop the Aquatic Centre and associated precinct through a traditional, linear design development process. \n\nThe proposed Aquatic Centre comprises approximately 1,250m² of internal accommodation and 4,390m² of external aquatic and recreation facilities, supported by a minimum of 420 car parking bays. The facility includes front-of-house functions such as reception and administration, flexible meeting and training spaces, a café, crèche, communications and cleaning facilities, and a comprehensive changing village incorporating family, accessible and Changing Places amenities. Operational areas include a pool office with oversight of all water bodies, a first aid room with direct pool and ambulance access, substantial internal and external storage, and dedicated wet and dry plant rooms. The external aquatic offering includes a 50m x 25m, 10-lane competition pool capable of supporting water polo, a 20m x 10m learn-to-swim warm wat...",
+        "to": "The Town of Port Hedland is seeking a multidisciplinary design team to develop the Aquatic Centre and associated precinct through a traditional, linear design development process.\n\nThe proposed Aquatic Centre comprises approximately 1,250m² of internal accommodation and 4,390m² of external aquatic and recreation facilities, supported by a minimum of 420 car parking bays. The facility includes front-of-house functions such as reception and administration, flexible meeting and training spaces, a café, crèche, communications and cleaning facilities, and a comprehensive changing village incorporating family, accessible and Changing Places amenities. Operational areas include a pool office with oversight of all water bodies, a first aid room with direct pool and ambulance access, substantial internal and external storage, and dedicated wet and dry plant rooms. The external aquatic offering includes a 50m x 25m, 10-lane competition pool capable of supporting water polo, a 20m x 10m learn-to-swim warm water pool, a leisure water and splash play area, spectator facilities for approximately 200 people, extensive pool concourse areas, landscaped recreation space and associated parking infrastructure.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
     "id": "fe3c0a4b3d3d4fe3b83e8973550eaa60",
