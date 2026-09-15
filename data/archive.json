@@ -176,6 +176,33 @@
     "archivedAt": "2026-09-09T22:04:31.613Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/d44ac5cc-2c24-4747-9600-9c119e2d2d20",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/d44ac5cc-2c24-4747-9600-9c119e2d2d20",
+    "reference": "6316-2026-27",
+    "title": "COP31 Video Products",
+    "description": "The Bureau of Meteorology is seeking an experienced video production contractor ot develop a suite of high-quality boradcast and digital video products communicating the value and impact of Pacific weather, climate and ocean services and Australia's long-term partnership with Pacific countries.",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Bureau of Meteorology",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80161507 - Audio visual services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15-Sep-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Paul Kang\nEmail Address:\ntenders@bom.gov.au",
+      "name": "Paul Kang",
+      "email": "tenders@bom.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/d5dc3d2d-3dc3-48d1-a0ff-6e991e5495c7",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/d5dc3d2d-3dc3-48d1-a0ff-6e991e5495c7",
     "reference": "Mindibungu EOI",
@@ -283,6 +310,60 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/e7d96d9f-422e-42ab-aabd-a40ce015aac7",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/e7d96d9f-422e-42ab-aabd-a40ce015aac7",
+    "reference": "DFAT-1108",
+    "title": "Mid-Term Review of the PNG Transport Sector Support Program Phase 3 (TSSP3)",
+    "description": "The Mid-Term Review of the PNG Transport Sector Support Program Phase 3 (TSSP3) will provide an independent, evidence-based assessment of TSSP3 performance and direction.",
+    "publishedAt": "2026-08-20T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Foreign Affairs and Trade - Australian Aid Program",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80101600 - Project management"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T07:00:00.000Z",
+    "closingAtRaw": "15-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Secretariat\nEmail Address:\nPort-Moresby.DevProgramQuality@dfat.gov.au",
+      "name": "Tender Secretariat",
+      "email": "Port-Moresby.DevProgramQuality@dfat.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/ffbdfe30-300d-4e6a-8af5-6a4d8a2af2f7",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/ffbdfe30-300d-4e6a-8af5-6a4d8a2af2f7",
+    "reference": "PROC-17195",
+    "title": "Global Market Intelligence Subscription",
+    "description": "The ATO requires access to an integrated platform providing real-time and historical financial, market and credit risk data, including company financials, credit ratings, transaction data, industry benchmarks, valuation metrics and market intelligence. This information supports economic analysis, transfer pricing and BEPS risk assessments, evidence-based decision-making, and ATO reviews, determinations and legal proceedings.",
+    "publishedAt": "2026-08-19T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Taxation Office",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "81112000 - Data services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T02:00:00.000Z",
+    "closingAtRaw": "15-Sep-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Joelle Ariane\nEmail Address:\njoelle.ariane@ato.gov.au",
+      "name": "Joelle Ariane",
+      "email": "joelle.ariane@ato.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "043746CE-06BA-4080-A14DD3D8F6545130",
@@ -3010,6 +3091,67 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "01d3efd1d7cf4df1992ec73d92fa92c2",
+    "source": "vendorpanel",
+    "reference": "VP521740",
+    "title": "Regional Waste Tyre Collection, Transportation, Recycling & Disposal Service",
+    "description": "North Burnett Regional Council is seeking Offers from suitably qualified and experienced Tenderers for the provision of a coordinated regional waste tyre collection, transportation, recycling and disposal service across Council-operated facilities throughout the North Burnett Region. Council may appoint one or more Contractors under this Invitation to Offer where Council determines that doing so provides the most advantageous outcome having regard to service capability, regional coverage, capacity, environmental outcomes and value for money.",
+    "buyer": "North Burnett Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-18T07:35:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=01d3efd1d7cf4df1992ec73d92fa92c2s521740se8fec92d55d7442e83a58602a4243b67s1610",
+    "vendorPanelDetails": {
+      "buyerAddress": "34-36 Capper St\nGayndah, Queensland 4625\nAustralia",
+      "buyerWebsite": "http://www.northburnett.qld.gov.au",
+      "buyerDescription": "North Burnett Regional Council",
+      "buyerReference": "2909_2026_27_TTB_04",
+      "opensAt": "2026-08-17T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 18 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Fitzroy\n5: Gold Coast\n6: Mackay\n7: South West\n8: Sunshine Coast\n9: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-19T02:38:00.000Z",
+          "question": "Good Afternoon,\n\ncan you please send me pictures of your tyre piles.",
+          "answeredAt": "2026-08-30T22:53:00.000Z",
+          "answer": "Photos have now been uploaded to this request under the files section"
+        },
+        {
+          "askedAt": "2026-09-10T00:16:00.000Z",
+          "question": "Hello,\n\nI am enquiring about this tender job. I would like to ask whether a specific type of truck is required for this job, and whether you require only one truck or multiple trucks to complete the work.\n\nThank you.\n\nKind Regards,\n\nIvan Volgin\n\nEasy booking removals PTY LTD",
+          "answeredAt": "2026-09-10T02:02:00.000Z",
+          "answer": "Thank you for your request.\n\nAs outlined in the ITO document the clarification period for this procurement activity has closed. Council is therefore unable to response to further clarification requests at this stage.\n\nCouncil looks forward to receiving your submission by the nominated closing date."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-30T22:52:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Biggenden WMF.jpg\n\n2. Added: \t Gayndah WMF.jpg\n\n3. Added: \t Gayndah WMF_Rear of facility.jpg\n\n4. Added: \t Mount Perry WMF.jpg\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "02d50aba08b1475a8f45f5d61116d77f",
     "source": "vendorpanel",
     "reference": "VP520733",
@@ -3064,6 +3206,64 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "087d3624dccd480db7c939aca0bb227a",
+    "source": "vendorpanel",
+    "reference": "VP523675",
+    "title": "Provision of Meals to Watch-houses",
+    "description": "Forward Procurement Schedule to advise of upcoming Expression of Interest release for the supply of meals to watch-houses across Queensland\n\nNo response is required to this Forward Procurement Schedule\n\nQueensland Police Service (QPS) is currently seeking to undertake a market approach exercise with the view to implementing baseline standards of nutrition for food delivered to persons in custody in Queensland Police Watch-houses.",
+    "buyer": "Queensland Police Service",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Catering & Hospitality",
+      "Food & Beverage Products"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-09-15T07:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-01T07:25:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=087d3624dccd480db7c939aca0bb227as523675",
+    "vendorPanelDetails": {
+      "buyerAddress": "Tank St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.police.qld.gov.au/",
+      "buyerDescription": "Enhancing safety across Queensland stands as a fundamental commitment of the Queensland Police Service. Our focus remains on preventing, disrupting, and investigating matters affecting Queenslanders while strengthening our community engagement endeavours. Our goal is to instil a sense of security and trust, ensuring individuals feel empowered to rely on us for support whenever necessary.",
+      "buyerReference": "QPS28388",
+      "opensAt": "2026-08-31T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 01 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-21T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 22 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-12T01:07:00.000Z",
+          "question": "Is there an application that I can download or a link? I did note it said EOI will be uploaded on the 15th but the timelines says it closes on the 15th.",
+          "answeredAt": "2026-09-13T23:08:00.000Z",
+          "answer": "Thank you for your enquiry. The notification sent out was to advise of the upcoming EOI. This notification will expire when the EOI is published."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"Tank St\\nBrisbane City, Queensland 4000\\nAustralia\",\"buyerWebsite\":\"https://www.police.qld.gov.au/\",\"buyerDescription\":\"Enhancing safety across Queensland stands as a fundamental commitment of the Queensland Police Service. Our focus remains on preventing, disrupting, and investigating matters affecting Queenslanders while strengthening our community engagement endeavours. Our goal is to instil a sense of security and trust, ensuring individuals feel empowered to rely on us for support whenever necessary.\",\"buyerReference\":\"QPS28388\",\"opensAt\":\"2026-08-31T14:00:00.000Z\",\"opensAtRaw\":\"Tuesday 01 September 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-15T07:00:00.000Z\",\"queryCutoffAtRaw\":\"Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-09-21T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Tuesday 22 September 2026 (E. Australia Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: Central West\\n3: Darling Downs\\n4: Far North\\n5: Fitzroy\\n6: Gold Coast\\n7: Mackay\\n8: North West\\n9: Northern\\n10: Offshore (QLD)\\n11: South West\\n12: Sunshine Coast\\n13: West Moreton\\n14: Wide Bay-Burnett\"],\"publicQuestions\":[],\"updates\":[]}",
+        "to": "{\"buyerAddress\":\"Tank St\\nBrisbane City, Queensland 4000\\nAustralia\",\"buyerWebsite\":\"https://www.police.qld.gov.au/\",\"buyerDescription\":\"Enhancing safety across Queensland stands as a fundamental commitment of the Queensland Police Service. Our focus remains on preventing, disrupting, and investigating matters affecting Queenslanders while strengthening our community engagement endeavours. Our goal is to instil a sense of security and trust, ensuring individuals feel empowered to rely on us for support whenever necessary.\",\"buyerReference\":\"QPS28388\",\"opensAt\":\"2026-08-31T14:00:00.000Z\",\"opensAtRaw\":\"Tuesday 01 September 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-15T07:00:00.000Z\",\"queryCutoffAtRaw\":\"Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-09-21T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Tuesday 22 September 2026 (E. Australia Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: Central West\\n3: Darling Downs\\n4: Far North\\n5: Fitzroy\\n6: Gold Coast\\n7: Mackay\\n8: North West\\n9: Northern\\n10: Offshore (QLD)\\n11: South West\\n12: Sunshine Coast\\n13: West Moreton\\n14: Wide Bay-Burnett\"],\"publicQuestions\":[{\"askedAt\":\"2026-09-12T01:07:00.000Z\",\"question\":\"Is there an application that I can download or a link? I did note it said EOI will be uploaded on the 15th but the timelines says it closes on the 15th.\",\"answeredAt\":\"2026-09-13T23:08:00.000Z\",\"answer\":\"Thank you for your enquiry. The notification sent out was to advise of the upcoming EOI. This notification will expire when the EOI is published.\"}],\"updates\":[]}",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "0a7acad97d0243e5bbc7db8f1f9a8927",
@@ -3223,6 +3423,58 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "0ca32811c92047da93a1143c07df83dc",
+    "source": "vendorpanel",
+    "reference": "VP522539",
+    "title": "RFT - Gravel Supply - Ilfracombe-Aramac Road",
+    "description": "Barcaldine Regional Council (BRC) invites tenders for the supply and delivery of gravel material on Ilfracombe-Aramac Road",
+    "buyer": "Barcaldine Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Mining & Quarrying & Oil & Gas"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T06:44:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=0ca32811c92047da93a1143c07df83dcs522539",
+    "vendorPanelDetails": {
+      "buyerAddress": "71 Ash St\nBarcaldine, Queensland 4725\nAustralia",
+      "buyerWebsite": "http://www.barcaldinerc.qld.gov.au/",
+      "buyerDescription": "The Barcaldine Region is located in central west Queensland approximately 440km west of Rockhampton, covering an area of 53,677 sq km with an estimated population of 3,503 people.\n\nThe Regional Council is made up of the former Shires of Aramac, Barcaldine and Jericho including the towns of Alpha, Aramac, Barcaldine, Jericho and Muttaburra.\n\nThe Region is one of the largest cattle producing regions in Central Western Queensland and also has a productive sheep, wool and macropod harvesting industry with the prospect of mining.",
+      "buyerReference": "260193",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West\n2: Darling Downs\n3: Far North\n4: Fitzroy\n5: Mackay\n6: North West\n7: Northern\n8: South West\n9: West Moreton\n10: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-31T20:38:00.000Z",
+          "question": "Can you please clarify the quantities of gravel required for each section listed in the tender?\n\nThankyou.",
+          "answeredAt": "2026-09-10T01:28:00.000Z",
+          "answer": "Ch77.1 - 80.8 - 13723t\n\nCh93.81 - 93.92 - 205t\n\nCh93.96 -95.86 - 3524t\n\nCh95.89 - 96.2 - 575t\n\nCh96.23 - 96.65 - 780\n\nCh96.67 - 97.11 - 817\n\nTotal 19624t\n\nCouncil will nominate the locations to which the remaining gravel is to be carted and delivered by the successful Contractor."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "0e8a8039993940dfb6944bddcf87419f",
     "source": "vendorpanel",
     "reference": "VP515642",
@@ -3347,6 +3599,56 @@
       }
     ],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "0ef67f40da6e4154861908c805b3bc1f",
+    "source": "vendorpanel",
+    "reference": "VP522504",
+    "title": "RFT260073 - Supply & Deliver One Day Cab Tipper 8.7t GVM",
+    "description": "Please be advised that responses submitted by suppliers who have unlocked and edited the Mandatory Returnable Worksheet will be classified as non-conforming and excluded from evaluation.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T06:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0ef67f40da6e4154861908c805b3bc1fs522504s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260073",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-02T04:50:00.000Z",
+          "question": "Hi - Can you please advise if 1.15 on your specification sheet is asking for a rear of cabin tool box which is to be used to house a spare tyre , jack and wheel spanner or are you happy to have a chassis mounted toolbox pending space availability which will house the tools with the spare wheel to be fitted at front of tipper body with whinch?",
+          "answeredAt": "2026-09-03T05:14:00.000Z",
+          "answer": "After consultation with CHRC staff, it is not necessary to mount the spare tyre on this truck so in this case the spare tyre shall be supply only with delivery of truck to Emerald Depot. Thank you for your enquiry."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "0f64d058655c413692480951d6798be0",
@@ -3786,6 +4088,56 @@
     "archivedAt": "2026-09-09T22:04:31.613Z"
   },
   {
+    "id": "1ce04219ed36425da34558e87e7db901",
+    "source": "vendorpanel",
+    "reference": "VP521874",
+    "title": "2627-06 Reuse and Recycle Drop Off Day",
+    "description": "Re-Use and Recycle Drop Off events.",
+    "buyer": "City of Greater Dandenong",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-19T04:17:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=1ce04219ed36425da34558e87e7db901s521874se8fec92d55d7442e83a58602a4243b67s1610",
+    "vendorPanelDetails": {
+      "buyerAddress": "225 Lonsdale St\nDandenong, Victoria 3175\nAustralia",
+      "buyerWebsite": "http://www.greaterdandenong.com/",
+      "buyerDescription": "The City of Greater Dandenong is a great place to live, work and invest, with great people for neighbours, colleagues and friends.\n\nWe are a place where people from all cultures and nations are welcomed, involved and well cared for and achievements are recognised and proudly celebrated.\n\nAs the regional capital of the south-east, we are working to build a dynamic sustainable future for the community.",
+      "buyerReference": "2627-06",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2027-01-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 13 January 2027 (AUS Eastern Standard Time)",
+      "background": "The current contractor has been engaged by Council since 2018 and has successfully conducted around 25 Re-Use and Recycle Drop Off events.\n\nThe intent of the events has been to support the Greater Dandenong community to have an opportunity to dispose of unwanted goods responsibly, ensuring a good environmental outcome for those items.\n\nA resource recovery rate of approximately 55-60% is achieved for the majority of events conducted.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Tendered Prices",
+        "Relevant Experience",
+        "Capability",
+        "Local Industry",
+        "Social Procurement",
+        "Environmental"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "205139f1aa724d448e5b5b8b9d30d9d9",
     "source": "vendorpanel",
     "reference": "VP520686",
@@ -4112,6 +4464,65 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "29b9a583e8ea43d3a776f3de405ef062",
+    "source": "vendorpanel",
+    "reference": "VP522690",
+    "title": "HIQ1645 - QEII Hospital Expansion – General Art Opportunities ROI",
+    "description": "Please refer to the attachment.",
+    "buyer": "Health Infrastructure Queensland",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Graphical, Photographic & Art"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-25T04:16:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=29b9a583e8ea43d3a776f3de405ef062s522690sc755a8448a524914b9952b1936eafcbbs1571",
+    "vendorPanelDetails": {
+      "buyerAddress": "275 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.health.qld.gov.au/system-governance/health-infrastructure",
+      "buyerDescription": "Health Infrastructure Queensland (HIQ) is the division within Queensland Health (QH) responsible for the planning, design, procurement and delivery of this program of work, the largest in the State’s history.\n\nOur mission is to streamline the delivery of healthcare infrastructure, ensuring it will serve our communities now and into the future.",
+      "buyerReference": "HIQ1645",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-01T06:16:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Arts in Health FAQ and general information 2026 MSH.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-08T23:22:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Arts in Health FAQ and general information_8.9.26.pdf\n\n2. Added: \t (Addendum) QEII Artist Info Session_2026_Final.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "4",
+        "at": "2026-09-09T04:26:33.566Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "2ce0faa3ec6b4d99846183951fbf4f8e",
     "source": "vendorpanel",
     "reference": "VP521678",
@@ -4136,6 +4547,121 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T10:14:35.772Z"
+  },
+  {
+    "id": "2dc2dd20a17f47edb78f13ca3e80e007",
+    "source": "vendorpanel",
+    "reference": "VP522084",
+    "title": "ITT2610 Supply of Vector Control Products",
+    "description": "Tenders are invited for the supply and delivery of vector control products for Council’s Vector Control Management Plan to manage mosquitos on public land.\n\nCouncil regularly conducts larvicidal treatments and remains ready to undertake adulticide treatments through disaster response protocols. The mosquito management program operates all year; however, mosquito activity and subsequent treatments are generally from August through to May.\n\nThis is a schedule of rates contract for an initial period of two (2) years, commencing on 15 October 2026 with two (2) twelve-month extension options to provide Council with Vector products on an as needs basis.",
+    "buyer": "Sunshine Coast Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Chemicals, Biochemical, Gas",
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T02:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-21T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2dc2dd20a17f47edb78f13ca3e80e007s522084",
+    "vendorPanelDetails": {
+      "buyerAddress": "54 First Ave\nMaroochydore, Queensland 4558\nAustralia",
+      "buyerWebsite": "https://www.sunshinecoast.qld.gov.au/",
+      "buyerDescription": "The Mayor and councillors work closely with the Executive Leadership Team and staff to deliver a range of plans and strategies that guide the delivery of major projects across the region, and council’s capital works program. Council remains committed to its vision for the Sunshine Coast: to be Australia’s most sustainable region – healthy, smart, creative.",
+      "buyerReference": "ITT2610",
+      "opensAt": "2026-08-21T14:00:00.000Z",
+      "opensAtRaw": "Saturday 22 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-10T02:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 14 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "2f0fa23a373349f58271ba1ee3f4f600",
+    "source": "vendorpanel",
+    "reference": "VP522952",
+    "title": "Lithgow Mountain Bike Trails Construction Expressions of Interest (EOI Phase)",
+    "description": "Central Tablelands Mountain Bike Club (CTMBC) invites suitably experienced and capable specialist mountain bike trail construction contractors to register their interest in the design and construction of the Lithgow Mountain Bike Park trail network at State Mine Gully, Lithgow NSW.\n\nThis Expression of Interest (EOI) is Stage 1 of a two-stage procurement. It is a capability and capacity assessment only. No price is sought at this stage. Respondents assessed as capable will be shortlisted and invited to submit a tender under a subsequent selective Request for Tender (RFT).\n\nThis EOI has been prepared in accordance with the CTMBC Procurement Procedure and is an open and transparent process consistent with best practice. It is conducted via VendorPanel and administered by PMO 360 Pty Ltd on behalf of CTMBC.",
+    "buyer": "Central Tablelands Mountain Bike Club",
+    "buyerType": "other",
+    "state": "NSW",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-09-15T07:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-26T19:00:00.000Z",
+    "contact": {
+      "raw": "Paul Smith Email: paulsmithmonger@gmail.com Tel: 047543518",
+      "name": "Paul Smith",
+      "email": "paulsmithmonger@gmail.com",
+      "phone": "047543518"
+    },
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2f0fa23a373349f58271ba1ee3f4f600s522952",
+    "vendorPanelDetails": {
+      "buyerAddress": "43 Minley Cres\nEast Ballina, New South Wales 2478\nAustralia",
+      "buyerWebsite": "http://www.ctmbc.wordpress.com/",
+      "buyerDescription": "Central Tablelands Mountain Bike Club (CTMBC) is based in Lithgow NSW.\n\nOne of the first standalone mountain bike clubs in Australia we formed in 1984 and has been a staple part of the Australian mountain bike scene ever since.\n\nCTMBC is in charge of grant funding to build the Lithgow Mountain Bike Transformation Project, funded by the Department of Regional NSW.",
+      "buyerReference": "CTMBC.PROC.02-EOI",
+      "opensAt": "2026-08-26T14:00:00.000Z",
+      "opensAtRaw": "Thursday 27 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-08T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 05:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-28T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 29 September 2026 (AUS Eastern Standard Time)",
+      "background": "In mid-2022 CTMBC was awarded grant funding by the NSW Department of Regional NSW to develop approximately 25 km of purpose-built single-track and establish a mountain bike park adjacent to Lithgow at State Mine Gully. The project is co-funded, with National Parks and Wildlife Service (NPWS) providing a co-contribution directed to adjacent car parks, walking and bike tracks on the National Park estate, and additional Australian Government funding contributing to the broader program in 2025. Grant funds are held in trust by Keystone Lawyers as escrow agent and disbursed to suppliers as approved and as required.\n\nDevelopment consent for the mountain bike park was granted on 10 August 2026 under DA170/25 (Western Regional Planning Panel reference PPSWES-324). The trail alignments have been designed by World Trail Pty Ltd and are an approved plan under the consent.\n\nActivities to obtain the Construction Certificate are underway and are expected to be completed by November 2026. While the Construction Certificate is a prerequisite to construction commencing, the development application was by far the most difficult activity and is now approved. Subject to those remaining conditions, the project is free to proceed.\n\nThis EOI relates to Package 1 — the State Mine Gully (excluding National Park) trail network, being approximately 24.5 km of the 37.6 km total network. The remaining approximately 13.1 km sits within the Gardens of Stone State Conservation Area and is a separate NPWS-funded and NPWS-delivered workstream that is not part of this procurement.",
+      "desiredOutcomes": "After four years of planning, assessment and collaboration, the Club is celebrating an approval that marks a major milestone for a project that has navigated a complex planning and environmental assessment process involving multiple agencies, extensive technical studies and broad stakeholder engagement.\n\nThe consent unlocks approximately 25 kilometres of purpose built bike and walking trails, within the State Mine Gully precinct commencing from the State Mine Heritage Park and reachable in two hours from Sydney by road, and served directly by passenger rail. It is the link the whole vision depended on, connecting the Lithgow town centre directly to the trail network, so that riders arrive in town, stay in town, and spend in town.\n\nThe trail network will play a key role in connecting Lithgow to some of Australia’s most spectacular natural landscapes, helping establish the city as a gateway to both the Gardens of Stone and Wollemi National Parks.\n\nThe trails are designed for everyone from first time riders to experienced descenders, with network design by leading international mountain bike trail designers World Trail. Designed for riders and visitors of all abilities, the network will provide new opportunities for outdoor recreation, nature based tourism and community wellbeing while showcasing the region’s unique landscapes and heritage. For a town built on coal and steel, it is a genuinely new chapter: a former industrial landscape becoming a destination in its own right",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: Canberra",
+        "New South Wales\n1: Hunter\n2: Mid-North Coast\n3: Richmond-Tweed\n4: South Eastern\n5: Sydney",
+        "Northern Territory\n1: NT (all other areas)",
+        "Queensland\n1: Brisbane\n2: Far North\n3: Gold Coast\n4: Mackay\n5: Northern\n6: Sunshine Coast",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart\n2: Northern\n3: Southern",
+        "Victoria\n1: Melbourne\n2: Ovens-Murray",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-28T02:21:00.000Z",
+          "question": "We are interested in the supply of the signage package component only, do we have to register our EOI to be able to provide pricing for it later on down the track or will this be controlled by the eventual installer/builder of the paths? We Currently supply NPWS a lot of their signage and have experience with the Kembla Mountain Bike track in conjunction with NPWS.\n\nThanks Keri",
+          "answeredAt": "2026-08-29T00:23:00.000Z",
+          "answer": "No. But thankyou for your interest. Signage is specifically excluded from this stage of the project. A seperate package specifically for signage will be released to the market in about February."
+        },
+        {
+          "askedAt": "2026-09-07T01:20:00.000Z",
+          "question": "Q1. Are you able to pass on the contact details for the local liaison for the Mingaan Wiradjuri community? We thought we might make an initial contact to better understand how we could provide an effective training/skills transfer program throughout the life of the project.\n\nQ2. World Trail: Given World Trail’s involvement in the planning and design of the project, can you confirm whether they are eligible to participate in the current EOI and subsequent construction tender process?\n\nIf they are eligible, are you also able to advise whether World Trail has indicated an intention to submit? We appreciate you may not be in a position to comment on the intentions of individual respondents, in which case we completely understand.\n\nThe reason we ask is that preparing a competitive response for a project of this scale represents a fairly significant investment. We’ve encountered procurements previously where an incumbent designer or contractor had such a significant advantage that, while a competitive process was necessarily undertaken, there was limited realistic prospect of an alternative contractor being successful. We’re simply trying to understand whether there are any similar considerations here before committing substantial resources to the process.\n\nWe’re genuinely interested in the project and believe that our company could put forward a strong delivery proposition, so any guidance you’re able to provide would be appreciated.",
+          "answeredAt": "2026-09-07T23:30:00.000Z",
+          "answer": "Q1: https://mingaan.com/\n\nQ2: World Trail were engaged as a consultant. The tender for Construction is a competitive process starting with an EOI and then a selective tender. The Club is interested in extremely well built trails that will hold up through, what is expected to be, high usage.\n\nThe outcome has not been decided and is subject to approval by the Project Control Group, the members of which include, Lithgow Council, NPWS, Crown Lands, SMHM and CTMBC.\n\nYour concerns are duly notated, however this is a proper process and is being run with high scrutiny.\n\nThe project team is also interested in consortiums. Due to biodiversity constraints, the trails cannot be 100% machine built.\n\nCheers"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "3101988dbb5243cda2b03b247bb9e79d",
@@ -4753,6 +5279,66 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "3e9e9a9693a14ecc8f2982bb2e4e0031",
+    "source": "vendorpanel",
+    "reference": "VP512693",
+    "title": "Provision of Veterinary Services - Blue Mountains Animal Care Centre",
+    "description": "Blue Mountains City Council is seeking tenders from suitably qualified veterinary providers for the provision of veterinary services to support the operation of Blue Mountains Animal Care Centre (BMACC) both onsite and establishing a panel for those services. A practical and cost-effective service model that combines scheduled on-site attendance with access to off-site procedures and specialist clinical support where required.",
+    "buyer": "Blue Mountains City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Farming & Animal Services & Equip",
+      "Healthcare Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-24T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=3e9e9a9693a14ecc8f2982bb2e4e0031s512693",
+    "vendorPanelDetails": {
+      "buyerAddress": "2-6 Civic Pl\nKatoomba, New South Wales 2780\nAustralia",
+      "buyerWebsite": "https://www.bmcc.nsw.gov.au/",
+      "buyerDescription": "The Council is committed to leading our City, protecting our environment, caring for our people, making our City vibrant, liveable, healthy and accessible, and economically and financially sustainable.\nThe Blue Mountains is one of only two cities in the world surrounded by a World Heritage Area and sits within the Sydney drinking water catchment servicing 1.7 million people.",
+      "buyerReference": "RFT 2026/27-302002",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (AUS Eastern Standard Time)",
+      "background": "Consultation has been undertaken with BMACC operational staff, who identified challenges associated with transporting animals, treatment delays and impacts on rehoming timeframes. The proposed model addresses these issues while utilising existing facilities, avoiding additional infrastructure costs and supporting efficient service delivery.\n\nThe service provider will be required to:\n\ndeliver veterinary services that support animal welfare, operational efficiency, and timely treatment outcomes, while working within the legislative and procedural framework that applies to companion animal management and;\n\nprovide regular reporting to Council on service utilisation, treatment types, response timeframes, pricing, and other information reasonably required for contract administration and service review.",
+      "desiredOutcomes": "Support animal welfare, operational efficiency, and timely treatment outcomes.",
+      "buyerQuestions": [
+        "Compliance Y/N - Have you addressed each of the selection criteria items and provided pricing information in the requested format?",
+        "Value for Money (Based on Whole of Life Cost) - 30% - Have you priced all items and entered the required information.",
+        "Capability and Capacity - 35% - Please provide details addressing this criteria item.",
+        "Service Methodology and Program - 10% - Please provide requested response to this criteria item.",
+        "Environmental Management - 5% - Please provide your response to this criteria item.",
+        "Work Health and Safety - 10% - Please provide your response to this criteria item.",
+        "Critical Assumptions - Y/N - Please provide your response to this criteria item.",
+        "Innovations – Y/N - Please indicate any innovation you bring to this procurement requirement.",
+        "Modern Slavery - 5% - Please provide your response to this criteria item.",
+        "Circular Economy - 5% - Please provide your response to this criteria item."
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Central West\n2: Far West\n3: Hunter\n4: Illawarra\n5: Mid-North Coast\n6: Sydney"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-11T02:52:00.000Z",
+          "description": "Query received.\n\nSole trader that does not have insurances as per Schedule 13, can quotation for these be provided subject to award of contract.\n\nResponse provided\n\nCouncil would require the minimum level of insurance to be in effect for those awarded under this request for tender, please provide details for current or proposed arrangements."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "40f3931f2719491395a86dd34edf5277",
     "source": "vendorpanel",
     "reference": "VP521253",
@@ -4836,6 +5422,124 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "46c042af331643ff84db641a6158bbff",
+    "source": "vendorpanel",
+    "reference": "VP522494",
+    "title": "RFT260066 - Supply & Deliver One Day Cab Tipper 6.5t GVM",
+    "description": "Please be advised that responses submitted by suppliers who have unlocked and edited the Mandatory Returnable Worksheet will be classified as non-conforming and excluded from evaluation.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T06:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=46c042af331643ff84db641a6158bbffs522494s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260066",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "4b9729d647c349a1866af3436ca2eeb2",
+    "source": "vendorpanel",
+    "reference": "VP521938",
+    "title": "2027/331 Asphalt Overlay of Morpung Avenue and Fourteenth Street Intersection",
+    "description": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Fourteenth and Morpung Intersection project.\n\nThe works include milling and removal of the existing asphalt surfacing, construction of a new asphalt overlay, modification of an existing side entry drainage pit including rear throat construction, reinforced concrete works associated with the centre median, kerb backing and driveable headwall extension, reinstatement of pavement marking and retroreflective raised pavement markers (RRPMs), traffic management, site reinstatement and post-project site clean-up in accordance with the Contract Specifications and Drawings.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ONLY be submitted electronically by uploading into the VendorPanel System. Respondents will receive a confirmation email response upon completion. Should assistance be required please use the help function or the online chat available from the home page of VendorPanel.\n\nSubmissions must be fully received by the closing time as late submissions will not be accepted. Council is not bound to accept the lowest priced Tender or all or any part of a Tender and reserves the right to conduct the Request for Tender process and select the successful respondent(s) as it sees fit. All responses must be made by online submission. Any response made by any other means (open email, facsimile, post or in person) will not be considered.",
+    "buyer": "Mildura Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-19T08:04:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=4b9729d647c349a1866af3436ca2eeb2s521938",
+    "vendorPanelDetails": {
+      "buyerAddress": "Madden Ave\nMildura, Victoria 3500\nAustralia",
+      "buyerWebsite": "http://www.mildura.vic.gov.au/",
+      "buyerDescription": "Mildura Rural City Council is the local government organisation that represents and serves approximately 51,000 people who reside in or own land within Mildura Rural City. Located in North West Victoria, the municipality covers an area of 22,330 square kilometres.\n\nMildura Rural City Council was established on 20 January 1995 following the amalgamation of the former City of Mildura and the Shires of Mildura and Walpeup.",
+      "buyerReference": "2027/331",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (AUS Eastern Standard Time)",
+      "background": "Council encourages innovative and creative responses to its specifications, however such responses should always form part of a conforming tender.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "If you are trading as a company, have you provided a copy of the certificate of incorporation and a copy of the current company extract?",
+        "If you are a trust, have you provided a copy of your registration certificate that includes the ACN of the trustee?",
+        "Have you signed and uploaded the tender schedules as part of your submission?",
+        "Have you only included pricing in the applicable pricing schedule?",
+        "Have you signed and uploaded the statutory declaration as part of your submission?"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Mallee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-25T07:01:00.000Z",
+          "question": "Can council please confirm the following:\n\n - We note that in the drawings for this project the Asphalt mix nominated it 20mm Type SI but within the Schedule it is 14mm Type H - please confirm which is correct.\n\nThanks",
+          "answeredAt": "2026-08-28T05:34:00.000Z",
+          "answer": "We note that in the drawings for this project the Asphalt mix nominated it 20mm Type SI but within the Schedule it is 14mm Type H - please confirm which is correct.\n\nANSWER: “There is a typo in the tender issue drawings. The correct asphalt specification is 14mm Type H asphalt, which is consistent with the Cost Schedule.\n\nWhile Sheet No. 200 correctly identifies the asphalt type as 14mm Type H, Sheet No. 500 incorrectly references 20mm Type SI asphalt.”\n\nPlease refer to Addenda 1 - Revised Document"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-28T05:27:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 2027-331 Tender Issue Drawing - Revised.pdf\n\n2. Added: \t (Addendum) Addenda 1 - Revised Document.pdf\n\nPlease consider these addenda when responding.\n\nRegards\n\nProcurement Team"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Fourteenth and Morpung Intersection project. \n\nThe works include milling and removal of the existing asphalt surfacing, construction of a new asphalt overlay, modification of an existing side entry drainage pit including rear throat construction, reinforced concrete works associated with the centre median, kerb backing and driveable headwall extension, reinstatement of pavement marking and retroreflective raised pavement markers (RRPMs), traffic management, site reinstatement and post-project site clean-up in accordance with the Contract Specifications and Drawings.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ON...",
+        "to": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Fourteenth and Morpung Intersection project.\n\nThe works include milling and removal of the existing asphalt surfacing, construction of a new asphalt overlay, modification of an existing side entry drainage pit including rear throat construction, reinforced concrete works associated with the centre median, kerb backing and driveable headwall extension, reinstatement of pavement marking and retroreflective raised pavement markers (RRPMs), traffic management, site reinstatement and post-project site clean-up in accordance with the Contract Specifications and Drawings.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ONLY be submitted electronically by uploading into the VendorPanel System. Respondents will receive a confirmation email response upon completion. Should assistance be required please use the help function or the online chat available from the home page of VendorPanel.\n\nSubmissions must be fully received by the closing time as late submissions will not be accepted. Council is not bound to accept the lowest priced Tender or all or any part of a Tender and reserves the right to conduct the Request for Tender process and select the successful respondent(s) as it sees fit. All responses must be made by online submission. Any response made by any other means (open email, facsimile, post or in person) will not be considered.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "requestType",
+        "from": "other",
+        "to": "rft",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "4d4f6a9fdf024d109eb016cb1cc20812",
@@ -5531,6 +6235,86 @@
     "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
+    "id": "75b08f4c288e4dd49c5ff99bc4de67f5",
+    "source": "vendorpanel",
+    "reference": "VP522459",
+    "title": "TRC000584 Southern Cross Oval Light Upgrade",
+    "description": "Southern Cross Reserve Oval is a Council-managed, multi-use sporting facility comprising a single irrigated oval with a turf wicket block and supporting amenities. The oval is classified as a Class 1 sports field within Toowoomba Regional Council’s sports field hierarchy due to the quality of the playing surface, the level of supporting amenities and the availability of oval lighting.\n\nThe facility supports a high level of seasonal community sport. During summer, it is used for Toowoomba A Grade Cricket competition, including limited-over, night fixtures and T20 night games. During winter, the oval supports Downs Rugby competition and AFL Darling Downs competition. Key user groups operating from Southern Cross Reserve Oval include Toowoomba Cricket Incorporated, Bears Rugby Union and South Toowoomba Bombers AFL.\n\nThe current oval lighting configuration includes three 30 metre TP EK30M GM poles, and three 25 metre TP EK25M GM poles, fitted with a combination of Philips MVP507 luminaires and Philips MVF403 ArenaVision luminaires.\n\nCouncil has approved a capital budget allocation for the replacement of luminaires at Southern Cross Reserve Oval as part of the Sports Lighting Replacement Program. The upgrade is scheduled for delivery during the 2026–2027 financial year and is intended to improve lighting performance, reliability, energy efficiency and ongoing serviceability while supporting continued community sport use of the facility.\n\nToowoomba Regional Council (TRC) invites submissions from suitably qualified and experienced Principal Contractors for the design, supply, installation, management and coordination of the replacement of sports oval luminaries at Southern Cross Reserve.",
+    "buyer": "Toowoomba Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "ELEC, Lighting, Equip & Services",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T03:44:00.000Z",
+    "contact": null,
+    "documentCount": 16,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=75b08f4c288e4dd49c5ff99bc4de67f5s522459",
+    "vendorPanelDetails": {
+      "buyerAddress": "153 Herries St\nToowoomba City, Queensland 4350\nAustralia",
+      "buyerWebsite": "http://www.tr.qld.gov.au/",
+      "buyerDescription": "Toowoomba Regional Council is the local government authority for an area extending from the city of Toowoomba to the east, the townships of Millmerran in the west, Clifton in the south and Yarraman to the north.",
+      "buyerReference": "TRC000584",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 14 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-25T03:29:00.000Z",
+          "question": "Could the following Attachments please be provided. They are referred to within the RFO but not attached.\n\n1. Southern Cross Oval Initial Design;\n\n2. Southern Cross Reserve Sports Oval Lighting Audit.",
+          "answeredAt": "2026-08-25T04:05:00.000Z",
+          "answer": "Apologies, these documents have now been attached."
+        },
+        {
+          "askedAt": "2026-08-25T03:30:00.000Z",
+          "question": "Will the principle accept a compliant design from alternative supplier.",
+          "answeredAt": "2026-08-25T22:41:00.000Z",
+          "answer": "No alternative suppliers will be considered. We specifically require Phillips or Silvania Schreder lights."
+        },
+        {
+          "askedAt": "2026-08-25T05:53:00.000Z",
+          "question": "The Initial Design document provided from 2009 refers to 4 poles, however there are 6 poles currently installed. Can the following please be provided:\n\n2025 Pole Assessment report\n\nA site markup showing existing pole heights and locations.\n\nAny electrical drawings available for the existing installation.",
+          "answeredAt": "2026-08-25T22:12:00.000Z",
+          "answer": "Council has now provided the audit forms, which details the pole heights. Council has also now provided the pole layout. Council do not have any electrical drawings available."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-25T04:04:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t TRC000584 Approved plans original lighting install.pdf\n\n2. Added: \t TRC000584 Southern Cross Oval Lighting Audit.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-25T22:12:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t #36 Unkown Pole ID 1 - Report (1).pdf\n\n2. Added: \t #37 Unkown Pole ID 2 - Report (1).pdf\n\n3. Added: \t #38 Unkown Pole ID 3 - Report (1).pdf\n\n4. Added: \t #39 Unkown Pole ID 4 - Report (1).pdf\n\n5. Added: \t #40 Unkown Pole ID 5 - Report (1).pdf\n\n6. Added: \t #41 Pole ID 00561508 - Report (1).pdf\n\n7. Added: \t Southern pole layout.jpg\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Southern Cross Reserve Oval is a Council-managed, multi-use sporting facility comprising a single irrigated oval with a turf wicket block and supporting amenities. The oval is classified as a Class 1 sports field within Toowoomba Regional Council’s sports field hierarchy due to the quality of the playing surface, the level of supporting amenities and the availability of oval lighting.\n\nThe facility supports a high level of seasonal community sport. During summer, it is used for Toowoomba A Grade Cricket competition, including limited-over, night fixtures and T20 night games. During winter, the oval supports Downs Rugby competition and AFL Darling Downs competition. Key user groups operating from Southern Cross Reserve Oval include Toowoomba Cricket Incorporated, Bears Rugby Union and South Toowoomba Bombers AFL.\n\nThe current oval lighting configuration includes three 30 metre TP EK30M GM poles, and three 25 metre TP EK25M GM poles, fitted with a combination of Philips MVP507 luminaires and...",
+        "to": "Southern Cross Reserve Oval is a Council-managed, multi-use sporting facility comprising a single irrigated oval with a turf wicket block and supporting amenities. The oval is classified as a Class 1 sports field within Toowoomba Regional Council’s sports field hierarchy due to the quality of the playing surface, the level of supporting amenities and the availability of oval lighting.\n\nThe facility supports a high level of seasonal community sport. During summer, it is used for Toowoomba A Grade Cricket competition, including limited-over, night fixtures and T20 night games. During winter, the oval supports Downs Rugby competition and AFL Darling Downs competition. Key user groups operating from Southern Cross Reserve Oval include Toowoomba Cricket Incorporated, Bears Rugby Union and South Toowoomba Bombers AFL.\n\nThe current oval lighting configuration includes three 30 metre TP EK30M GM poles, and three 25 metre TP EK25M GM poles, fitted with a combination of Philips MVP507 luminaires and Philips MVF403 ArenaVision luminaires.\n\nCouncil has approved a capital budget allocation for the replacement of luminaires at Southern Cross Reserve Oval as part of the Sports Lighting Replacement Program. The upgrade is scheduled for delivery during the 2026–2027 financial year and is intended to improve lighting performance, reliability, energy efficiency and ongoing serviceability while supporting continued community sport use of the facility.\n\nToowoomba Regional Council (TRC) invites submissions from suitably qualified and experienced Principal Contractors for the design, supply, installation, management and coordination of the replacement of sports oval luminaries at Southern Cross Reserve.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "7b8fe9ac876a47949fac5f05256a1cdd",
     "source": "vendorpanel",
     "reference": "VP521282",
@@ -5968,6 +6752,118 @@
       }
     ],
     "archivedAt": "2026-09-10T07:06:28.027Z"
+  },
+  {
+    "id": "883e8d8a76134d9480bdc754575d4014",
+    "source": "vendorpanel",
+    "reference": "VP522219",
+    "title": "RFT CT2027006 Livestock Marketing Centre: Sheep Loading Ramp Renewal D&C",
+    "description": "Wagga Wagga City Council (Council) are improving the loading ramps of the Livestock Marketing Centre (LMC) sheep delivery yards. The ramps, located in the northeast corner of the site, were constructed with the original facility and have reached the end of their useful life. This increases the risk of slips, injuries and creates potential workplace safety and animal welfare concerns.\n\nThe project aims to replace the original ramps with modern equipment to ensure safe operating conditions for animals, staff, and operators. Pavement renewal at the base of the ramps will also be undertaken.\n\nThe desired outcome of this RFT is to enter into a Lump Sum Contract with an appropriately experienced Contractor for the Design & Construction of new ramps and pavement renewal in accordance with the tender documentation.\n\nThe Scope of Works under this RFT is to design new loading ramps, remove the existing ramps, remediating the pavement, and installing new loading ramps.\n\nThe works to be performed by the Contractor include the provision of all labour, supervision, materials, equipment, designs, overheads, administration, taxes, wages, accommodation, transport, allowances, consumables, testing services and any other incidental costs, to construct the works in accordance with this Contract.\n\nON-SITE BRIEFING:\n\nA pre-tender briefing will be held on Tuesday 1st September 2026 at 11AM. The meeting is to be held on-site at the Livestock Marketing Centre, Webb Street, Bomen. Registration to attend the briefing can be made via email procurement@wagga.nsw.gov.au.\n\nWhilst this briefing is not compulsory, consultants are encouraged to attend to obtain a firsthand understanding of the works required.",
+    "buyer": "Wagga Wagga City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Farming & Animal Services & Equip"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-21T02:59:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=883e8d8a76134d9480bdc754575d4014s522219",
+    "vendorPanelDetails": {
+      "buyerAddress": "243 Baylis St\nWagga Wagga, New South Wales 2650\nAustralia",
+      "buyerWebsite": "https://wagga.nsw.gov.au/",
+      "buyerDescription": "Wagga Wagga is a vibrant city nestled in the heart of the Riverina on the banks of the Murrumbidgee River. The largest city in inland New South Wales, Wagga Wagga encompasses a total land area of 4,825 sq km and is perfectly situated about 455 kilometres south-west of Sydney and 452 kilometres north-east of Melbourne.\n\nServing more than 66,000 residents, The Wagga Wagga City Council is the 39th largest Local government area by population and the 48th by land area of the 128 LGA’s in NSW.",
+      "buyerReference": "CT2027006",
+      "opensAt": "2026-08-20T14:00:00.000Z",
+      "opensAtRaw": "Friday 21 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 27 October 2026 (AUS Eastern Standard Time)",
+      "background": "The work under the contract shall be completed with high standard of quality in compliance with the relevant standards.\n\nThis includes:\n\n• Australian Livestock and Rural Transporters Association (ALRTA) Guide for Safe Design of Livestock Loading Ramps and Forcing Yards (2015)\n\n• AS 5340-2020 Livestock Load/Unloading Ramps and Forcing Pens,\n\n• AS/NZS 5131 Structural Steelwork – Fabrication and Erection\n\n• Other relevant Australian Standards as applicable, or where such standards do not exist, the International Standard Organization (ISO),\n\n• Wagga Wagga Engineering Guidelines for Subdivisions and Developments",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Murrumbidgee"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-04T01:35:00.000Z",
+          "description": "Please note: The following attachment has been recently added following the Site Briefing on 1 Sept 2026\n\n1. Added: \t CT2027006 Site Meeting Discussion Points.pdf\n\nIMPORTANT NOTE:\n\nRamps to Remain Operational – a maximum of 2 ramps to be out of use at any time (a minimum of 7 operational ramps at all times).\n\nSheep & Lamb Sale Days – Increased site traffic occurs from midday Wednesday until late Thursday. Work activities must be scheduled with consideration of these sale-day operations to minimise disruption and safety risks. This is to be reflected in the tenderer’s Methodology & Programme of Works."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Wagga Wagga City Council (Council) are improving the loading ramps of the Livestock Marketing Centre (LMC) sheep delivery yards. The ramps, located in the northeast corner of the site, were constructed with the original facility and have reached the end of their useful life. This increases the risk of slips, injuries and creates potential workplace safety and animal welfare concerns.\n\nThe project aims to replace the original ramps with modern equipment to ensure safe operating conditions for animals, staff, and operators. Pavement renewal at the base of the ramps will also be undertaken.\n\nThe desired outcome of this RFT is to enter into a Lump Sum Contract with an appropriately experienced Contractor for the Design & Construction of new ramps and pavement renewal in accordance with the tender documentation.\n\nThe Scope of Works under this RFT is to design new loading ramps, remove the existing ramps, remediating the pavement, and installing new loading ramps.\n\nThe works ...",
+        "to": "Wagga Wagga City Council (Council) are improving the loading ramps of the Livestock Marketing Centre (LMC) sheep delivery yards. The ramps, located in the northeast corner of the site, were constructed with the original facility and have reached the end of their useful life. This increases the risk of slips, injuries and creates potential workplace safety and animal welfare concerns.\n\nThe project aims to replace the original ramps with modern equipment to ensure safe operating conditions for animals, staff, and operators. Pavement renewal at the base of the ramps will also be undertaken.\n\nThe desired outcome of this RFT is to enter into a Lump Sum Contract with an appropriately experienced Contractor for the Design & Construction of new ramps and pavement renewal in accordance with the tender documentation.\n\nThe Scope of Works under this RFT is to design new loading ramps, remove the existing ramps, remediating the pavement, and installing new loading ramps.\n\nThe works to be performed by the Contractor include the provision of all labour, supervision, materials, equipment, designs, overheads, administration, taxes, wages, accommodation, transport, allowances, consumables, testing services and any other incidental costs, to construct the works in accordance with this Contract.\n\nON-SITE BRIEFING:\n\nA pre-tender briefing will be held on Tuesday 1st September 2026 at 11AM. The meeting is to be held on-site at the Livestock Marketing Centre, Webb Street, Bomen. Registration to attend the briefing can be made via email procurement@wagga.nsw.gov.au.\n\nWhilst this briefing is not compulsory, consultants are encouraged to attend to obtain a firsthand understanding of the works required.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "8cb4762b0c3a4d6fabce543e2be630c5",
+    "source": "vendorpanel",
+    "reference": "VP522839",
+    "title": "Expression of Interest - Printing and Delivery - Community Magazine",
+    "description": "Ballina Shire Council is seeking Expressions of Interest from suitably experienced commercial printers to receive an invitation to quote to print and deliver Council’s \"Community\" Connect magazine. Each edition entails a print run of 20,000 copies, six times per year.\n\nPublication Schedule\n\n•\tFebruary, April, June, August, October, December\n\n•\tReceipt in Ballina required within one week of artwork file upload (e.g if Council provides artwork on a Friday, we require delivery by the following Friday)\n\nPublication Specifications\n\n•\tFinished size - A4 (210mm x 297mm).\n\n•\tBinding - Double Staple. Magazine format.\n\n•\tPaper Stock – Minimum 56gsm. Currently printed on 58gsm LWC Gloss. FSC approved and recycled if available.\n\n•\tPrinting - Full-colour CMYK using soy-based inks.\n\n•\t24 pages per issue\n\nDelivery Requirements\n\n•\tBundled and strapped 50 copies per bundle\n\n•\t4,500 copies (90 bundles) packed on a single pallet for bulk distribution\n\n•\t15,500 copies (310 bundles) palletised for hand delivery\n\n•\tDelivery to Ballina NSW 2478 needs to be made with a tail gate lifter/lift truck/on board pallet jack. There is no forklift onsite. Delivery contractor to discharge pallets and place on adjacent flat concrete surface.",
+    "buyer": "Ballina Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Printing & Distribution Services"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-26T05:43:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8cb4762b0c3a4d6fabce543e2be630c5s522839s5fdd6d7055cc4c849a2082beef9394dfs1599",
+    "vendorPanelDetails": {
+      "buyerAddress": "40 Cherry St\nBallina, New South Wales 2478\nAustralia",
+      "buyerWebsite": "https://www.ballina.nsw.gov.au/",
+      "buyerDescription": "Ballina Shire Council is located on the New South Wales Far North Coast, 770 kilometres north of Sydney and 190 kilometres south of Brisbane. The Shire, an area of 484 square kilometres, is set amongst a picturesque rural-coastal landscape and enjoys a temperate to mild subtropical climate.\n\nThe Shires resident population is approximately 45,000 with major service centre Ballina servicing the major townships of Alstonville, Lennox Head, Wollongbar, and Wardell. As well as a number of smaller villages and localities including Cumbalum, Teven, Tintenbar and Knockrow.\n\nBallina Shire Council acknowledges that we are here on the land of the Bundjalung people. The Bundjalung are the traditional owners of this land and are part of the oldest surviving continuous culture in the world.",
+      "buyerReference": "EOI5137",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-15T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-28T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 29 September 2026 (AUS Eastern Standard Time)",
+      "background": "The contract period will be for 1-year, with a further 2 x 1-year extension options (solely at Council's discretion.",
+      "desiredOutcomes": "Compliant submissions of Expressions of Interest will be considered and a shortlist of suitable candidates will then be invited to provide a priced quotation.",
+      "buyerQuestions": [
+        "Please demonstrate your experience in delivering orders of the same or similar:\n- Specifications\n- Content size\n- Run size\n- Publication frequency",
+        "Please confirm that order turnaround (5 working days from receiving artwork to physical delivery Ballina) can be achieved or provide your best achievable timeframe.",
+        "Please advise the location where the publication will be printed",
+        "Please confirm your ability to deliver bundles of 50 copies collated ,strapped/tied and please advise number of bundles per carton or whether bundles will be shrink-wrapped to the pallet."
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Richmond-Tweed"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Ballina Shire Council is seeking Expressions of Interest from suitably experienced commercial printers to receive an invitation to quote to print and deliver Council’s \"Community\" Connect magazine. Each edition entails a print run of 20,000 copies, six times per year.\n\nPublication Schedule\n\n•\tFebruary, April, June, August, October, December\n\n•\tReceipt in Ballina required within one week of artwork file upload (e.g if Council provides artwork on a Friday, we require delivery by the following Friday)\n\nPublication Specifications\n\n•\tFinished size - A4 (210mm x 297mm).\n\n•\tBinding - Double Staple. Magazine format.\n\n•\tPaper Stock – Minimum 56gsm. Currently printed on 58gsm LWC Gloss. FSC approved and recycled if available.\n\n•\tPrinting - Full-colour CMYK using soy-based inks.\n\n•\t24 pages per issue\n\nDelivery Requirements\n\n•\tBundled and strapped 50 copies per bundle\n\n•\t4,500 copies (90 bundles) packed...",
+        "to": "Ballina Shire Council is seeking Expressions of Interest from suitably experienced commercial printers to receive an invitation to quote to print and deliver Council’s \"Community\" Connect magazine. Each edition entails a print run of 20,000 copies, six times per year.\n\nPublication Schedule\n\n•\tFebruary, April, June, August, October, December\n\n•\tReceipt in Ballina required within one week of artwork file upload (e.g if Council provides artwork on a Friday, we require delivery by the following Friday)\n\nPublication Specifications\n\n•\tFinished size - A4 (210mm x 297mm).\n\n•\tBinding - Double Staple. Magazine format.\n\n•\tPaper Stock – Minimum 56gsm. Currently printed on 58gsm LWC Gloss. FSC approved and recycled if available.\n\n•\tPrinting - Full-colour CMYK using soy-based inks.\n\n•\t24 pages per issue\n\nDelivery Requirements\n\n•\tBundled and strapped 50 copies per bundle\n\n•\t4,500 copies (90 bundles) packed on a single pallet for bulk distribution\n\n•\t15,500 copies (310 bundles) palletised for hand delivery\n\n•\tDelivery to Ballina NSW 2478 needs to be made with a tail gate lifter/lift truck/on board pallet jack. There is no forklift onsite. Delivery contractor to discharge pallets and place on adjacent flat concrete surface.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "8db38f0a6a2449cb93db61c31a988463",
@@ -6579,6 +7475,56 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "9c7204e64b18451a849acca97f73a034",
+    "source": "vendorpanel",
+    "reference": "VP520760",
+    "title": "QBNQ436BLD1-Carry out Pre-Paint Repairs and External Painting Works-CHARTERS TOWERS STATE HIGH",
+    "description": "QBNQ436BLD1 – Carry out Pre-Paint Repairs and External Painting Works - CHARTERS TOWERS STATE HIGH SCHOOL, 97-113 TOWERS ST, CHARTERS TOWERS, QLD 4820\n\nThe work site will be available for contractors to attend to complete inspection and site measurements on Thursday 27 August 2026\n\nAttendees are to RSVP by email to QBuild.NQ.Tenders@hpw.qld.gov.au no later than 2pm Tuesday 25 August 2026\n\nRSVP to include attendees name and contact details.\n\nNo RSVP = No Admittance to Site\n\nNo further site inspections can be undertaken\n\nPricing: 80 points\n\nNon Price Criteria: 20 points (Local Benefits, Support of Social Enterprises, Program & Methodology)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: Within 2 weeks of acceptance\n\nDate for Practical Completion: Within 6 weeks of acceptance\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/ under reference number QBNQ436BLD1",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-14T00:15:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9c7204e64b18451a849acca97f73a034s520760s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "9-15 Langton St\nGarbutt, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "QBNQ436BLD1",
+      "opensAt": "2026-08-13T14:00:00.000Z",
+      "opensAtRaw": "Friday 14 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "QBNQ436BLD1 – Carry out Pre-Paint Repairs and External Painting Works - CHARTERS TOWERS STATE HIGH SCHOOL, 97-113 TOWERS ST, CHARTERS TOWERS, QLD 4820\n\nThe work site will be available for contractors to attend to complete inspection and site measurements on Thursday 27 August 2026\n\nAttendees are to RSVP by email to QBuild.NQ.Tenders@hpw.qld.gov.au no later than 2pm Tuesday 25 August 2026\n\nRSVP to include attendees name and contact details.\n\nNo RSVP = No Admittance to Site\n\nNo further site inspections can be undertaken\n\nPricing: 80 points\n\nNon Price Criteria: 20 points (Local Benefits, Support of Social Enterprises, Program & Methodology)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: Within 2 weeks of acceptance\n\nDate for Practical Completion: Within 6 weeks of acceptance\n\nTender documentation for this project is available from the QBuild eTender webs...",
+        "to": "QBNQ436BLD1 – Carry out Pre-Paint Repairs and External Painting Works - CHARTERS TOWERS STATE HIGH SCHOOL, 97-113 TOWERS ST, CHARTERS TOWERS, QLD 4820\n\nThe work site will be available for contractors to attend to complete inspection and site measurements on Thursday 27 August 2026\n\nAttendees are to RSVP by email to QBuild.NQ.Tenders@hpw.qld.gov.au no later than 2pm Tuesday 25 August 2026\n\nRSVP to include attendees name and contact details.\n\nNo RSVP = No Admittance to Site\n\nNo further site inspections can be undertaken\n\nPricing: 80 points\n\nNon Price Criteria: 20 points (Local Benefits, Support of Social Enterprises, Program & Methodology)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: Within 2 weeks of acceptance\n\nDate for Practical Completion: Within 6 weeks of acceptance\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/ under reference number QBNQ436BLD1",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "9ed5fa7fcb734687aa4f49a7693a09a8",
     "source": "vendorpanel",
     "reference": "VP519750",
@@ -6634,6 +7580,61 @@
       }
     ],
     "archivedAt": "2026-09-09T22:04:31.613Z"
+  },
+  {
+    "id": "a25ebb3abadb4ba0b232dfb0693d87eb",
+    "source": "vendorpanel",
+    "reference": "VP521643",
+    "title": "Design and Construction of Ramp A and Catwalk - Blackall Saleyards",
+    "description": "Blackall-Tambo Regional Council invites tenders from suitably qualifies, experienced and resources contractors for the demolitions, design, supply and construction of Ramp A and a new catwalk at the Blackall Saleyards.\n\nThe works shall include demolition and disposal of the existing non-standard ramp, detailing engineering design, fabrication, constructions, installation and commissioning of new infrastructure (Ramp A and catwalk) to provide a safe, durable and fit-for-purpose livestock loading and handling facility.",
+    "buyer": "Blackall-Tambo Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T04:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-18T03:48:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=a25ebb3abadb4ba0b232dfb0693d87ebs521643s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "6 Coronation Dr\nBlackall, Queensland 4472\nAustralia",
+      "buyerWebsite": "http://www.btrc.qld.gov.au/",
+      "buyerDescription": "Blackall-Tambo is located in the heart of Queensland's Outback approximately 900km north west of Brisbane. The region comprises of two towns of Blackall and Tambo which lie along the historic Barcoo River on the Warrego Highway (Matilda Highway). Blackall is an attractive vibrant town with a population of approximately 1500 people. The town of Tambo is a jewel in the west with a population of 600.\n\nThe Blackall-Tambo region has an extensive history of cattle, sheep and wool production. Australia's famous shearer, Jackie Howe lived and worked in our area. The region's economy has diversified into other industries including cypress pine sawmilling and tourism which has been a solid base for retail and general services.",
+      "buyerReference": null,
+      "opensAt": "2026-08-17T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 18 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-25T19:37:00.000Z",
+          "question": "Good morning, Can you please confirm the Date and Time for the mandatory site meeting?",
+          "answeredAt": "2026-08-25T22:46:00.000Z",
+          "answer": "Site meetings are arranged at your convenience by contacting the Saleyards Manager, Dan Burton on 0428 191 909."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-18T07:31:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Appendix A - BRTC-01-1001-Truck Walkway Tender.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "a45056e4f7034e7e866c84f2a9838748",
@@ -7925,6 +8926,56 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "c5279509174b421885b7aa171a3bf7ce",
+    "source": "vendorpanel",
+    "reference": "VP521214",
+    "title": "CN-26958a EOI - ETI for Construction of Coomera Connector Stage 2 Pimpama to Coomera",
+    "description": "The Department of Transport and Main Roads (TMR) invites suitably prequalified contractors to submit an Expression of Interest (EOI) for the Early Tenderer Involvement (ETI) of the Coomera Connector Stage 2 – Pimpama to Coomera project.\n\nThe project involves the delivery of a new section of the Coomera Connector between Yawalpah Road to Shipper Drive.\n\nTender documentation is available only to contractors prequalified with TMR at R5, B4, F150+, A4 or higher.\n\nTenderers should note that the following requirements apply to this project:\n\n•\tBuilding and Construction Code of Practice 2000 (Queensland Code)\n\n•\tQueensland Charter for Local Content\n\n•\tAustralian Government Building and Construction Industry WHS Accreditation Scheme\n\n•\tQueensland Procurement Policy (QPP) 2026\n\nTo obtain access to the EOI documentation via QBuild (eTender), please contact Rosie Lonergan at projects.southcoast@tmr.qld.gov.au.\n\nYour email request must include:\n\nCompany Name:\n\nABN / ACN:\n\nQBuild Login Details:\n\nPrequalification Status:\n\nKiteworks email login:\n\nAny enquiries regarding this EOI must be submitted in writing to projects.southcoast@tmr.qld.gov.au.\n\nOffers must be lodged electronically via QBuild (eTender) no later than 10:00 am (AEST), Tuesday, 15 September 2026.",
+    "buyer": "Department of Transport and Main Roads-South Coast",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-09-15T00:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-14T00:31:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c5279509174b421885b7aa171a3bf7ces521214s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "38 Cotton St\nNerang, Queensland 4211\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's Program Delivery & Operations branch - South Coast Region.",
+      "buyerReference": "CN-26958a",
+      "opensAt": "2026-08-13T14:00:00.000Z",
+      "opensAtRaw": "Friday 14 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T00:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Gold Coast"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Department of Transport and Main Roads (TMR) invites suitably prequalified contractors to submit an Expression of Interest (EOI) for the Early Tenderer Involvement (ETI) of the Coomera Connector Stage 2 – Pimpama to Coomera project.\n\nThe project involves the delivery of a new section of the Coomera Connector between Yawalpah Road to Shipper Drive. \n\nTender documentation is available only to contractors prequalified with TMR at R5, B4, F150+, A4 or higher.\n\n\nTenderers should note that the following requirements apply to this project:\n\n•\tBuilding and Construction Code of Practice 2000 (Queensland Code)\n\n•\tQueensland Charter for Local Content\n\n•\tAustralian Government Building and Construction Industry WHS Accreditation Scheme\n\n•\tQueensland Procurement Policy (QPP) 2026\n\nTo obtain access to the EOI documentation via QBuild (eTender), please contact Rosie Lonergan at projects.southcoast@tmr.qld.gov.au.\n\nYour email re...",
+        "to": "The Department of Transport and Main Roads (TMR) invites suitably prequalified contractors to submit an Expression of Interest (EOI) for the Early Tenderer Involvement (ETI) of the Coomera Connector Stage 2 – Pimpama to Coomera project.\n\nThe project involves the delivery of a new section of the Coomera Connector between Yawalpah Road to Shipper Drive.\n\nTender documentation is available only to contractors prequalified with TMR at R5, B4, F150+, A4 or higher.\n\nTenderers should note that the following requirements apply to this project:\n\n•\tBuilding and Construction Code of Practice 2000 (Queensland Code)\n\n•\tQueensland Charter for Local Content\n\n•\tAustralian Government Building and Construction Industry WHS Accreditation Scheme\n\n•\tQueensland Procurement Policy (QPP) 2026\n\nTo obtain access to the EOI documentation via QBuild (eTender), please contact Rosie Lonergan at projects.southcoast@tmr.qld.gov.au.\n\nYour email request must include:\n\nCompany Name:\n\nABN / ACN:\n\nQBuild Login Details:\n\nPrequalification Status:\n\nKiteworks email login:\n\nAny enquiries regarding this EOI must be submitted in writing to projects.southcoast@tmr.qld.gov.au.\n\nOffers must be lodged electronically via QBuild (eTender) no later than 10:00 am (AEST), Tuesday, 15 September 2026.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "c56eac6824ec46da9e3ce940c1d9e04e",
     "source": "vendorpanel",
     "reference": "VP522472",
@@ -8082,6 +9133,49 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "c9ca45eb4f8f494fa45c61fb7358059b",
+    "source": "vendorpanel",
+    "reference": "VP522501",
+    "title": "RFT260068 - Supply & Deliver Two Day Cab Tippers 15t GVM",
+    "description": "Please be advised that responses submitted by suppliers who have unlocked and edited the Mandatory Returnable Worksheet will be classified as non-conforming and excluded from evaluation.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T06:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c9ca45eb4f8f494fa45c61fb7358059bs522501s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260068",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
     "id": "cb09796fa7e74b2687530c0b1d78b4e4",
@@ -9045,6 +10139,59 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "eb1a0c6215524effa7da752cdf0262aa",
+    "source": "vendorpanel",
+    "reference": "VP521694",
+    "title": "LED Fresnel HEX 250 or equivalent",
+    "description": "16 x LED Fresnel 250 HEX with barn doors or equivalent",
+    "buyer": "Bundaberg Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "ELEC, Lighting, Equip & Services",
+      "Electronic Components & Supplies"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T07:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-18T04:59:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=eb1a0c6215524effa7da752cdf0262aas521694",
+    "vendorPanelDetails": {
+      "buyerAddress": "190 Bourbong St\nBundaberg Central, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.bundaberg.qld.gov.au/business/doing-business",
+      "buyerDescription": "Bundaberg Regional Council is situated at the southern end of the Great Barrier Reef stretching from the Burrum River to Baffle Creek, comprising of 6,451 sq km. Collectively, we are renowned for the friendliness of our residents, superb climate, affordable cost of living, first-class facilities, and relaxed lifestyle. The Bundaberg Region is rapidly progressing to be a destination of choice - for residents, visitors, and investors.",
+      "buyerReference": "MEC2026.1",
+      "opensAt": "2026-08-17T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 18 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-21T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 22 September 2026 (E. Australia Standard Time)",
+      "background": "Please include freight costs in quote",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Please advise if this item is in stock or if not, the expected timeframe on delivery if successful."
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-19T05:15:00.000Z",
+          "question": "Good afternoon,\n\nCould you please confirm if this request is for supply only?\n\nWe would also like to arrange a site visit to inspect the locations where the new lights will be installed. Could you please advise a suitable time for us to attend?",
+          "answeredAt": "2026-08-25T22:07:00.000Z",
+          "answer": "Thank you for your questions.\n\nIt is supply only as the lights will be mounted in the overhead lighting rig."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "eb4f0b7c9fd44738acc26172cd98f038",
     "source": "vendorpanel",
     "reference": "VP521233",
@@ -9315,6 +10462,50 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "f03720ff951a4c98af2267aa01c811b8",
+    "source": "vendorpanel",
+    "reference": "VP522481",
+    "title": "RFQ260103 - Supply & Delivery of One Plant Trailer 9t ATM",
+    "description": "Please be advised that responses submitted by suppliers who have unlocked and edited the Mandatory Returnable Worksheet will be classified as non-conforming and excluded from evaluation.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase",
+      "Vehicles"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-15T06:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=f03720ff951a4c98af2267aa01c811b8s522481",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260103",
+      "opensAt": "2026-08-24T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
     "id": "f21490e606b3491dae2772633a5ad2c9",
     "source": "vendorpanel",
     "reference": "VP519678",
@@ -9581,5 +10772,128 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "ff89eaab37574ec18a01e85f8be8b891",
+    "source": "vendorpanel",
+    "reference": "VP521962",
+    "title": "Liquid Waste Services",
+    "description": "Please refer to the attached documents - initial review in the following order might assist:\n\n[1] Request for Tender - 260316-000324\n\n[2] Schedule 2 - Appendix 1 - Specification - Liquid Waste Services\n\n[3] Schedule 2 - Appendix 2 - Asset Schedule & Price File\n\n[4] Schedule 2 - Appendix 3 - WSW-FOR-017 - WHS CONTRACTOR ASSESSMENT\n\n[5] Schedule 4 - Services Contract\n\n[6] Schedule 5 - Response Schedule",
+    "buyer": "City of Ipswich",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Cleaning Services, Equip, Supplies",
+      "Waste Management & Landfill",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-15T07:00:00.000Z",
+    "closingAtRaw": "15/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-20T04:17:00.000Z",
+    "contact": {
+      "raw": "Mark Benson Email: mark.benson@ipswich.qld.gov.au Tel: 07 3810 7940",
+      "name": "Mark Benson",
+      "email": "mark.benson@ipswich.qld.gov.au",
+      "phone": "07 3810 7940"
+    },
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ff89eaab37574ec18a01e85f8be8b891s521962",
+    "vendorPanelDetails": {
+      "buyerAddress": "Union Pl\nIpswich, Queensland 4305\nAustralia",
+      "buyerWebsite": "http://www.ipswich.qld.gov.au/",
+      "buyerDescription": "Ipswich is centrally located in the booming south east Queensland region of Australia. To the east is the capital city Brisbane, and to the west are the rural and agricultural areas of the Brisbane, Lockyer and Fassifern Valleys. The city is ideally positioned on the national road network - 40 minutes drive from Brisbane, an hours drive from the Gold Coast and 60 minutes drive from domestic and international air and sea ports.\nIpswich comprises an area of 1090 square kms and has a population of 180,000 people. Ipswich enjoys a subtropical climate and is a safe, friendly and multicultural city. Residents come from 115 different ethnic backgrounds, speaking 84 languages.\nAs Queensland's oldest provincial city, Ipswich has a rich history. It is renowned for its architectural, natural and cultural heritage. Ipswich proudly preserves and still operates from many of its historical buildings and homes, with more than 6000 heritage-listed sites. Ipswich also has a range of charming townships within the western rural areas of the city, each with its own legitimate claims of historical significance.",
+      "buyerReference": "RFT 260316-000324",
+      "opensAt": "2026-08-19T14:00:00.000Z",
+      "opensAtRaw": "Thursday 20 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 14 November 2026 (E. Australia Standard Time)",
+      "background": "At a minimum - the following documents are to be completed and returned as part of the submission (and any relevant / requested attachments):\n\n[1] Schedule 5 - Response Schedule\n\n[2] Schedule 2 - Appendix 2 - Asset Schedule & Price File\n\n[3] Schedule 2 - Appendix 3 - WSW-FOR-017 - WHS CONTRACTOR ASSESSMENT",
+      "desiredOutcomes": "Please refer to the attached documents.",
+      "buyerQuestions": [
+        "Please ensure to allow sufficient time to upload the submission in its entirety in VendorPanel prior to the closing time on the closing date.",
+        "If any clarifications are required, please direct these back through the VendorPanel forum. Please do not contact Council Officers directly.",
+        "Please ensue the returnable documents are included in the final uploaded submission?",
+        "Please ensure when submitting attachments they have titles / titled representing the question to which it relates to.\n\nSubmitting Attachments\n• Where attachments are instructed or required, they must be named in the following format:\n• Question Number (Q #) – Question Name – Document Type\n• Example: Q2 – Insurance Details – Copies of Certificates of Currency\n• It is requested the submission is not PDF into one large submission. A PDF per question is acceptable."
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: West Moreton"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-25T07:01:00.000Z",
+          "question": "Good afternoon,\n\n1. We kindly ask for an extension of at least two weeks to the submission date.\n\n2. Could the City please provide historical waste volumes for the ad hoc work for the (2025 calendar) year total volume, for: Ad Hoc Septic, Ad Hoc Oily Water and Hazardous Waste?\n\nThank you",
+          "answeredAt": "2026-08-28T02:58:00.000Z",
+          "answer": "Council has received these questions and provides the following response:\n\nQ1 - Council is unable to extend the closing date and time as it risks internal timelines to have a new contract commencement date aligned with the current contract expiry date.\n\nQ2 - The requested historical volume information for Ad Hoc Septic, Ad Hoc Oily Water, and Hazardous Waste is not readily accessible in a consolidated format. To provide accurate annual volumes would require a detailed review of individual service records and invoices across multiple sites, which would be a significant exercise.\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-08-25T23:15:00.000Z",
+          "question": "Clarification Request:\n\nThis relates to the Sewerage Pump Outs section (Tab #3) of Schedule 2 Appendix 2 – Asset Schedule & Price File.\n\nCouncil's tender documentation refers to the services under Tab #3 as \"Sewerage Pump Outs\"; however, the asset schedule includes references to a mix of:\n\n•\tHolding tanks\n\n•\tSeptic systems/septic to trench\n\n•\tLong drop toilets\n\n•\tAlarmed holding tanks\n\n•\tVarious park and community facility wastewater systems\n\nCould Council please clarify the following:\n\n1.\tAre the assets listed in Tab #3 classified as:\n\n•\tSewerage waste;\n\n•\tSeptic waste;\n\n•\tGrey water; or\n\n•\tA combination of these waste streams?\n\n2.\tFor each listed asset, can Council confirm the expected waste composition and whether any solid components are anticipated within the waste stream?\n\n3.\tFor alarmed services and holding tanks (e.g. College's Crossing and other alarmed assets), can Council provide any available historical pump-out volumes and servicing frequency data?\n\n4.\tAre there any assets within Tab #3 that receive waste from public amenities or facilities that may contain non-sewage materials or contaminants requiring special handling or disposal arrangements?\n\nThis information will assist tenderers in confirming the appropriate collection methodology, treatment/disposal pathway and pricing submission.",
+          "answeredAt": "2026-08-28T02:51:00.000Z",
+          "answer": "Council has received these questions and provides the following response:\n\nQ1 - the assets listed in Tab #3 classified as a combination of those waste streams (sewerage/septic/wastewater)\n\nQ2 - As a guide, faecal matter 20%, urine and greywater 75%, paper and contaminants 5%\n\nQ3 - Volume is stated as capacity in tab 3 - Colleges Crossing historically every 2-3 weeks - Henry Lawson Park – Scheduled Fortnightly, other services bi-annually.\n\nQ4 - Yes, non-sewage including clothing, bottles, cans.\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-08-31T00:36:00.000Z",
+          "question": "Good Morning,\n\nQ1 - Can you please confirm the number of trained staff required or used historically to support the annual hazardous waste drop off day, including chemists?\n\nThank you",
+          "answeredAt": "2026-09-01T23:54:00.000Z",
+          "answer": "Council has received this question and provides the following response:\n\nCouncil advises that, currently, approximately five to six supplier personnel attend the Hazardous Waste Day, including at least one qualified chemist. This information is provided as a guide only and should not be interpreted as a requirement.\n\nTenderers are responsible for determining the appropriate resourcing of personnel necessary to safely and effectively deliver the services required for the event.\n\nShould further information be required, please submit an additional clarification request through this portal.\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-08-31T00:55:00.000Z",
+          "question": "Site visits - Could we please have site visits to the sewerage pumpout sites in tab 3 of the RFT # 260316-000324 - Schedule 2 - Appendix 2 - Asset Schedule & Price File?",
+          "answeredAt": "2026-09-01T22:32:00.000Z",
+          "answer": "Council has received this question and provides the following response:\n\nSite visits - With the exception of the Willowbank listed sites and the Marburg SES site, all locations identified in the Request for Tender are publicly accessible and may be inspected by Tenderers without Council assistance.\n\nShould access to Willowbank and/or Marburg SES be considered necessary for Tenderers to prepare and submit a tender, Council will consider arranging site visits to these locations only.\n\nKind regards,\n\nICC\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-09-01T06:16:00.000Z",
+          "question": "Can a tenderer submit a response for only one scope of work. For example, can we tender for the GPT work, but not the household hazardous waste component?\n\nAre the scopes separable?\n\nThanks",
+          "answeredAt": "2026-09-01T22:36:00.000Z",
+          "answer": "Council has received this question and provides the following response:\n\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\n\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-09-03T03:15:00.000Z",
+          "question": "Will the tender be awarded as a Panel for each separable portion or does council intend to only award each portion to one contractor?",
+          "answeredAt": "2026-09-03T07:34:00.000Z",
+          "answer": "Council has received this question and provides the following response:\n\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\n\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\n\nkind regards,\n\nICC"
+        },
+        {
+          "askedAt": "2026-09-03T09:49:00.000Z",
+          "question": "Are you able to clarify if multiple contractors will be awarded to each separable portion or will council only award one contractor per separable portion?",
+          "answeredAt": "2026-09-03T21:15:00.000Z",
+          "answer": "Council will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\n\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\n\nPer section 15 of the Request for tender document: Council may accept part or parts of a Tender or accept multiple Tenders and/or select multiple Tenderers as preferred Tenderers where the proposed solution represents value for money and meets Council's requirements.\n\nCouncil is not in a position at this stage to advise how many tenders / contracts / suppliers will be awarded.\n\nkind regards,\n\nICC"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-14T02:11:00.000Z",
+          "description": "Council has extended the closing date - this request now closes Tuesday 15 September 2026 at 5PM.\n\nkind regards,\n\nICC"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T04:00:00.000Z",
+        "to": "2026-09-15T07:00:00.000Z",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "15/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"Union Pl\\nIpswich, Queensland 4305\\nAustralia\",\"buyerWebsite\":\"http://www.ipswich.qld.gov.au/\",\"buyerDescription\":\"Ipswich is centrally located in the booming south east Queensland region of Australia. To the east is the capital city Brisbane, and to the west are the rural and agricultural areas of the Brisbane, Lockyer and Fassifern Valleys. The city is ideally positioned on the national road network - 40 minutes drive from Brisbane, an hours drive from the Gold Coast and 60 minutes drive from domestic and international air and sea ports.\\nIpswich comprises an area of 1090 square kms and has a population of 180,000 people. Ipswich enjoys a subtropical climate and is a safe, friendly and multicultural city. Residents come from 115 different ethnic backgrounds, speaking 84 languages.\\nAs Queensland's oldest provincial city, Ipswich has a rich history. It is renowned for its architectural, natural and cultural heritage. Ipswich proudly preserves and still operates from many of its historical buildings and homes, with more than 6000 heritage-listed sites. Ipswich also has a range of charming townships within the western rural areas of the city, each with its own legitimate claims of historical significance.\",\"buyerReference\":\"RFT 260316-000324\",\"opensAt\":\"2026-08-19T14:00:00.000Z\",\"opensAtRaw\":\"Thursday 20 August 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-09T04:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 09 September 2026 02:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-11-12T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Friday 13 November 2026 (E. Australia Standard Time)\",\"background\":\"At a minimum - the following documents are to be completed and returned as part of the submission (and any relevant / requested attachments):\\n\\n[1] Schedule 5 - Response Schedule\\n\\n[2] Schedule 2 - Appendix 2 - Asset Schedule & Price File\\n\\n[3] Schedule 2 - Appendix 3 - WSW-FOR-017 - WHS CONTRACTOR ASSESSMENT\",\"desiredOutcomes\":\"Please refer to the attached documents.\",\"buyerQuestions\":[\"Please ensure to allow sufficient time to upload the submission in its entirety in VendorPanel prior to the closing time on the closing date.\",\"If any clarifications are required, please direct these back through the VendorPanel forum. Please do not contact Council Officers directly.\",\"Please ensue the returnable documents are included in the final uploaded submission?\",\"Please ensure when submitting attachments they have titles / titled representing the question to which it relates to.\\n\\nSubmitting Attachments\\n• Where attachments are instructed or required, they must be named in the following format:\\n• Question Number (Q #) – Question Name – Document Type\\n• Example: Q2 – Insurance Details – Copies of Certificates of Currency\\n• It is requested the submission is not PDF into one large submission. A PDF per question is acceptable.\"],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: West Moreton\"],\"publicQuestions\":[{\"askedAt\":\"2026-08-25T07:01:00.000Z\",\"question\":\"Good afternoon,\\n\\n1. We kindly ask for an extension of at least two weeks to the submission date.\\n\\n2. Could the City please provide historical waste volumes for the ad hoc work for the (2025 calendar) year total volume, for: Ad Hoc Septic, Ad Hoc Oily Water and Hazardous Waste?\\n\\nThank you\",\"answeredAt\":\"2026-08-28T02:58:00.000Z\",\"answer\":\"Council has received these questions and provides the following response:\\n\\nQ1 - Council is unable to extend the closing date and time as it risks internal timelines to have a new contract commencement date aligned with the current contract expiry date.\\n\\nQ2 - The requested historical volume information for Ad Hoc Septic, Ad Hoc Oily Water, and Hazardous Waste is not readily accessible in a consolidated format. To provide accurate annual volumes would require a detailed review of individual service records and invoices across multiple sites, which would be a significant exercise.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-25T23:15:00.000Z\",\"question\":\"Clarification Request:\\n\\nThis relates to the Sewerage Pump Outs section (Tab #3) of Schedule 2 Appendix 2 – Asset Schedule & Price File.\\n\\nCouncil's tender documentation refers to the services under Tab #3 as \\\"Sewerage Pump Outs\\\"; however, the asset schedule includes references to a mix of:\\n\\n•\\tHolding tanks\\n\\n•\\tSeptic systems/septic to trench\\n\\n•\\tLong drop toilets\\n\\n•\\tAlarmed holding tanks\\n\\n•\\tVarious park and community facility wastewater systems\\n\\nCould Council please clarify the following:\\n\\n1.\\tAre the assets listed in Tab #3 classified as:\\n\\n•\\tSewerage waste;\\n\\n•\\tSeptic waste;\\n\\n•\\tGrey water; or\\n\\n•\\tA combination of these waste streams?\\n\\n2.\\tFor each listed asset, can Council confirm the expected waste composition and whether any solid components are anticipated within the waste stream?\\n\\n3.\\tFor alarmed services and holding tanks (e.g. College's Crossing and other alarmed assets), can Council provide any available historical pump-out volumes and servicing frequency data?\\n\\n4.\\tAre there any assets within Tab #3 that receive waste from public amenities or facilities that may contain non-sewage materials or contaminants requiring special handling or disposal arrangements?\\n\\nThis information will assist tenderers in confirming the appropriate collection methodology, treatment/disposal pathway and pricing submission.\",\"answeredAt\":\"2026-08-28T02:51:00.000Z\",\"answer\":\"Council has received these questions and provides the following response:\\n\\nQ1 - the assets listed in Tab #3 classified as a combination of those waste streams (sewerage/septic/wastewater)\\n\\nQ2 - As a guide, faecal matter 20%, urine and greywater 75%, paper and contaminants 5%\\n\\nQ3 - Volume is stated as capacity in tab 3 - Colleges Crossing historically every 2-3 weeks - Henry Lawson Park – Scheduled Fortnightly, other services bi-annually.\\n\\nQ4 - Yes, non-sewage including clothing, bottles, cans.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-31T00:36:00.000Z\",\"question\":\"Good Morning,\\n\\nQ1 - Can you please confirm the number of trained staff required or used historically to support the annual hazardous waste drop off day, including chemists?\\n\\nThank you\",\"answeredAt\":\"2026-09-01T23:54:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil advises that, currently, approximately five to six supplier personnel attend the Hazardous Waste Day, including at least one qualified chemist. This information is provided as a guide only and should not be interpreted as a requirement.\\n\\nTenderers are responsible for determining the appropriate resourcing of personnel necessary to safely and effectively deliver the services required for the event.\\n\\nShould further information be required, please submit an additional clarification request through this portal.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-31T00:55:00.000Z\",\"question\":\"Site visits - Could we please have site visits to the sewerage pumpout sites in tab 3 of the RFT # 260316-000324 - Schedule 2 - Appendix 2 - Asset Schedule & Price File?\",\"answeredAt\":\"2026-09-01T22:32:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nSite visits - With the exception of the Willowbank listed sites and the Marburg SES site, all locations identified in the Request for Tender are publicly accessible and may be inspected by Tenderers without Council assistance.\\n\\nShould access to Willowbank and/or Marburg SES be considered necessary for Tenderers to prepare and submit a tender, Council will consider arranging site visits to these locations only.\\n\\nKind regards,\\n\\nICC\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-01T06:16:00.000Z\",\"question\":\"Can a tenderer submit a response for only one scope of work. For example, can we tender for the GPT work, but not the household hazardous waste component?\\n\\nAre the scopes separable?\\n\\nThanks\",\"answeredAt\":\"2026-09-01T22:36:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-03T03:15:00.000Z\",\"question\":\"Will the tender be awarded as a Panel for each separable portion or does council intend to only award each portion to one contractor?\",\"answeredAt\":\"2026-09-03T07:34:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-03T09:49:00.000Z\",\"question\":\"Are you able to clarify if multiple contractors will be awarded to each separable portion or will council only award one contractor per separable portion?\",\"answeredAt\":\"2026-09-03T21:15:00.000Z\",\"answer\":\"Council will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nPer section 15 of the Request for tender document: Council may accept part or parts of a Tender or accept multiple Tenders and/or select multiple Tenderers as preferred Tenderers where the proposed solution represents value for money and meets Council's requirements.\\n\\nCouncil is not in a position at this stage to advise how many tenders / contracts / suppliers will be awarded.\\n\\nkind regards,\\n\\nICC\"}],\"updates\":[]}",
+        "to": "{\"buyerAddress\":\"Union Pl\\nIpswich, Queensland 4305\\nAustralia\",\"buyerWebsite\":\"http://www.ipswich.qld.gov.au/\",\"buyerDescription\":\"Ipswich is centrally located in the booming south east Queensland region of Australia. To the east is the capital city Brisbane, and to the west are the rural and agricultural areas of the Brisbane, Lockyer and Fassifern Valleys. The city is ideally positioned on the national road network - 40 minutes drive from Brisbane, an hours drive from the Gold Coast and 60 minutes drive from domestic and international air and sea ports.\\nIpswich comprises an area of 1090 square kms and has a population of 180,000 people. Ipswich enjoys a subtropical climate and is a safe, friendly and multicultural city. Residents come from 115 different ethnic backgrounds, speaking 84 languages.\\nAs Queensland's oldest provincial city, Ipswich has a rich history. It is renowned for its architectural, natural and cultural heritage. Ipswich proudly preserves and still operates from many of its historical buildings and homes, with more than 6000 heritage-listed sites. Ipswich also has a range of charming townships within the western rural areas of the city, each with its own legitimate claims of historical significance.\",\"buyerReference\":\"RFT 260316-000324\",\"opensAt\":\"2026-08-19T14:00:00.000Z\",\"opensAtRaw\":\"Thursday 20 August 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-15T07:00:00.000Z\",\"queryCutoffAtRaw\":\"Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-11-13T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Saturday 14 November 2026 (E. Australia Standard Time)\",\"background\":\"At a minimum - the following documents are to be completed and returned as part of the submission (and any relevant / requested attachments):\\n\\n[1] Schedule 5 - Response Schedule\\n\\n[2] Schedule 2 - Appendix 2 - Asset Schedule & Price File\\n\\n[3] Schedule 2 - Appendix 3 - WSW-FOR-017 - WHS CONTRACTOR ASSESSMENT\",\"desiredOutcomes\":\"Please refer to the attached documents.\",\"buyerQuestions\":[\"Please ensure to allow sufficient time to upload the submission in its entirety in VendorPanel prior to the closing time on the closing date.\",\"If any clarifications are required, please direct these back through the VendorPanel forum. Please do not contact Council Officers directly.\",\"Please ensue the returnable documents are included in the final uploaded submission?\",\"Please ensure when submitting attachments they have titles / titled representing the question to which it relates to.\\n\\nSubmitting Attachments\\n• Where attachments are instructed or required, they must be named in the following format:\\n• Question Number (Q #) – Question Name – Document Type\\n• Example: Q2 – Insurance Details – Copies of Certificates of Currency\\n• It is requested the submission is not PDF into one large submission. A PDF per question is acceptable.\"],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: West Moreton\"],\"publicQuestions\":[{\"askedAt\":\"2026-08-25T07:01:00.000Z\",\"question\":\"Good afternoon,\\n\\n1. We kindly ask for an extension of at least two weeks to the submission date.\\n\\n2. Could the City please provide historical waste volumes for the ad hoc work for the (2025 calendar) year total volume, for: Ad Hoc Septic, Ad Hoc Oily Water and Hazardous Waste?\\n\\nThank you\",\"answeredAt\":\"2026-08-28T02:58:00.000Z\",\"answer\":\"Council has received these questions and provides the following response:\\n\\nQ1 - Council is unable to extend the closing date and time as it risks internal timelines to have a new contract commencement date aligned with the current contract expiry date.\\n\\nQ2 - The requested historical volume information for Ad Hoc Septic, Ad Hoc Oily Water, and Hazardous Waste is not readily accessible in a consolidated format. To provide accurate annual volumes would require a detailed review of individual service records and invoices across multiple sites, which would be a significant exercise.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-25T23:15:00.000Z\",\"question\":\"Clarification Request:\\n\\nThis relates to the Sewerage Pump Outs section (Tab #3) of Schedule 2 Appendix 2 – Asset Schedule & Price File.\\n\\nCouncil's tender documentation refers to the services under Tab #3 as \\\"Sewerage Pump Outs\\\"; however, the asset schedule includes references to a mix of:\\n\\n•\\tHolding tanks\\n\\n•\\tSeptic systems/septic to trench\\n\\n•\\tLong drop toilets\\n\\n•\\tAlarmed holding tanks\\n\\n•\\tVarious park and community facility wastewater systems\\n\\nCould Council please clarify the following:\\n\\n1.\\tAre the assets listed in Tab #3 classified as:\\n\\n•\\tSewerage waste;\\n\\n•\\tSeptic waste;\\n\\n•\\tGrey water; or\\n\\n•\\tA combination of these waste streams?\\n\\n2.\\tFor each listed asset, can Council confirm the expected waste composition and whether any solid components are anticipated within the waste stream?\\n\\n3.\\tFor alarmed services and holding tanks (e.g. College's Crossing and other alarmed assets), can Council provide any available historical pump-out volumes and servicing frequency data?\\n\\n4.\\tAre there any assets within Tab #3 that receive waste from public amenities or facilities that may contain non-sewage materials or contaminants requiring special handling or disposal arrangements?\\n\\nThis information will assist tenderers in confirming the appropriate collection methodology, treatment/disposal pathway and pricing submission.\",\"answeredAt\":\"2026-08-28T02:51:00.000Z\",\"answer\":\"Council has received these questions and provides the following response:\\n\\nQ1 - the assets listed in Tab #3 classified as a combination of those waste streams (sewerage/septic/wastewater)\\n\\nQ2 - As a guide, faecal matter 20%, urine and greywater 75%, paper and contaminants 5%\\n\\nQ3 - Volume is stated as capacity in tab 3 - Colleges Crossing historically every 2-3 weeks - Henry Lawson Park – Scheduled Fortnightly, other services bi-annually.\\n\\nQ4 - Yes, non-sewage including clothing, bottles, cans.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-31T00:36:00.000Z\",\"question\":\"Good Morning,\\n\\nQ1 - Can you please confirm the number of trained staff required or used historically to support the annual hazardous waste drop off day, including chemists?\\n\\nThank you\",\"answeredAt\":\"2026-09-01T23:54:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil advises that, currently, approximately five to six supplier personnel attend the Hazardous Waste Day, including at least one qualified chemist. This information is provided as a guide only and should not be interpreted as a requirement.\\n\\nTenderers are responsible for determining the appropriate resourcing of personnel necessary to safely and effectively deliver the services required for the event.\\n\\nShould further information be required, please submit an additional clarification request through this portal.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-08-31T00:55:00.000Z\",\"question\":\"Site visits - Could we please have site visits to the sewerage pumpout sites in tab 3 of the RFT # 260316-000324 - Schedule 2 - Appendix 2 - Asset Schedule & Price File?\",\"answeredAt\":\"2026-09-01T22:32:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nSite visits - With the exception of the Willowbank listed sites and the Marburg SES site, all locations identified in the Request for Tender are publicly accessible and may be inspected by Tenderers without Council assistance.\\n\\nShould access to Willowbank and/or Marburg SES be considered necessary for Tenderers to prepare and submit a tender, Council will consider arranging site visits to these locations only.\\n\\nKind regards,\\n\\nICC\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-01T06:16:00.000Z\",\"question\":\"Can a tenderer submit a response for only one scope of work. For example, can we tender for the GPT work, but not the household hazardous waste component?\\n\\nAre the scopes separable?\\n\\nThanks\",\"answeredAt\":\"2026-09-01T22:36:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-03T03:15:00.000Z\",\"question\":\"Will the tender be awarded as a Panel for each separable portion or does council intend to only award each portion to one contractor?\",\"answeredAt\":\"2026-09-03T07:34:00.000Z\",\"answer\":\"Council has received this question and provides the following response:\\n\\nCouncil will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nkind regards,\\n\\nICC\"},{\"askedAt\":\"2026-09-03T09:49:00.000Z\",\"question\":\"Are you able to clarify if multiple contractors will be awarded to each separable portion or will council only award one contractor per separable portion?\",\"answeredAt\":\"2026-09-03T21:15:00.000Z\",\"answer\":\"Council will consider tenders for one or more separable portions of the works where the proposed solution represents value for money and meets Council's requirements.\\n\\nTenderers submitting for less than the full scope are still required to provide all information requested in the Request for Tender relevant to their proposed scope of works.\\n\\nPer section 15 of the Request for tender document: Council may accept part or parts of a Tender or accept multiple Tenders and/or select multiple Tenderers as preferred Tenderers where the proposed solution represents value for money and meets Council's requirements.\\n\\nCouncil is not in a position at this stage to advise how many tenders / contracts / suppliers will be awarded.\\n\\nkind regards,\\n\\nICC\"}],\"updates\":[{\"at\":\"2026-09-14T02:11:00.000Z\",\"description\":\"Council has extended the closing date - this request now closes Tuesday 15 September 2026 at 5PM.\\n\\nkind regards,\\n\\nICC\"}]}",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-15T22:30:52.819Z"
   }
 ]
