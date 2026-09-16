@@ -3423,6 +3423,75 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "0bb7b6d2a48c4430840abb1d86726de2",
+    "source": "vendorpanel",
+    "reference": "VP523765",
+    "title": "Upgrade to Planet Creek Stock Route Facilities",
+    "description": "The Planet Creek Stock Route Reserve is an important infrastructure asset that provides a designated area for the movements, agistment and watering of travelling livestock within the region. The reserve supports Council’s Rural Lands unit by maintaining access to essential stock route networks and provides facilities that assist livestock producers, transport operators and authorised users travelling through the area.\n\nThe existing facilities at Planet Creek have reached an age where upgrades and renewal works are required to ensure the reserve remains functional and compliant with current operational and animal welfare standards. These upgrades have been approved in consultation with the Stock Route Management Network, with Queensland Government grant funding secured to support the delivery of the works.\n\nThe Plant Creek reserve is the most heavily agisted reserve within the Central Highlands Region. This primary reserve is located along the Blackwater-Rolleston Road.\n\nThe successful supplier will be responsible for completing the below specified upgrades in accordance with Council’s standards, legislation, WHS requirements and environmental obligations.\n\nWorks must be completed to the Stock Route Facility Minimum Standards, materials should be sourced from a reputable supplier, works must be undertaken in a neat and professional manner.\n\nTroughs:\n\n•\tRemoval of existing trough - 1\n\n•\tInstallation of new troughs - 4 x 4.5m. Must have sufficient fall to the drain end/s to allow for complete emptying of water. To be aligned in continuous long row\n\n•\tAdequate float valves for correct flow rate, with float cover\n\n•\t Trough guards across full lengths\n\n•\tConcrete slabs to be poured:\n\no\tMinimum 100mm thick and reinforced\n\no\tExtend at least 900mm either side of trough, and total width at least 2.5m wide\n\no\tExtend 2.4m at slab ends where trough drains\n\nTrough Piping:\n\n•\tIf single feed line to distribute (preferred) - minimum 100mm diameter piping required\n\n•\tIf multiple feed lines from tank to troughs – minimum 75mm diameter piping required\n\n•\tPolythene or PVC pipeline is to be buried with a minimum clear cover of 200mm, except for vehicle crossing where the cover must be 300mm\n\n•\tPipes and fittings for troughing from current cement tank\n\nTesting of bores:\n\n•\tTesting to be performed on current bore to establish if the reserve maintains the Windmill or installs a bore pump. Testing to establish the following:\n\no\tDetermine whether the aquafer in the well is fast or slow filling\n\no\tDetermine the type of pump that will be submersed into the aquafer\n\no\tDepth of the bore\n\nSolar Panels:\n\n•\tTheft resistant hardware/construction\n\n•\tEither:\n\no\tMounted on a locked cage fasted to a concrete footing with hardware that cannot be removed from outside the cage, or\n\no\tSurrounded by a security fence, comprising of the following as a minimum:\n\n?\tFence height at least 1650mm\n\n?\tChain mesh fencing min height 1500mm\n\n?\tBottom of chain mesh fencing max 50mm above ground-level\n\n?\tMin 1 barbed wire 100-150mm above the top of chain mesh attached to every post or picket\n\n?\tA gate of sufficient width to allow access to service the pump/panels, secured with a lock and non-removable hinges\n\n?\tGate posts and stays to be cemented a min of 900mm in ground, with a min diameter of 250mm\n\n?\tGate posts and corner posts must be supported by an angle brace stay or a top rail extending around the entire enclosure.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Farming & Animal Services & Equip"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T07:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=0bb7b6d2a48c4430840abb1d86726de2s523765",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260204",
+      "opensAt": "2026-09-02T14:00:00.000Z",
+      "opensAtRaw": "Thursday 03 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West\n2: Fitzroy\n3: Mackay\n4: Northern\n5: South West\n6: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-14T03:33:00.000Z",
+          "description": "Please be advised revised closing date of Wednesday, 16 September 2026"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Planet Creek Stock Route Reserve is an important infrastructure asset that provides a designated area for the movements, agistment and watering of travelling livestock within the region. The reserve supports Council’s Rural Lands unit by maintaining access to essential stock route networks and provides facilities that assist livestock producers, transport operators and authorised users travelling through the area.\n\nThe existing facilities at Planet Creek have reached an age where upgrades and renewal works are required to ensure the reserve remains functional and compliant with current operational and animal welfare standards. These upgrades have been approved in consultation with the Stock Route Management Network, with Queensland Government grant funding secured to support the delivery of the works.\n\nThe Plant Creek reserve is the most heavily agisted reserve within the Central Highlands Region. This primary reserve is located along the Blackwater-Rolleston Road.\n\nThe succe...",
+        "to": "The Planet Creek Stock Route Reserve is an important infrastructure asset that provides a designated area for the movements, agistment and watering of travelling livestock within the region. The reserve supports Council’s Rural Lands unit by maintaining access to essential stock route networks and provides facilities that assist livestock producers, transport operators and authorised users travelling through the area.\n\nThe existing facilities at Planet Creek have reached an age where upgrades and renewal works are required to ensure the reserve remains functional and compliant with current operational and animal welfare standards. These upgrades have been approved in consultation with the Stock Route Management Network, with Queensland Government grant funding secured to support the delivery of the works.\n\nThe Plant Creek reserve is the most heavily agisted reserve within the Central Highlands Region. This primary reserve is located along the Blackwater-Rolleston Road.\n\nThe successful supplier will be responsible for completing the below specified upgrades in accordance with Council’s standards, legislation, WHS requirements and environmental obligations.\n\nWorks must be completed to the Stock Route Facility Minimum Standards, materials should be sourced from a reputable supplier, works must be undertaken in a neat and professional manner.\n\nTroughs:\n\n•\tRemoval of existing trough - 1\n\n•\tInstallation of new troughs - 4 x 4.5m. Must have sufficient fall to the drain end/s to allow for complete emptying of water. To be aligned in continuous long row\n\n•\tAdequate float valves for correct flow rate, with float cover\n\n•\t Trough guards across full lengths\n\n•\tConcrete slabs to be poured:\n\no\tMinimum 100mm thick and reinforced\n\no\tExtend at least 900mm either side of trough, and total width at least 2.5m wide\n\no\tExtend 2.4m at slab ends where trough drains\n\nTrough Piping:\n\n•\tIf single feed line to distribute (preferred) - minimum 100mm diameter piping required\n\n•\tIf multiple feed lines from tank to troughs – minimum 75mm diameter piping required\n\n•\tPolythene or PVC pipeline is to be buried with a minimum clear cover of 200mm, except for vehicle crossing where the cover must be 300mm\n\n•\tPipes and fittings for troughing from current cement tank\n\nTesting of bores:\n\n•\tTesting to be performed on current bore to establish if the reserve maintains the Windmill or installs a bore pump. Testing to establish the following:\n\no\tDetermine whether the aquafer in the well is fast or slow filling\n\no\tDetermine the type of pump that will be submersed into the aquafer\n\no\tDepth of the bore\n\nSolar Panels:\n\n•\tTheft resistant hardware/construction\n\n•\tEither:\n\no\tMounted on a locked cage fasted to a concrete footing with hardware that cannot be removed from outside the cage, or\n\no\tSurrounded by a security fence, comprising of the following as a minimum:\n\n?\tFence height at least 1650mm\n\n?\tChain mesh fencing min height 1500mm\n\n?\tBottom of chain mesh fencing max 50mm above ground-level\n\n?\tMin 1 barbed wire 100-150mm above the top of chain mesh attached to every post or picket\n\n?\tA gate of sufficient width to allow access to service the pump/panels, secured with a lock and non-removable hinges\n\n?\tGate posts and stays to be cemented a min of 900mm in ground, with a min diameter of 250mm\n\n?\tGate posts and corner posts must be supported by an angle brace stay or a top rail extending around the entire enclosure.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T07:00:00.000Z",
+        "to": "2026-09-16T07:00:00.000Z",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "16/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "0ca32811c92047da93a1143c07df83dc",
     "source": "vendorpanel",
     "reference": "VP522539",
@@ -3843,6 +3912,142 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "14f0e042147f44adb88077bb455af568",
+    "source": "vendorpanel",
+    "reference": "VP521909",
+    "title": "Mapoon Football Field",
+    "description": "The Mapoon Aboriginal Shire Council (MASC) (the Principal) has executed a Funding Agreement with the Department of Sport, Racing and Olympic and Paralympic Games (DSROPG) to deliver upgrades to the Mapoon Football Field (the Project).\n\nThe current football field is a barren site with minimal infrastructure in place. The MASC wish to upgrade the existing football field at Mapoon conform with NRL Standards.\n\nPlease refer to attached documentation for further information.",
+    "buyer": "Mapoon Aboriginal Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Horticulture & Arboriculture",
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-19T05:50:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=14f0e042147f44adb88077bb455af568s521909",
+    "vendorPanelDetails": {
+      "buyerAddress": "Red Beach Rd\nMapoon, Queensland 4874\nAustralia",
+      "buyerWebsite": "https://www.mapoon.qld.gov.au/",
+      "buyerDescription": "Mapoon Aboriginal Shire Council’s goals, pathways, and priorities support for the partnership between council, community, business, and industry to create a strategy for the whole region.\n\nThe vision, strategies and actions for our community need to be informed by the views of community members. Harnessing their input requires a range of strategies to foster community ownership and improve outcomes. To engage with all sectors of the community, multiple objectives and opportunities need to underpin the approach. This highlights the need to ensure Mapoon Aboriginal Shire Council develops a well-tailored range of policies to suit community needs. Mapoon Aboriginal Shire Council is striving for the right blend of community engagement, governance and decision-making processes to determine a resilient region well into the future.",
+      "buyerReference": "8333",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-15T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-24T21:51:00.000Z",
+          "question": "Hi,\n\nDoes this project require an Electronic Scoreboard?",
+          "answeredAt": "2026-08-25T05:24:00.000Z",
+          "answer": "Thank you for the query. Tenderers are advised that Electronic Scoreboards are not required in this tender."
+        },
+        {
+          "askedAt": "2026-08-25T01:05:00.000Z",
+          "question": "Could we please obtain the DWG file?",
+          "answeredAt": "2026-08-25T05:25:00.000Z",
+          "answer": "Thank you for your query. Unforunately, the DWG files are not available at this stage."
+        },
+        {
+          "askedAt": "2026-08-31T01:37:00.000Z",
+          "question": "Good morning,\n\ncould you please advise the estimated date for the award of this tender??\n\nThank you",
+          "answeredAt": "2026-09-01T03:21:00.000Z",
+          "answer": "Thank you for your query.\n\nTender award is estimated to be 3 weeks after close of tender."
+        },
+        {
+          "askedAt": "2026-09-01T06:56:00.000Z",
+          "question": "Good afternoon,\n\nhas a soil test been done to establish the type of material which is to be excavated below the 100mm topsoil layer ?\n\nIs it sand, loose material, clay??\n\nPlease advise\n\nThank you",
+          "answeredAt": "2026-09-08T05:03:00.000Z",
+          "answer": "Thank you for your query.\n\nA soil test report has now been added - please refer to this."
+        },
+        {
+          "askedAt": "2026-09-09T02:36:00.000Z",
+          "question": "Good afternoon. We would like to request an extension of time of 1 week as this additional time will allow us to provide a more detailed and comprehensive response. Many thanks",
+          "answeredAt": "2026-09-09T05:22:00.000Z",
+          "answer": "Thank you for your query.\n\nUnfortunately, we are unable to extend the tender period."
+        },
+        {
+          "askedAt": "2026-09-13T06:01:00.000Z",
+          "question": "Good afternoon,\n\ncould you please clarify the definition of a working day\n\nIt is normal industry practice to specify that a Working day is Monday to Friday\n\nbut shall not include:\n\na)\n\na public holiday, special holiday or bank holiday at the site;\n\nb)\n\n16 December to 6 January in any year; or\n\nc)\n\nany other day which the Contract elsewhere provides is a day on which work cannot be carried\n\nWith regards to the Xmas shutdown and due to typical weather conditions in Mapoon at that time of year, could you please advise if the dates indicated in this question for the Xmas shutdown are acceptable\n\nThank you",
+          "answeredAt": "2026-09-14T00:17:00.000Z",
+          "answer": "Thank you for your query,\n\nPlease refer to Clause 32, and Annexure Item 30 in the Conditions of Contract, for Working Hours and Working Days.\n\nPlease also refer to Clause 2.1, under defined term \"Business Day\", in the Conditions of Contract, which identifies the shutdown period between December and January."
+        },
+        {
+          "askedAt": "2026-09-14T11:35:00.000Z",
+          "question": "Hi,\n\ncould you please advise if the 12 week maintenance period must be completed prior to the issue of Practical Completion\n\nThank you",
+          "answeredAt": "2026-09-14T23:17:00.000Z",
+          "answer": "Thanks for your query,\n\nYes, 12 week maintenance included in overall program for PC to be achieved."
+        },
+        {
+          "askedAt": "2026-09-14T22:32:00.000Z",
+          "question": "Good Morning,\n\nfor items 9.02 and 9.04 is manufactured top soil to be used for the 100mm topsoil or stripped site topsoil??\n\nThank you",
+          "answeredAt": "2026-09-14T23:17:00.000Z",
+          "answer": "Thanks for your query,\n\nMaterial for seating mounds as stated on the drawings, specifically, the Bulk Earthworks plan 103"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-25T05:28:00.000Z",
+          "description": "Please note, the following attachment has been added.\n\n- 8333 Mapoon Football Field - Addendum 1"
+        },
+        {
+          "at": "2026-09-01T01:05:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 8333 Mapoon Football Field - Notice to Tenderers - 01.pdf"
+        },
+        {
+          "at": "2026-09-08T05:02:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t GT17-210-001R REV 1 Soil Test.pdf"
+        },
+        {
+          "at": "2026-09-14T07:00:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 8333 Mapoon Football Field - Addendum 2.pdf"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "description",
+        "from": "The Mapoon Aboriginal Shire Council (MASC) (the Principal) has executed a Funding Agreement with the Department of Sport, Racing and Olympic and Paralympic Games (DSROPG) to deliver upgrades to the Mapoon Football Field (the Project). \n\n \n\nThe current football field is a barren site with minimal infrastructure in place. The MASC wish to upgrade the existing football field at Mapoon conform with NRL Standards. \n\n \n\nPlease refer to attached documentation for further information.",
+        "to": "The Mapoon Aboriginal Shire Council (MASC) (the Principal) has executed a Funding Agreement with the Department of Sport, Racing and Olympic and Paralympic Games (DSROPG) to deliver upgrades to the Mapoon Football Field (the Project).\n\nThe current football field is a barren site with minimal infrastructure in place. The MASC wish to upgrade the existing football field at Mapoon conform with NRL Standards.\n\nPlease refer to attached documentation for further information.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"Red Beach Rd\\nMapoon, Queensland 4874\\nAustralia\",\"buyerWebsite\":\"https://www.mapoon.qld.gov.au/\",\"buyerDescription\":\"Mapoon Aboriginal Shire Council’s goals, pathways, and priorities support for the partnership between council, community, business, and industry to create a strategy for the whole region.\\n\\nThe vision, strategies and actions for our community need to be informed by the views of community members. Harnessing their input requires a range of strategies to foster community ownership and improve outcomes. To engage with all sectors of the community, multiple objectives and opportunities need to underpin the approach. This highlights the need to ensure Mapoon Aboriginal Shire Council develops a well-tailored range of policies to suit community needs. Mapoon Aboriginal Shire Council is striving for the right blend of community engagement, governance and decision-making processes to determine a resilient region well into the future.\",\"buyerReference\":\"8333\",\"opensAt\":\"2026-08-18T14:00:00.000Z\",\"opensAtRaw\":\"Wednesday 19 August 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-15T04:00:00.000Z\",\"queryCutoffAtRaw\":\"Tuesday 15 September 2026 02:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-09-29T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 30 September 2026 (E. Australia Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Far North\"],\"publicQuestions\":[{\"askedAt\":\"2026-08-24T21:51:00.000Z\",\"question\":\"Hi,\\n\\nDoes this project require an Electronic Scoreboard?\",\"answeredAt\":\"2026-08-25T05:24:00.000Z\",\"answer\":\"Thank you for the query. Tenderers are advised that Electronic Scoreboards are not required in this tender.\"},{\"askedAt\":\"2026-08-25T01:05:00.000Z\",\"question\":\"Could we please obtain the DWG file?\",\"answeredAt\":\"2026-08-25T05:25:00.000Z\",\"answer\":\"Thank you for your query. Unforunately, the DWG files are not available at this stage.\"},{\"askedAt\":\"2026-08-31T01:37:00.000Z\",\"question\":\"Good morning,\\n\\ncould you please advise the estimated date for the award of this tender??\\n\\nThank you\",\"answeredAt\":\"2026-09-01T03:21:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nTender award is estimated to be 3 weeks after close of tender.\"},{\"askedAt\":\"2026-09-01T06:56:00.000Z\",\"question\":\"Good afternoon,\\n\\nhas a soil test been done to establish the type of material which is to be excavated below the 100mm topsoil layer ?\\n\\nIs it sand, loose material, clay??\\n\\nPlease advise\\n\\nThank you\",\"answeredAt\":\"2026-09-08T05:03:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nA soil test report has now been added - please refer to this.\"},{\"askedAt\":\"2026-09-09T02:36:00.000Z\",\"question\":\"Good afternoon. We would like to request an extension of time of 1 week as this additional time will allow us to provide a more detailed and comprehensive response. Many thanks\",\"answeredAt\":\"2026-09-09T05:22:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nUnfortunately, we are unable to extend the tender period.\"},{\"askedAt\":\"2026-09-13T06:01:00.000Z\",\"question\":\"Good afternoon,\\n\\ncould you please clarify the definition of a working day\\n\\nIt is normal industry practice to specify that a Working day is Monday to Friday\\n\\nbut shall not include:\\n\\na)\\n\\na public holiday, special holiday or bank holiday at the site;\\n\\nb)\\n\\n16 December to 6 January in any year; or\\n\\nc)\\n\\nany other day which the Contract elsewhere provides is a day on which work cannot be carried\\n\\nWith regards to the Xmas shutdown and due to typical weather conditions in Mapoon at that time of year, could you please advise if the dates indicated in this question for the Xmas shutdown are acceptable\\n\\nThank you\",\"answeredAt\":\"2026-09-14T00:17:00.000Z\",\"answer\":\"Thank you for your query,\\n\\nPlease refer to Clause 32, and Annexure Item 30 in the Conditions of Contract, for Working Hours and Working Days.\\n\\nPlease also refer to Clause 2.1, under defined term \\\"Business Day\\\", in the Conditions of Contract, which identifies the shutdown period between December and January.\"}],\"updates\":[{\"at\":\"2026-08-25T05:28:00.000Z\",\"description\":\"Please note, the following attachment has been added.\\n\\n- 8333 Mapoon Football Field - Addendum 1\"},{\"at\":\"2026-09-01T01:05:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t 8333 Mapoon Football Field - Notice to Tenderers - 01.pdf\"},{\"at\":\"2026-09-08T05:02:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t GT17-210-001R REV 1 Soil Test.pdf\"},{\"at\":\"2026-09-14T07:00:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t 8333 Mapoon Football Field - Addendum 2.pdf\"}]}",
+        "to": "{\"buyerAddress\":\"Red Beach Rd\\nMapoon, Queensland 4874\\nAustralia\",\"buyerWebsite\":\"https://www.mapoon.qld.gov.au/\",\"buyerDescription\":\"Mapoon Aboriginal Shire Council’s goals, pathways, and priorities support for the partnership between council, community, business, and industry to create a strategy for the whole region.\\n\\nThe vision, strategies and actions for our community need to be informed by the views of community members. Harnessing their input requires a range of strategies to foster community ownership and improve outcomes. To engage with all sectors of the community, multiple objectives and opportunities need to underpin the approach. This highlights the need to ensure Mapoon Aboriginal Shire Council develops a well-tailored range of policies to suit community needs. Mapoon Aboriginal Shire Council is striving for the right blend of community engagement, governance and decision-making processes to determine a resilient region well into the future.\",\"buyerReference\":\"8333\",\"opensAt\":\"2026-08-18T14:00:00.000Z\",\"opensAtRaw\":\"Wednesday 19 August 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-15T04:00:00.000Z\",\"queryCutoffAtRaw\":\"Tuesday 15 September 2026 02:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-09-29T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 30 September 2026 (E. Australia Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Far North\"],\"publicQuestions\":[{\"askedAt\":\"2026-08-24T21:51:00.000Z\",\"question\":\"Hi,\\n\\nDoes this project require an Electronic Scoreboard?\",\"answeredAt\":\"2026-08-25T05:24:00.000Z\",\"answer\":\"Thank you for the query. Tenderers are advised that Electronic Scoreboards are not required in this tender.\"},{\"askedAt\":\"2026-08-25T01:05:00.000Z\",\"question\":\"Could we please obtain the DWG file?\",\"answeredAt\":\"2026-08-25T05:25:00.000Z\",\"answer\":\"Thank you for your query. Unforunately, the DWG files are not available at this stage.\"},{\"askedAt\":\"2026-08-31T01:37:00.000Z\",\"question\":\"Good morning,\\n\\ncould you please advise the estimated date for the award of this tender??\\n\\nThank you\",\"answeredAt\":\"2026-09-01T03:21:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nTender award is estimated to be 3 weeks after close of tender.\"},{\"askedAt\":\"2026-09-01T06:56:00.000Z\",\"question\":\"Good afternoon,\\n\\nhas a soil test been done to establish the type of material which is to be excavated below the 100mm topsoil layer ?\\n\\nIs it sand, loose material, clay??\\n\\nPlease advise\\n\\nThank you\",\"answeredAt\":\"2026-09-08T05:03:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nA soil test report has now been added - please refer to this.\"},{\"askedAt\":\"2026-09-09T02:36:00.000Z\",\"question\":\"Good afternoon. We would like to request an extension of time of 1 week as this additional time will allow us to provide a more detailed and comprehensive response. Many thanks\",\"answeredAt\":\"2026-09-09T05:22:00.000Z\",\"answer\":\"Thank you for your query.\\n\\nUnfortunately, we are unable to extend the tender period.\"},{\"askedAt\":\"2026-09-13T06:01:00.000Z\",\"question\":\"Good afternoon,\\n\\ncould you please clarify the definition of a working day\\n\\nIt is normal industry practice to specify that a Working day is Monday to Friday\\n\\nbut shall not include:\\n\\na)\\n\\na public holiday, special holiday or bank holiday at the site;\\n\\nb)\\n\\n16 December to 6 January in any year; or\\n\\nc)\\n\\nany other day which the Contract elsewhere provides is a day on which work cannot be carried\\n\\nWith regards to the Xmas shutdown and due to typical weather conditions in Mapoon at that time of year, could you please advise if the dates indicated in this question for the Xmas shutdown are acceptable\\n\\nThank you\",\"answeredAt\":\"2026-09-14T00:17:00.000Z\",\"answer\":\"Thank you for your query,\\n\\nPlease refer to Clause 32, and Annexure Item 30 in the Conditions of Contract, for Working Hours and Working Days.\\n\\nPlease also refer to Clause 2.1, under defined term \\\"Business Day\\\", in the Conditions of Contract, which identifies the shutdown period between December and January.\"},{\"askedAt\":\"2026-09-14T11:35:00.000Z\",\"question\":\"Hi,\\n\\ncould you please advise if the 12 week maintenance period must be completed prior to the issue of Practical Completion\\n\\nThank you\",\"answeredAt\":\"2026-09-14T23:17:00.000Z\",\"answer\":\"Thanks for your query,\\n\\nYes, 12 week maintenance included in overall program for PC to be achieved.\"},{\"askedAt\":\"2026-09-14T22:32:00.000Z\",\"question\":\"Good Morning,\\n\\nfor items 9.02 and 9.04 is manufactured top soil to be used for the 100mm topsoil or stripped site topsoil??\\n\\nThank you\",\"answeredAt\":\"2026-09-14T23:17:00.000Z\",\"answer\":\"Thanks for your query,\\n\\nMaterial for seating mounds as stated on the drawings, specifically, the Bulk Earthworks plan 103\"}],\"updates\":[{\"at\":\"2026-08-25T05:28:00.000Z\",\"description\":\"Please note, the following attachment has been added.\\n\\n- 8333 Mapoon Football Field - Addendum 1\"},{\"at\":\"2026-09-01T01:05:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t 8333 Mapoon Football Field - Notice to Tenderers - 01.pdf\"},{\"at\":\"2026-09-08T05:02:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t GT17-210-001R REV 1 Soil Test.pdf\"},{\"at\":\"2026-09-14T07:00:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t 8333 Mapoon Football Field - Addendum 2.pdf\"}]}",
+        "at": "2026-09-15T22:30:52.819Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "176a10d9d1bc43e18390807428b692c6",
     "source": "vendorpanel",
     "reference": "VP522267",
@@ -4159,6 +4364,68 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "219c6533c4574b559a36d1c7aad3ce29",
+    "source": "vendorpanel",
+    "reference": "VP522918",
+    "title": "Cornwall Street and Ronnie Street, Rose Bay - Stormwater Design Consultancy",
+    "description": "Clarence City Council invites Quotations from suitably qualified Respondents to undertake a Consultancy for hydrologic and hydraulic modelling, engineering survey, geotechnical investigation, detailed design, calculations, drawings, schedule of quantities, construction cost estimate, Safety in Design report and associated information for piped stormwater systems in Cornwall Street, Ronnie Street and Kaoota Road, Rose Bay, Tasmania 7015.\n\nFull details are provided in Schedule 1 of the specimen copy of the Contract appearing in Part 4 of this Invitation. Respondents are to contact Council’s nominated contact officer named on the cover page if additional information is required to complete the Quotation Response.",
+    "buyer": "City of Clarence",
+    "buyerType": "council",
+    "state": "TAS",
+    "categories": [
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T05:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 03:00 PM (UTC+10:00) Hobart time",
+    "publishedAt": "2026-08-26T05:03:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=219c6533c4574b559a36d1c7aad3ce29s522918s187d3a05decd404191ffe66fba693c4fs1559",
+    "vendorPanelDetails": {
+      "buyerAddress": "38 Bligh St\nRosny Park, Tasmania 7018\nAustralia",
+      "buyerWebsite": "https://www.ccc.tas.gov.au/",
+      "buyerDescription": "Clarence City Council (or City of Clarence) is a local government body in Tasmania, and one of the five municipalities that constitutes the Greater Hobart Area. The Clarence local government area has a population of 56,945, covering the eastern shore of the Derwent River from Otago to the South Arm Peninsula and the smaller localities of Cambridge, Richmond, and Seven Mile Beach.\n\nThe administrative centre and main commercial district of Clarence is Rosny Park, approximately 5 kilometres from the CBD of Hobart. Bellerive Oval lies immediately to the south, and the Hobart International Airport is located further north-west along the Tasman Highway.",
+      "buyerReference": "Q1612-25",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (Tasmania Standard Time)",
+      "queryCutoffAt": "2026-09-15T05:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 15 September 2026 03:00 PM (Tasmania Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (Tasmania Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Tasmania\n1: Southern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T03:43:00.000Z",
+          "question": "Thank you for the opportunity to quote. The following clarifications are sought, and it is requested that responses be circulated to all Respondents.\n\nInformation to be provided\n\nSchedule 1 provides the Rosny to Otago Stormwater System Management Plan as Attachment No. 1 for information only, while scope item (c) requires the provision of updated flood models. We have assumed the updated models are to be prepared in TUFLOW to align with the existing modelling, and that the GHD TUFLOW model will be made available at award in re-runnable form, including geometry, boundaries, roughness, virtual pipes, DEM and log files. Could Council confirm this, and confirm that Council holds the intellectual property in the model or a licence from GHD permitting its reuse and adaptation?\n\nPricing Schedule\n\nThe geotechnical investigation program is prepared by the Consultant and tabled at the Inception Meeting under Schedule 1 item (d). Would Council consider making Pricing Schedule Item 3 a provisional item, so that the sum is adjusted to the agreed program and the actual investigation cost?\n\nSchedule 1 item (h) requires documenting and gaining approval from the relevant service providers for any service relocations required by the works. Whether relocations are required, and the extent of any relocation, cannot be determined until the detailed survey and potholing are complete. Could Council advise whether any relocation requirement has been identified through Council's own consultation with the asset owners, and whether Council would consider this obligation being priced as a provisional item?\n\nAllocation of responsibility\n\nWe have assumed Council will act as applicant for the East Derwent Highway works permit, with the Consultant preparing the supporting documentation. Could Council confirm this, and advise whether Building Tasmania has been engaged to date?\n\nSchedule 1 does not allocate responsibility for the following, and we have assumed Council retains each. Could Council confirm: a) land tenure and any Crown consent for the outfall to the River Derwent; b) a Request for Advice to Aboriginal Heritage Tasmania, and any assessment or permit arising; c) easement creation, landowner negotiation and any acquisition at 34 Cornwall Street, together with owner consent and access for survey, geotechnical investigation and potholing; and d) landowner engagement associated with the Kaoota Road kerb raising.\n\nProject funding\n\nHas Council allocated a construction budget for the works, and does Council hold a construction cost estimate more recent than that in the 2020 Rosny to Otago Stormwater System Management Plan?",
+          "answeredAt": "2026-09-14T06:24:00.000Z",
+          "answer": "Good Afternoon,\n\n1. Information to be provided\n\nThe GHD TUFLOW model will not be made available. Only the outputs from the GHD TUFLOW model will be made available.\n\n2. Pricing Schedule\n\nPlease see previous released addendum\n\n3. Allocation of Responsibility\n\nBuilding Tasmania has not been engaged to date. Council will act as the applicant to Building Tasmania for any required approvals for works within the East Derwent Highway with the Consultant to provide any necessary supporting documentation.\n\nCouncil retains responsibility for the following:\n\n•\tApprovals for construction on Crown Land\n\n•\tApplication to Aboriginal Heritage Tasmania and related costs\n\n•\tCreation of any required easements\n\n•\tCommunication with the owner of 34 Cornwall St\n\n•\tLandowner engagement re any other works proposed.\n\n4. Project Funding\n\nConstruction of this project is yet to be funded."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-09T01:52:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum No.1 - Q1612-26 Cornwall and Ronnie Street SW Design Consultancy_ Addendum 1.pdf\n\n2. Added: \t Q1612-26 Cornwall and Ronnie Street Stormwater Design Consultancy _ Updated Part 5 Word Returnable_.docx\n\n3. Added: \t Q1612-26 Cornwall and Ronnie Street Stormwater Design Consultancy updated Schedule 2_.docx\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "6",
+        "at": "2026-09-09T04:26:33.566Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "25e22ee5bca14b9b8be431476adbea0c",
@@ -5064,6 +5331,66 @@
     "archivedAt": "2026-09-09T04:26:33.566Z"
   },
   {
+    "id": "3bfe13243c964dc5906459ca00380485",
+    "source": "vendorpanel",
+    "reference": "VP519878",
+    "title": "Disaster Recovery - Human and Social Services Standing Offer Arrangement",
+    "description": "The Disaster Recovery: Human and Social Services SOA is being refreshed to ensure the continued delivery of high-quality, consistent, and efficient support services to individuals and communities affected by disasters across Queensland. This arrangement will streamline the procurement process for Queensland Government agencies and ensure access to pre-qualified suppliers for critical support services during disaster recovery efforts.",
+    "buyer": "Families, Seniors, Disability Serv & Child Safety",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Community & Social Services"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T07:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-05T03:06:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=3bfe13243c964dc5906459ca00380485s519878s3042a24f284440dda01247ddebc36fa8s1553",
+    "vendorPanelDetails": {
+      "buyerAddress": "111 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.families.qld.gov.au/",
+      "buyerDescription": "Department of Families, Seniors, Disability Services and Child Safety - The department's vision is for Queensland’s children, young people, seniors, carers and people with disability to be safe, empowered in their families, communities and culture and thriving socially and economically",
+      "buyerReference": "DFSDSCS128",
+      "opensAt": "2026-08-04T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 05 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-08-26T07:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 26 August 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-03-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 15 March 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-08-18T20:57:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) DRR SOA-Industry Briefing 14.08.2026.pptx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-19T05:38:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Industry Briefing SOA Disaster Recovery Human and Social Services supplier list.-20260818_140323-Meeting Recording.mp4\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-21T06:59:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) DFSDSCS128 SOA Industry Briefing Q&As.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-26T05:10:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) DFSDSCS128 Addendum 1 Question cut off date.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "3d94d82a317b43598fb22e20cc9a6e8c",
     "source": "vendorpanel",
     "reference": "VP521769",
@@ -5866,6 +6193,68 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "55e68b58ffb64b78ba5d2ebed0a5417b",
+    "source": "vendorpanel",
+    "reference": "VP522485",
+    "title": "Q27012 - First aid consumables and training",
+    "description": "The successful provider will deliver nationally recognised first aid and CPR training, manage qualification renewals reminders, conduct regular audits of first aid kits and AEDs, replenish first aid consumables, and provide compliance reporting to support Council's health and safety obligations.",
+    "buyer": "City of Stonnington",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Medical Equipment. & Supplies",
+      "Training & Development"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T02:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-25T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=55e68b58ffb64b78ba5d2ebed0a5417bs522485",
+    "vendorPanelDetails": {
+      "buyerAddress": "311 Glenferrie Rd\nMalvern, Victoria 3143\nAustralia",
+      "buyerWebsite": "https://www.stonnington.vic.gov.au/Home",
+      "buyerDescription": "The City of Stonnington is a local government area located within the metropolitan area of Melbourne, Australia. It comprises the inner south-eastern suburbs, between 3 and 13 km (2 and 8 mi), from the Melbourne CBD. The city covers an area of 25.7 km2 (9.9 sq mi).\n\nWithin twenty years of the settlement of Melbourne in 1835, the Prahran Municipality (later City of Prahran) was formed in 1855, followed by the Gardiner Road Board (later City of Malvern) in 1856.\n\nThe late 19th century saw substantial residential and commercial development such that by 1891 Prahran had a population of almost 40,000 and Malvern 11,000. Following the election of the Kennett government in the Spring of 1992, as part of a comprehensive reorganisation of local government in Victoria, the Cities of Malvern and Prahran were amalgamated to form the City of Stonnington.",
+      "buyerReference": "COS26/27-6",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-10T02:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 12:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed and attached the following quotation submission schedules?\n- Attachment D - Q27012 - Quotation Submission Schedules\n- Attachment E - Q27012 - Confidentiality Privacy and Conflict of Interest Deed Poll"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-27T00:18:00.000Z",
+          "question": "Just to clarify, this tender document is for the training of 20 first aiders only? Many thanks.",
+          "answeredAt": "2026-08-27T01:26:00.000Z",
+          "answer": "Hi,\n\nThank you for your query.\n\nThe RFQ is not limited to training the 20 designated First Aid Officers. While there are currently 20 designated First Aid Officers, other business units also have employees who require First Aid and CPR training as part of their role requirements.\n\nIn addition to the designated First Aid Officers, approximately 30 employees undertake First Aid and/or CPR training each year for refresher, renewal, or role-based requirements. These employee numbers are indicative only and may vary from year to year."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-26T01:20:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Q27012 - Quotation Documents.zip\n\nPlease note, this request will close on Wednesday 16th September 2026 at 12 pm. The current listed date shows the following day, the 17th, as the closing date. This is a technical difficulty and will be fixed shortly."
+        },
+        {
+          "at": "2026-08-31T01:25:00.000Z",
+          "description": "Please note, the quotation closing date has been amended to close on Wednesday 16th September 2026, as per what is listed in the quotation documents."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "5ac75bc441b94c21aa6807710c0d565a",
     "source": "vendorpanel",
     "reference": "VP521375",
@@ -5926,6 +6315,142 @@
       }
     ],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "65fc427dd56d43f1a4da827446ab562b",
+    "source": "vendorpanel",
+    "reference": "VP519783",
+    "title": "TEN16777 - Rehabilitation of Sewer Mains, CCTV, Condition Assessment, Lining & Associated Works",
+    "description": "This Contract is for the establishment of a standing offer arrangement for the rehabilitation of sewer mains, cleaning, CCTV inspections, condition assessment, lining and associated works as and when required by Rockhampton Regional Council.\n\nFor the purposes of establishing the rates and costs for these works Tenderers are advised that the estimated value of Works for the 2026/2027 FY is approximately $500,000 excluding GST, however Council makes no commitment as to the accuracy of the projected value.\n\nTerm of Agreement\n\nThe term of the Contract will commence from the date of dispatch of the Letter of Acceptance through to the 30 June 2028. Subject to satisfactory performance and at the sole discretion of Council, Council has the option to extend the agreement by three (3) further periods of twelve (12) months each.",
+    "buyer": "Rockhampton Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-13T22:15:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=65fc427dd56d43f1a4da827446ab562bs519783s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "175 East St\nRockhampton City, Queensland 4700\nAustralia",
+      "buyerWebsite": "https://www.rockhamptonregion.qld.gov.au/Home",
+      "buyerDescription": "Located in the heart of Central Queensland, the Rockhampton Region is situated 570 km north of Brisbane and approximately 300 km south of Mackay. The Region spans an area that’s covers the communities of Mount Morgan and Gracemere and boasts the City of Rockhampton as the main service centre for the wider Central Queensland Region. Rockhampton Regional Council provides a range of local government infrastructure and services, including: water and wastewater services; waste collection and disposal; construction and maintenance of roads, parks, reserves, sports and community facilities; and a wide variety of community services. Council also owns and operates the Rockhampton Airport and Fitzroy River Water.",
+      "buyerReference": "TEN16777",
+      "opensAt": "2026-08-13T14:00:00.000Z",
+      "opensAtRaw": "Friday 14 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-14T00:53:00.000Z",
+          "question": "Good morning,\n\nFor contractors mobilising from outside the Rockhampton region, does Council intend to package programmed works into continuous work blocks, and can Council provide an indication of the anticipated frequency and approximate duration of work packages or mobilisations during each financial year?\n\nRegards\n\nKari dRAINS kLEEN Pty Ltd",
+          "answeredAt": "2026-08-20T04:47:00.000Z",
+          "answer": "The work will be issued as single-block work packages each financial year, based on that year's allocated annual budget. The budget for the current financial year is $500,000, while the budget allocation for the following financial year is yet to be confirmed.\n\nThe duration of each annual work package will be dependent on the allocated budget for the financial year."
+        },
+        {
+          "askedAt": "2026-08-17T23:28:00.000Z",
+          "question": "Is non-destructive condition assessment works required as part of this tender in the form of scanning of ferrous materials to measure wall thicknesses? Rock Solid Group would be happy to work with any prime contractors should these type of works be required. We are a professional NDT company offering unique technology for infrastructure assessment and would be happy to assist.\n\nRegards,\n\nAdam Wood",
+          "answeredAt": "2026-08-20T04:48:00.000Z",
+          "answer": "At this stage, it is unlikely that non-destructive testing (NDT) of ferrous pipework will be required under this contract. However, Rock Solid Group is welcome to engage with the successful contractor to discuss any project-specific requirements that may arise."
+        },
+        {
+          "askedAt": "2026-09-02T01:43:00.000Z",
+          "question": "Dear Council Tender Team,\n\nWe are currently preparing our tender submission for TEN16777 – Rehabilitation of Sewer Mains, Cleaning, CCTV Inspections, Condition Assessment, Lining & Associated Works.\n\nHaving reviewed the tender documentation and the clarifications already published on VendorPanel, we request clarification on the following items to ensure our Schedule of Rates is prepared in accordance with Council’s intended delivery and payment arrangements.\n\n1. Indicative quantities and sewer segment lengths\n\nCouncil has advised that the works will be issued as a single-block work package each financial year and that the current financial year budget is approximately $500,000.\n\nCan Council please provide, if available, indicative quantities for the anticipated 2026/27 works, including approximate sewer main lengths by diameter, number of sewer segments, anticipated number of house service connections/junctions, and approximate quantities of cleaning/CCTV works?\n\nIf these quantities are not yet available, can Council provide historical annual quantities or a representative previous work package to assist tenderers in establishing appropriate Schedule of Rates pricing?\n\n2. Minimum work package quantities / mobilisation\n\nSchedule 3 requires unit rates that incorporate mobilisation/demobilisation, equipment setup and associated activities.\n\nWithin the annual work package, will Council establish minimum work package quantities, minimum chargeable liner lengths, mobilisation/demobilisation items or minimum call-out values?\n\nIf not, can Council please advise whether tendered per-metre rates are expected to cover mobilisation and setup costs irrespective of the length or quantity of individual sewer segments instructed?\n\n3. Traffic management\n\nThe tender documentation requires traffic control to be incorporated into various cleaning, assessment and lining activities while also providing separate Traffic Management items within the Schedule of Rates.\n\nCan Council please clarify the intended application of the separate Traffic Management Schedule items and provide an indication, if available, of the anticipated proportion of works likely to require additional traffic management, particularly works on higher-volume roads, controlled arterial roads, lane closures or other complex traffic environments?\n\n4. Abnormal cleaning and obstruction removal\n\nWhere sewer cleaning encounters conditions materially beyond normal pressure cleaning and root cutting, such as significant deposits, concrete, major obstructions or other conditions requiring specialist or extended removal methods, will these additional works be separately authorised and paid under an applicable Schedule of Rates item or treated as a variation?\n\n5. Major bypass pumping\n\nWhere sewer flows cannot be adequately controlled using normal bunging or flow-control methods and substantial temporary bypass pumping is required to undertake cleaning, CCTV or lining works, can Council please confirm whether major bypass pumping is deemed included within the applicable scheduled rates or will be separately authorised and payable based on the site-specific requirements?\n\n6. Schedule of Rates – basis of payment\n\nThe tender documentation describes TEN16777 as a Schedule of Rates contract, and the Technical Specification provides for payment based on the unit rate for quantities ordered and accepted.\n\nCan Council please confirm that the Contract is intended to operate on a remeasurable Schedule of Rates basis, with payment based on the actual quantities of work ordered and completed at the applicable tendered unit rates, notwithstanding the fixed lump sum wording contained within the amended Clause 3 of the General Conditions of Contract?\n\nThank you for your assistance. We look forward to Council’s clarification.",
+          "answeredAt": "2026-09-04T04:16:00.000Z",
+          "answer": "1. Council does not have confirmed quantities for the 2026/27 works package at this stage. As a guide only, a typical annual package may include Cleaning, CCTV and Relining of the following assets:\n\n•\t80-100 sewer segments of 150mm diameter (approximately 2,500m to 3000m)\n\n•\t4-8 sewer segments of 225mm diameter (approximately 200m to 400m)\n\n•\t3-6 sewer segments of 300mm diameter (approximately 150m to 300m)\n\nThese quantities are indicative only and may vary based on condition assessments, priorities and available budget. Council does not guarantee any minimum quantity, value or distribution of work under the contract.\n\n2. Council intends to issue the annual rehabilitation works as a single work package. Tenderers should include mobilisation, demobilisation, setup and associated costs within their tendered rates. No minimum quantities, minimum liner lengths or minimum call-out values are guaranteed.\n\n3. Traffic management requirements will vary depending on the location and nature of the works. Where external traffic control services are required, the separate Traffic Management items within the Schedule of Rates will apply.\n\n4. Where abnormal cleaning or specialist obstruction removal is required, the work will be subject to Council approval and paid under an applicable Schedule of Rates item or treated as a variation.\n\n5. Major bypass pumping will be assessed on a site-specific basis and, where approved by Council, will be separately authorised and paid under the relevant Schedule of Rates item or as a variation.\n\n6. The contract is intended to operate as a Schedule of Rates contract, with payment based on the actual quantities of work completed and accepted at the tendered unit rates."
+        },
+        {
+          "askedAt": "2026-09-02T23:06:00.000Z",
+          "question": "Good Morning,\n\nMay we please request an extension to the deadline of this tender by one week?\n\nKind regards,",
+          "answeredAt": "2026-09-03T04:13:00.000Z",
+          "answer": "Please note the amended closing date for : TEN16777 - Rehabilitation of Sewer Mains, CCTV, Condition Assessment, Lining & Associated Works is now 2:00pm 16/09/26."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T04:13:00.000Z",
+          "description": "Please note the amended closing date for : TEN16777 - Rehabilitation of Sewer Mains, CCTV, Condition Assessment, Lining & Associated Works is now 2:00pm 16/09/26."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "This Contract is for the establishment of a standing offer arrangement for the rehabilitation of sewer mains, cleaning, CCTV inspections, condition assessment, lining and associated works as and when required by Rockhampton Regional Council.\n\nFor the purposes of establishing the rates and costs for these works Tenderers are advised that the estimated value of Works for the 2026/2027 FY is approximately $500,000 excluding GST, however Council makes no commitment as to the accuracy of the projected value. \n\nTerm of Agreement\n\nThe term of the Contract will commence from the date of dispatch of the Letter of Acceptance through to the 30 June 2028. Subject to satisfactory performance and at the sole discretion of Council, Council has the option to extend the agreement by three (3) further periods of twelve (12) months each.",
+        "to": "This Contract is for the establishment of a standing offer arrangement for the rehabilitation of sewer mains, cleaning, CCTV inspections, condition assessment, lining and associated works as and when required by Rockhampton Regional Council.\n\nFor the purposes of establishing the rates and costs for these works Tenderers are advised that the estimated value of Works for the 2026/2027 FY is approximately $500,000 excluding GST, however Council makes no commitment as to the accuracy of the projected value.\n\nTerm of Agreement\n\nThe term of the Contract will commence from the date of dispatch of the Letter of Acceptance through to the 30 June 2028. Subject to satisfactory performance and at the sole discretion of Council, Council has the option to extend the agreement by three (3) further periods of twelve (12) months each.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "683a64ed495344078584620c44d87ee9",
+    "source": "vendorpanel",
+    "reference": "VP521738",
+    "title": "C26022 - ALAC - Treatment of Existing Pool Deck Floor Tiles",
+    "description": "Please refer to the Request for Tender documentation and associated attachments",
+    "buyer": "City of Albany",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Building Products & Materials",
+      "Building Trade, Repairs, Maint.",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-16T02:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 10:00 AM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-18T21:00:00.000Z",
+    "contact": {
+      "raw": "David Crosby Email: david.crosby@albany.wa.gov.au Tel: 0868203173",
+      "name": "David Crosby",
+      "email": "david.crosby@albany.wa.gov.au",
+      "phone": "0868203173"
+    },
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=683a64ed495344078584620c44d87ee9s521738",
+    "vendorPanelDetails": {
+      "buyerAddress": "102 North Rd\nYakamia, Western Australia 6330\nAustralia",
+      "buyerWebsite": "http://www.albany.wa.gov.au",
+      "buyerDescription": "City of Albany",
+      "buyerReference": "C26022",
+      "opensAt": "2026-08-18T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 10:00 AM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Lower Great Southern\n2: Midlands\n3: Perth\n4: South Eastern\n5: South West\n6: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-08-24T23:35:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t C26022_Addendum - 1.pdf\n\n2. Added: \t C26022_Attachment B - SLIP REPORT 2025.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "6966e96c791e4ca4a61ebe05b238ddc1",
@@ -6235,6 +6760,57 @@
     "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
+    "id": "7393628a8e0543949c349be7564bc385",
+    "source": "vendorpanel",
+    "reference": "VP521742",
+    "title": "C26027 - Panel of Suppliers - Cleaning of Drainage Systems",
+    "description": "Please refer to the Request for Tender documentation and associated attachments",
+    "buyer": "City of Albany",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Cleaning Services, Equip, Supplies",
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-16T02:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 10:00 AM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-18T21:00:00.000Z",
+    "contact": {
+      "raw": "David Crosby Email: david.crosby@albany.wa.gov.au Tel: 0868203173",
+      "name": "David Crosby",
+      "email": "david.crosby@albany.wa.gov.au",
+      "phone": "0868203173"
+    },
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7393628a8e0543949c349be7564bc385s521742",
+    "vendorPanelDetails": {
+      "buyerAddress": "102 North Rd\nYakamia, Western Australia 6330\nAustralia",
+      "buyerWebsite": "http://www.albany.wa.gov.au",
+      "buyerDescription": "City of Albany",
+      "buyerReference": "C26027",
+      "opensAt": "2026-08-18T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-09T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 09 September 2026 10:00 AM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Central\n2: Lower Great Southern\n3: Midlands\n4: Perth\n5: South Eastern\n6: South West\n7: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "75b08f4c288e4dd49c5ff99bc4de67f5",
     "source": "vendorpanel",
     "reference": "VP522459",
@@ -6313,6 +6889,49 @@
       }
     ],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "75c048173acb413796d677e06ba4178e",
+    "source": "vendorpanel",
+    "reference": "VP522517",
+    "title": "Provision of Turf Irrigation, Sportsground and Associated Grounds Maintenance Services",
+    "description": "Provision of Turf, Irrigation, Sportsground and Associated Grounds Maintenance Services",
+    "buyer": "Shire of Kondinin",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 12:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-25T09:03:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=75c048173acb413796d677e06ba4178es522517sd0ec39275abc414a892a71ca27442204s1574",
+    "vendorPanelDetails": {
+      "buyerAddress": "51 Graham St\nKondinin, Western Australia 6367\nAustralia",
+      "buyerWebsite": "https://www.kondinin.wa.gov.au/",
+      "buyerDescription": "None provided",
+      "buyerReference": "RFT 02 - 2026/2027",
+      "opensAt": "2026-08-24T16:00:00.000Z",
+      "opensAtRaw": "Tuesday 25 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 12:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-17T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 18 September 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Lower Great Southern\n2: Midlands\n3: Perth\n4: South Eastern\n5: South West\n6: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "7b8fe9ac876a47949fac5f05256a1cdd",
@@ -7035,6 +7654,49 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "90a4a972115a44bc9184c491948702be",
+    "source": "vendorpanel",
+    "reference": "VP522407",
+    "title": "Register of Pre-qualified Suppliers of Supply of Ad Hoc Hardware, Consumables and Supplies",
+    "description": "Mackay Regional Council (Principal) invites tenders from a variety of suitably qualified and experienced Tenderers for appointment as a pre-qualified supplier for the provision of ad hoc supplies of minor hardware items, consumables and supplies.\n\nThe Principal requires the Suppliers who form this panel shall be able to provide hardware goods on an ad hoc basis to operational staff within the Mackay Region.",
+    "buyer": "Mackay Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Hardware & Hand Tools"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T00:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T01:49:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=90a4a972115a44bc9184c491948702bes522407s1991046f131e478484526408672ab4aas1572",
+    "vendorPanelDetails": {
+      "buyerAddress": "73 Gordon St\nMackay, Queensland 4740\nAustralia",
+      "buyerWebsite": "https://www.mackay.qld.gov.au/",
+      "buyerDescription": "The Mackay Regional Council area is one of the fastest growing regions in Queensland. Covering the areas of the former Sarina and Mirani shires and Mackay city, it extends 7261 square kilometres.\n\nWith a population of around 110,000 as at June 2008 and a projected annual growth rate of 2.1 per cent, the region’s estimated population in 2031 is about 173,000 people.\n\nIts coastal location is complemented by its spectacular natural environment. This includes 31 beautiful beaches, a picturesque blue river and a pristine rainforest hinterland.\n\nOnly an hour’s flight from Brisbane, the Mackay region boasts an enviable lifestyle and a buoyant economy with the benefits of a fastgrowing coastal city. It is the gateway to the rich coal deposits in the Bowen basin.\n\nIt is the largest sugar-producing region in Australia and nearly a third of Queensland’s export goods originate from the Mackay region.\n\nThere are about 25 different nationalities represented in the region, including people from Malta, South Africa, the Netherlands and Germany. The region also boasts the largest Australian South Sea Islander population.",
+      "buyerReference": "MRC-2029-ROPS-000212",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T00:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 15 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Mackay"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "91a28d0429d24ee69c23649097d95a55",
     "source": "vendorpanel",
     "reference": "VP520234",
@@ -7352,6 +8014,68 @@
       }
     ],
     "archivedAt": "2026-09-10T07:06:28.027Z"
+  },
+  {
+    "id": "95d699c24f0a4d7292e1caf51d5d4778",
+    "source": "vendorpanel",
+    "reference": "VP516002",
+    "title": "New England Highway Chalk Drive Cycleway Upgrades",
+    "description": "The Department of Transport and Main Roads (TMR or the “Principal”) invites prequalified Tenderers at R3 (Major), F10 (Financial) A2 (Asphalt) and above category to submit a Tender for the construction of the New England Highway (22A Yarraman-Toowoomba) Chalk Drive Cycleway Upgrades.\n\nThis tender will be using the draft revised TIPDS tender process (40% price/60% non-price single stage assessment for tenders valued below $20m).\n\nThe general scope of works is the upgrade of two intersections (Chalk Drive/Ruthven Street and Chalk Drive/Neil Street) to improve continuity of the cycle lanes and improve pedestrian access on the New England Highway. Construction is to be undertaken under traffic on a full-service basis.\n\nA non-mandatory Briefing and Knowledge Share session will be held via Microsoft Teams (details as per the Conditions of Tendering Annexure) on 23 July 2026 to provide tenderers with a more detailed scope of works as well as the revised tendering process.\n\nA mandatory pre-lodgement conference will take place at 11:00am on Wednesday 26 August 2026 via Microsoft Teams.\n\nTo obtain documents, eligible prequalified contractors must email: dd_pc@tmr.qld.gov.au to apply for access.\n\nOnce approved, documentation will be made available at the BAS website: https://www.hpw.qld.gov.au/bas/etender/.\n\nSubmissions are to be lodged electronically via the tender site https://www.hpw.qld.gov.au/bas/etender/ prior to 2:00pm on Thursday 10 September 2026.",
+    "buyer": "Dept of Transport and Main Roads-Darling Downs",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-07-07T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=95d699c24f0a4d7292e1caf51d5d4778s516002s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "122 Margaret St\nEast Toowoomba, Queensland 4350\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's Program Delivery & Operations branch - Darling DownsDistrict.",
+      "buyerReference": "CN-26702",
+      "opensAt": "2026-07-07T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 08 July 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 11 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 15 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Department of Transport and Main Roads (TMR or the “Principal”) invites prequalified Tenderers at R3 (Major), F10 (Financial) A2 (Asphalt) and above category to submit a Tender for the construction of the New England Highway (22A Yarraman-Toowoomba) Chalk Drive Cycleway Upgrades. \n\nThis tender will be using the draft revised TIPDS tender process (40% price/60% non-price single stage assessment for tenders valued below $20m). \n\nThe general scope of works is the upgrade of two intersections (Chalk Drive/Ruthven Street and Chalk Drive/Neil Street) to improve continuity of the cycle lanes and improve pedestrian access on the New England Highway. Construction is to be undertaken under traffic on a full-service basis. \n\nA non-mandatory Briefing and Knowledge Share session will be held via Microsoft Teams (details as per the Conditions of Tendering Annexure) on 23 July 2026 to provide tenderers with a more detailed scope of works as well as the revised tendering process.\n\n...",
+        "to": "The Department of Transport and Main Roads (TMR or the “Principal”) invites prequalified Tenderers at R3 (Major), F10 (Financial) A2 (Asphalt) and above category to submit a Tender for the construction of the New England Highway (22A Yarraman-Toowoomba) Chalk Drive Cycleway Upgrades.\n\nThis tender will be using the draft revised TIPDS tender process (40% price/60% non-price single stage assessment for tenders valued below $20m).\n\nThe general scope of works is the upgrade of two intersections (Chalk Drive/Ruthven Street and Chalk Drive/Neil Street) to improve continuity of the cycle lanes and improve pedestrian access on the New England Highway. Construction is to be undertaken under traffic on a full-service basis.\n\nA non-mandatory Briefing and Knowledge Share session will be held via Microsoft Teams (details as per the Conditions of Tendering Annexure) on 23 July 2026 to provide tenderers with a more detailed scope of works as well as the revised tendering process.\n\nA mandatory pre-lodgement conference will take place at 11:00am on Wednesday 26 August 2026 via Microsoft Teams.\n\nTo obtain documents, eligible prequalified contractors must email: dd_pc@tmr.qld.gov.au to apply for access.\n\nOnce approved, documentation will be made available at the BAS website: https://www.hpw.qld.gov.au/bas/etender/.\n\nSubmissions are to be lodged electronically via the tender site https://www.hpw.qld.gov.au/bas/etender/ prior to 2:00pm on Thursday 10 September 2026.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-10T04:00:00.000Z",
+        "to": "2026-09-16T04:00:00.000Z",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "9896e5673caf42abba386dea3ff53453",
@@ -7680,6 +8404,109 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "a4630e0d875648329e79c13c0df5f29e",
+    "source": "vendorpanel",
+    "reference": "VP522607",
+    "title": "Installation of Pergola Roofing Over Existing Cement Slabs - 6 Units – Capella",
+    "description": "Installation of Pergola Roofing over Existing Cement Slabs for 6 Units.\n\nThere will be a Mandatory Site Inspection:\n\nDate: Wednesday, 9 September 2026\n\nTime: 10.00am\n\nPlace: Meet at 13 Malvern Street, Capella Qld\n\n**Please register your attendance by 7 September 5pm**\n\nThe Contractor is to provide all labour, materials, plant, equipment, supervision and associated works necessary for the supply and installation of pergola roofing over the\n\nexisting concrete slabs at six (6) units.\n\nThe works are to be completed in accordance with the relevant Australian Standards, manufacturer’s requirements and applicable Building Regulations.\n\nSite Verification\n\n• Verify the existing slab dimensions, levels, condition and suitability for the proposed pergola structure.\n\n• Confirm all dimensions, locations and site conditions prior to fabrication and installation.\n\n• Dimensions shown in the documentation are indicative only. The Contractor is responsible for confirming all actual dimensions on site.\n\n• Identify and confirm the location of any existing services that may affect the works.\n\n• Undertake a Site Inspection of all six (6) units prior to commencing works.\n\nPergola Structure\n\n• Supply and install the complete pergola framing structure, including posts, beams, rafters, brackets, fixings and associated components.\n\n• Provide suitable structural connections between the pergola structure and the existing slab/building, as required by the design.\n\n• Ensure all structural members are appropriately sized and designed for the site conditions and applicable wind loads.\n\n• Provide corrosion-resistant fixings and connections suitable for the location.\n\n• Ensure the structure is adequately braced and securely fixed.\n\n• Provide appropriate clearances from existing buildings, doors, windows and other structures.\n\nRoof\n\n• Supply and install roofing over the pergola structure.\n\n• Roofing material is to be suitable for the location and comply with the approved design.\n\n• Provide all required flashings, trims, closures, gutters and associated roofing accessories.\n\n• Ensure roofing is securely fixed and weatherproof.\n\n• Provide appropriate roof falls to ensure effective stormwater drainage.\n\n• Ensure roof drainage does not discharge onto adjoining properties, access paths or areas where it may create a hazard.\n\nStorm Water\n\n• Provide gutters and downpipes where required.\n\n• Connect downpipes to the existing stormwater system where suitable and approved.\n\n• Where connection to the existing system is not practicable, provide an appropriate alternative discharge arrangement.\n\n• Ensure all stormwater works comply with relevant requirements and do not adversely affect the existing property.\n\nExisting Concrete Slabs\n\n• Inspect the existing concrete slabs prior to installation.\n\n• Confirm the slab is suitable to support the proposed structure and associated loads.\n\n• Avoid damage to the existing slab during drilling, anchoring and installation.\n\n• Make good any minor damage caused by the Contractor during the works.\n\n• Any structural deficiencies identified in the existing slab are to be reported to the Principal prior to proceeding.\n\nFinishes and Protection\n\n• Provide appropriate protective coatings to all exposed steel/aluminium components as required.\n\n• Touch up any damaged coatings resulting from transportation or installation.\n\n• Ensure all exposed edges, fixings and connections are finished safely.\n\n• Match existing finishes where reasonably practicable and as agreed with the Principal.\n\nBuilding Interfaces\n\n• Ensure the new pergola roofing integrates appropriately with the existing building.\n\n• Provide flashing and weatherproofing at all interfaces with the existing building.\n\n• Maintain access to existing doors, windows, services and maintenance areas.\n\n• Ensure the works do not interfere with existing building drainage, electrical services or other infrastructure.\n\nSafety and Compliance\n\n• Comply with all applicable WHS requirements and site safety procedures.\n\n• Provide appropriate fall protection and safe access for working at heights.\n\n• Maintain safe access to each Unit throughout the works.\n\n• Protect existing buildings, landscaping, finishes and property during construction.\n\n• Remove all construction waste and surplus materials from site.\n\nCompletion\n\n• Inspect the completed pergola roofing works for structural stability, alignment, drainage and workmanship.\n\n• Rectify any defects identified during inspection.\n\n• Clean the work area and leave the site in a neat and safe condition.\n\n• Provide relevant warranties, product information and certification upon completion.\n\n• Provide as-built information where required.\n\nContractor’s Responsibility\n\nThe Contractor is responsible for confirming all dimensions, site conditions, quantities and interfaces prior to ordering materials or commencing fabrication. All dimensions shown or provided are indicative only and must be verified on site by the Contractor.\n\nThe Contractor is to allow for all incidental works necessary to provide a complete, functional and weatherproof pergola roofing installation for all six (6) Units.\n\nMandatory Site Visit\n\n• A mandatory site inspection is required prior to submission of a quotation.\n\n• The Contractor is to attend the site and inspect all Six (6) Units and the existing concrete slabs.\n\n• The Contractor is responsible for verifying all existing site conditions, dimensions, levels, access requirements, services and interfaces relevant to the proposed works.\n\n• All dimensions provided in the RFQ documentation are indicative only and must be verified on site by the Contractor.\n\n• The Contractor is to satisfy themselves as to the full extent and nature of the works prior to submitting their response.\n\n• No additional costs arising from a failure to attend the mandatory site inspection or verify site conditions will be considered, unless otherwise approved by the Principal.\n\n• Respondents are to confirm attendance at the mandatory site inspection as part of their submission.\n\nEstimated Start Contract Date 21/09/2026\n\nEnd Contract Date 4/12/2026",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-25T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=a4630e0d875648329e79c13c0df5f29es522607",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260192",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-13T04:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 13 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-22T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 23 September 2026 (E. Australia Standard Time)",
+      "background": "1. Understanding of Scope and Methodology – 20%\n\n2. Relevant Experience and Capability – 20%\n\n3. Program and Deliverables – 20%\n\n4. Cost and Value for Money – 30%\n\n5. Development of Competitive Local Business and Industry – 10%",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Did you attend the mandatory site inspection?"
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-07T04:09:00.000Z",
+          "question": "Good afternoon,\n\nPlease be advised, Hawley Constructions would like to register our interest in attending the mandatory site visit on Wednesday 09/09/2026 at 10am for tender RFQ260192.\n\nCompany: Hawley Constructions\n\nRepresentative: Tim Mathers\n\nPhone No: 0422 573 064\n\nKind regards,\n\nBrian Pham",
+          "answeredAt": "2026-09-08T04:40:00.000Z",
+          "answer": "Hi Brian, thank you for registering your attendance for Installation of Pergola Roofing Over Existing Cement Slabs - 6 Units – Capella. The Project Delivery Coordinator is Reema Sharma. Reema's contact number is 0409 474 774."
+        },
+        {
+          "askedAt": "2026-09-07T19:53:00.000Z",
+          "question": "I will attend the site visit tomorrow\n\nPlease send me a Phone number to contact on arrival",
+          "answeredAt": "2026-09-08T04:40:00.000Z",
+          "answer": "Hi Alex, thank you for registering your attendance for Installation of Pergola Roofing Over Existing Cement Slabs - 6 Units – Capella. The Project Delivery Coordinator is Reema Sharma. Reema's contact number is 0409 474 774. Can you also provide your best contact number."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-31T23:37:00.000Z",
+          "description": "Please note a change of date for the mandatory site visit to the 9th of September at 10am. Please register your attendance through VendorPanel by 7 September 5pm."
+        },
+        {
+          "at": "2026-09-10T03:55:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Notice to Tenderers #001 - Addendum to RFQ260192.pdf\n\n- Can we install the pergolas discharging on the existing roof - it will be ok to discharge on to the existing roof\n\n- Tree trimming may be required at 4/13 Malvern Road Capella. The contractor is responsible for obtaining all necessary approvals and organising any works required to complete the project.\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-13T22:48:00.000Z",
+          "description": "**Please note that the closing date has been extended to Wednesday, 16/09/2026 at 2:00 pm. Thanks, CHRC**"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Installation of Pergola Roofing over Existing Cement Slabs for 6 Units.\n\nThere will be a Mandatory Site Inspection:\n\nDate: Wednesday, 9 September 2026\n\nTime: 10.00am\n\nPlace: Meet at 13 Malvern Street, Capella Qld\n\n**Please register your attendance by 7 September 5pm**\n\nThe Contractor is to provide all labour, materials, plant, equipment, supervision and associated works necessary for the supply and installation of pergola roofing over the \n\nexisting concrete slabs at six (6) units.\n\nThe works are to be completed in accordance with the relevant Australian Standards, manufacturer’s requirements and applicable Building Regulations.\n\nSite Verification \n\n• Verify the existing slab dimensions, levels, condition and suitability for the proposed pergola structure.\n\n• Confirm all dimensions, locations and site conditions prior to fabrication and installation.\n\n• Dimensions shown in the documentation ...",
+        "to": "Installation of Pergola Roofing over Existing Cement Slabs for 6 Units.\n\nThere will be a Mandatory Site Inspection:\n\nDate: Wednesday, 9 September 2026\n\nTime: 10.00am\n\nPlace: Meet at 13 Malvern Street, Capella Qld\n\n**Please register your attendance by 7 September 5pm**\n\nThe Contractor is to provide all labour, materials, plant, equipment, supervision and associated works necessary for the supply and installation of pergola roofing over the\n\nexisting concrete slabs at six (6) units.\n\nThe works are to be completed in accordance with the relevant Australian Standards, manufacturer’s requirements and applicable Building Regulations.\n\nSite Verification\n\n• Verify the existing slab dimensions, levels, condition and suitability for the proposed pergola structure.\n\n• Confirm all dimensions, locations and site conditions prior to fabrication and installation.\n\n• Dimensions shown in the documentation are indicative only. The Contractor is responsible for confirming all actual dimensions on site.\n\n• Identify and confirm the location of any existing services that may affect the works.\n\n• Undertake a Site Inspection of all six (6) units prior to commencing works.\n\nPergola Structure\n\n• Supply and install the complete pergola framing structure, including posts, beams, rafters, brackets, fixings and associated components.\n\n• Provide suitable structural connections between the pergola structure and the existing slab/building, as required by the design.\n\n• Ensure all structural members are appropriately sized and designed for the site conditions and applicable wind loads.\n\n• Provide corrosion-resistant fixings and connections suitable for the location.\n\n• Ensure the structure is adequately braced and securely fixed.\n\n• Provide appropriate clearances from existing buildings, doors, windows and other structures.\n\nRoof\n\n• Supply and install roofing over the pergola structure.\n\n• Roofing material is to be suitable for the location and comply with the approved design.\n\n• Provide all required flashings, trims, closures, gutters and associated roofing accessories.\n\n• Ensure roofing is securely fixed and weatherproof.\n\n• Provide appropriate roof falls to ensure effective stormwater drainage.\n\n• Ensure roof drainage does not discharge onto adjoining properties, access paths or areas where it may create a hazard.\n\nStorm Water\n\n• Provide gutters and downpipes where required.\n\n• Connect downpipes to the existing stormwater system where suitable and approved.\n\n• Where connection to the existing system is not practicable, provide an appropriate alternative discharge arrangement.\n\n• Ensure all stormwater works comply with relevant requirements and do not adversely affect the existing property.\n\nExisting Concrete Slabs\n\n• Inspect the existing concrete slabs prior to installation.\n\n• Confirm the slab is suitable to support the proposed structure and associated loads.\n\n• Avoid damage to the existing slab during drilling, anchoring and installation.\n\n• Make good any minor damage caused by the Contractor during the works.\n\n• Any structural deficiencies identified in the existing slab are to be reported to the Principal prior to proceeding.\n\nFinishes and Protection\n\n• Provide appropriate protective coatings to all exposed steel/aluminium components as required.\n\n• Touch up any damaged coatings resulting from transportation or installation.\n\n• Ensure all exposed edges, fixings and connections are finished safely.\n\n• Match existing finishes where reasonably practicable and as agreed with the Principal.\n\nBuilding Interfaces\n\n• Ensure the new pergola roofing integrates appropriately with the existing building.\n\n• Provide flashing and weatherproofing at all interfaces with the existing building.\n\n• Maintain access to existing doors, windows, services and maintenance areas.\n\n• Ensure the works do not interfere with existing building drainage, electrical services or other infrastructure.\n\nSafety and Compliance\n\n• Comply with all applicable WHS requirements and site safety procedures.\n\n• Provide appropriate fall protection and safe access for working at heights.\n\n• Maintain safe access to each Unit throughout the works.\n\n• Protect existing buildings, landscaping, finishes and property during construction.\n\n• Remove all construction waste and surplus materials from site.\n\nCompletion\n\n• Inspect the completed pergola roofing works for structural stability, alignment, drainage and workmanship.\n\n• Rectify any defects identified during inspection.\n\n• Clean the work area and leave the site in a neat and safe condition.\n\n• Provide relevant warranties, product information and certification upon completion.\n\n• Provide as-built information where required.\n\nContractor’s Responsibility\n\nThe Contractor is responsible for confirming all dimensions, site conditions, quantities and interfaces prior to ordering materials or commencing fabrication. All dimensions shown or provided are indicative only and must be verified on site by the Contractor.\n\nThe Contractor is to allow for all incidental works necessary to provide a complete, functional and weatherproof pergola roofing installation for all six (6) Units.\n\nMandatory Site Visit\n\n• A mandatory site inspection is required prior to submission of a quotation.\n\n• The Contractor is to attend the site and inspect all Six (6) Units and the existing concrete slabs.\n\n• The Contractor is responsible for verifying all existing site conditions, dimensions, levels, access requirements, services and interfaces relevant to the proposed works.\n\n• All dimensions provided in the RFQ documentation are indicative only and must be verified on site by the Contractor.\n\n• The Contractor is to satisfy themselves as to the full extent and nature of the works prior to submitting their response.\n\n• No additional costs arising from a failure to attend the mandatory site inspection or verify site conditions will be considered, unless otherwise approved by the Principal.\n\n• Respondents are to confirm attendance at the mandatory site inspection as part of their submission.\n\nEstimated Start Contract Date 21/09/2026\n\nEnd Contract Date 4/12/2026",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "requestType",
+        "from": "other",
+        "to": "rfq",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T04:00:00.000Z",
+        "to": "2026-09-16T04:00:00.000Z",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "aa1cf998aa6c4b4e9f02ebb4e39546b6",
     "source": "vendorpanel",
     "reference": "VP521511",
@@ -7806,6 +8633,109 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "acfdbe6627034507b7ab1c1172d010f2",
+    "source": "vendorpanel",
+    "reference": "VP521736",
+    "title": "Orchestra Pit Upgrade Construction Civic Theatre",
+    "description": "The works comprise the refurbishment of the existing stage and orchestra pit at the Civic Theatre, including the supply and installation of new floor finishes, stage components, lighting and associated electrical works. The project includes carpeting the orchestra pit with commercial-grade carpet tiles, replacing stair carpet to match the existing finish, installing compliant emergency signage, supplying and installing new stage traps, and providing recessed LED stage-edge lighting and illuminated stair lighting. All electrical works are to be fully compliant with relevant Australian Standards and legislative requirements.\n\nA second site inspection will be held on Wednesday, 2 September 2026, commencing at 11:00 am.\n\nThis inspection is being provided to allow subcontractors and prospective contractors who were unable to attend the initial pre-tender briefing to view the site and gain a firsthand understanding of the works required.\n\nPlease note that this is not a formal pre-tender briefing and questions regarding the tender or scope of works cannot be answered during the inspection. Any questions must be submitted through the formal tender clarification process.\n\nMeeting Point:\n\nMain Entrance, Civic Theatre\n\nBurns Way off Tarcutta Street\n\nWagga Wagga NSW 2650\n\nAttendance is not compulsory. Contractors and subcontractors wishing to attend are requested to register via email at procurement@wagga.nsw.gov.au",
+    "buyer": "Wagga Wagga City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-18T06:55:00.000Z",
+    "contact": null,
+    "documentCount": 22,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=acfdbe6627034507b7ab1c1172d010f2s521736",
+    "vendorPanelDetails": {
+      "buyerAddress": "Baylis St\nWagga Wagga, New South Wales 2650\nAustralia",
+      "buyerWebsite": "https://www.wagga.nsw.gov.au/",
+      "buyerDescription": "Wagga Wagga is a vibrant city nestled in the heart of the Riverina on the banks of the Murrumbidgee River. The largest city in inland New South Wales, Wagga Wagga encompasses a total land area of 4,825 sq km and is perfectly situated about 455 kilometres south-west of Sydney and 452 kilometres north-east of Melbourne.\n\nServing more than 66,000 residents, The Wagga Wagga City Council is the 39th largest Local government area by population and the 48th by land area of the 128 LGA’s in NSW.",
+      "buyerReference": "CT2026036",
+      "opensAt": "2026-08-17T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 18 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-12T04:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 12 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (AUS Eastern Standard Time)",
+      "background": "Wagga Wagga City Council (WWCC) is a Local Government Authority located in the Riverina Region of New South Wales. It covers an area of approximately 4,886 square kilometres and services a population of circa 68,000. Council currently employs a workforce of approximately 500 full time equivalent staff and has a total budget in excess of $128m",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Murrumbidgee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-21T04:23:00.000Z",
+          "question": "Hello,\n\nCan you please send a document transfer list?\n\nI also don't see any architectural drawings, will these be sent through?",
+          "answeredAt": "2026-08-23T23:27:00.000Z",
+          "answer": "In relation to the architectural drawings, no separate architectural drawings are being issued as part of the contract documentation. The drawings provided are the engineering drawings, including the structural design and details relevant to the works.\n\nThe engineering drawing package S_240066_Issue_C.pdf forms part of the documentation being provided for the project.\n\nA document Transfer list has now been attached to the tender documents."
+        },
+        {
+          "askedAt": "2026-08-25T04:18:00.000Z",
+          "question": "In the Request for Tender Documentation-Professional Indemnity (5.12.4): Our scope is limited to refurbishment and installation works only. Please confirm if this requirement applies to us, or if MJM will provide the Professional Indemnity Insurance certificate.",
+          "answeredAt": "2026-08-25T05:20:00.000Z",
+          "answer": "As the scope is limited to refurbishment and installation works, the Professional Indemnity Insurance requirement under Clause 5.12.4 does not apply."
+        },
+        {
+          "askedAt": "2026-08-30T23:47:00.000Z",
+          "question": "Question 1 - Please clarify the required finish for exposed structural steel: hot-dip galvanised as noted on the drawings, or painted with a matt black finish as specified in the Part D-Scope Of Works?\n\nQuestion 2- On Sheet S5, Page 6, Scenario 2 shows a reduced front stage height with existing temporary flooring (where the safety nets are to be installed). Please confirm whether works associated with this scenario are to be included in our base tender or priced separately as an optional item.",
+          "answeredAt": "2026-09-02T05:43:00.000Z",
+          "answer": "Answer 1: The Required finish for the exposed structural steel is painted with a Matte Black Finish as specified in the Part D- Scope of Works\n\nAnswer 2: The works associated with this scenario are to be included in the base tender. This scenario is indicating that the existing temporary floor and removable pit protection boards need to be compatible with the new works."
+        },
+        {
+          "askedAt": "2026-09-03T06:02:00.000Z",
+          "question": "Question 1: In Section A-A, a U-shaped channel is shown bolted to the stage with 2 x M12 Grade 8.8 bolts. Is this a continuous channel? Please confirm the material and section size, as it is not identified on the drawings.\n\nQuestion 2: In Section A-A, Detail 2, are the removable pit protection panels standard painted plywood panels or a proprietary system? Please provide the specification/details.\n\nQuestion 3: In Detail 3 on Sheet S6, does the timber block run continuously, or is it only fixed to the top of each column?\n\nQuestion 4: During the site inspection, AC ductwork requiring removal and relocation was identified. Can services drawings be provided showing the proposed relocation locations?\n\nQuestion 5: Can drawings be provided showing the proposed locations for the speakers that require relocation?\n\nQuestion 6: Please confirm whether the existing scaffolding within the pits will be removed by Council prior to construction, or if its removal is part of the contractor's scope of works.\n\nQuestion 7: To enable accurate pricing and quantity take-offs, can the stage and pit weight/load ratings, available as-built drawings, and geotechnical report be provided?\n\nQuestion 8: Given the outstanding information and clarifications required, would Council consider an extension of time for the tender submission period?",
+          "answeredAt": "2026-09-04T02:27:00.000Z",
+          "answer": "Answer 1 – The channel will be continuous across the length of the stage to take the ‘Pit Protection Board’. Profile, material & section size is required to suit the existing ‘Pit Protection Board’ mounting.\n\nAnswer 2 – Existing ‘Pit Protection Boards’ will be reused.\n\nAnswer 3 – Fixed to the top of each column. Not continuous.\n\nAnswer 4 – There is not AC ductwork requiring removal and relocation as part of this tender. Beams B7 and B8 span the return air vent.\n\nAnswer 5 – Contractor to provide removable brackets to enable the removal of the speakers and brackets when pit is in use.\n\nAnswer 6 – The existing scaffolding within the pit will be removed by Council prior to construction.\n\nAnswer 7 – Stage weight/load ratings: Applied Load: 7.5kPa, Concentrated Load: 4.5Kn. Auditorium floor rating is 4.0 kPa (approx. 408kg per m2). Pit is concrete slab.\n\nAnswer 8 – The Tender Submission period has been Extended one week"
+        },
+        {
+          "askedAt": "2026-09-07T06:11:00.000Z",
+          "question": "We note that the tender documentation does not appear to include lighting layouts or control details for the LED stair nosings and stage LED strip lighting, with only luminaire and driver specifications provided.\n\nCould you please confirm whether any additional electrical or lighting documentation is available to define the full scope of these installations?",
+          "answeredAt": "2026-09-09T03:15:00.000Z",
+          "answer": "There is currently no additional electrical or lighting documentation for the nosings and strip lighting.\n\nPower already exists beneath each set of treads for the stair nosings and the power for the LED strip lighting is on the other side of the south door into the pit.\n\nThe preferred width of the LED strip lighting is 5mm\n\nCouncil will manage the cabling for control."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-19T00:17:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 4. PART C- Annexure A AS4000_2025 - CT2026036.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-25T06:35:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t S_240066_Issue_C- Updated.pdf- Updated\n\n2. Added: \t Tender Briefing Meeting 24-08-2026 (002).docx\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-26T04:47:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Floor Box Links- FB4SDR-1.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-04T02:32:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t CIVIC THEATRE - Orchestra Pit Extension (Issue A).pdf\n\n2. Added: \t CT2026036 Addendum 1.pdf\n\n3. Added: \t InlandGeo_81_GIR_0824.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-04T02:39:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addiotional Information Tender Information.pdf\n\n2. Added: \t CT2026036 Addendum 1.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The works comprise the refurbishment of the existing stage and orchestra pit at the Civic Theatre, including the supply and installation of new floor finishes, stage components, lighting and associated electrical works. The project includes carpeting the orchestra pit with commercial-grade carpet tiles, replacing stair carpet to match the existing finish, installing compliant emergency signage, supplying and installing new stage traps, and providing recessed LED stage-edge lighting and illuminated stair lighting. All electrical works are to be fully compliant with relevant Australian Standards and legislative requirements. \n\n\nA second site inspection will be held on Wednesday, 2 September 2026, commencing at 11:00 am.\n\nThis inspection is being provided to allow subcontractors and prospective contractors who were unable to attend the initial pre-tender briefing to view the site and gain a firsthand understanding of the works required.\n\nPlease note that this is not a formal pr...",
+        "to": "The works comprise the refurbishment of the existing stage and orchestra pit at the Civic Theatre, including the supply and installation of new floor finishes, stage components, lighting and associated electrical works. The project includes carpeting the orchestra pit with commercial-grade carpet tiles, replacing stair carpet to match the existing finish, installing compliant emergency signage, supplying and installing new stage traps, and providing recessed LED stage-edge lighting and illuminated stair lighting. All electrical works are to be fully compliant with relevant Australian Standards and legislative requirements.\n\nA second site inspection will be held on Wednesday, 2 September 2026, commencing at 11:00 am.\n\nThis inspection is being provided to allow subcontractors and prospective contractors who were unable to attend the initial pre-tender briefing to view the site and gain a firsthand understanding of the works required.\n\nPlease note that this is not a formal pre-tender briefing and questions regarding the tender or scope of works cannot be answered during the inspection. Any questions must be submitted through the formal tender clarification process.\n\nMeeting Point:\n\nMain Entrance, Civic Theatre\n\nBurns Way off Tarcutta Street\n\nWagga Wagga NSW 2650\n\nAttendance is not compulsory. Contractors and subcontractors wishing to attend are requested to register via email at procurement@wagga.nsw.gov.au",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "ada358306665485b93e4b2e867ef3fae",
@@ -8455,6 +9385,215 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "b369f6b80e8e41a9bb9f969a7177ac85",
+    "source": "vendorpanel",
+    "reference": "VP521025",
+    "title": "2026.29 - Construction of Rosslyn Street Sewage Pump Station (SPS42) Wet Well Renewal",
+    "description": "Livingstone Shire Council (Council) invites suitably qualified and experienced contractors to submit a Tender for the Construction of Rosslyn Street Sewage Pump Station (SPS42) Wet Well Renewal, Rosslyn QLD 4703.\n\nThe Works comprise the construction and commissioning of a new sewage pump station facility to replace the existing SPS42 infrastructure. The project is intended to improve the operational reliability, emergency storage capacity, maintainability, monitoring capability and long-term performance of this critical asset within Council's wastewater network.\n\nThe successful Tenderer will be responsible for providing all labour, materials, plant, equipment, supervision, temporary works and associated activities necessary to complete the Works, including maintaining continuity of sewer services throughout construction, testing, commissioning and handover, in accordance with the Contract, Technical Specification and Tender Documents.\n\nThe Contract will be administered under contract – AS2124 - Construct Only and may be delivered in staged components, as detailed in the Tender Documents.",
+    "buyer": "Livingstone Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-13T03:41:00.000Z",
+    "contact": {
+      "raw": "Amanda-Lee Lingard Email: amanda-lee.lingard@livingstone.qld.gov.au Tel: 07 4913 4949",
+      "name": "Amanda-Lee Lingard",
+      "email": "amanda-lee.lingard@livingstone.qld.gov.au",
+      "phone": "07 4913 4949"
+    },
+    "documentCount": 23,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b369f6b80e8e41a9bb9f969a7177ac85s521025s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "40 James St\nYeppoon, Queensland 4703\nAustralia",
+      "buyerWebsite": "https://www.livingstone.qld.gov.au/",
+      "buyerDescription": "Business of local government in the Livingstone Shire in Central Queensland",
+      "buyerReference": "2026.29",
+      "opensAt": "2026-08-12T14:00:00.000Z",
+      "opensAtRaw": "Thursday 13 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-08T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 08 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-16T22:15:00.000Z",
+          "question": "With reference to SPS42 will consideration be given to an FRP Pump Station with WSAA Appraisal Certificate, RPEQ Composite Engineer Design Verification Statement, 30 year Warranty and a Design Life of 100 years?",
+          "answeredAt": "2026-08-17T23:45:00.000Z",
+          "answer": "The Tenderer is required to submit a conforming tender based on the specified, as outlined in the tender drawings and documentation. Due to the limited available space on site for open excavation works, the conforming tender should address these site constraints.\n\nIn addition to the conforming tender, the Tenderer may also submit an alternative tender proposing a different methodology, associated costs, and an alternative FRP Sewer Pump Station (SPS) solution. Any alternative submission should clearly demonstrate how the proposed methodology and SPS solution will satisfy the project requirements while addressing the site's construction constraints."
+        },
+        {
+          "askedAt": "2026-08-17T06:54:00.000Z",
+          "question": "Good afternoon,\n\nCan you please confirm the site meeting is compulsory or not?\n\nThanks",
+          "answeredAt": "2026-08-17T23:57:00.000Z",
+          "answer": "Good morning,\n\nSite visit is not compulsory, noting\n\nThank you\n\nAmanda Lingard\n\nPrincipal Procurement and Contracts Officer"
+        },
+        {
+          "askedAt": "2026-08-19T00:21:00.000Z",
+          "question": "Good Moring,\n\nDue to suppliers and subcontractor quotation supply delay and other commitments at the same time, can council please consider at least 2 weeks EOT to make competitive tender submission?\n\nThank you in advance.",
+          "answeredAt": "2026-08-19T01:18:00.000Z",
+          "answer": "Livingstone Shire Council has extended the closing time of the tender to Thursday, 10 September 2026.\n\nplease note, no further extensions of time will be granted."
+        },
+        {
+          "askedAt": "2026-08-20T00:21:00.000Z",
+          "question": "Good morning,\n\nCan council please confirm the information below?\n\n1.0 Mild Steel Choker Ring – Design and Supply – Drawing Ref. ST-00005 Caisson bottom - Mild Steel Cutting/choker ring bolted to bottom caisson ring design and supplied by others, can you please confirm choker ring design, and supply is part of the contract?\n\n2.0 As per technical specification 11.3 Manholes - manholes 1.2m in diameter with steel details and wall thickness min 150mm but Drawing WA-00020 states new 1050 collector MH and New Manhole, can you please confirm the precast MH acceptable or In-situ and required diameter?\n\n3.0 Please clarify whether the temporary bypass system is required to be installed prior to the commencement of onsite works and maintained throughout the entire duration of the project, or whether the bypass system is only required for specific stages of the works where the existing sewer system needs to remain operational.\n\nIf the latter applies, please confirm whether the installation, operation and removal of the temporary bypass system may be scheduled in accordance with the Contractor’s proposed construction methodology, work sequencing and program, subject to maintaining uninterrupted sewer service at all times.\n\nPlease also confirm whether there are any specific periods or activities during which the temporary bypass system is mandatory.",
+          "answeredAt": "2026-08-24T20:24:00.000Z",
+          "answer": "Response 1 - Yes, it will form part of the contract.\n\nResponse 2 - Drawings to take precedence over the Tech Spec, 1050 is acceptable. Pre-cast is also acceptable from the design perspective, subject to Council approval. However, any additional works resulting from use of pre-cast in lieu of cast in situ (i.e. over excavation, crainage, onsite coring for pipe penetrations etc) shall be borne by the Contractor at no extra cost to Council.\n\nResponse 3 - Following possession of site, the Contractor shall be responsible for the operation and maintenance of the Rosslyn St SPS. The sewerage system (i.e. collection of gravity inflows and transmission of pumped outflows0 must be operational and monitored at all times.\n\nThe Contractor may propose a construction staging methodology that minimises the duration of bypass operation, where this can be achieved without compromising SPS functionality. For example, certain external pipework and interconnections may be constructed and completed offline while the existing SPS remains in service. Any alternative staging or bypass arrangement proposed by the Contractor must be submitted to Council for review and approval prior to implementation. All costs associated with the Contractor's proposed staging methodology, including any temporary bypass arrangements, shall be borne by the Contractor."
+        },
+        {
+          "askedAt": "2026-08-20T04:37:00.000Z",
+          "question": "Good afternoon,\n\nCan Council please confirm whether the safety access covers/hatches for the wet well and valve chamber are required to be sourced from a specific supplier, such as McBerns, or another Council-approved supplier (as it's not mentioned in the specification's) for the compatible with Council’s operation master key system, including any specific locking mechanism, key type, or proprietary requirements?\n\nThanks",
+          "answeredAt": "2026-08-24T20:24:00.000Z",
+          "answer": "Council will accept safety access covers/hatches generally in accordance with the applicable CMDG standard details. McBerns and MSA Safety Products hatches are considered acceptable. Access covers/hatches shall incorporate provision for padlocking, with Council to supply the padlocks at commissioning. Any proposed hatch system shall be subject to Council review and acceptance"
+        },
+        {
+          "askedAt": "2026-08-24T03:40:00.000Z",
+          "question": "Good afternoon,\n\nCan council please supply the documents below that they are referenced in Appendix A:\n\n•\tLSC Water and Wastewater Switchboard and Telemetry Specification\n\n•\tLSC Sewage Pump Stations Functional Specification\n\n•\tLSC Water and Wastewater Electrical and Telemetry Preferred Equipment List\n\nThanks",
+          "answeredAt": "2026-08-25T03:33:00.000Z",
+          "answer": "Livingstone Shire Council has added the below documentation for Tenderer information.\n\nLSC-AD-001 Typical Sewage Pump Station SIze A Drawings - dishan\n\nLSC_Station Size B_Typical Schematic\n\nLSC-ES-012 Rev 3 Specific Specifications for Sewage Wet Wells\n\nLSC-ES-002 Rev 6 Preferred Equipment List"
+        },
+        {
+          "askedAt": "2026-08-25T00:35:00.000Z",
+          "question": "Please confirm if you mean MASS access covers as I cannot find MSA??",
+          "answeredAt": "2026-08-25T04:11:00.000Z",
+          "answer": "Thank you for the clarification.\n\nCouncil confirms that the safety access covers/hatches are to be MASS Safety Products. The reference to MSA was understood to be a typographical error."
+        },
+        {
+          "askedAt": "2026-08-25T03:47:00.000Z",
+          "question": "1. With reference to the Pump Station access covers, can you please confirm if four sided protection be required for both the Wet Well and Valve Chamber?\n\n2. With reference to the Flygt NP3202SH-273 Pumps, can you please confirm if the pumps are to be supplied with standard grey cast iron impellers or optional hard iron impellers?",
+          "answeredAt": "2026-08-25T07:46:00.000Z",
+          "answer": "1. Four-sided protection is only required for the wet well.\n\n2. Hard Iron impellers."
+        },
+        {
+          "askedAt": "2026-08-25T06:42:00.000Z",
+          "question": "Hi and good day!\n\nThe precast pump station chamber as per spec is to be DN3000 as per Humes Drawing CAS-30-01. But we have confirmed with Humes that they no longer manufacture this product. Can the Council consider cast in-situ option for similar size for the PS chamber?\n\nKindly advise. Thank you!",
+          "answeredAt": "2026-08-26T03:51:00.000Z",
+          "answer": "Justine Brown from Humes Rockhampton confirmed that they manufactured it at Humes Ipswich. Rockhampton Hume can price for tenderers.\n\nThe Tenderer is required to submit a conforming tender based on the specified, as outlined in the tender drawings and documentation.\n\nIn addition to the conforming tender, the Tenderer may also submit an alternative tender proposing a proposing a Cast-in- Situ options with compliant liner specified in the tender documents."
+        },
+        {
+          "askedAt": "2026-08-26T04:26:00.000Z",
+          "question": "Good afternoon\n\nItem 1, Control and SCADA Scope\n\nReference: Technical Specification (Part 2, Appendix A) Sections 15.1.1 and 15.1.2; Site Meeting Minutes dated 20/08/2026, \"SCADA and PLC\".\n\nThe tender documents appear to conflict on responsibility for the control and SCADA scope:\n\n•\tThe Technical Specification (Sections 15.1.1 and 15.1.2) requires the Contractor to perform all SCADA configuration, RTU and control programming, program the PLC and RTU, integrate the station into Council's SCADA system, produce a Functional Specification, and fully commission the telemetry system.\n\n•\tThe Site Meeting Minutes (20/08/2026) state the Contractor supplies the unprogrammed MIRI and PLC, Council returns them programmed, and the Contractor will not program or integrate the switchboard.\n\nPlease confirm who is responsible for the control and SCADA scope, specifically the PLC and MIRI programming, SCADA integration, and the Functional Specification deliverable (Section 15.1.2).\n\nIf any of these remain the Contractor's responsibility, please advise Council's preferred SCADA integrator.\n\nItem 2, Groundwater Level for Dewatering\n\nReference: Geotechnical Report (Part 2, Appendix E, GE_2510.1180) Sections 5 and 6.2.3; PPR Section 2.6; Site Meeting Minutes dated 20/08/2026, \"Geotechnical Conditions and Dewatering\".\n\nThe tender documents give conflicting groundwater levels:\n\n•\tThe Geotechnical Report states groundwater was encountered at 8.0m in BH1, records this as the groundwater table in Table 5.1, and adopts 8.0m as the basis for its trench stability assessment in Section 6.2.3.\n\n•\tThe Site Meeting Minutes (20/08/2026) state groundwater may be encountered approximately 1 to 2 metres below ground level.\n\nThe 1 to 2 metre figure does not appear in the Geotechnical Report or elsewhere in the tender documents. Given the deep excavations in the scope, this difference has a significant impact on dewatering design, methodology and price.\n\nPlease confirm the groundwater level tenderers are to adopt as the basis for pricing dewatering and excavation.\n\nIf the 1 to 2 metre level is to be adopted, please provide the supporting investigation data, confirm whether the Geotechnical Report's trench stability and excavation recommendations remain valid, and advise how dewatering is to be allowed for this condition.\n\nRegards",
+          "answeredAt": "2026-08-27T02:54:00.000Z",
+          "answer": "RFI Response – Control and SCADA Scope\n\nThe Contractor shall:\n\n* Supply the unprogrammed MIRI and HMI to Council.\n\nCouncil shall:\n\n* Provide a programmed MIRI and HMI to the Contractor.\n\nThe Contractor shall:\n\n* Install the programmed MIRI and HMI into the switchboard.\n\n* Test and install the switchboard into position on site and connect all site equipment as per the design.\n\n* Not be required to produce a Functional Specification\n\nThis above scope will alleviate the contractor from having to perform SCADA integration because the equipment will come pre-programmed.\n\nRFI Response – Groundwater Level for Dewatering\n\nThe geotechnical investigation recorded free groundwater in BH1 at approximately 8.0 m below ground level at the time of investigation.\n\nThe reference in the Site Meeting Minutes to groundwater potentially being encountered at approximately 1-2 m below ground level, as the Liquid Limit of soil is around 44%-50%, indicates the moist soil may encounter water at shallow depth. The groundwater conditions may fluctuate due to seasonal and rainfall influences and may differ from those observed during the geotechnical investigation.\n\nTenderers shall make their own assessment of the information provided and allow for all dewatering, groundwater management, excavation support and temporary works necessary to undertake the Works. In accordance with the PPR, all associated costs and risks are the responsibility of the Contractor and shall be deemed included in the Contract Sum. No additional groundwater investigation data is available"
+        },
+        {
+          "askedAt": "2026-08-26T22:46:00.000Z",
+          "question": "Humes has confirmed they can manufacture the DN3000 Caisson Shaft",
+          "answeredAt": "2026-08-27T01:15:00.000Z",
+          "answer": "As per Justin Brown (humessalescq-aush@holcim.com) - Humes has confirmed they can manufacture the DN3000 Caisson Shaft\n\nThank you, Justin, council appreciates the update."
+        },
+        {
+          "askedAt": "2026-08-28T00:39:00.000Z",
+          "question": "Good morning,\n\n1. Based on the addendum 1 tender technical spec clarification issued on 27/08/2026, it is mentioned the item P is amended from DN 225 sewer main to DN300 sewer main (10.87m), however in the schedule of rates, item Q showing 11m and of item P is 4m. Can council please clarify this?\n\n2. In the schedule of rate both item P and Q are showing DI PN 35 pipes, whereas drawing is referring to uPVC, can council please confirm whether the drawing will take precedence as per the previous Query response?\n\n3. As per the technical specification item 3.2.5, it mentioned the valve flange to be PN16 in accordance with AS4087, however, all the DI pipe and fitting flanges are referring to PN35, can the council please clarify whether the valves are required to be PN35 as well to match the flange drilling arrangement?",
+          "answeredAt": "2026-09-01T22:46:00.000Z",
+          "answer": "Response question 1- The Bill of Quantities (BOQ) has been revised and reissued. Tenderers are to refer to the revised BOQ for the correct pipe sizes and quantities.\n\nResponse question 2-The sewer mains shown on the drawings are to be uPVC. The revised BOQ has been updated accordingly to align with the drawings. Tenderers are to allow for uPVC pipework as shown on the drawings\n\nResponse question 3- Clause 3.2.5 of the Technical Specification has been amended. The requirement stating: \"\"Flanges shall be PN16 in accordance with AS 4087\"\" has been deleted and replaced with: \"\"All flanges shall be PN35 to AS 4087 unless noted otherwise (UNO).\"\" Tenderers are to refer to Drawing No. 12683495-GHD-00-00-DRG-WA-00001 Rev C01. Accordingly, all valves, pipes and fittings requiring flanged connections are to be provided with PN35 flanges unless noted otherwise on the drawings.\n\nTenderers are to base their Tender submission on this amended requirement."
+        },
+        {
+          "askedAt": "2026-09-01T23:24:00.000Z",
+          "question": "Good morning,\n\nCan Council please supply WAE/old construction drawing of existing wet well to quantify the demolition works as per Item 4 (b) of the supplied BOQ?\n\nThanks",
+          "answeredAt": "2026-09-02T02:16:00.000Z",
+          "answer": "Please see addendum file - 2026.29 - Original Design Drawing Rosslyn St SPS"
+        },
+        {
+          "askedAt": "2026-09-02T02:21:00.000Z",
+          "question": "Good afternoon,\n\nCan re-use existing flowmeter and level transmitter and High-level Float of existing SPS or to be replaced with new one?\n\nThanks",
+          "answeredAt": "2026-09-02T07:33:00.000Z",
+          "answer": "Tenderers shall allow for the supply, installation, testing and commissioning of new instrumentation, including a DN250 magnetic flowmeter, hydrostatic level transmitter and wastewater-duty high-level float, complete with all associated cabling, connections and integration with Council's SCADA system. The existing flowmeter, level transmitter and high-level float are not to be reused.\n\nRefer to the updated BOQ, including Items v and m of Section 4 - Sewerage."
+        },
+        {
+          "askedAt": "2026-09-02T02:27:00.000Z",
+          "question": "Is there the requirement for this Sewer Pump Station to be supplied by a specialist, like Queensland based company Beck Water, with WSAA Product Appraisal Certificate?\n\nI can see it refers to the Codes of Practice WSA-04 – Sewage Pumping Station Code of Australia and Capricorn Municipal Development Guidelines.",
+          "answeredAt": "2026-09-03T00:31:00.000Z",
+          "answer": "Council does not nominate a specific specialist supplier. However, the Contractor is required to supply and construct the Works in accordance with the supplied drawings, Technical Specification, WSA-04 and the Capricorn Municipal Development Guidelines. The Contractor may engage suitably qualified specialist suppliers but remains responsible for demonstrating full compliance with the Contract Documents."
+        },
+        {
+          "askedAt": "2026-09-07T23:28:00.000Z",
+          "question": "Good Moring,\n\nCould Council please supply CMDG STANDARD DRAWINGS as list of drawings name \"LOCALITY PLAN, COVER SHEET\n\nAND DRAWING LIST drawing no Ref. DRG-GN-00001 but no detail drawing found in the tender documents?\n\nList of STD drawings are below:\n\nCMDG-W-040 BEDDING AND BACKFILL FOR WATER MAIN CONSTRUCTION\n\nCMDG-W-041 WATER MAIN THRUST BLOCK DETAILS\n\nCMDG-W-061 HYDRANT AND VALVE SURFACE BOX\n\nCMDG-S-021 ACCESS CHAMBERS 1050mm NOM. DIA. PRECAST COMPONENTS\n\nCMDG-S-023 ACCESS CHAMBERS ALTERNATIVE DROPS INSITU CONSTRUCTION\n\nCMDG-S-028 ASSET IDENTIFICATION PLATE FOR EXISTING SEWER MANHOLES\n\nCMDG-S-037 PUMP STATION OVERFLOW\n\nCMDG-S-044 SEWERAGE PUMP STATIONS HYDRAULIC DESIGN DETAILS\n\nCMDG-S-049 SEWERAGE PUMP STATIONS FLOW METER AND PIGGING PITS\n\nCMDG-S-054 SEWERAGE PUMP STATIONS ODOUR FILTER, BOLLARDS, ROADS AND LANDSCAPING\n\nCMDG-S-046 SEWERAGE PUMP STATIONS OVERFLOW ARRANGEMENT\n\nCMDG-S-090 SEWER CONSTRUCTION PIPELINE CONSTRUCTION TYPES\n\nThanks",
+          "answeredAt": "2026-09-08T06:03:00.000Z",
+          "answer": "Please be advised all CDMG standard drawing are available online in the following link https://www.cmdg.com.au/Guidelines/Standard-Drawings."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-19T00:48:00.000Z",
+          "description": "REMINDER: SITE MEETING\n\nDate: Thursday, 20 August 2026\n\nTime: 10:00amn\n\nAddress: Rosslyn Street, Rosslyn QLD 4703\n\nPlease email attendance to: tenders@livingstone.qld.gov.au"
+        },
+        {
+          "at": "2026-08-19T01:17:00.000Z",
+          "description": "Livingstone Shire Council has extended the closing time of the tender to Thursday, 10 September 2026.\n\nplease note, no further extensions of time will be granted."
+        },
+        {
+          "at": "2026-08-19T05:02:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Embedded Document Work Instruction.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-20T06:29:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 2026.29 - Site Meeting - Agenda.pdf\n\n2. Added: \t (Addendum) 2026.29 - Site Meeting - Minutes - 20 August 2026 (A2453412) (1) (1).pdf\n\n3. Added: \t (Addendum) Aerial map of sewer and water services.pdf\n\n4. Added: \t (Addendum) Rosslyn St Wet Well Sewer and water services map.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-08-25T03:34:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) LSC_Station Size B_Typical Schematic.pdf\n\n2. Added: \t (Addendum) LSC-AD-001 Typical Sewage Pump Station SIze A Drawings - dishan.pdf\n\n3. Added: \t (Addendum) LSC-ES-002 Rev 6 Preferred Equipment List.pdf\n\n4. Added: \t (Addendum) LSC-ES-012 Rev 3 Specific Specifications for Sewage Wet Wells.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-08-25T03:54:00.000Z",
+          "description": "Council has moved the Equipment list and will reload today."
+        },
+        {
+          "at": "2026-08-25T04:22:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) LSC-ES-002 Rev 7 Preferred Equipment List.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-27T02:47:00.000Z",
+          "description": "27 August 2026 - Addendum No. 1 – Technical Specification Clarification\n\nItem 1 – Soft Starters vs VSDs\n\nTenderers are advised that the pump control arrangement is to be based on soft starters, as shown on the electrical design drawings.\n\nReferences within the Technical Specification to Variable Speed Drives (VSDs) and inverters in Sections 13 and 14.6 do not apply to this project and are hereby deleted.\n\nTenderers shall allow for the supply, installation, testing and commissioning of soft starters only, in accordance with the project drawings.\n\nItem 2 – BoQ Pipework Schedule Clarification\n\nTenderers are advised that BoQ Item P is amended from:\n\nDN225 Sewer Main (10.87 m)\n\nto:\n\nDN300 Sewer Main (10.87 m)\n\nNo amendment is required to any other BoQ items."
+        },
+        {
+          "at": "2026-09-01T22:48:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) BOQ - 12683495-Construction of Rosslyn Street SPS - BoQ Schedule (Updated - 2.09.2026).xlsx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-02T02:17:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 2026.29 - Original Design Drawing Rosslyn St SPS.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-07T22:43:00.000Z",
+          "description": "Livingstone Shire Council has extended the closing time to Wednesday, 16 September 2026 - 2:00pm"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-10T04:00:00.000Z",
+        "to": "2026-09-16T04:00:00.000Z",
+        "at": "2026-09-07T23:06:27.954Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-07T23:06:27.954Z"
+      },
+      {
+        "field": "description",
+        "from": "Livingstone Shire Council (Council) invites suitably qualified and experienced contractors to submit a Tender for the Construction of Rosslyn Street Sewage Pump Station (SPS42) Wet Well Renewal, Rosslyn QLD 4703.\n\nThe Works comprise the construction and commissioning of a new sewage pump station facility to replace the existing SPS42 infrastructure. The project is intended to improve the operational reliability, emergency storage capacity, maintainability, monitoring capability and long-term performance of this critical asset within Council's wastewater network.\n\nThe successful Tenderer will be responsible for providing all labour, materials, plant, equipment, supervision, temporary works and associated activities necessary to complete the Works, including maintaining continuity of sewer services throughout construction, testing, commissioning and handover, in accordance with the Contract, Technical Specification and Tender Documents.\n\nThe Contract will be administered under cont...",
+        "to": "Livingstone Shire Council (Council) invites suitably qualified and experienced contractors to submit a Tender for the Construction of Rosslyn Street Sewage Pump Station (SPS42) Wet Well Renewal, Rosslyn QLD 4703.\n\nThe Works comprise the construction and commissioning of a new sewage pump station facility to replace the existing SPS42 infrastructure. The project is intended to improve the operational reliability, emergency storage capacity, maintainability, monitoring capability and long-term performance of this critical asset within Council's wastewater network.\n\nThe successful Tenderer will be responsible for providing all labour, materials, plant, equipment, supervision, temporary works and associated activities necessary to complete the Works, including maintaining continuity of sewer services throughout construction, testing, commissioning and handover, in accordance with the Contract, Technical Specification and Tender Documents.\n\nThe Contract will be administered under contract – AS2124 - Construct Only and may be delivered in staged components, as detailed in the Tender Documents.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "b3e73cfd9f294538992702a91dfdf7b1",
     "source": "vendorpanel",
     "reference": "VP520121",
@@ -8477,6 +9616,57 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "b9e1c1ad9da1496cb9efe5d8dea724ac",
+    "source": "vendorpanel",
+    "reference": "VP522814",
+    "title": "Request from 'INVITATION TO TENDER - 2023-24 & 2024-25 DRFA - PACKAGE 5A – FAR SOUTHWEST",
+    "description": "Winton Shire Council?invites?tenderers to make submissions for reconstruction works as part of the Disaster Recovery Works on various roads on the Far South West section of the Shire. The works are?approximately?39.2km in total, across the following 3 roads; Footscray Access, Diamantina River Road (Old Cork to Boundary), and Mt Windsor Access.",
+    "buyer": "Winton Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Engineer, Research, Tech services",
+      "Management Advisory Services",
+      "Plant & Equipment - Hire"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-16T07:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-26T00:56:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b9e1c1ad9da1496cb9efe5d8dea724acs522814",
+    "vendorPanelDetails": {
+      "buyerAddress": "8 Distribution Ct\nArundel, Queensland 4214\nAustralia",
+      "buyerWebsite": "https://www.winton.qld.gov.au/Home",
+      "buyerDescription": "The Shire of Winton is a local government area in Central West Queensland, Australia. It covers an area of 62,000.7 square kilometres (23,938.6 sq mi), and has existed as a local government entity since 1887. Its administrative centre is located in the town of Winton. It is named after Winton, Dorset, England, the birthplace of Robert Allen, the first white settler in the Winton (Queensland) area.",
+      "buyerReference": "WSCT-2627-06",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-12T07:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 12 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": "The project is located in the far southwest section of the shire and spans various roads. The project covers work on the following roads: ?Footscray Access, Mt Windsor Access. Diamantina River Road (Old Cork to Boundary).\n\nA mandatory site inspection will be held at the intersection of Diamantina Road and Cork Mackunda Road at 9:00 am on Thursday, 3 September 2026. Further details are outlined in Attachment Part C – General Project Information and Scope of Works – Package 5A.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West\n2: Fitzroy\n3: North West\n4: Northern\n5: South West"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-03T03:49:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Part E - Returnable Schedule of Rates - WSC Package 5A - FAR SOUTHWEST REV01.xlsx\n\n2. Added: \t WSC - PACKAGE 5A - CLARIFICATION NO.1 & Addendum NO.01.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "bacb05d8e6144e45bde625f52847875b",
@@ -8926,6 +10116,95 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "c37c7f414ee94297a62f2523786af60b",
+    "source": "vendorpanel",
+    "reference": "VP519174",
+    "title": "Standing Offer Arrangement, Trade Contractor, Painting Services - Far North Queensland",
+    "description": "The State of Queensland through the Department of Housing and Public Works (Customer) is seeking to establish a Standing Offer Arrangement (SOA) for the provision of Services to the Customer, and herby invites offers for the SOA:\n\nStanding Offer Arrangement - Trade Contractor - Painting Services in Far North Queensland\n\nSOA Name: Trade Contractor Painting Services\n\nFor the provision of: Painting Services\n\nSOA Number: QBTCPA26FNQ\n\nNOTE: THIS TENDER IS FOR FAR NORTH QUEENSLAND ONLY.\n\nLocations covered under this SOA:\n\nZone A1 - Cairns\n\nZone A2 - Kuranda\n\nZone A3 - Yarrabah\n\nZone B - Innisfail\n\nZone C - Tully\n\nZone D - Cardwell\n\nZone E - Atherton\n\nZone F - Mareeba\n\nZone G - Port Douglas\n\nZone H - Thursday Island\n\nZone I - Horn Island\n\nZone J - NPA\n\nZone K - Cooktown\n\nZone L - Weipa\n\nPlease contact: qbuildfnqtradecontractors@hpw.qld.gov.au for any further queries in relation to this arrangement.",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-07-30T05:47:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=c37c7f414ee94297a62f2523786af60bs519174",
+    "vendorPanelDetails": {
+      "buyerAddress": "31 Grove St\nParramatta Park, Queensland 4870\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialised business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "QBTCPA26FNQ",
+      "opensAt": "2026-07-29T14:00:00.000Z",
+      "opensAtRaw": "Thursday 30 July 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 15 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-07-31T01:23:00.000Z",
+          "question": "just wondering why call out fee and travel km rates are not applicable in some zones ? especially the regional or remote zones",
+          "answeredAt": "2026-07-31T02:16:00.000Z",
+          "answer": "Hi Glenn,\n\nEach Zone will either have an attendance fee or travel rate."
+        },
+        {
+          "askedAt": "2026-08-22T00:49:00.000Z",
+          "question": "How can I go about tendering for the above services?",
+          "answeredAt": "2026-08-23T22:21:00.000Z",
+          "answer": "Hi Fabian,\n\nYou will need to complete the following documents and submit your offer via VendorPanel before the closing date and time:\n\n ? COMPLETED and SUBMITTED Part B SOA Conditions Annexure B – SOA Sope of Services Appendix D – Schedule of Subcontractors (if applicable).\n\n? COMPLETED and SUBMITTED Part C - Response Schedules, ensuring required information has been filled in for all mandatory blue cells.\n\n? COMPLETED and SUBMITTED Part D – Schedule of Prices, ensuring required information has been filled in for all mandatory blue cells for every zone this offer relates to ensuring no cells contain formulas.\n\nTHE FOLLOWING MUST BE SIGNED\n\n? COMPLETED, SIGNED and SUBMITTED SOA Offer Form in Part C – Response Schedules."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-19T05:59:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) QBTCPA26FNQ Addendum 01.pdf\n\n2. Added: \t (Addendum) Industry Briefing Painting Services QBTCPA26.pdf\n\n3. Added: \t (Addendum) Trade Contractor Project WHS Presentation.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-10T04:08:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) QBTCPA26FNQ Addendum 02.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-14T01:37:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) QBTCPA26FNQ Addendum 03.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The State of Queensland through the Department of Housing and Public Works (Customer) is seeking to establish a Standing Offer Arrangement (SOA) for the provision of Services to the Customer, and herby invites offers for the SOA:\n\nStanding Offer Arrangement - Trade Contractor - Painting Services in Far North Queensland\n\nSOA Name: Trade Contractor Painting Services\n\nFor the provision of: Painting Services\n\nSOA Number: QBTCPA26FNQ\n\nNOTE: THIS TENDER IS FOR FAR NORTH QUEENSLAND ONLY.\n\nLocations covered under this SOA:\n\nZone A1 - Cairns\n\nZone A2 - Kuranda\n\nZone A3 - Yarrabah\n\nZone B - Innisfail\n\nZone C - Tully\n\nZone D - Cardwell\n\nZone E - Atherton\n\nZone F - Mareeba\n\nZone G - Port Douglas\n\nZone H - Thursday Island\n\nZone I - Horn Island\n\nZone J - NPA\n\nZone K - Cooktown\n\nZone L - Weipa\n\nPlease contact: qbuildf...",
+        "to": "The State of Queensland through the Department of Housing and Public Works (Customer) is seeking to establish a Standing Offer Arrangement (SOA) for the provision of Services to the Customer, and herby invites offers for the SOA:\n\nStanding Offer Arrangement - Trade Contractor - Painting Services in Far North Queensland\n\nSOA Name: Trade Contractor Painting Services\n\nFor the provision of: Painting Services\n\nSOA Number: QBTCPA26FNQ\n\nNOTE: THIS TENDER IS FOR FAR NORTH QUEENSLAND ONLY.\n\nLocations covered under this SOA:\n\nZone A1 - Cairns\n\nZone A2 - Kuranda\n\nZone A3 - Yarrabah\n\nZone B - Innisfail\n\nZone C - Tully\n\nZone D - Cardwell\n\nZone E - Atherton\n\nZone F - Mareeba\n\nZone G - Port Douglas\n\nZone H - Thursday Island\n\nZone I - Horn Island\n\nZone J - NPA\n\nZone K - Cooktown\n\nZone L - Weipa\n\nPlease contact: qbuildfnqtradecontractors@hpw.qld.gov.au for any further queries in relation to this arrangement.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "10",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "c5279509174b421885b7aa171a3bf7ce",
     "source": "vendorpanel",
     "reference": "VP521214",
@@ -9231,6 +10510,49 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "cc39b0fa2d0241c9b6fea32208a374b1",
+    "source": "vendorpanel",
+    "reference": "VP522377",
+    "title": "16783 - Preferred Supplier Arrangement Veterinary Services - Rockhampton Zoo",
+    "description": "Rockhampton Regional Council operates the Rockhampton Zoo and invites written submissions for the provision of veterinary services on a programmed and as needs basis.\n\nThe Contractor shall provide all necessary labour, materials, plant, equipment and medication to carry out the veterinary services.\n\nThe Services must be delivered in accordance with Clause 4, Service Level Requirements, or as agreed between both parties.\n\nVeterinary services are to be completed on site at the Zoo or in the Veterinary’s premises.",
+    "buyer": "Rockhampton Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Farming & Animal Services & Equip"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T00:14:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=cc39b0fa2d0241c9b6fea32208a374b1s522377se98f238c627243e7b15598cc3cf6cd26s1562",
+    "vendorPanelDetails": {
+      "buyerAddress": "232 Bolsover St\nRockhampton City, Queensland 4700\nAustralia",
+      "buyerWebsite": "https://www.rockhamptonregion.qld.gov.au/Home",
+      "buyerDescription": "Located in the heart of Central Queensland, the Rockhampton Region is situated 570 km north of Brisbane and approximately 300 km south of Mackay. The Region spans an area that’s covers the communities of Mount Morgan and Gracemere and boasts the City of Rockhampton as the main service centre for the wider Central Queensland Region. Rockhampton Regional Council provides a range of local government infrastructure and services, including: water and wastewater services; waste collection and disposal; construction and maintenance of roads, parks, reserves, sports and community facilities; and a wide variety of community services. Council also owns and operates the Rockhampton Airport and Fitzroy River Water.",
+      "buyerReference": "TEN16783",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-13T04:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 13 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "ccf92a1c3ad04e229979f26a10078954",
     "source": "vendorpanel",
     "reference": "VP520342",
@@ -9252,6 +10574,56 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "d0ebaa5ffc894a4b8c23c320ad7464ca",
+    "source": "vendorpanel",
+    "reference": "VP522959",
+    "title": "Request for Tender - Cleaning Services of Public Facilities in Shire of Kondinin",
+    "description": "The Shire of Kondinin manages a broad range of community, tourism and operational facilities across Kondinin, Karlgarin and Hyden, including key visitor destinations such as Wave Rock, The Humps and McCann’s Rock. These facilities include administration offices, depots, the Kondinin Caravan Park, community halls, sporting facilities, barbeque areas and public toilets.\n\nClean, safe and well-presented facilities are essential to supporting community use, workplace operations and the visitor experience. Regular cleaning also helps protect public health, maintain Shire assets and ensure facilities remain suitable for residents, staff, contractors and visitors.\n\nThrough this Request for Tender, the Shire is seeking a suitably qualified and reliable contractor/s located within a 50km radius of the Shire of Kondinin to provide consistent cleaning services across the nominated facilities. The services are required to meet agreed cleaning frequencies, respond to seasonal and booking-related demand, replenish consumables where required, and promptly report any damage, maintenance issues or additional cleaning needs identified during service delivery.",
+    "buyer": "Shire of Kondinin",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Cleaning Services, Equip, Supplies"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-16T08:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 04:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-26T10:34:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=d0ebaa5ffc894a4b8c23c320ad7464cas522959s1be3b358b92a46719b11b51c8e9ad2c7s1551",
+    "vendorPanelDetails": {
+      "buyerAddress": "11 Gordon St\nKondinin, Western Australia 6367\nAustralia",
+      "buyerWebsite": "https://www.kondinin.wa.gov.au/",
+      "buyerDescription": "None provided",
+      "buyerReference": "RFT 01/2026-2027",
+      "opensAt": "2026-08-25T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T08:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 04:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-18T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 19 September 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Midlands\n2: South Eastern\n3: South West\n4: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Shire of Kondinin manages a broad range of community, tourism and operational facilities across Kondinin, Karlgarin and Hyden, including key visitor destinations such as Wave Rock, The Humps and McCann’s Rock. These facilities include administration offices, depots, the Kondinin Caravan Park, community halls, sporting facilities, barbeque areas and public toilets.\n\nClean, safe and well-presented facilities are essential to supporting community use, workplace operations and the visitor experience. Regular cleaning also helps protect public health, maintain Shire assets and ensure facilities remain suitable for residents, staff, contractors and visitors.\n\nThrough this Request for Tender, the Shire is seeking a suitably qualified and reliable contractor/s located within a 50km radius of the Shire of Kondinin to provide consistent cleaning services across the nominated facilities. The services are required to meet agreed cleaning frequencies, respond to seasonal and booking-related demand,...",
+        "to": "The Shire of Kondinin manages a broad range of community, tourism and operational facilities across Kondinin, Karlgarin and Hyden, including key visitor destinations such as Wave Rock, The Humps and McCann’s Rock. These facilities include administration offices, depots, the Kondinin Caravan Park, community halls, sporting facilities, barbeque areas and public toilets.\n\nClean, safe and well-presented facilities are essential to supporting community use, workplace operations and the visitor experience. Regular cleaning also helps protect public health, maintain Shire assets and ensure facilities remain suitable for residents, staff, contractors and visitors.\n\nThrough this Request for Tender, the Shire is seeking a suitably qualified and reliable contractor/s located within a 50km radius of the Shire of Kondinin to provide consistent cleaning services across the nominated facilities. The services are required to meet agreed cleaning frequencies, respond to seasonal and booking-related demand, replenish consumables where required, and promptly report any damage, maintenance issues or additional cleaning needs identified during service delivery.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "d3be1daf8633443dae4a959105370d82",
@@ -9961,6 +11333,74 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "e13ef5db91694130a20f8c4f53474ad6",
+    "source": "vendorpanel",
+    "reference": "VP522500",
+    "title": "RFT2027.2 Management and Operation of Council's Cootamundra Aquatic and Sports Stadium Facilities",
+    "description": "Cootamundra-Gundagai Regional Council is seeking submissions from suitably qualified and experienced organisations for the management and operation of Council's Cootamundra Aquatic and Sports Stadium Facilities, including the delivery of safe, efficient and customer-focused services to the community.",
+    "buyer": "Cootamundra-Gundagai Regional Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Management Advisory Services",
+      "Real Estate & Property Services",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-26T01:45:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e13ef5db91694130a20f8c4f53474ad6s522500",
+    "vendorPanelDetails": {
+      "buyerAddress": "81 Wallendoon St\nCootamundra, New South Wales 2590\nAustralia",
+      "buyerWebsite": "https://www.cgrc.nsw.gov.au/",
+      "buyerDescription": "Cootamundra-Gundagai Regional Council was formed by Proclamation of the NSW Government on 12 May 2016.\n\nCootamundra-Gundagai Regional Council provides services and support to a community of approximately 11,500 people, including residents of Cootamundra and Gundagai, as well as the villages of Adjungbilly, Coolac, Muttama, Nangus, Stockinbingal, Tumblong and Wallendbeen.\n\nCouncil is focused on ensuring that the community benefits from this amalgamation, with our highest priority being to continue delivering quality local services that our communities value and rely on. It is the aim of the administration to build a united team and a united community that is inclusive, forward-thinking and lays the foundations for a strong and effective local government.",
+      "buyerReference": "RFT2027.2",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-12T04:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 12 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-22T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 23 September 2026 (AUS Eastern Standard Time)",
+      "background": "Tenderers are invited to attend a non-mandatory site inspection to be held at the Cootamundra Swimming Pool, Mackay Street, Cootamundra, on Tuesday 8 September 2026 commencing at 9:00am. Confirmation of your attendance is requested to council's procurement branch by email: procurement@cgrc.nsw.gov.au no later than 5:00pm Friday 4 September 2026.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Murray\n2: Murrumbidgee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T09:16:00.000Z",
+          "question": "Council council provide the utility data for water usage over the last 3 years for both the stadium and pool",
+          "answeredAt": "2026-09-09T05:05:00.000Z",
+          "answer": "Good afternoon.\n\nThank you for your query.\n\nPlease refer to Addendum 1 and Addendum 2, uploaded 09.09.2026.\n\nKind regards\n\nCGRC"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-08T23:53:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 1. Overall costs_ cost breakdown & water consumption for the past 3 years..pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-09T04:14:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 2. Overall costs_ cost breakdown & water consumption for the past 3 years - STADIUM.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "7",
+        "at": "2026-09-09T04:26:33.566Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
     "id": "e2aa8946d91b4e5ba9f99ed8d9fd4425",
     "source": "vendorpanel",
     "reference": "VP515402",
@@ -10038,6 +11478,64 @@
       }
     ],
     "archivedAt": "2026-09-09T05:00:09.608Z"
+  },
+  {
+    "id": "e3f9c34852f74656a65885da09b691a8",
+    "source": "vendorpanel",
+    "reference": "VP522824",
+    "title": "'INVITATION TO TENDER - 2023-24 & 2024-25 DRFA - PACKAGE 2A – EASTERN PACKAGE (Revised Scope)",
+    "description": "Winton Shire Council?invites?tenderers to make submissions for reconstruction works as part of the Disaster Recovery Works on various roads on the Eastern section of the Shire. The works are?approximately?81km in total, across the following two roads; Belmont access and Winton -Corfield Road.",
+    "buyer": "Winton Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Engineer, Research, Tech services",
+      "Management Advisory Services",
+      "Plant & Equipment - Hire"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-16T07:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-26T01:06:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e3f9c34852f74656a65885da09b691a8s522824",
+    "vendorPanelDetails": {
+      "buyerAddress": "8 Distribution Ct\nArundel, Queensland 4214\nAustralia",
+      "buyerWebsite": "https://www.winton.qld.gov.au/Home",
+      "buyerDescription": "The Shire of Winton is a local government area in Central West Queensland, Australia. It covers an area of 62,000.7 square kilometres (23,938.6 sq mi), and has existed as a local government entity since 1887. Its administrative centre is located in the town of Winton. It is named after Winton, Dorset, England, the birthplace of Robert Allen, the first white settler in the Winton (Queensland) area.",
+      "buyerReference": "WSCT-2627-07",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-12T07:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 12 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": "The project is located in the eastern section of the shire and spans various roads. Works totalling approximately 82km in total, and two roads form part of the contract. The project covers work on the following roads: ? Belmont Access, and Winton -Corfield Road.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West\n2: Fitzroy\n3: North West\n4: Northern\n5: South West"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-27T23:47:00.000Z",
+          "question": "Good morning. We are very interested in providing a tender for this project however we request an extension to the tender closing date from 16 September 2026 to 23 September 2026. Trusting you can accommodate this request. Kind Regards.",
+          "answeredAt": "2026-09-01T05:58:00.000Z",
+          "answer": "Thank you for your request to extend the tender closing date from 16 September 2026 to 23 September 2026.\n\nDue to the timeframes associated with the delivery of the project, an extension to the tender closing date will not be provided. Noting there are still approximately two weeks remaining until tender close, Council considers the current tender period provides sufficient time for tenderers to prepare and submit their response.\n\nThe tender closing date therefore remains 16 September 2026."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-02T04:27:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Part E - Returnable Schedule of Rates - WSC Package 2A - Eastern Package - REV01.xlsx\n\n2. Added: \t WSC - PACKAGE 2A - Addendum NO.1.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "e599a1615d84425f9a7638ad2d2b729e",
@@ -10557,6 +12055,98 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-13T21:53:54.962Z"
+  },
+  {
+    "id": "fa633ba077384f358a9b8f57b83c11cd",
+    "source": "vendorpanel",
+    "reference": "VP520720",
+    "title": "26 27 11 Ring Road and Trewin Street, Mitchell Park / Wendouree Roundabout Construction",
+    "description": "Ring Road, Mitchell Park / Wendouree – between Ballarat Link Road and Learmonth Road\n\nRoundabout construction including earthworks, pavement, kerbing, sealing, drainage & associated works.\n\nNOTE NOTE NOTE\n\nHead, Transport for Victoria (VicRoads) Minimum Pre-Qualification Level Requirement:\n\nR3 Required\n\nNote: Bidder must hold this qualification level at the time of bid submission and maintain this qualification throughout the duration of the contract.",
+    "buyer": "City of Ballarat",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-16T04:00:00.000Z",
+    "closingAtRaw": "16/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-11T06:38:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fa633ba077384f358a9b8f57b83c11cds520720s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "25 Armstrong St S\nBallarat Central, Victoria 3350\nAustralia",
+      "buyerWebsite": "https://www.ballarat.vic.gov.au/",
+      "buyerDescription": "The City of Ballarat is a local government area in the west of the state of Victoria, Australia. It is primarily urban with the vast majority of its population living in the Greater Ballarat urban area, while other significant settlements within the LGA include Buninyong, Waubra, Learmonth and Addington. It was formed on 6 May 1994 from the amalgamation of the City of Ballarat, Shire of Ballarat, Borough of Sebastopol and parts of the Shire of Bungaree, Shire of Buninyong, Shire of Grenville and Shire of Ripon.",
+      "buyerReference": "26 27 11",
+      "opensAt": "2026-08-10T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 11 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-11-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 15 November 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "NOTE NOTE NOTE\n\nIt is the responsibility of the bidder to monitor emails and alerts from VendorPanel throughout the tender period AND post tender close until award or notice of outcome are issued.\n\nClarifications and other information, as required, are released to the email that the bidder has used to register for the tender.\n\nBidders are to ensure that the nominated VendorPanel email is monitored during absences and/or change of staff."
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Central Highlands"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-20T07:06:00.000Z",
+          "question": "RFI-01 Geotechnical Investigation Report\n\nOur review of the tender documentation has not identified a geotechnical investigation report for the site. No information has been provided regarding the depth to rock, the nature and strength of the in situ subgrade material, groundwater levels, or subgrade CBR values.\n\nRequest: Could the Council please issue the geotechnical investigation report for the site, including borehole logs, groundwater observations and laboratory results. If no such report exists, could the Council please confirm this in writing and advise the basis on which the extent of rock and unsuitable material will be assessed and valued.\n\nRFI-02 Electronic Design Files (CAD)\n\nThe Contract Drawings have been issued in PDF format only. Accurate quantification of earthworks cut and fill volumes, pavement areas and kerb lengths requires the underlying design data.\n\nRequest: Could the Council please provide the design files in an editable electronic format, specifically the drawings in DWG or DXF format, and the existing and design surface models in an equivalent format.\n\nRFI-03 Extension of Tender Closing Date\n\nThe scope comprises a substantial number of separately priced trade packages, including bulk earthworks, drainage, quarry supply, concrete, asphalt, public lighting civil works and traffic management. Requests for quotation have been issued to our subcontractors and suppliers, a number of whom have advised that they require additional time to complete their pricing and to arrange site inspections.\n\nWe further note that should the geotechnical report and electronic design files sought above be issued, it will require adequate time to review that information and incorporate it into the pricing.\n\nRequest: We respectfully request that the Council grant an extension of time of two weeks to the tender closing date, from 2:00pm on Wednesday 9 September 2026 to 2:00pm on Wednesday 23 September 2026, with the supplier query cut-off extended accordingly.\n\nRFI-04 Powercor Electrical Works Interface\n\nThe electrical service civil works require a contractor endorsed under the Victorian Electricity Distribution Network, with the service pits supplied by Powercor and the lighting installation undertaken by Powercor. Powercor works are identified as an Excluded Authority under the Annexure.\n\nRequest: Could the Council please confirm the anticipated Powercor lead times and the expected sequence of Powercor attendance relative to the construction programme, the arrangements and notice period for collection of the service pits, and confirm that any delay attributable to Powercor will be dealt with as an extension of time under the Contract.\n\nRFI-05 Traffic Management Responsibilities\n\nThe Technical Specification apportions traffic management responsibilities between the Contractor and the Council.\n\nRequest: Could the Council please confirm whether full or partial road closures and portable traffic signals will be permitted, and whether any restriction applies to lane closures or during peak periods.\n\nRFI-06 Site Access, Compound and Stockpile Area\n\nThe documentation refers to a temporary stockpile area in the vicinity of Liberator Drive.\n\nRequest: Could the Council please confirm the location, extent, permitted duration of use and any conditions attaching to the stockpile area, and nominate the area available to the Contractor for the site compound.",
+          "answeredAt": "2026-08-28T03:24:00.000Z",
+          "answer": "See Addendum released"
+        },
+        {
+          "askedAt": "2026-08-25T06:28:00.000Z",
+          "question": "In regard to item 4.03 of schedule 3, if there is a shortfall in the volume of material that is salvageable and reusable (from item 2.02) and class 4 material is to be imported, how will the additional material be paid for?",
+          "answeredAt": "2026-08-26T03:46:00.000Z",
+          "answer": "Contractor is to provide rates in Schedule 1B of the Pricing Schedules."
+        },
+        {
+          "askedAt": "2026-09-01T03:31:00.000Z",
+          "question": "RFI-07 Ring Road South End - Current Closure and Rail Works Completion\n\nThe southern end of Ring Road is presently closed due to rail works. We have not been able to identify any reference to this closure, its anticipated duration, or any interface with the ongoing works within the tender documentation issued to date.\n\nCertainty as to the status and duration of that closure is fundamental to the preparation of a Traffic Management Plan and a realistic construction programme.\n\nRequest: Could the Council please advise:\n\n(a) When are the rail works due to finish, and when will the southern end of Ring Road reopen to traffic?\n\n(b) Should tenderers assume the southern end of Ring Road is open or closed at commencement in February 2027 and for the duration of the contract?\n\nIt is noted that as per Council's Addendum 1, RFI-05 response rules out full closure and requires business access at all times. If the southern end of Ring Road remains closed, the traffic management and detour options left to satisfy that response are materially reduced, so tenderers need its status confirmed to price on a common basis.",
+          "answeredAt": "2026-09-02T00:37:00.000Z",
+          "answer": "RFI-07 Ring Road South End – Current Closure and Rail Works Completion\n\n(a)\tRail works are anticipated to be completed in late December 2026 or early January 2027. The southern end of Ring Road at the railway crossing shall remain closed to traffic and will not be reopened.\n\n(b)\tThe southern end of Ring Road is permanently closed at the level crossing and shall not be available for access or use by the Contractor, the public, or adjoining businesses at any time during the Contract period."
+        },
+        {
+          "askedAt": "2026-09-08T01:42:00.000Z",
+          "question": "RFI-08 Electrical Works: Addendum 1 confirms Powercor will install the lighting and cable. Could Council confirm that Powercor also supplies the poles, luminaires and cable, or advise which Schedule 1C item is to carry their supply?",
+          "answeredAt": "2026-09-08T06:13:00.000Z",
+          "answer": "Powercor will supply and install the poles, luminaires and cable."
+        },
+        {
+          "askedAt": "2026-09-10T03:42:00.000Z",
+          "question": "Hello Council, have you undertaken service locating or NDD investigation previously for these works, understanding the civil contractor will have to re-do this, but at least it helps understand if this was done and applied on the design.",
+          "answeredAt": "2026-09-10T22:19:00.000Z",
+          "answer": "Yes service locating and NDD has been undertaken and applied to the design as part of the design process."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-17T06:16:00.000Z",
+          "description": "Close date extended by one week - see tender portal close date."
+        },
+        {
+          "at": "2026-08-28T03:16:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 123504-A-G1-V2 - Report Wendouree.pdf\n\n2. Added: \t (Addendum) 26 27 11 Ring Road and Trewin Street Q and A 280826.pdf\n\n3. Added: \t (Addendum) RINGRD-CAD BASE.dwg\n\nPlease consider these addenda when responding.\n\nNote change to close / Q & A dates as per tender portal"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Ring Road, Mitchell Park / Wendouree – between Ballarat Link Road and Learmonth Road\n\nRoundabout construction including earthworks, pavement, kerbing, sealing, drainage & associated works.\n\nNOTE NOTE NOTE\n\nHead, Transport for Victoria (VicRoads) Minimum Pre-Qualification Level Requirement: \n\nR3 Required \n\nNote: Bidder must hold this qualification level at the time of bid submission and maintain this qualification throughout the duration of the contract.",
+        "to": "Ring Road, Mitchell Park / Wendouree – between Ballarat Link Road and Learmonth Road\n\nRoundabout construction including earthworks, pavement, kerbing, sealing, drainage & associated works.\n\nNOTE NOTE NOTE\n\nHead, Transport for Victoria (VicRoads) Minimum Pre-Qualification Level Requirement:\n\nR3 Required\n\nNote: Bidder must hold this qualification level at the time of bid submission and maintain this qualification throughout the duration of the contract.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
     "id": "fb06fd2ec0124b61973396a4a71e4638",
