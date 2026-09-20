@@ -12819,6 +12819,164 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "c9a96b1876d5476db3580fd19d0e2c05",
+    "source": "vendorpanel",
+    "reference": "VP515254",
+    "title": "RFT2526-30 - Childcare Centre Expansion",
+    "description": "The Town of Port Hedland invites submissions from qualified Contractors for the construction of the Childcare Centre Expansion.\n\nThe project involves the construction of extensions and upgrading of the existing facility to increase the childcare capacity, improve functionality.",
+    "buyer": "Town of Port Hedland",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-20T14:00:00.000Z",
+    "closingAtRaw": "20/Sep/2026 10:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-07-01T01:27:00.000Z",
+    "contact": null,
+    "documentCount": 23,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c9a96b1876d5476db3580fd19d0e2c05s515254s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Port Hedland Rd\nPort Hedland, Western Australia 6721\nAustralia",
+      "buyerWebsite": "http://www.porthedland.wa.gov.au/",
+      "buyerDescription": "Port Hedland is transforming into a vibrant attractive regional city with a community that are proud to live, work and play in the heart of the Pilbara.",
+      "buyerReference": "RFT2526-30",
+      "opensAt": "2026-06-30T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 01 July 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T14:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 10:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-31T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 01 November 2026 (W. Australia Standard Time)",
+      "background": "The Town of Port Hedland is seeking to engage a suitably qualified contractor for the construction of the Childcare Centre Expansion. The project involves the extension and upgrade of the existing facility to increase childcare capacity, improve functionality, and ensure compliance with current regulatory and operational requirements.\n\nDue to the ongoing operation of the childcare centre, the works are required to be delivered in a staged manner. The project will be undertaken in stages to enable the continued operation of the facility as a childcare centre, with the Contractor responsible for appropriately sequencing works, managing site separation, and maintaining safe access for staff, children, and visitors at all times.\n\nThe works are to be completed by December 2027, with the contractor required to plan and resource the delivery accordingly to meet this timeframe.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Pilbara"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-07-01T23:44:00.000Z",
+          "question": "Good morning,\n\nCould the Town please make available the referenced Appendix 2 containing the drawings, these have not been included in the initial documents uploaded for this tender. We require;\n\n- Architectural\n\n- Structural\n\n- Geo Reports\n\n- Hydraulic\n\n- Electrical\n\n- Mechanical\n\nThank you.",
+          "answeredAt": "2026-07-01T23:55:00.000Z",
+          "answer": "Good morning\n\nThank you, Appendix 2 have been uploaded.\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-07-01T23:48:00.000Z",
+          "question": "Appendix No. 2 appears to be missing from the downloadable documents.",
+          "answeredAt": "2026-07-01T23:55:00.000Z",
+          "answer": "Good morning\n\nThank you, Appendix 2 have been uploaded.\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-07-02T02:18:00.000Z",
+          "question": "The Structural & Geotech Reports are not contained within Appendix No. 2. Could you please upload.",
+          "answeredAt": "2026-07-05T23:51:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 2.\n\nThank you"
+        },
+        {
+          "askedAt": "2026-07-04T04:31:00.000Z",
+          "question": "The RFT drawing register lists Structural drawings S0.01 to S3.05, including footings/slab, wall framing, roof truss layout and roof truss details. These structural drawings do not appear to be included in the Appendix 2 drawing files provided to tenderers.\n\nPlease provide the full structural drawing set, or confirm whether the structural drawings are excluded from the tender documents. If excluded, please confirm what structural information tenderers are to rely on for pricing, methodology, certification and construction sequencing.",
+          "answeredAt": "2026-07-06T00:45:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 3\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-07-04T04:31:00.000Z",
+          "question": "Appendix 1 states that hazardous substances may be present on site and that a Hazardous Substances Register has been prepared and is available at request from the Town of Port Hedland.\n\nPlease provide the Hazardous Substances Register and confirm whether asbestos or other hazardous materials have been identified in the work areas.",
+          "answeredAt": "2026-07-06T00:46:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 3\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-07-04T04:46:00.000Z",
+          "question": "The architectural cover sheet lists Geotech - Perth Geotechnics, and the specification includes geotechnical/site preparation requirements. No geotechnical report appears to be included in the provided tender documents.",
+          "answeredAt": "2026-07-06T00:46:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 3\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-07-09T06:10:00.000Z",
+          "question": "Good afternoon,\n\nIn the material and finishes schedule, both of the below ovens have the model code specified as \"GE506D\":\n\n - SI:12 - 6 burner oven and;\n\n - SI:12A - turbofan oven\n\nCan the Town please advise the correct model number for the turbofan oven, as the \"GE506D\" model matches only with the 6 burner oven specified.",
+          "answeredAt": "2026-07-09T23:39:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 4.\n\nThank you!"
+        },
+        {
+          "askedAt": "2026-08-05T04:06:00.000Z",
+          "question": "Good afternoon,\n\nPlease see below a few items which we request further information for:\n\n1. Structural Engineering\n\nRoof works, from existing to new, especially on the separable portion 2-3 – does the whole roof need to come off?\n\nRoof design is critical\n\n2. Can the Town please provide as cons and material schedules / specifications for the following;\n\n a .Electrical - Need for power shut downs - demolition\n\n b. Hydraulic - Connecting to existing sewer and hydraulics\n\n c. Security and Fire systems\n\n d. Excavations\n\n e. Engineering Roof Designs, tie downs, connection to existing slab. Etc\n\n3.\tGeo Tech report\n\n4.\tDetails of solar system upgrades (likely to affect Switch board drawings and Horizon Applications)\n\n5.\tH-VAC to change and be resubmitted – not a priority item at this stage\n\nThank you.",
+          "answeredAt": "2026-08-05T22:05:00.000Z",
+          "answer": "Good morning\n\nPlease refer to Addendum 7.\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-08-26T22:04:00.000Z",
+          "question": "I note addendum 8 is missing from the supporting documents, can you confirm if this it to be uploaded ?",
+          "answeredAt": "2026-08-26T22:58:00.000Z",
+          "answer": "Good Morning\n\nAddendum 8 will be uploaded hopefully by the end of the week.\n\nThanks"
+        },
+        {
+          "askedAt": "2026-09-10T03:00:00.000Z",
+          "question": "Good afternoon,\n\nCurrently, our Program and Methodology are based on completing SP2, then the Facility Occupants can vacate for the SP3 works area and occupy SP1 area.\n\nOnce they have safety moved (after a Partial PC) we would then start works on SP3.\n\nThis means SP2 and SP1 will be completed well before the current noted PC date of December 2027.However, the completion of SP3 would not be completed until July 2028 – possibly June.\n\nIf our submission was to be made using this methodology, would the Town still accept the submission? Noting that we believe this to be the safest and least disruptive method of works completion for the occupants, particularly with children present in the facility whilst the structural demolition and construction works are completed.",
+          "answeredAt": "2026-09-10T05:47:00.000Z",
+          "answer": "Good afternoon\n\nPlease refer to Addendum 10.\n\nKind regards"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-07-01T23:51:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Appendix 2 – Drawings.zip\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-07-05T22:58:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 1 - RFT2526-30 Childcare Centre Expansion.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-07-05T23:48:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 2 - RFT2526-30 Childcare Centre Expansion.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-07-06T00:44:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 3 - RFT2526-30 Childcare Centre Expansion.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-07-09T23:36:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 4 - RFT2526-30 Childcare Centre Expansion & 260710.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-07-29T00:15:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum 5 - RFT2526-30 Childcare Centre Expansion.pdf\n\n2. Added: \t Addendum 6 - RFT2526-30 Childcare Centre Expansion.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-08-05T22:01:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 7 - RFT2526-30 Childcare Centre Expansion.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-25T03:39:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 9 RFT2526-30.zip\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-08-28T05:01:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 8 RFT2526-30.zip\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-10T05:45:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 10 - RFT2526-30 Childcare Centre Expansion.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Town of Port Hedland invites submissions from qualified Contractors for the construction of the Childcare Centre Expansion. \n\nThe project involves the construction of extensions and upgrading of the existing facility to increase the childcare capacity, improve functionality.",
+        "to": "The Town of Port Hedland invites submissions from qualified Contractors for the construction of the Childcare Centre Expansion.\n\nThe project involves the construction of extensions and upgrading of the existing facility to increase the childcare capacity, improve functionality.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "22",
+        "to": "23",
+        "at": "2026-09-10T10:02:31.580Z"
+      }
+    ],
+    "archivedAt": "2026-09-20T22:00:46.991Z"
+  },
+  {
     "id": "c9ca45eb4f8f494fa45c61fb7358059b",
     "source": "vendorpanel",
     "reference": "VP522501",
