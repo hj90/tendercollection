@@ -149,6 +149,33 @@
     "archivedAt": "2026-09-09T04:26:33.566Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/ae889192-19d8-4f96-a4bc-f3c1d067adf0",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/ae889192-19d8-4f96-a4bc-f3c1d067adf0",
+    "reference": "DFAT-1111",
+    "title": "Mid-Term Review of the Climate Resilient Communities Program",
+    "description": "The Department of Foreign Affairs and Trade (DFAT) is seeking a suitably qualified evaluation team to assess CRC’s progress, performance, effectiveness, efficiency, governance arrangements and value for money midway through implementation.\nThe review will examine CRC’s contribution to climate resilience programming, climate integration across the development program, and capability strengthening within DFAT, as well as the performance of the CRC Support Unit and broader delivery arrangements.\nServices sought include review planning and design, document and data analysis, stakeholder consultations, survey design and implementation, field-based data collection, preparation of an aide memoire, presentations to stakeholders, and delivery of draft and final evaluation reports containing evidence-based findings and recommendations to inform the remainder of Phase 1 implementation and potential Phase 2 activation.",
+    "publishedAt": "2026-08-25T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Foreign Affairs and Trade - Australian Aid Program",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80101504 - Strategic planning consultation services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-21T01:00:00.000Z",
+    "closingAtRaw": "21-Sep-2026 11:00 am (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Secretariat\nEmail Address:\ncrcmtrenquiries@dfat.gov.au",
+      "name": "Tender Secretariat",
+      "email": "crcmtrenquiries@dfat.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c",
     "reference": "PROC-15895",
@@ -391,6 +418,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-09-18T22:00:51.010Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/fa8d0d11-f7c0-4034-9728-f1d819ad1fb5",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/fa8d0d11-f7c0-4034-9728-f1d819ad1fb5",
+    "reference": "DIG-ICD-IDT-01",
+    "title": "Defence Intelligence Targeting Enterprise",
+    "description": "Defence has an ongoing need for industry contribution to the Defence Intelligence Target Enterprise. Defence is holding a classified industry briefing to provide industry with an overview of the Enterprise and an indication of where Defence considers industry could contribute. The briefing will outline Defence's views on both the Defence Targeting Enterprise and the Targeting Program that supports it; the latter describing the various Defence projects that make up the Targeting Program, such as Intelligence Mission Data (IMD) uplift and others. The briefing will be held in Canberra in the week commencing 28 September 2026. Depending on interest, a number of briefings may be held. Industry organisations with an interest in this opportunity are encouraged to register.",
+    "publishedAt": "2026-09-11T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - ISG",
+    "buyerType": "other",
+    "state": "ACT",
+    "categories": [
+      "81112000 - Data services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T06:30:00.000Z",
+    "closingAtRaw": "21-Sep-2026 4:30 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Ms Bella Darmody\nEmail Address:\ndig.industry@defence.gov.au",
+      "name": "Ms Bella Darmody",
+      "email": "dig.industry@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-10T22:02:21.264Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/ffbdfe30-300d-4e6a-8af5-6a4d8a2af2f7",
@@ -4711,6 +4765,53 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "20e7a09a1bd24f33b05d171f5a2c93fb",
+    "source": "vendorpanel",
+    "reference": "VP524242",
+    "title": "RFQ 2526-114 - Upper Brogo Road Outlet Protection - DRFA Works",
+    "description": "Council is seeking quotes from qualified commercial entities to provide remediation works to four sites on Upper Brogo Road damaged by storm events. Works include include outlet and embankment protection and stormwater infrastructure works as per the specification documents.",
+    "buyer": "Bega Valley Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation",
+      "Environmental & Heritage Services"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-21T02:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-04T04:10:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=20e7a09a1bd24f33b05d171f5a2c93fbs524242",
+    "vendorPanelDetails": {
+      "buyerAddress": "Zingel Pl\nBega, New South Wales 2550\nAustralia",
+      "buyerWebsite": "http://www.begavalley.nsw.gov.au",
+      "buyerDescription": "** ABOUT THE BEGA VALLEY **\n\nThe Bega Valley Shire is located at the south-eastern corner of New South Wales, halfway between Australia’s two largest cities, Sydney and Melbourne and three hours’ drive from the nation’s capital, Canberra.\n\nOur coastal fringe extends from Wallaga Lake in the north to Cape Howe and the Victorian border in the south. Collectively this 225-kilometre section forms the beautiful Sapphire Coast, the heart of Australia’s Coastal Wilderness.\n\nOur community vision explains our collective aspiration that we are an inclusive and welcoming community that integrates quality of life, prosperity, sustainable development and conservation of the environment. Our connection to Country is guided by the culture and heritage of our Traditional Owners.\n\n** ABOUT COUNCIL **\n\nBega Valley Shire Council is responsible for providing all of the typical local government services across the Bega Valley Shire including maintaining a broad range of assets valued at over $1.7 billion that allow our visitors and community alike to live, work and play.\n\nThe Bega Valley Shire is governed by an elected Council comprising nine Councillors. Councillors provide leadership and establish policy and strategic direction for the organisation and the future of the shire.\n\nDelivering the day to day services for council is a professional and dynamic staff cohort of over 560 people including full time, contract and casual positions.\n\nContractors to council play an important and valued role, assisting us delivering services and projects to the highest of standards and value for money.\n\n** WHAT COUNCIL DOES **\n\nProvide and maintain community facilities such as:\n•\tParks and sportsgrounds\n•\tPlaygrounds and skate parks\n•\tSapphire Aquatic centre Pambula and swimming pools throughout the shire\n•\tSports and recreation facilities throughout the Shire\n•\tLocal libraries in Bega, Bermagui, Eden and Merimbula\n•\tPreschools and Childcare centres in Bega and Eden, and our Mobile service for Candelo and Bemboka\n•\tMerimbula Airport, Bega Saleyards and Cemeteries throughout the Shire\n\nWe care for the environment by:\n•\tManaging and enhancing bushland areas\n•\tProviding environmental and waste education and recycling services\n•\tResponding to pollution incidents and prosecuting polluters\n•\tMonitoring the water quality of the Shire’s estuaries\n•\tPlanting trees and controlling noxious weeds\n•\tBeneficially recycling and reusing treated effluent\n\nWe create a safer place to live by:\n•\tMaintaining and improving roads, footpaths and stormwater drains\n•\tWorking with emergency organisations such as the Rural Fire Service, State Emergency Service, NSW Police and NSW Surf Life Saving\n•\tManaging the keeping of companion animals\n•\tInspecting food premises\n•\tTreating and supplying drinking water to our community\n•\tTreating sewage to a high standard to protect human health\n\nWe enhance our community by:\n•\tListening to community views\n•\tHolding citizenship ceremonies, Australia Day Celebrations and the Seniors week luncheon known as the Golden Gig\n•\tOffering services for seniors, young people, new migrants and people with a disability\n•\tProviding grants to community organisations\n•\tSupporting local community groups such as sporting clubs, arts, migrant groups and charities\n•\tEncouraging and promoting volunteering in our communities\n\nWe plan for the future by:\n•\tPlanning and managing the urban environment\n•\tPreserving heritage sites\n•\tConsulting with the community about its needs\n•\tDeveloping long term strategic plans for Council and the Shire",
+      "buyerReference": "RFQ 2526-114",
+      "opensAt": "2026-09-03T14:00:00.000Z",
+      "opensAtRaw": "Friday 04 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-17T02:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 17 September 2026 12:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-11-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 20 November 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed the Tender Schedules?",
+        "Have you completed the Lump Sum Price Breakdown?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: South Eastern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "219c6533c4574b559a36d1c7aad3ce29",
     "source": "vendorpanel",
     "reference": "VP522918",
@@ -5560,6 +5661,74 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "3894e8ac86e744fa899ee4629f2e1d6e",
+    "source": "vendorpanel",
+    "reference": "VP522536",
+    "title": "RFT260091 - Capella Rubyvale Road Upgrade CH 47.3 - 48.6",
+    "description": "Central Highland Regional Council invites submissions from competent suppliers to supply all materials, plant, equipment, personnel and any other services, costs and/or fees necessary to:\n\n1. Undertake road pavement and drainage upgrades including but not limited to culvert construction, bulk earthworks, pavement construction, bitumen sealing, road furniture and delineation.\n\n2. Provide and manage traffic control, temporary access arrangements, environmental controls, waste disposal and all required contract plans for safe delivery of the works.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T04:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-24T06:39:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=3894e8ac86e744fa899ee4629f2e1d6es522536s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260091",
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-18T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-04T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 05 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-26T09:38:00.000Z",
+          "question": "Hi, could you please confirm if grass seeding is required, and if so, include in the price schedule.",
+          "answeredAt": "2026-09-03T02:50:00.000Z",
+          "answer": "There is no requirement under the contract for grass seeding or revegetation works other than installation of site won topsoil from work item 32003.01P"
+        },
+        {
+          "askedAt": "2026-08-26T22:53:00.000Z",
+          "question": "1. Please provide the contract award date and expected practical completion date for the works.\n\nThanks",
+          "answeredAt": "2026-09-03T03:06:00.000Z",
+          "answer": "Council advises that contract award is anticipated to occur within approximately two (2) weeks of the tender closing date.\n\nTenderers are required to submit a detailed Construction Program as part of their offer. The program shall nominate a proposed Practical Completion (PC) date, informed by the Tenderer’s assessment of:\n\nMaterial lead times\n\nResourcing and subcontractor availability\n\nWeather risk and seasonal impacts\n\nAny other factors influencing delivery duration\n\nCouncil requires full delivery of the works no later than 30 May 2027. Tenderers must ensure their proposed program demonstrates a realistic and achievable pathway to meet this requirement."
+        },
+        {
+          "askedAt": "2026-09-10T06:09:00.000Z",
+          "question": "Hello, Please confirm the below.\n\nRegarding special ground treatment - MRTS04.1 Clause 6.2 refers to a provisional special ground treatment incorporating Tensar InterAx NX750 geogrid on non-woven geotextile, including Item 43504. No corresponding pricing item or quantity has been identified in pricing schedule.\n\nPlease confirm whether this treatment forms part of the Works and, if required, provide the applicable pricing item and provisional quantity",
+          "answeredAt": "2026-09-13T21:28:00.000Z",
+          "answer": "This does not form part of the specification or contract requirement."
+        },
+        {
+          "askedAt": "2026-09-14T06:16:00.000Z",
+          "question": "Hi There,\n\nIs that possible to replace the nominated M500 binder with C320 binder in bitumen treatments?\n\nAlso, please confirm the spray rates provided are correct?\n\nThanks",
+          "answeredAt": "2026-09-16T23:05:00.000Z",
+          "answer": "Seal treatment/s are nominal and subject to seal design by Contractor."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
     "id": "39f741bd07b44d92a1e8cace80589400",
@@ -7306,6 +7475,103 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "55bd2434558541e8bc9fefdd3cb84f98",
+    "source": "vendorpanel",
+    "reference": "VP523303",
+    "title": "Operational Partnership for Step-Up Step-Down (SUSD) for Mental Health facility at Nundah",
+    "description": "MNHHS is seeking a Supplier/Non-Government Organisation (NGO) with the capability and capacity to establish an operational partnership with Metro North Mental Health (MNMH) for the delivery of Step-up Step-down (SUSD) services. The partnership will provide 24-hour non-clinical support to complement clinical services and deliver psychosocial rehabilitation to support consumers in their recovery.\n\nA briefing session will be held on Thursday 03 September 2026 at 1pm – 2pm Queensland time.\n\nIt is mandatory for Suppliers to attend the briefing session to submit an offer.\n\nSuppliers are requested to nominate who will be attending (a maximum of two participants per Supplier) by 10 am Queensland time on 02 September 2026.\n\nRefer to attached documentation for more information",
+    "buyer": "Metro North Hospital and Health Service",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Community & Social Services",
+      "Healthcare Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T02:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-30T23:05:00.000Z",
+    "contact": null,
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=55bd2434558541e8bc9fefdd3cb84f98s523303",
+    "vendorPanelDetails": {
+      "buyerAddress": "330 Herston Rd\nHerston, Queensland 4006\nAustralia",
+      "buyerWebsite": "https://www.metronorth.health.qld.gov.au/",
+      "buyerDescription": "Metro North Health enables people to deliver excellent patient-centred care and high quality health services. We focus on collaboration with healthcare partners and an investment in systems, engagement and culture, we connect people to deliver services to a population approaching 900,000, from north of the Brisbane River to north of Kilcoy.",
+      "buyerReference": "MNHHS200272",
+      "opensAt": "2026-08-30T14:00:00.000Z",
+      "opensAtRaw": "Monday 31 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T02:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "background": "Refer to attached documentation for more information",
+      "desiredOutcomes": "Refer to attached documentation for more information",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-03T07:25:00.000Z",
+          "question": "Can you please confirm your expectations regarding the 'evidence' requested in Mandatory Criteria: Training, licences, memberships, associations, regulated requirements and registrations? Are you anticipating letters of support to substantiate 'linkages with local Mental Health Services including PHN' or is detailing an overview of this relationship/these connections sufficient? Similarly, for evidence of the NGO training framework, will a description of training modules provided meet this requirement or is other evidence required?",
+          "answeredAt": "2026-09-14T07:59:00.000Z",
+          "answer": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.2- ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "askedAt": "2026-09-04T06:56:00.000Z",
+          "question": "Hello,\n\nCan MNHHS please provide an indicative funding envelope that reflects affordability, so that unaffordable offers are not submitted?\n\nThank you",
+          "answeredAt": "2026-09-14T08:00:00.000Z",
+          "answer": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.2- ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "askedAt": "2026-09-04T07:11:00.000Z",
+          "question": "Could MNHHS confirm whether Intentional Peer Support (IPS), Embodying Recovery, Hearing Voices, or other recognised lived experience training programs would be accepted as equivalent qualifications for Lived Experience roles where a TAFE qualification is specified?",
+          "answeredAt": "2026-09-14T08:00:00.000Z",
+          "answer": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.2- ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "askedAt": "2026-09-04T08:00:00.000Z",
+          "question": "Hello,\n\nWe note the requirement to provide consumers with transport to appointments. Can MNHHS please confirm whether a vehicle is available for this purpose or does the NGO provider need to allocate a budget for an appropriate vehicle in our offer?\n\nThank you",
+          "answeredAt": "2026-09-14T08:00:00.000Z",
+          "answer": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.2- ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-08T22:18:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.1 - ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-14T07:58:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addenda No.2- ITO-MNHHS200272.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-09-09T04:26:33.566Z"
+      },
+      {
+        "field": "description",
+        "from": "MNHHS is seeking a Supplier/Non-Government Organisation (NGO) with the capability and capacity to establish an operational partnership with Metro North Mental Health (MNMH) for the delivery of Step-up Step-down (SUSD) services. The partnership will provide 24-hour non-clinical support to complement clinical services and deliver psychosocial rehabilitation to support consumers in their recovery.\n\nA briefing session will be held on Thursday 03 September 2026 at 1pm – 2pm Queensland time. \n\nIt is mandatory for Suppliers to attend the briefing session to submit an offer.\n\nSuppliers are requested to nominate who will be attending (a maximum of two participants per Supplier) by 10 am Queensland time on 02 September 2026.\n\nRefer to attached documentation for more information",
+        "to": "MNHHS is seeking a Supplier/Non-Government Organisation (NGO) with the capability and capacity to establish an operational partnership with Metro North Mental Health (MNMH) for the delivery of Step-up Step-down (SUSD) services. The partnership will provide 24-hour non-clinical support to complement clinical services and deliver psychosocial rehabilitation to support consumers in their recovery.\n\nA briefing session will be held on Thursday 03 September 2026 at 1pm – 2pm Queensland time.\n\nIt is mandatory for Suppliers to attend the briefing session to submit an offer.\n\nSuppliers are requested to nominate who will be attending (a maximum of two participants per Supplier) by 10 am Queensland time on 02 September 2026.\n\nRefer to attached documentation for more information",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "8",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "55e68b58ffb64b78ba5d2ebed0a5417b",
     "source": "vendorpanel",
     "reference": "VP522485",
@@ -8403,6 +8669,62 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "7cb4a20324524922aaa9c5cffc0ee42c",
+    "source": "vendorpanel",
+    "reference": "VP523363",
+    "title": "BSC 26/27 - T14 - Bitumen Sealing for 2026-27 Reseal program - Hebel Goodooga Road",
+    "description": "Balonne Shire Council invites tenders from suitably qualified tenderers for the Bitumen Sealing for 2026-27 Reseal Program – Hebel Goodooga Road.\n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
+    "buyer": "Balonne Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T04:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-31T21:57:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=7cb4a20324524922aaa9c5cffc0ee42cs523363sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerAddress": "Grey St\nSt George, Queensland 4487\nAustralia",
+      "buyerWebsite": "http://www.balonne.qld.gov.au",
+      "buyerDescription": "The Balonne Shire is located in Queensland on the New South Wales border some 500 kilometres\nfrom the east coast of Australia and has an area of 31,119m2. A region of surprising diversity and\nunique attractions, the Balonne Shire is rich in native bird and animal life, wide open spaces, beautiful\nwaterways, and many historic buildings.",
+      "buyerReference": null,
+      "opensAt": "2026-08-31T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 01 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Darling Downs\n3: South West"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-03T21:24:00.000Z",
+          "question": "Hi,\n\nWill this job be able to be completed at the same time as BSC 26/27 - T15 - Bitumen Sealing for 2026-27 Reseal program Noondoo Mungindi Road.\n\nCan you please advise if there are any stockpile sites close to the works for aggregates.\n\ncan you please indicate on a map where the job is located.\n\nThanks,",
+          "answeredAt": "2026-09-04T02:59:00.000Z",
+          "answer": "Yes, the works can be completed in succession. However, the sites are intended to be delivered and completed over a period of approximately two months, as various preparatory works must be undertaken prior to the sealing operations commencing at each location.\n\nContractors may price the works as a package to achieve the most suitable rate; however, separate mobilisation dates should be allowed for within the pricing.\n\nStockpile sites will be made available in proximity to the work locations to assist with aggregate supply and logistics"
+        },
+        {
+          "askedAt": "2026-09-04T00:36:00.000Z",
+          "question": "Hi,\n\nCan Council please provide indicative seal design to base pricing on, until such time that the necessary testing can be done to be able to confirm design.\n\nThanks,",
+          "answeredAt": "2026-09-04T02:59:00.000Z",
+          "answer": "Yes, the works can be completed in succession. However, the sites are intended to be delivered and completed over a period of approximately two months, as various preparatory works must be undertaken prior to the sealing operations commencing at each location.\n\nContractors may price the works as a package to achieve the most suitable rate; however, separate mobilisation dates should be allowed for within the pricing.\n\nStockpile sites will be made available in proximity to the work locations to assist with aggregate supply and logistics"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "7e7af7d26e2d4ae5b9cd61927b346dd2",
     "source": "vendorpanel",
     "reference": "VP522922",
@@ -8762,6 +9084,93 @@
       }
     ],
     "archivedAt": "2026-09-17T22:30:54.401Z"
+  },
+  {
+    "id": "860f75d3f14a4b648e714e37f98c5df4",
+    "source": "vendorpanel",
+    "reference": "VP520268",
+    "title": "T27006 – Hard Waste Collection, Transportation & Disposal Services",
+    "description": "Contract No. T27006 – Hard Waste Collection, Transportation & Disposal Service\n\nTenders are invited for the Collection and Transportation of Council’s Hard Waste Service.\n\nThe Council is seeking the Services of a suitable contractor to provide kerbside collection, transportation and disposal services of bulky hard and green waste items for residents. Items will include for example: unwanted furniture, mattresses, electrical items, whitegoods, garden waste, and bicycles, prioritising recycling wherever possible, with only non-recyclable materials sent to landfill.\n\nNOTE: The Vendor Panel online forum closes five business days prior to the abovementioned tender closing date. Council reserves the right not to accept the lowest or any Tender, or part thereof. Tenders received after the closing time will not be considered.",
+    "buyer": "City of Stonnington",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T02:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-07T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=860f75d3f14a4b648e714e37f98c5df4s520268se8fec92d55d7442e83a58602a4243b67s1610",
+    "vendorPanelDetails": {
+      "buyerAddress": "311 Glenferrie Rd\nMalvern, Victoria 3143\nAustralia",
+      "buyerWebsite": "https://www.stonnington.vic.gov.au/Home",
+      "buyerDescription": "The City of Stonnington is a local government area located within the metropolitan area of Melbourne, Australia. It comprises the inner south-eastern suburbs, between 3 and 13 km (2 and 8 mi), from the Melbourne CBD. The city covers an area of 25.7 km2 (9.9 sq mi).\n\nWithin twenty years of the settlement of Melbourne in 1835, the Prahran Municipality (later City of Prahran) was formed in 1855, followed by the Gardiner Road Board (later City of Malvern) in 1856.\n\nThe late 19th century saw substantial residential and commercial development such that by 1891 Prahran had a population of almost 40,000 and Malvern 11,000. Following the election of the Kennett government in the Spring of 1992, as part of a comprehensive reorganisation of local government in Victoria, the Cities of Malvern and Prahran were amalgamated to form the City of Stonnington.",
+      "buyerReference": "T27006",
+      "opensAt": "2026-08-07T14:00:00.000Z",
+      "opensAtRaw": "Saturday 08 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-14T02:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 12:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-12-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 20 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed and attached the following 3 tender submission schedules?\n- T27006 - Part E - RFT Response Schedules\n- T27006 - Part F - Pricing Schedule\n- T27006 - Part G - Functional Non-Functional Requirements Schedule"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-12T01:58:00.000Z",
+          "question": "Thank you for the opportunity to review Tender T27006 - Hard Waste Collection, Transport and Disposal Services.\n\nFollowing our review of the tender documents, we wanted to enquire about the proposed contract commencement date of 1 January 2027.\n\nWhile we are very interested in the opportunity, we do have some concerns regarding the mobilisation period, particularly given the Christmas and New Year period falls within the transition timeframe. This presents challenges around recruitment, training, fleet mobilisation, system implementation and ensuring a smooth service commencement.\n\nBefore making a final decision on our participation, we wanted to understand whether Council would be open to considering a later commencement date, or any alternative transition arrangements, that would allow for a more effective mobilisation period.\n\nWe appreciate there may be contractual or operational reasons for the current timing, however any flexibility would be appreciated and may influence our ability to submit a fully compliant and competitive proposal.\n\nWe appreciate your consideration and look forward to your feedback.",
+          "answeredAt": "2026-08-13T04:08:00.000Z",
+          "answer": "Council’s current contract is due to expire on the 31 December 2026, however we are aware that the start date of 1 January 2027 may not be ideal for tenderers. We encourage you to highlight any non-conformance or alternative commencement proposed in your submission and provide reasons for, including an alternative commencement date and mobilisation plan for consideration and flexibility."
+        },
+        {
+          "askedAt": "2026-08-14T00:09:00.000Z",
+          "question": "We wish to submit a bid for the City of Stonnington – Hard Waste Collection, Transportation & Disposal Services tender and are currently preparing our response.\n\nWe would be grateful if you would consider granting a two-week extension to the tender closing date. This additional time would enable us to finalise a comprehensive and high-quality submission that fully addresses the tender requirements.\n\nThank you for your consideration of this request. We look forward to your response.",
+          "answeredAt": "2026-08-18T04:20:00.000Z",
+          "answer": "Confirming we will be extending the closing date and time by 2 weeks. Revised submission closing date and time will be Monday 21 September 2026 at 12:00pm.\n\nThis will be formalised via addendum shortly."
+        },
+        {
+          "askedAt": "2026-08-17T05:22:00.000Z",
+          "question": "Hi,\n\nWe note that in the Tender Spec Section 7 a performance security of 5% is requested; however in the Services General Conditions Annexure the performance security is listed as 10% of the Year 1 contract value. Could you please clarify which figure is correct.",
+          "answeredAt": "2026-08-17T22:25:00.000Z",
+          "answer": "Confirming that the Bank Guarantee requirement is 10% of the Year 1 contract value, as per Part C - Precedent Contract. This will be updated and reflected in the Specification and issued via addendum shortly."
+        },
+        {
+          "askedAt": "2026-08-18T01:30:00.000Z",
+          "question": "Hello City of Stonnington,\n\nWe wish to request for a two-week extension to the tender closing date. This additional time would enable us to complete a comprehensive and high-quality submission that fully addresses the tender requirements outlined in the opportunity. Thank you for your consideration of this request.\n\nWe look forward to your response.",
+          "answeredAt": "2026-08-18T04:21:00.000Z",
+          "answer": "Confirming we will be extending the closing date and time by 2 weeks. Revised submission closing date and time will be Monday 21 September 2026 at 12:00pm.\n\nThis will be formalised via addendum shortly."
+        },
+        {
+          "askedAt": "2026-09-04T02:15:00.000Z",
+          "question": "Can Council confirm whether the three 'Plant & Equipment' tables in Table 4 correspond to specific vehicle/waste categories (as per Table 3), or whether tenderers should use these as repeatable blank templates for however many plant/equipment items they wish to itemise?”",
+          "answeredAt": "2026-09-07T01:31:00.000Z",
+          "answer": "Confirming that the tables were provided as a template that can be duplicated by respondents to nominate their Plant/Equipment."
+        },
+        {
+          "askedAt": "2026-09-09T06:02:00.000Z",
+          "question": "Dear Procurement Team,\n\nWe note that under the Specification, Hard Waste and (Bundled) Green Waste Collection are required to be delivered concurrently under Options A, B and C (Clause 6.1.2(a)), with Option D (User Pays Hard Waste Collection) being the only option that excludes Green Waste.\n\nWe would appreciate Council's clarification on the following:\n\n1. Would Council consider a Tender submission for Option A, B or C that proposes Hard Waste collection only, with (Bundled) Green Waste excluded from scope? If this is possible, please advise how it should be addressed in our submission (e.g. declared as a Non-Conformance under Schedule 3 with a valued cost impact, delivered via a subcontracted/partnership arrangement for the Green Waste component, or another mechanism Council would accept).\n\n2. If a Hard Waste-only submission is not permissible under Options A, B or C, can Council confirm whether Option D (User Pays Hard Waste Collection) may be tendered for, and potentially awarded, on a standalone basis, independent of the outcome for Options A, B or C?\n\nWe would welcome the opportunity to discuss our proposed approach and appreciate Council's guidance ahead of the Tender closing date.\n\nThanks for your time in advance.",
+          "answeredAt": "2026-09-17T00:05:00.000Z",
+          "answer": "1. Council requires submissions that addresses all parts of the tender scope to ensure service delivery is met; the green waste collection can be a subcontracted component.\n\n2. Council will not consider a submission for Part D only, this is an optional addition to Part A, B and C for our consideration."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-18T04:37:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) T27006 - Addendum No.1.zip\n\nRevised submission closing date: Monday 21 September 2026 at 12:00pm.\n\nRevised forum closing date: Monday 14 September 2026 at 12:00pm.\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
     "id": "883e8d8a76134d9480bdc754575d4014",
@@ -9641,6 +10050,248 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "98b23dc08a8d44e1a715ea3134fd990d",
+    "source": "vendorpanel",
+    "reference": "VP517909",
+    "title": "Bowen Landfill - Construction of Cell 2",
+    "description": "Whitsunday Regional Council (Principal) is seeking an experienced and qualified Contractor for the construction of a Cell 2 at the Bowen Landfill, 908 Bowen Development Road (Lot 225 SP106414), Bowen,Queensland, 4805. Cell 2 comprises a new engineered landfill cell adjoining the existing operational Cell 1.\n\nThe facility operates under Environmental Authority EPPR00920813.\n\nA non-mandatory Tender briefing is being held Thursday, 20 August 2026 at 12.30 am.\n\nThe Site Briefing will commence at Whitsunday Regional Council's Bowen Administration Building, 67 Herbert Street, Bowen Qld 4805 and then proceed to Site Visit (further information contained in Clause 5 of the Conditions of Tender).\n\nN.B. PPE is a requirement to attend this site, at a minimum Hi-Vis long-sleeved shirt, full length pants and steel cap boots.\n\nPlease confirm your attendance at this meeting via contracts@whitsundayrc.qld.gov.au no later than Midday Wednesday, 19 August 2026.\n\nNote: if Tenderers wish to attend the Tender Briefing only remotely, please email contracts@whitsundayrc.qld.gov.au with your request to receive a link to attend.\n\nAll communications regarding this Tender are required to go through the VendorPanel Communications Forum.",
+    "buyer": "Whitsunday Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Environmental & Heritage Services",
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T04:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-11T06:44:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=98b23dc08a8d44e1a715ea3134fd990ds517909",
+    "vendorPanelDetails": {
+      "buyerAddress": "85 Main St\nProserpine, Queensland 4800\nAustralia",
+      "buyerWebsite": "http://www.whitsunday.qld.gov.au/",
+      "buyerDescription": "The Whitsunday Region is a local government area located in North Queensland, Australia. Established in 2008, it was preceded by two previous local government areas with a history extending back to the establishment of regional local government in Queensland in 1879.",
+      "buyerReference": null,
+      "opensAt": "2026-08-10T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 11 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-18T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 19 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Central West\n2: Mid-North Coast\n3: Sydney",
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: Wide Bay-Burnett",
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-17T07:05:00.000Z",
+          "question": "Hi,\n\nCould you please advise when Council expects to release the tender for the project’s Construction Quality Assurance Consultancy (QAC), Geotechnical Inspection and Testing Authority (GITA), and Geomembrane Integrity Survey (GIS) services?\n\nCould you also please confirm whether these services will be procured through an invite-only process or publicly tendered?\n\nThank you.",
+          "answeredAt": "2026-08-31T00:05:00.000Z",
+          "answer": "Council have not yet released these services to the market and at this stage they will be released next week.\n\nCouncil will advise shortly how these services are going to be procured."
+        },
+        {
+          "askedAt": "2026-08-18T02:39:00.000Z",
+          "question": "Specification S03, Clause 2.1 requires a 2.0 mm double-sided smooth HDPE geomembrane. However, Specification S14 includes requirements relating to textured geomembrane, including Clause 7.2.7.4 and the textured-liner testing provisions in Table 8.\n\nPlease confirm whether the required HDPE geomembrane is:\n\n2.0 mm double-sided smooth; or\n\nTextured on one or both sides.\n\nPlease also confirm whether a single liner type applies to both the floor and batters.",
+          "answeredAt": "2026-08-31T00:08:00.000Z",
+          "answer": "Refer to Appendix A Design Documentation - 261196_S03 HDPE Geomembrane Material Specification Clause 2.1 which states \"The Contractor shall suply the following geomembrane for incorporation into the works:\n\n* 2.0 m think double sided smooth (black) High Density Polyethylene (HDPE) geomembrane\n\nPlease note that both test methods have been included in Appendix A – Design Documentation, 261196_S14 Geosynthetic Installation Specifications, Table 8, to accommodate potential welding of textured liner where the new liner is required to be tied into the existing Cell 1 liner."
+        },
+        {
+          "askedAt": "2026-08-18T05:18:00.000Z",
+          "question": "Can WRC please provide the 3D digital models for both the surveyed and design surfaces for the project. These files are required for the purpose of carrying out 3d volume take-offs for the project.",
+          "answeredAt": "2026-08-31T02:39:00.000Z",
+          "answer": "Refer to recently uploaded Addendum 01 with the 3D models included."
+        },
+        {
+          "askedAt": "2026-08-21T03:26:00.000Z",
+          "question": "Fllowing from the site briefing yesterday, could we please request a 16-day EOT through to Wednesday 30 September.",
+          "answeredAt": "2026-08-31T00:15:00.000Z",
+          "answer": "Unfortunately due to the importance of this Project being completed, Council is unable to extend the closing time of this Tender."
+        },
+        {
+          "askedAt": "2026-08-24T05:26:00.000Z",
+          "question": "1). PRINCIPAL supplied materials\n\na) Please confirm the location of the potential Principal supplied Leachate Aggregate material;\n\nb) Please confirm the location of the COVER soil borrow pit;\n\n3). CLEARING & GRUBBING\n\na) Please confirm whether there is any clearing & grubbing to be undertaken as part of the scope;\n\n4). Confirmation of details (several Pricing Schedule items/dwg details need further information/confirmation)\n\na) Groundwater drainage\n\ni. Pricing schedule lists (Types A, B, C) – no sizes or details mentioned\n\nii. Dwg indicate A (perforated), B (non-perforated), C (panel drain)\n\niii. Spec states A (OD 250mm, HDPE), B (315mm Panel drain)\n\niv. Please confirm size and detail of Types A, B and C; noting pricing schedule qtys currently indicates 540m of Type B\n\nb) Leachate collection system\n\ni. Pricing schedule lists (Types 1 & 2) – no sizes or details mentioned\n\nii. Dwg Plan and details sheet indicates (Types A & B) – no size, both perforated indicated\n\niii. Please confirm size and detail of the Leachate collection pipework required;\n\nc) Supply & install Groundwater & Leachate pumps\n\ni. Please provide more details on these 2 Provisional Items\n\nd) Electrical conduit\n\ni. Please provide details of where this is located\n\n5). WORKS by Principal\n\na) Following the tender briefing & site inspection confirmation that the following scope indicated on the drawings should be excluded from our pricing:\n\ni. Concrete barriers indicated on the GA dwg\n\nii. Haul road Guide Posts;\n\niii. Stormwater Culverts 1 to 5 as indicated on the GA plan;\n\niv. Swales Type 1 & 2 as indicated on the GA plan;\n\nv. 100mm Mulch on batters & Hydromulch areas on surface treatment plan;\n\nvi. 100mm Topsoil & vegetation to drainage channels on surface treatment plan;\n\nvii. Access Road pavement on surface treatment plan",
+          "answeredAt": "2026-08-31T02:41:00.000Z",
+          "answer": "1)\n\na) Leachate Pond is 350 metres to the west of Cell 2.\n\nb) Cover soil may be from existing stockpiles of road profiling's onsite, and/or could be overburden from clay borrow area if required. Cover soil wil be then covered by mulch from the Site as per drawings.\n\n3)\n\na) No refer to the recently uploaded Addendum 01.\n\n4)\n\na) Refer to the recently uploaded Addendum 01 as the roadworks is being excluded from the Works.\n\ni -iv. Refer to the recently uploaded Addendum 01 as this has been corrected.\n\nb) Refer to the recently uploaded Addendum 01 as this has been corrected.\n\nc) Refer to the recently uploaded Addendum 01 as the Pumps are excluded from the Works.\n\nd) Refer to the recently uploaded Addendum 01 as the electrical works are being excluded from the Works."
+        },
+        {
+          "askedAt": "2026-08-24T18:38:00.000Z",
+          "question": "Hillery Group would like to request an additional site walk out meeting, due to our unavailability last week",
+          "answeredAt": "2026-09-08T02:55:00.000Z",
+          "answer": "Apologies but Council is unable to conduct another Tender Briefing and Site Inspection for this Tender."
+        },
+        {
+          "askedAt": "2026-08-24T23:43:00.000Z",
+          "question": "We note that the HDPE Specification calls for a Smooth geomembrane; however, the properties listed in Table 1 appear to correspond to a Textured geomembrane. Kindly confirm whether the required material is Smooth or Textured.",
+          "answeredAt": "2026-08-31T00:17:00.000Z",
+          "answer": "Refer to Appendix A Design Documentation - 261196_S03 HDPE Geomembrane Material Specification Clause 2.1 which states \"The Contractor shall suply the following geomembrane for incorporation into the works:\n\n* 2.0 m think double sided smooth (black) High Density Polyethylene (HDPE) geomembrane\n\nPlease note that both test methods have been included in Appendix A – Design Documentation, 261196_S14 Geosynthetic Installation Specifications, Table 8, to accommodate potential welding of textured liner where the new liner is required to be tied into the existing Cell 1 liner."
+        },
+        {
+          "askedAt": "2026-08-25T03:45:00.000Z",
+          "question": "Hi,\n\nAre we able to submit a proposal for the leachate system and pumps only?",
+          "answeredAt": "2026-08-31T00:17:00.000Z",
+          "answer": "Tenderers are required to submit a tender response for the full scope of works as specified in the Request for Tender documentation. Partial tenders or submissions for only a portion of the works will not be accepted and will be deemed non-conforming in accordance with the Conditions of Tender."
+        },
+        {
+          "askedAt": "2026-08-25T05:38:00.000Z",
+          "question": "BoQ Item 2.1.4 states that the item includes the sacrificial separation geotextile. We request Council's clarification on the following:\n\n1. Please confirm whether the sacrificial separation geotextile referenced in Item 2.1.4 is the UV protection geotextile shown on the northern embankment in Details 5 and 10 of Drawing 012.\n\n2. Should this be the case, the quantity allowed under Item 2.1.4 does not appear to include the UV protection layer. Please confirm whether the quantity is to be amended or advise where this layer is to be measured.\n\n3. We further note that no specification reference for the UV separation geotextile could be located within the tender documentation.",
+          "answeredAt": "2026-09-11T07:21:00.000Z",
+          "answer": "1. Yes that is correct.\n\n2. Refer to Addendum 02 with additional of additional line item 2.1.5 for this item with quantity as per Appendix A - Drawing 261196-000-010 – Cross Sections Sheet 2, The Northern Embankment Detail and Cell 1 Liner Connection.\n\n3. A19, A24 or A34 Bidim non-woven geotextile, or approved equivalent."
+        },
+        {
+          "askedAt": "2026-08-25T23:48:00.000Z",
+          "question": "Regarding BoQ items 1.4.2 and 1.4.3 (Type B & Type C Groundwater relief system pipe): Can council please confirm that the quantities on these items are to be swapped?",
+          "answeredAt": "2026-08-31T02:42:00.000Z",
+          "answer": "Refer to Addendum 01 with update to Drawings 261196-000-005, 261196-010 & 261196-000-011 and to Pricing Schedule V2."
+        },
+        {
+          "askedAt": "2026-08-26T23:29:00.000Z",
+          "question": "Good morning,\n\nWould any information shared at the non-mandatory site briefing be available for contractors who could not attend?",
+          "answeredAt": "2026-08-31T02:43:00.000Z",
+          "answer": "Refer to Addendum 01 recently uploaded with minutes from the Tender Briefing and Site Visit on 20 August 2026."
+        },
+        {
+          "askedAt": "2026-08-27T00:29:00.000Z",
+          "question": "Would Council be in a position to grant an extension of time for this tender submission?",
+          "answeredAt": "2026-08-31T00:18:00.000Z",
+          "answer": "Unfortunately due to the importance of this Project being completed, Council is unable to extend the closing time of this Tender."
+        },
+        {
+          "askedAt": "2026-08-27T01:25:00.000Z",
+          "question": "Just following up on previous request to Extension of Time.",
+          "answeredAt": "2026-08-31T00:19:00.000Z",
+          "answer": "Unfortunately due to the importance of this Project being completed, Council is unable to extend the closing time of this Tender."
+        },
+        {
+          "askedAt": "2026-08-27T14:08:00.000Z",
+          "question": "Geomembrane suppliers have noticed that there is mistake in the Table, the specification says smooth HDPE but the table looks like a textured material, even the thickness tolerance is 5% as the GRI for textured. If you could clarify this & confirm what type of liner is required that would be appreciated.",
+          "answeredAt": "2026-08-31T00:20:00.000Z",
+          "answer": "Refer to Appendix A Design Documentation - 261196_S03 HDPE Geomembrane Material Specification Clause 2.1 which states \"\"The Contractor shall suply the following geomembrane for incorporation into the works:\n\n* 2.0 m think double sided smooth (black) High Density Polyethylene (HDPE) geomembrane\n\nPlease note that both test methods have been included in Appendix A – Design Documentation, 261196_S14 Geosynthetic Installation Specifications, Table 8, to accommodate potential welding of textured liner where the new liner is required to be tied into the existing Cell 1 liner."
+        },
+        {
+          "askedAt": "2026-08-28T01:28:00.000Z",
+          "question": "RFI-001\n\nIssue: Pricing Schedule Item 1.4.3 prices 40 m of groundwater \"pipe type C\", but Specification S13 defines only a Type A collection pipe (OD 250 PE100 PN20, cl.7.1.1) and a Type B panel drain (cl.7.1.2). \"Type C\" is not defined anywhere.\n\nClarification: Provide the design details for groundwater pipe Type C — outside diameter, material, and pressure class (PE100 PN/SDR).\n\nRFI-002\n\nIssue: Pricing Schedule Item 1.4.4 prices \"supply and install groundwater sump/pit\" as 2 lump sums. S13 cl.7.1.4 and cl.7.4.2 describe a precast concrete manhole-type structure \"as shown in the drawings\", but no sump dimensions, precast size/class, depth/invert levels, base-slab or lid (load class), or pipe-inlet/grouting detail is provided.\n\nClarification: Provide the sump/pit design details (structure type and dimensions, precast size/class, depth and invert levels, base-slab and lid load class, pipe-inlet/grouting), or issue the relevant drawing/typical detail, so the 2 sumps can be priced.\n\nRFI-003\n\nIssue: S13 cl.12.4 requires precast Class 3 RCP culverts (MRTS03/MRTS24) with headwalls (SD1243), wingwalls (SD1304) and bedding (SD1359), and cl.12.5 states \"culverts shall not be measured\", all components deemed included in the work item. The Pricing Schedule contains no culvert/headwall pay item and no lump-sum line for the culvert work to be deemed into.\n\nClarification: Confirm whether culverts and headwalls are within this package and, if so, the pay item under which they are to be included.\n\nRFI-004\n\nIssue: Concrete barrier locations are identifiable on the drawings but are not referenced in the Council Specification, Specification S13 or the Pricing Schedule, and no barrier pay item exists in the BOQ.\n\nClarification: Confirm whether precast concrete barriers are included under this Contract and, if so, provide the design details (type, dimensions, quantity and footing/anchorage) and the pay item; if none are required, confirm they are excluded from scope.\n\nRFI-005\n\nIssue: Pricing Schedule Item 1.3.6 prices a provisional in-situ subgrade stabilisation (Type D) but nominates no binder (cement or lime), no binder content/application rate, and no treatment depth.\n\nClarification: For the in-situ stabilisation provisional item, nominate the binder type (e.g. GP cement or lime), the application rate (% by mass or kg/m²), and the treatment depth (confirm 150–300 mm).\n\nRFI-006\n\nIssue: The design set includes a Haul Road Layout Plan and Longitudinal Section (Drawings 015 and 016) and S13 cl.13 specifies roadworks (Type 2.1 pavement to MRTS05, guideposts), but the Pricing Schedule contains no pay item for the haul road.\n\nClarification: Confirm whether construction of the permanent haul road (Drawings 015 and 016) is included in the scope of this proposal. If so, issue the pay item, the pavement/subgrade-improvement standard and the quantity; if not, confirm it is excluded.",
+          "answeredAt": "2026-09-11T07:22:00.000Z",
+          "answer": "RFI-001 Refer the recently uploaded Addendum 01 as this has been corrected.\n\nRFI-002 Refer to Addendum 02 for these updated details.\n\nRFI-003 Refer to the recently uploaded Addendum 01 as this is now excluded from the Works.\n\nRFI-004 Refer to the recently uploaded Addendum 02 as this is now excluded from the Works.\n\nRFI-005 Stabilisation (lime treatment) is not required or included in the design. General preparation items are described in part 5.5.1 of the Civil and Earthworks Specification (S13) to align with the Provisional Items in 1.3.3 to 1.3.6 of the Pricing Schedule V3.\n\nRFI-006 Refer to the recently uploaded Addendum 01 as this is now excluded from the Works."
+        },
+        {
+          "askedAt": "2026-08-28T01:56:00.000Z",
+          "question": "Tender Briefing / Site Inspection – Confirmation of Revised Scope\n\nDuring the tender briefing and site inspection, Council indicated that parts of the current scope of works would be reduced and that further information or clarification would be issued to tenderers.\n\nCan Council please confirm when the site inspection information and formal Addendum outlining the revised scope will be released?\n\nPlease also confirm whether a revised Pricing Schedule will be issued to reflect the reduced scope.",
+          "answeredAt": "2026-08-31T02:44:00.000Z",
+          "answer": "Refer to the recently uploaded Addendum 01 in regards to the amendment to the Bowen Landfill - Construction of Cell 2 Specification with the additional clause being added to the Specification in relation to Works excluded."
+        },
+        {
+          "askedAt": "2026-09-02T00:43:00.000Z",
+          "question": "1). Leachate collection system\n\na) Please confirm that in the Pricing schedule the leachate collection pipes Type 1 (1.5.1) & Type 2 (1.5.2) relate to Types A & B as per the drawings and specification\n\n2). Installation of mulch\n\na) Previous vender panel response stated Cover soil will be then covered by mulch from the Site as per drawings\n\nb) Please confirm where is this to be included in the Pricing schedule\n\n3). Groundwater Drainage\n\na) The dwgs & pricing schedule indicate there are 2No. Groundwater sumps to be constructed; the spec indicates these drainage structures should be pre-cast;\n\nb) These access maintenance chambers are going to be around 5m deep; please confirm what diameter size is required;",
+          "answeredAt": "2026-09-11T07:23:00.000Z",
+          "answer": "a) Leachate Collection System - Apologies this was corrected in Addendum 01 and Pricing Schedule V2 still showed error on Items 1.5.1 and 1.5.2. This has been corrected on the revised VP517909 Bowen Landfill - Construction of Cell 2 - Pricing Schedule V3.\n\nb) Installation of mulch - Council has a stockpile of mulch on site for use in the Works. Mulch must be placed by the Contractor as part of the works and refer to Addendum 02 for Items 1.3.13 - 1.3.15 being added to revised Pricing Schedule V3 recently uploaded.\n\nc) Groundwater Drainage Sumps/Maintenance Chambers - Refer to 261196_S13 Civil and Earthworks Specifications Clauses 7.1.4 and 7.4.2 states the groundwater drainage structures are to be precast manhole type structures. Refer to Addendum 02 for additional details added to Drawing 261196-000-010 – Cross Sections Sheet 2."
+        },
+        {
+          "askedAt": "2026-09-07T05:47:00.000Z",
+          "question": "Good afternoon, can Council please clarify the below:\n\n1.\tCivil Scope of works clarification:\n\n•\tAdd#01 has removed Clause 13 – Roadworks from the specification. We understand that the Principal will have these works completed prior to the Cell 2 construction team mobilising on site; this includes the Haul Road; culverts & crossing points and swales. Can you confirm that, referring to IFC dwgs 261196-000-003 to 009 & 019, the following works are will also be completed by Principal:\n\no\tRRA access road, including Fill (dwg 009 sections A & B) (no specification or Pricing Schedule item);\n\no\tConcrete road barrier (no specification of Pricing Schedule item);\n\no\tTipping pad, including guide posts (no specification of Pricing Schedule item);\n\no\tHydromulch on Batter (dwg 019 section Typical) (no specification of Pricing Schedule item);\n\n2.\tPricing Schedule scope clarification:\n\n•\tThe following items are listed as LS items in the Pricing Schedule:\n\n1.3.1\tPreparation of pond area for backfill.\tLump sum\t1\n\n1.6.2\tShape clay borrow area to form pond.\tLump sum\t1\n\n•\tThe specification Clause 4.4 for Pond Backfill does not quantify or list works items that should be included in Pricing Schedule item 1.3.1, please clarify;\n\n•\tThere does not appear to be any specified details for Pricing Schedule item 1.6.2 (depths, min/max batter grades, surface finish etc.), please clarify;",
+          "answeredAt": "2026-09-11T07:23:00.000Z",
+          "answer": "1. Civil Scope of Works - Refer to Addendum 02 for additional clarity on Clause 2 Works Excluded to address your query.\n\n2. Pricing Schedule Scope Clarifications - Tenderers are to allow for making good of the small interface into Pond Area for approximately 500 m² for making good and reshaping pond wall at 2:1 batter."
+        },
+        {
+          "askedAt": "2026-09-07T10:54:00.000Z",
+          "question": "Would Council please consider a one week extension to the due date of this tender?\n\nThank-you.",
+          "answeredAt": "2026-09-08T07:20:00.000Z",
+          "answer": "Please see latest notification extending the Tender Closing Date until Monday, 21 September 2026, 2.00 pm (AEST). Note: Forum will now close COB next Wednesday, 16 September 2026."
+        },
+        {
+          "askedAt": "2026-09-07T21:21:00.000Z",
+          "question": "Could you confirm the following:\n\n1.\tThe footprint area of the borrow pit in m2.\n\n2.\tThe council expectation of clay qty within this footprint.\n\n3.\tSpecifications and sizing of the leachate pipes",
+          "answeredAt": "2026-09-11T07:24:00.000Z",
+          "answer": "1. Sufficient Area to satisfy the earthworks import requirements\n\n2. Sufficient Amount to satisfy the earthworks import requirements.\n\n3. Leachate pipe specifications and sizing are provided in Specification S13, Clause 10.2.1 as follows:\n\nType A Leachate Collection Pipe: 315 mm OD, PE100, PN12.5, SDR 13.6\n\nType B Leachate Collection Pipe: 160 mm OD, PE100, PN12.5, SDR 13.6\n\nLeachate Riser and T-piece: 630 mm OD, PE100, PN12.5, SDR 13.6\n\nWhere perforation is required, the pipework is to be perforated and installed in accordance with the project drawings."
+        },
+        {
+          "askedAt": "2026-09-08T05:10:00.000Z",
+          "question": "The provided 3d digital files do not include the existing surface survey. Can Council please provide the 3d digital existing surface model to allow us to undertake a volume take-off.",
+          "answeredAt": "2026-09-11T07:25:00.000Z",
+          "answer": "Please refer to the recently uploaded zip file titled 250927 merged dtm (for information only)."
+        },
+        {
+          "askedAt": "2026-09-09T02:41:00.000Z",
+          "question": "Good afternoon,\n\nAddendum 1 references an attachment with site briefing agenda and minutes, however it doesn't appear that this was uploaded. Could Council please reattach?",
+          "answeredAt": "2026-09-09T03:34:00.000Z",
+          "answer": "It was uploaded as Attachment 1 to Addendum 01; therefore please refer to that attachment."
+        },
+        {
+          "askedAt": "2026-09-09T02:49:00.000Z",
+          "question": "We note that the geotech report provided indicates that TP01-TP07 identified suitable clay material for the Clay Fill, however it also states that all Test Pits failed the Emerson Class requirements. Can Council please specify what treatment is to be expected to modify the in-situ material to meet the required specification?",
+          "answeredAt": "2026-09-14T02:56:00.000Z",
+          "answer": "The Principal confirms that the on-site clay material identified within TP01–TP07 is suitable for use as Clay Fill without modification or treatment specifically in response to the Emerson Class results.\n\nStabilisation, including lime treatment of the identifeid Clay Fill material, is not required or included in the design.\n\nGeneral preparation must be undertaken in accordance with Clause 5.5.1 of the Civil and Earthworks Specification (S13).\n\nGeneral Surface Preparation Types A, B, C and D remain provisional items within the Pricing Schedule and must be priced accordingly. The requirement for any of these provisional treatments will be determined based on the conditions encountered during the works and direction under the Contract.\n\nShould imported Clay Fill material be required, the imported material must comply with the requirements of the Specification."
+        },
+        {
+          "askedAt": "2026-09-13T11:08:00.000Z",
+          "question": "Could we please request an extension of time for submitting our quotation for this tender?",
+          "answeredAt": "2026-09-14T01:18:00.000Z",
+          "answer": "Unfortunately due to the importance of this Project being completed, Council is unable to extend the closing time of this Tender any further."
+        },
+        {
+          "askedAt": "2026-09-14T05:52:00.000Z",
+          "question": "We note proposed PC date of 7th of May, can council confirm if this date is negotiable? Constructing a landfill cell, especially utilising GCL is extremely risky in the wet season, ideally these works would be completed in the drier months.",
+          "answeredAt": "2026-09-14T06:30:00.000Z",
+          "answer": "Council acknowledges the Tenderer's concerns regarding the proposed Practical Completion date and the risks associated with landfill cell construction, particularly GCL installation during the wet season.\n\nTenderers are required to submit a conforming offer based on the Practical Completion date and requirements specified in the Tender Documents.\n\nWhere a Tenderer considers that an alternative construction programme and/or Practical Completion date would provide an improved delivery outcome, this may be submitted as an alternative offer in addition to the required conforming offer.\n\nAny alternative programme will be considered by Council as part of the tender evaluation process. Acceptance of an alternative programme or Practical Completion date is at Council's discretion and should not be assumed for the purposes of the conforming tender."
+        },
+        {
+          "askedAt": "2026-09-15T07:37:00.000Z",
+          "question": "We request a 1-week extension to the tender period as we are still chasing quotes from suppliers, and we will not be ready to submit by the current closing date.",
+          "answeredAt": "2026-09-16T11:34:00.000Z",
+          "answer": "Unfortunately due to the importance of this Project being completed, Council is unable to extend the closing time of this Tender any further."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-31T02:38:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t VP517909 - Bowen Landfill - Construction of Cell 2 - Pricing Schedule V2.xlsx this replaces the previous version and must be returned with Tender Submissions.\n\n2. Added: \t Addendum 01.zip\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-08T07:17:00.000Z",
+          "description": "Please note: Tender Closing Date has been extended to Monday 21 September 2026, 2.00 pm (AEST)"
+        },
+        {
+          "at": "2026-09-11T07:20:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t VP517909 - Addendum 02.pdf\n\n2. Added: \t 250927 merged dtm (for information only).zip\n\n3. Added: \t VP517909 - Bowen Landfill - Construction of Cell 2 - Pricing Schedule V3.xlsx\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T04:00:00.000Z",
+        "to": "2026-09-21T04:00:00.000Z",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "21/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "description",
+        "from": "Whitsunday Regional Council (Principal) is seeking an experienced and qualified Contractor for the construction of a Cell 2 at the Bowen Landfill, 908 Bowen Development Road (Lot 225 SP106414), Bowen,Queensland, 4805. Cell 2 comprises a new engineered landfill cell adjoining the existing operational Cell 1.\n\nThe facility operates under Environmental Authority EPPR00920813.\n\nA non-mandatory Tender briefing is being held Thursday, 20 August 2026 at 12.30 am.\n\nThe Site Briefing will commence at Whitsunday Regional Council's Bowen Administration Building, 67 Herbert Street, Bowen Qld 4805 and then proceed to Site Visit (further information contained in Clause 5 of the Conditions of Tender).\n\nN.B. PPE is a requirement to attend this site, at a minimum Hi-Vis long-sleeved shirt, full length pants and steel cap boots.\n\nPlease confirm your attendance at this meeting via contracts@whitsundayrc.qld.gov.au no later than Midday Wednesday, 19 August 2026.\n\nNote: ...",
+        "to": "Whitsunday Regional Council (Principal) is seeking an experienced and qualified Contractor for the construction of a Cell 2 at the Bowen Landfill, 908 Bowen Development Road (Lot 225 SP106414), Bowen,Queensland, 4805. Cell 2 comprises a new engineered landfill cell adjoining the existing operational Cell 1.\n\nThe facility operates under Environmental Authority EPPR00920813.\n\nA non-mandatory Tender briefing is being held Thursday, 20 August 2026 at 12.30 am.\n\nThe Site Briefing will commence at Whitsunday Regional Council's Bowen Administration Building, 67 Herbert Street, Bowen Qld 4805 and then proceed to Site Visit (further information contained in Clause 5 of the Conditions of Tender).\n\nN.B. PPE is a requirement to attend this site, at a minimum Hi-Vis long-sleeved shirt, full length pants and steel cap boots.\n\nPlease confirm your attendance at this meeting via contracts@whitsundayrc.qld.gov.au no later than Midday Wednesday, 19 August 2026.\n\nNote: if Tenderers wish to attend the Tender Briefing only remotely, please email contracts@whitsundayrc.qld.gov.au with your request to receive a link to attend.\n\nAll communications regarding this Tender are required to go through the VendorPanel Communications Forum.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "7",
+        "at": "2026-09-11T22:04:43.234Z"
+      }
+    ],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "9913f2b0eb554cd2a4405f3a683cc0dc",
     "source": "vendorpanel",
     "reference": "VP522015",
@@ -9755,6 +10406,71 @@
       }
     ],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "9dc0286e1d23402ba1bd9388c4511947",
+    "source": "vendorpanel",
+    "reference": "VP525002",
+    "title": "Development of Fleet Management System Using TechnologyOne Works & Asset Management",
+    "description": "Lithgow City Council invites quotations from suitably qualified vendors to design, configure, and implement a comprehensive Fleet Management System using TechnologyOne’s Works & Asset Management (WAM) modules.\n\nCouncil manages a fleet of approximately 200 vehicles and plant items, including light vehicles, heavy plant, trucks, and specialised operational equipment. The new system must support the full lifecycle of these assets, from procurement and maintenance through to financial reporting and replacement forecasting.\n\nThis RFQ forms part of Council’s Fleet Management Project and aims to establish a modern, integrated, and sustainable fleet management capability.\n\nSee attached file for full details of RFQ.",
+    "buyer": "Lithgow City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-21T07:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-14T05:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9dc0286e1d23402ba1bd9388c4511947s525002se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "180 Mort St\nLithgow, New South Wales 2790\nAustralia",
+      "buyerWebsite": "http://www.lithgow.nsw.gov.au/",
+      "buyerDescription": "Council",
+      "buyerReference": null,
+      "opensAt": "2026-09-13T14:00:00.000Z",
+      "opensAtRaw": "Monday 14 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-21T07:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 21 September 2026 05:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 September 2026 (AUS Eastern Standard Time)",
+      "background": "Project Objectives\n\nCouncil requires a solution that:\n\n•\tEstablishes a complete and accurate Fleet Asset Register within TechnologyOne WAM.\n\n•\tSupports reactive and proactive maintenance, including scheduling, work orders, and cost tracking.\n\n•\tIntegrates procurement workflows for fuel, registration, CTP, external servicing, and other fleet-related expenses.\n\n•\tProvides custodianship tracking for fleet assets.\n\n•\tDelivers robust financial reporting, including asset valuation, lifecycle costing, replacement forecasting, and fuel tax credit reporting.\n\n•\tEnsures high quality data migration, system configuration, and testing.\n\n•\tIncludes training to build internal capability and system ownership.\n\n•\tOffers options for ongoing support and system health management.",
+      "desiredOutcomes": "•\tDetailed project plan with milestones.\n\n•\tData migration strategy and mapping documentation.\n\n•\tConfiguration documentation and system design artefacts.\n\n•\tTesting plans and results.\n\n•\tTraining materials and delivery schedule.\n\n•\tFinal acceptance report.\n\n•\tOptional ongoing support proposal.",
+      "buyerQuestions": [
+        "Describe your experience implementing TechnologyOne Works & Asset Management (WAM), particularly for fleet or plant assets.",
+        "Provide examples of at least three similar projects, including outcomes and client references.",
+        "Outline the qualifications and experience of the key personnel who will deliver this project.",
+        "Describe your proposed methodology for establishing a Fleet Asset Register for approximately 200 fleet assets.",
+        "Confirm your ability to meet Council’s required timeframe and identify any risks that may affect delivery.",
+        "Outline your training plan for fleet staff, custodians, and system administrators.",
+        "Provide examples of fleet-related reports you have previously developed (e.g., fleet cost analysis, replacement forecasting, fuel tax credits).",
+        "Please confirm that your organisation holds current Public Liability Insurance and/or Professional Indemnity Insurance with a minimum coverage of $20 million."
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Central West\n2: Far West\n3: Hunter\n4: Illawarra\n5: Mid-North Coast\n6: Murray\n7: Murrumbidgee\n8: North Western\n9: Northern\n10: Offshore (NSW)\n\n11: Richmond-Tweed\n12: South Eastern\n13: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-14T10:50:00.000Z",
+          "question": "Hi, May I please request clarifications on the below items:\n\n1. Maintenance strategy — scope boundary\n\nSection 3.2 refers to \"development of maintenance schedules, worksheets\n\nand allocation processes.\" Can Council confirm whether this means\n\nconfiguring maintenance regimes Council has already defined, or\n\ndeveloping those regimes as part of this engagement?\n\nSpecifically, does Council currently hold documented service intervals\n\nand task content by asset class (light vehicles, trucks, heavy plant,\n\nspecialised equipment), criticality ratings, and a componentisation and\n\nuseful life schedule for the fleet — or is establishing these within\n\nscope? The distinction materially affects effort and price, and we\n\nwould prefer to price it explicitly rather than carry it as an\n\nassumption.\n\nAlso the tender specifically requests two separate skillsets, the configuration of tech one, and the asset management component (Which falls out of most IT firm capability).\n\nMy firm has deep expertise in the asset management component and experience with various CMMC's, but not directly within TechOne (Although this can be done via user manuals)- Can council advise if it is possible to provide a proposal for the Asset Management section of work only? Or if council would hard-stop a proposal without direct TechOne experience?",
+          "answeredAt": "2026-09-14T21:47:00.000Z",
+          "answer": "Council already maintains vehicle service schedules and maintenance intervals. Our intent is not to develop the maintenance regimes themselves, but rather to configure these schedules within TechnologyOne so that the system can automatically generate maintenance notifications, work orders, and related workflows. We also expect the successful respondent to configure checklist-style maintenance activities that can be completed through the TechnologyOne mobile inspection module.\n\nWe recognise that the requirement for TechnologyOne Works & Asset Management experience may reduce the number of potential respondents. However, the use of TechnologyOne is a mandatory project requirement, as Council already holds the relevant licensing and is seeking to maximise the value of its existing investment while avoiding the ongoing licensing costs associated with introducing an alternative platform."
+        },
+        {
+          "askedAt": "2026-09-15T01:39:00.000Z",
+          "question": "Is it possible to have a week extension. There is considerable collation of information required and the existing one-week timeline does not allow a thoughtful response.",
+          "answeredAt": "2026-09-15T02:05:00.000Z",
+          "answer": "Unfortunately an extension is not possible. We do understand that this is an extremely tight time frame."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-14T22:50:02.192Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
     "id": "9e14b7cab94d4f6aa92507094b63fcde",
@@ -12521,6 +13237,68 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "c2a042b17bb74de9ac11c1ea604be233",
+    "source": "vendorpanel",
+    "reference": "VP523340",
+    "title": "BSC 26/27 - T15 - Bitumen Sealing for 2026-27 Reseal program Noondoo Mungindi Road",
+    "description": "Balonne Shire Council invites tenders from suitably qualified tenderers for the Bitumen Sealing for 2026-27 Reseal Program – Noondoo Mungindi Road.\n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
+    "buyer": "Balonne Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T04:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-31T21:57:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c2a042b17bb74de9ac11c1ea604be233s523340sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerAddress": "Grey St\nSt George, Queensland 4487\nAustralia",
+      "buyerWebsite": "http://www.balonne.qld.gov.au",
+      "buyerDescription": "The Balonne Shire is located in Queensland on the New South Wales border some 500 kilometres\nfrom the east coast of Australia and has an area of 31,119m2. A region of surprising diversity and\nunique attractions, the Balonne Shire is rich in native bird and animal life, wide open spaces, beautiful\nwaterways, and many historic buildings.",
+      "buyerReference": null,
+      "opensAt": "2026-08-31T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 01 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-14T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 14 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Darling Downs\n3: South West"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-03T21:23:00.000Z",
+          "question": "Hi,\n\nWill this job be able to be completed at the same time as BSC 26/27 - T15 - Bitumen Sealing for 2026-27 Reseal program Noondoo Mungindi Road.\n\nCan you please advise if there are any stockpile sites close to the works for aggregates.\n\ncan you please indicate on a map where the job is located.\n\nThanks,",
+          "answeredAt": "2026-09-04T01:57:00.000Z",
+          "answer": "Yes, the works can be completed in succession. However, the sites are intended to be delivered and completed over a period of approximately two months, as various preparatory works must be undertaken prior to the sealing operations commencing at each location.\n\nContractors may price the works as a package to achieve the most suitable rate; however, separate mobilisation dates should be allowed for within the pricing.\n\nStockpile sites will be made available in proximity to the work locations to assist with aggregate supply and logistics"
+        },
+        {
+          "askedAt": "2026-09-03T21:29:00.000Z",
+          "question": "Hi,\n\nWill this job be able to be completed at the same time as BSC 26/27 - T14 - Bitumen Sealing for 2026-27 Reseal program - Hebel Goodooga Road",
+          "answeredAt": "2026-09-04T01:59:00.000Z",
+          "answer": "Yes, the works can be completed in succession. However, the sites are intended to be delivered and completed over a period of approximately two months, as various preparatory works must be undertaken prior to the sealing operations commencing at each location.\n\nContractors may price the works as a package to achieve the most suitable rate; however, separate mobilisation dates should be allowed for within the pricing.\n\nStockpile sites will be made available in proximity to the work locations to assist with aggregate supply and logistics"
+        },
+        {
+          "askedAt": "2026-09-04T00:36:00.000Z",
+          "question": "Hi,\n\nCan Council please provide indicative seal design to base pricing on, until such time that the necessary testing can be done to be able to confirm design.\n\nThanks,",
+          "answeredAt": "2026-09-04T02:01:00.000Z",
+          "answer": "Yes, the works can be completed in succession. However, the sites are intended to be delivered and completed over a period of approximately two months, as various preparatory works must be undertaken prior to the sealing operations commencing at each location.\n\nContractors may price the works as a package to achieve the most suitable rate; however, separate mobilisation dates should be allowed for within the pricing.\n\nStockpile sites will be made available in proximity to the work locations to assist with aggregate supply and logistics"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "c37c7f414ee94297a62f2523786af60b",
     "source": "vendorpanel",
     "reference": "VP519174",
@@ -13736,6 +14514,143 @@
     "archivedAt": "2026-09-09T22:04:31.613Z"
   },
   {
+    "id": "d62fd77d3ac94df3a9b585a57f7282a1",
+    "source": "vendorpanel",
+    "reference": "VP522807",
+    "title": "RFT000040 Description: Electronic Document and Records Management System (EDRMS)",
+    "description": "The Principal is seeking to procure an Electronic Document and Records Management System (EDRMS) solution and associated implementation services. The scope includes solution design, configuration, implementation, training, support, and migration of records and metadata from legacy systems, including TechnologyOne ECM and Objective. The procurement is vendor agnostic and is intended to identify the solution and delivery partner best able to support compliant, secure and sustainable records management across the Port’s Microsoft 365 and SharePoint environment.",
+    "buyer": "Port of Townsville Limited",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T00:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-26T22:10:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=d62fd77d3ac94df3a9b585a57f7282a1s522807se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "1 Benwell Rd\nSouth Townsville, Queensland 4810\nAustralia",
+      "buyerWebsite": "https://www.townsville-port.com.au/",
+      "buyerDescription": "The Port of Townsville is Northern Australia’s largest container and automotive port, and the country's leading exporter of copper, zinc, lead, sugar, fertiliser and molasses. Located in the heart of Northern Australia's largest city, the Port handles more than 30 diverse commodities and is a strategic defence and cruise port.",
+      "buyerReference": "RFT00040",
+      "opensAt": "2026-08-26T14:00:00.000Z",
+      "opensAtRaw": "Thursday 27 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-17T00:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 17 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-04T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 05 October 2026 (E. Australia Standard Time)",
+      "background": "The Port’s current records management environment includes records held across TechnologyOne ECM, Objective, SharePoint, shared drives, OneDrive, Outlook and other business systems. The current environment presents risks relating to over-retention, inconsistent metadata, unclear information architecture, legacy access models, limited lifecycle management, and reduced ability to meet legislative and compliance obligations. The intended decommissioning of legacy platforms requires a structured approach to select and implement an EDRMS with capability to migrate records and metadata in a controlled manner. The successful Supplier will assist the Principal to establish the required records architecture, minimum metadata requirements, security model, migration approach, implementation plan and operating model for the new solution.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: Canberra",
+        "New South Wales\n1: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Far North\n3: Northern",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-27T20:51:00.000Z",
+          "question": "Software/Technology escrow\n\nGreetings,\n\nWe are a software escrow services provider.\n\nSoftware escrow helps manage the risk around implemented solutions (including in-development, bespoke applications and technologies, databases and interfaces) and the Supplier of those services. Whether the delivered solution is a standalone app or a SaaS deployment, the Licensee/User wants to know it has access to the application source code, and the relevant interfaces going forward. Software escrow helps to mitigate those risks.\n\nAs the documentation is silent on whether there will be a requirement for, or consideration of software escrow services, could you, if appropriate, let me know the following, …\n\n1.\nHas software escrow been considered as a risk mitigation strategy for this solution?\n\n2.\nIf it has, has it been discarded?\n\n3.\nIf software escrow is required, how will you go about selecting your software escrow agent, given the cost of software escrow services is typically modest?\n\nKind regards, Software Escrow Guardians",
+          "answeredAt": "2026-08-28T01:10:00.000Z",
+          "answer": "Thanks for your enquiry, we aren’t considering any escrow services as part of this tender.”"
+        },
+        {
+          "askedAt": "2026-08-28T05:35:00.000Z",
+          "question": "Good afternoon\n\nWe have reviewed the requirements and would like to know if you are interested in receiving guidance or advice from a vendor-independent Information Management Consulting practice. We specialise in providing record-keeping, information privacy, and information Security advice, and this often involves developing information architectures, security access models, and conducting in-depth assessments of systems and vendors.\n\nWe have delivered pre- and Post M365 Assessments including M365 Governance, selection of Third Party v Native controls, to ensure the M365 environment is aligned to legislative requirements.\n\nIn our experience, many MS Providers have the technical ability to deliver what you need. However, they often lack appropriate Information management knowledge, especially in a regulated environment.\n\nWe acknowledge your location, but for guidance, we would refer you to the NSW State Records and the Public Records Office of Victoria Guidelines on M365. These documents are similar because they are authored by the same person, but they can be helpful.\n\nAs we are a vendor-independent company, we would be pleased to have a discussion if this is felt helpful.\n\nRegards\n\nMark",
+          "answeredAt": "2026-08-30T22:51:00.000Z",
+          "answer": "thanks for your query. We already have this capability in house and, as such, are only seeking services within the defined scope of the EDRMS procurement at this time."
+        },
+        {
+          "askedAt": "2026-08-29T06:31:00.000Z",
+          "question": "I have several questions please if that is OK.\n\nQ1: In Schedule 1 - Scope of Work Page 9 Section 17 Relevant Documents it states:\n\n\"The following documents are incorporated by reference into this Scope:\n\nThe Supplier must consider the following documents and requirements when preparing its response\n\nand delivering the services:\n\n• Business case and supporting context for the EDRMS and records migration project.\"\n\nWill the document \"Business case and supporting context for the EDRMS and records migration project.\" be provided.\n\nQ2. How many users of the system will there be, and how many staff employed in the Port of Townsville? Given that capture is intended for email and other M365 apps will all users be required to interact either actively or passively with the EDRMS?\n\nQ3. Does the Port of Townsville have a preference for on-premise, private cloud or public cloud deployment of the EDRMS solution?\n\nQ4. If the preference is for On-premise or private cloud, will Port of Townsville be acquiring hardware or added private cloud capacity itself according to EDRMS vendore recommendations?\n\nQ5. If the preference is for Public Cloud, are you looking for a full Platform as a Service (PaaS) offering?\n\nQ6. Are there workflows developed already for business activities and are you looking for automation capabilities in the new EDRMS solution?\n\nQ7. Do you have a need for Intelligent Document Processing (IDP) capability to capture information from port activities and submitted paperwork etc?\n\nThanks for any clarifications you can provide.\n\nRegards\n\nJohn",
+          "answeredAt": "2026-08-30T23:59:00.000Z",
+          "answer": "Q1 Yes, and this will be supplied to all respondents as an additional tender doc in the next few days.\n\nQ2. The Port has approximately 185 staff. Our preference is for most staff to interact with the EDRMS passively through Microsoft 365 integration, with more active use by records administrators and nominated users.\n\n3.Our preference is for a vendor hosted, fully managed public cloud solution.\n\n4. na\n\n5.The supplier would be responsible for the application, infrastructure, maintenance, patching, upgrades, and availability.\n\n6.The Port has existing processes and workflows at different levels of maturity. Workflow implementation is desired, but initial use will be defined by cost (if any).\n\n7.IDP is not a mandatory requirement, however, would be highly regarded."
+        },
+        {
+          "askedAt": "2026-09-02T06:58:00.000Z",
+          "question": "Please confirm the insurance requirements applicable to this procurement. We have noticed discrepancies between those outlined in Schedule 2 and those in the Draft Contract.",
+          "answeredAt": "2026-09-02T21:35:00.000Z",
+          "answer": "Please ignore those listed in the draft contract, this is just a generic example template and will be amended to suit the outcome."
+        },
+        {
+          "askedAt": "2026-09-02T07:13:00.000Z",
+          "question": "Please confirm the correct RFT/Contract reference number for this procurement. We have noticed a discrepancy between that listed in the Draft Contract and RFT and that in Schedule 1.",
+          "answeredAt": "2026-09-02T21:47:00.000Z",
+          "answer": "RFT000040 is the correct number -Schedule 1 has been amended to reflect."
+        },
+        {
+          "askedAt": "2026-09-04T03:55:00.000Z",
+          "question": "To accurately estimate the effort, resources, and costs associated with the implementation of the proposed EDRMS solution, in particular the data migration element, we request clarification on the following technical matters. This information will help ensure our response is both comprehensive and reflective of the actual project scope.\n\n1.\tWhat versions of TechnologyOne ECM (T1) and Objective are currently implemented?\n\n2.\tIs the PoT (Port of Townsville) operating standard vendor supported deployments, or have there been any significant customisations or bespoke extensions?\n\n3.\tAre the systems currently under active vendor support and maintenance agreements?\n\n4.\tWill the PoT maintain vendor support agreements throughout the migration period and for an agreed post-migration warranty period?\n\n5.\tWill the successful supplier be granted read access to the source repositories for migration and analysis purposes?\n\n6.\tCan the PoT confirm whether T1 and Objective vendors have agreed to support extraction activities if required?\n\n7.\tHave either vendor identified any restrictions relating to access, extraction, APIs, licensing or database connectivity?\n\n8.\tAre APIs available for both T1 and Objective? (Note: Our experience indicates that some versions of T1 do not support APIs, and Objective may require an API keys)\n\n9.\tIf APIs are available, can the PoT provide API documentation?\n\n10.\tAre vendor-supplied export utilities available for either platform?\n\n11.\tCan the PoT provide an indication of the number of metadata indexes, custom fields or metadata profiles configured within T1?\n\n12.\tCan the PoT provide an indication of the number of metadata indexes, classifications or schemas configured within Objective?\n\n13.\tAre QAPs, retention schedules, disposal classes and business classification schemes currently managed within T1, Objective, both systems, or externally? The tender notes that QAPs, security groups, indexes and aggregation structures may need to be replicated, transformed or retired.\n\n14.\tIs event history, audit history and record activity history expected to be migrated?\n\n15.\tDoes the current T1 implementation manage physical records, files, cartons or hybrid records? (Note: Our experience indicates that not all versions used to have an RM component and it was managed by indexes)\n\n16.\tIf yes, approximately how many physical record entities and associated metadata records exist?\n\n17.\tCan you provide the number of records currently held within Objective?\n\n18.\tCan you provide the number of document versions held within Objective.\n\n19.\tCan you provide the average and maximum document sizes within each repository.\n\n20.\tEstimated number of records containing unsupported, legacy or proprietary file formats.",
+          "answeredAt": "2026-09-10T03:51:00.000Z",
+          "answer": "1. What versions of TechnologyOne ECM (T1) and Objective are currently implemented?\n\nTechnologyOne ECM is currently operating on version 2022A. The Objective version is 8.1. Both systems are hosted on-premises, with application files and databases residing on Port-managed server infrastructure.\n\n2. Is the Port operating standard vendor-supported deployments, or have there been any significant customisations or bespoke extensions?\n\nBoth systems are predominantly standard implementations. Some configuration changes and customisations have been applied over time to support business requirements; however, these are not considered extensive bespoke developments.\n\n3. Are the systems currently under active vendor support and maintenance agreements?\n\nTechnologyOne ECM is currently supported through a third-party support arrangement rather than directly by TechnologyOne. Objective is not currently covered by an active support or maintenance agreement.\n\n4. Will the Port maintain vendor support agreements throughout the migration period and for an agreed post-migration warranty period?\n\nTechnologyOne ECM support arrangements are expected to remain in place throughout the migration period. As Objective is not currently under support, no vendor support arrangement is planned for that platform during the migration.\n\n5. Will the successful supplier be granted read access to the source repositories for migration and analysis purposes?\n\nYes. Subject to standard security, confidentiality and access approval processes.\n\n6. Can the Port confirm whether T1 and Objective vendors have agreed to support extraction activities if required?\n\nNeither vendor has been formally approached regarding extraction support at this stage. Given the age of the implementations, particularly Objective, vendor involvement may be limited. Tenderers should assume migration activities will need to be planned based on the information and access available to the Port at the time of implementation.\n\n7. Have either vendor identified any restrictions relating to access, extraction, APIs, licensing or database connectivity?\n\nNo restrictions have been identified by the Port to date.\n\n8. Are APIs available for both T1 and Objective?\n\nThis has not yet been confirmed.\n\n9. If APIs are available, can the Port provide API documentation?\n\nAPI documentation is not currently available. Any documentation identified by the Port during ongoing discovery activities will be made available to the successful supplier where possible.\n\n10. Are vendor-supplied export utilities available for either platform?\n\nThis has not yet been confirmed. Tenderers should assume export methods and tooling will require assessment during migration planning and implementation.\n\n11. Can the Port provide an indication of the number of metadata indexes, custom fields or metadata profiles configured within T1?\n\nsee attachment\n\nRefer to the metadata inventory spreadsheet provided with the clarification response. The inventory represents the Port's current understanding of the environment and will continue to be refined through ongoing discovery activities.\n\n12. Can the Port provide an indication of the number of metadata indexes, classifications or schemas configured within Objective?\n\nRefer to the metadata inventory spreadsheet provided with the clarification response. The inventory represents the Port's current understanding of the environment and will continue to be refined through ongoing discovery activities.\n\n13. Are QAPs, retention schedules, disposal classes and business classification schemes currently managed within T1, Objective, both systems, or externally?\n\nNo\n\n14. Is event history, audit history and record activity history expected to be migrated?\n\nYes.\n\n15. Does the current T1 implementation manage physical records, files, cartons or hybrid records?\n\nNo\n\n16. If yes, approximately how many physical record entities and associated metadata records exist?\n\nN/A\n\n17. Can you provide the number of records currently held within Objective?\n\nObjective currently contains approximately 918,778 records.\n\n18. Can you provide the number of document versions held within Objective?\n\nNo\n\n19. Can you provide the average and maximum document sizes within each repository?\n\nNo\n\n20. Estimated number of records containing unsupported, legacy or proprietary file formats.\n\nThis information is currently unknown.\n\nThe Port has not yet completed a comprehensive file format assessment. Tenderers should assume that unsupported, legacy and proprietary file formats may exist given the age and diversity of the source repositories. Assessment of file formats, migration compatibility and remediation requirements should be considered as part of the migration planning approach."
+        },
+        {
+          "askedAt": "2026-09-07T05:35:00.000Z",
+          "question": "We are currently preparing our response and would like to request consideration of an extension to the tender closing date by an additional 2 weeks.\n\nThis request is based on two factors:\n\n1. The Business case and supporting context for the EDRMS and records migration project, referenced in the tender documentation has not yet been provided, and we understand this document is intended to form part of the information available to respondents.\n\n2. There are a number of clarification questions currently awaiting responses, which may materially influence our proposed approach and pricing.\n\nTo ensure all respondents have adequate time to review the outstanding information and prepare a comprehensive and informed submission, we respectfully request that the closing date be extended.",
+          "answeredAt": "2026-09-10T04:27:00.000Z",
+          "answer": "Business case uploaded"
+        },
+        {
+          "askedAt": "2026-09-09T03:09:00.000Z",
+          "question": "We would like to request an extension of the RFT submission deadline to 30 September please. Thank you for your consideration.",
+          "answeredAt": "2026-09-10T04:00:00.000Z",
+          "answer": "The Port is not in a position to extend the deadline at this point."
+        },
+        {
+          "askedAt": "2026-09-09T03:12:00.000Z",
+          "question": "Section 8 of the RFT specifies that Schedules 2 and 3 are to be completed and returned. Could you please confirm whether the editable Schedules 5 and 6 included in the RFT package are also required to be submitted?",
+          "answeredAt": "2026-09-09T04:20:00.000Z",
+          "answer": "Yes, Schedules 2,3,5 and 6 must be completed and returned"
+        },
+        {
+          "askedAt": "2026-09-10T04:19:00.000Z",
+          "question": "Can you provide estimates of system users broken down by:\n\n- Dedicated users (will use the system the majority of working days)\n\n- Occasional users\n\n- User who will only consume content and never edit",
+          "answeredAt": "2026-09-14T05:45:00.000Z",
+          "answer": "Approx numbers will be\n\n100 Dedicated users (will use the system the majority of working days)\n\n50 Occasional users\n\n35 User who will only consume content and never edit”"
+        },
+        {
+          "askedAt": "2026-09-10T06:24:00.000Z",
+          "question": "Based on provided Project BIRD Business Case, can you please confirm that the expectation is to have the TechOne data migration (~3TB / +1 million documents) completed by 30 January 2027, so that the software can be decommissioned? If so, is this motivated by licensing / product support ending?",
+          "answeredAt": "2026-09-14T05:44:00.000Z",
+          "answer": "“The aim is to complete the migration and decommission TechOne by 30 January 2027. The product is no longer supported, so if that date is unachievable the Port will take mitigating measures.”"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-02T21:48:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t VP522807_Schedule 1-EDRMS Procurement - Scope of Work v2.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-10T03:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) EDRMS supplier query data for review.xlsx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-10T04:21:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Project_BIRD_Business_Case_Extract_EDRMS_Tenderer_Release.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "9",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "d66d6726911741758b292fdcf79e613a",
     "source": "vendorpanel",
     "reference": "VP521547",
@@ -14509,6 +15424,93 @@
     "archivedAt": "2026-09-09T05:00:09.608Z"
   },
   {
+    "id": "e3dcb85dd98e49e9a35e2de5a0fd3e0a",
+    "source": "vendorpanel",
+    "reference": "VP522544",
+    "title": "2026.069 - Development of a Laratinga Trails and Boardwalks Masterplan",
+    "description": "Laratinga Wetland is a highly popular and well used community and environmental asset with over 8,000 people accessing the wetland via its trails each week. To ensure access to the wetland is safe, equitable and maximises community and environmental outcomes, a review of the trails and boardwalk infrastructure is proposed. To help with this task, the Mount Barker District Council (“Council”) is seeking to engage a suitably qualified consultant to review existing Laratinga wetland trails and boardwalk layout and infrastructure, associated access issues and opportunities and to develop a master plan to inform future development upgrades and renewals.\n\nThe existing Laratinga trail network and boardwalks was constructed when the wetlands were first developed in the late 1990’s. The boardwalks are now at end of life, with one section having been closed to public access for over 2 years. The boardwalks consist of 1 main section that crosses basin 3 and includes a viewing platform and 2 smaller sections in basins 1 and 2 (see Attachment 1 - Laratinga Wetlands Trails map).\n\nCouncil has conducted a condition audit and commissioned a quote to replace the existing structures as they were originally designed but upgraded to comply with current standards. The quote to do this came in at close to $2M which prompted the need for a cost benefit analysis to ensure community funds are invested appropriately and community benefit is maximised.\n\nIn addition, the water regime in the wetland is changing to an ephemeral system, as part of a major upgrade to the Mount Barker Wastewater Treatment Plant. As well as broader management implications, this change will require lagoons to be dewatered for a period which would enable work on boardwalks and other infrastructure to occur, and before the ephemeral system is implemented. This is currently scheduled for 2028.\n\nTherefore, before proceeding, it has been determined that a review of the layout and design of the whole Laratinga trail network and user needs should occur to ensure whatever is implemented is fit for purpose and identifies appropriate community use, access and safety as well as achieving environmental objectives, including the needs of birdlife and other fauna.\n\nAny queries are to be submitted via VendorPanel and a response will be provided in the same manner.",
+    "buyer": "Mount Barker District Council",
+    "buyerType": "council",
+    "state": "SA",
+    "categories": [
+      "Architecture, Design, Planning"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T07:30:00.000Z",
+    "closingAtRaw": "21/Sep/2026 05:00 PM (UTC+09:30) Adelaide time",
+    "publishedAt": "2026-08-24T06:58:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e3dcb85dd98e49e9a35e2de5a0fd3e0as522544s4d7945fe3b9f4b55a77b46e57c87863fs1544",
+    "vendorPanelDetails": {
+      "buyerAddress": "6 Dutton Rd\nMount Barker, South Australia 5251\nAustralia",
+      "buyerWebsite": "https://www.mountbarker.sa.gov.au/",
+      "buyerDescription": "The Mount Barker District Council is characterised by picturesque countryside, bustling townships and sleepy hamlets. Situated in the Mount Lofty Ranges and only 30 minutes away from the capital of South Australia, Adelaide. The Mount Barker District Council is one of the fastest growing councils in Australia offering outstanding lifestyle and business opportunities within a diverse and progressive community.",
+      "buyerReference": null,
+      "opensAt": "2026-08-23T14:00:00.000Z",
+      "opensAtRaw": "Monday 24 August 2026 (Cen. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-21T07:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 21 September 2026 05:00 PM (Cen. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (Cen. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "South Australia\n1: Adelaide\n2: Murray Lands\n3: Outer Adelaide"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-08T04:07:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 2026.069 - Development of a Laratinga Trails and Boardwalks Masterplan - Addendum to RFQ.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-10T06:29:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 2026.069 - Development of a Laratinga Trails and Boardwalks Masterplan - Addendum # 2 to RFQ.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-11T00:42:00.000Z",
+          "description": "Please be advised that the date for tender submissions has been extended to 5:00pm (ACST) on Monday 21 September 2026 to allow Consultants to consider the information in the Addendum # 2 uploaded yesterday.\n\nKind regards"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "description",
+        "from": "Laratinga Wetland is a highly popular and well used community and environmental asset with over 8,000 people accessing the wetland via its trails each week. To ensure access to the wetland is safe, equitable and maximises community and environmental outcomes, a review of the trails and boardwalk infrastructure is proposed. To help with this task, the Mount Barker District Council (“Council”) is seeking to engage a suitably qualified consultant to review existing Laratinga wetland trails and boardwalk layout and infrastructure, associated access issues and opportunities and to develop a master plan to inform future development upgrades and renewals.\n\nThe existing Laratinga trail network and boardwalks was constructed when the wetlands were first developed in the late 1990’s. The boardwalks are now at end of life, with one section having been closed to public access for over 2 years. The boardwalks consist of 1 main section that crosses basin 3 and includes a viewing platform and 2 smaller sections in...",
+        "to": "Laratinga Wetland is a highly popular and well used community and environmental asset with over 8,000 people accessing the wetland via its trails each week. To ensure access to the wetland is safe, equitable and maximises community and environmental outcomes, a review of the trails and boardwalk infrastructure is proposed. To help with this task, the Mount Barker District Council (“Council”) is seeking to engage a suitably qualified consultant to review existing Laratinga wetland trails and boardwalk layout and infrastructure, associated access issues and opportunities and to develop a master plan to inform future development upgrades and renewals.\n\nThe existing Laratinga trail network and boardwalks was constructed when the wetlands were first developed in the late 1990’s. The boardwalks are now at end of life, with one section having been closed to public access for over 2 years. The boardwalks consist of 1 main section that crosses basin 3 and includes a viewing platform and 2 smaller sections in basins 1 and 2 (see Attachment 1 - Laratinga Wetlands Trails map).\n\nCouncil has conducted a condition audit and commissioned a quote to replace the existing structures as they were originally designed but upgraded to comply with current standards. The quote to do this came in at close to $2M which prompted the need for a cost benefit analysis to ensure community funds are invested appropriately and community benefit is maximised.\n\nIn addition, the water regime in the wetland is changing to an ephemeral system, as part of a major upgrade to the Mount Barker Wastewater Treatment Plant. As well as broader management implications, this change will require lagoons to be dewatered for a period which would enable work on boardwalks and other infrastructure to occur, and before the ephemeral system is implemented. This is currently scheduled for 2028.\n\nTherefore, before proceeding, it has been determined that a review of the layout and design of the whole Laratinga trail network and user needs should occur to ensure whatever is implemented is fit for purpose and identifies appropriate community use, access and safety as well as achieving environmental objectives, including the needs of birdlife and other fauna.\n\nAny queries are to be submitted via VendorPanel and a response will be provided in the same manner.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-14T07:30:00.000Z",
+        "to": "2026-09-21T07:30:00.000Z",
+        "at": "2026-09-11T22:04:43.234Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "14/Sep/2026 05:00 PM (UTC+09:30) Adelaide time",
+        "to": "21/Sep/2026 05:00 PM (UTC+09:30) Adelaide time",
+        "at": "2026-09-11T22:04:43.234Z"
+      }
+    ],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
+  },
+  {
     "id": "e3f9c34852f74656a65885da09b691a8",
     "source": "vendorpanel",
     "reference": "VP522824",
@@ -14792,6 +15794,79 @@
       }
     ],
     "archivedAt": "2026-09-18T22:00:51.010Z"
+  },
+  {
+    "id": "e95d3af160454ab79d3e57eb82618e39",
+    "source": "vendorpanel",
+    "reference": "VP520746",
+    "title": "CCW000418 - Tully Water Main Renewals (Bamber, Kirk, Dowzer, Bryant Streets)",
+    "description": "CCW000418 - Tully Water Main Renewals (Bamber, Kirk, Dowzer, Bryant Streets)",
+    "buyer": "Cassowary Coast Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-21T07:00:00.000Z",
+    "closingAtRaw": "21/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-11T22:33:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e95d3af160454ab79d3e57eb82618e39s520746s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "2 Clare St\nInnisfail, Queensland 4860\nAustralia",
+      "buyerWebsite": "http://www.localbuy.net.au/",
+      "buyerDescription": "Cassowary Coast Regional Council",
+      "buyerReference": "CCW000418",
+      "opensAt": "2026-08-11T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 12 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-19T07:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 19 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-18T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 19 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-27T00:30:00.000Z",
+          "question": "Hi Cassowary Coast RC\n\nGulf Civil requests a 1-week EOT.",
+          "answeredAt": "2026-09-01T21:48:00.000Z",
+          "answer": "Good morning,\n\nWe have extended the tender submission date for (VP520746) CCW000418 - Tully Water Main Renewals (Bamber, Kirk, Dowzer, Bryant Streets).\n\nTender now closes on Monday 21st September 2026, 5:00pm.\n\nKind Regards"
+        },
+        {
+          "askedAt": "2026-08-31T05:17:00.000Z",
+          "question": "Hi,\n\nDue to suppliers and subcontractor quotation supply delay and other commitments at the same time, can council please consider at least 2 weeks EOT to make competitive tender submission?\n\nWe appreciate your consideration and look forward to your confirmation.\n\nThank You.",
+          "answeredAt": "2026-09-01T21:48:00.000Z",
+          "answer": "Good morning,\n\nWe have extended the tender submission date for (VP520746) CCW000418 - Tully Water Main Renewals (Bamber, Kirk, Dowzer, Bryant Streets).\n\nTender now closes on Monday 21st September 2026, 5:00pm.\n\nKind Regards"
+        },
+        {
+          "askedAt": "2026-08-31T12:09:00.000Z",
+          "question": "Hi,\n\nCould Council please confirm whether excavated spoil generated from the works can be disposed of at Council’s nominated tip facility free of charge to the Contractor?\n\nIf so, please advise any applicable acceptance criteria, conditions, or disposal limits.\n\nThank You.",
+          "answeredAt": "2026-09-04T01:08:00.000Z",
+          "answer": "Hi Sagar,\n\nAny clean excavated material will be accepted at Council’s Sewage Treatment Plant located in Tully at no cost to the Contractor. The Tully landfill is not an acceptable disposal location. The Contractor must have a secondary location available if the Primary location ie Tully STP is not able to accept this material.\n\nAny contaminated material will not be accepted at the Tully STP. A suitable location must be utilised for disposal of contaminated material.\n\nKind Regards"
+        },
+        {
+          "askedAt": "2026-09-08T06:26:00.000Z",
+          "question": "Are we to assume that the new pipework from Detail G to the existing valve that feeds the nursing home will be 150mm DICL with Type M backfill rather than mPVC - pn16 that is indicated on drawing 4589-DWG-CIV-1016. Also is it assumed that this pipework is included in Item 4.11 or must it be listed separately.",
+          "answeredAt": "2026-09-10T23:12:00.000Z",
+          "answer": "Hi Shawn,\n\nThe pipework from Connection Detail G to the Nursing Home, crossing Bryant Street, is to be DN150 DICL PN35, with Type M-1_CCRC embedment.\n\nKind Regards"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-01T21:47:00.000Z",
+          "description": "Good morning,\n\nWe have extended the tender submission date for (VP520746) CCW000418 - Tully Water Main Renewals (Bamber, Kirk, Dowzer, Bryant Streets).\n\nTender now closes on Monday 21st September 2026, 5:00pm.\n\nKind Regards"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
     "id": "eb1a0c6215524effa7da752cdf0262aa",
