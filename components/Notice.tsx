@@ -1,1 +1,9 @@
-export default function Notice(){return <p className="disclaimer">Data is gathered from public feeds published by AusTender and VendorPanel. There may be a delay between information changing at the source and appearing here. Always check the source record before relying on it.</p>}
+export default function Notice() {
+  return (
+    <p className="disclaimer">
+      Data is gathered from public feeds published by AusTender and VendorPanel. There may be a
+      delay between information changing at the source and appearing here. Always check the source
+      record before relying on it.
+    </p>
+  );
+}
