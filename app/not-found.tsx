@@ -1,1 +1,10 @@
-import Link from 'next/link';export default function NotFound(){return <div className="empty"><h1>Notice not found</h1><p>This record may be outside the 12-month archive.</p><Link href="/">Browse current tenders →</Link></div>}
+import Link from 'next/link';
+export default function NotFound() {
+  return (
+    <div className="empty">
+      <h1>Notice not found</h1>
+      <p>This record may be outside the 12-month archive.</p>
+      <Link href="/">Browse current tenders →</Link>
+    </div>
+  );
+}
