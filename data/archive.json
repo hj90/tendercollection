@@ -3397,6 +3397,277 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "04ef51abf11947fc99fa3be7c74f5f82",
+    "source": "vendorpanel",
+    "reference": "VP522957",
+    "title": "C26030 - Albany Airport - Runway Upgrade and Overlay - Superintendent Services",
+    "description": "Please refer to the Request for Tender Documentation and Associated attachments",
+    "buyer": "City of Albany",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Aircraft & Aviation Services",
+      "Business & Administrative Services",
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-23T02:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 10:00 AM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-26T21:00:00.000Z",
+    "contact": {
+      "raw": "David Crosby Email: david.crosby@albany.wa.gov.au Tel: 0868203173",
+      "name": "David Crosby",
+      "email": "david.crosby@albany.wa.gov.au",
+      "phone": "0868203173"
+    },
+    "documentCount": 11,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=04ef51abf11947fc99fa3be7c74f5f82s522957",
+    "vendorPanelDetails": {
+      "buyerAddress": "102 North Rd\nYakamia, Western Australia 6330\nAustralia",
+      "buyerWebsite": "http://www.albany.wa.gov.au",
+      "buyerDescription": "City of Albany",
+      "buyerReference": "C26030",
+      "opensAt": "2026-08-26T16:00:00.000Z",
+      "opensAtRaw": "Thursday 27 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 10:00 AM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-20T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 21 October 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney",
+        "Queensland\n1: Brisbane",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Lower Great Southern\n2: Midlands\n3: Perth\n4: South Eastern\n5: South West\n6: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-02T01:07:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26030_Addendum - 1.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-03T23:16:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t C26030_Addendum - 2.pdf\n\n2. Added: \t Attachment C - AS 4122-2010 Annexure A B C - Updated.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-14T22:54:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26030_Addendum - 3.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-16T06:14:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26030_Addendum - 4.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "10",
+        "at": "2026-09-15T22:30:52.819Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "11",
+        "at": "2026-09-16T22:27:38.012Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
+    "id": "062693c6a6a44a8497024d274dd08526",
+    "source": "vendorpanel",
+    "reference": "VP522986",
+    "title": "RFT 2659 Waverley Council Road & Footpath Restoration Contractors Panel",
+    "description": "RFT 2659 Waverley Council Road & Footpath Restoration Contractors Panel\n\nPlease refer to all RFT documents attached on VendorPanel.\n\nCouncil is seeking submissions from appropriately qualified and experienced Respondents for Minor Civil Works Suppliers to be part of Waverley Council’s Footpath and Road Restoration Panel.\n\nA more detailed brief of the extent of Council's requirement is set out in Volume 2 – Specification.",
+    "buyer": "Waverley Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation",
+      "Furniture & Furnishings",
+      "Signs & Barriers",
+      "Transport, Freight, Logistics"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-23T07:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-27T23:04:00.000Z",
+    "contact": null,
+    "documentCount": 13,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=062693c6a6a44a8497024d274dd08526s522986",
+    "vendorPanelDetails": {
+      "buyerAddress": "16 Spring St\nBondi Junction, New South Wales 2022\nAustralia",
+      "buyerWebsite": "http://www.waverley.nsw.gov.au",
+      "buyerDescription": "Waverley Council is made up of twelve councillors elected by the ratepayers and residents of Waverley for a four-year term. The last Local Government election was held in September 2008. Councillors are elected by Ward (a geographical area). Waverley has four Wards. Three of these wards (Bondi, Waverley and Nelson [now Hunter Ward]) were established in 1860, with Lawson Ward being created in 1867.\n\nWaverley Council has a strong commitment to circularity and\npositive environmental and social outcomes. Through its\nprocurement processes, Council aims to purchase products and services that advance positive environmental and social impact, eliminate waste and pollution, circulate products and materials (at their highest value), and regenerate nature on these, in line with the principles of ISO 20400:2017 – Sustainable Procurement– Guidance and circular economy principles",
+      "buyerReference": "RFT 2659",
+      "opensAt": "2026-08-27T14:00:00.000Z",
+      "opensAtRaw": "Friday 28 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-16T07:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 05:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-12-21T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 22 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-30T22:27:00.000Z",
+          "question": "Is a tender briefing scheduled for this tender? Thank you.",
+          "answeredAt": "2026-08-31T03:02:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nThere is no tender briefing for this tender.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-03T21:57:00.000Z",
+          "question": "Hi,\n\nWith regard to pay items AW-RD1 Road - on Road Base and AW-RD-2 Road - on Concrete Base in Asphalt Works, can Council please confirm if all pavement layers per drawing R8 are to be restored including Stabilised Sand and DGB20 layers? If not please confirm which pavement layers are to be restored.\n\nThank you",
+          "answeredAt": "2026-09-03T23:15:00.000Z",
+          "answer": "AW-RD1:\n\n-\tStabilised Sand (should reuse existing Utilities Backfill) to be compacted\n\n-\tDG20 to be restored per specs and tech requirements\n\nAW-RD2:\n\n-\tStabilised Sand (should reuse existing Utilities Backfill) to be compacted\n\n-\tDG20 to be restored per specs and tech requirements"
+        },
+        {
+          "askedAt": "2026-09-03T23:26:00.000Z",
+          "question": "Can council please confirm this panel is for restoration works only related to utilities and minor maintenance repairs and capital works will be a separate panel?",
+          "answeredAt": "2026-09-04T00:54:00.000Z",
+          "answer": "-\tYes, this is for Restoration and minor Works.\n\n-\tWaverley does not have a panel for Capital Works Panel."
+        },
+        {
+          "askedAt": "2026-09-03T23:26:00.000Z",
+          "question": "Will council be undertaking a financial check via fiable or equifax for this panel?",
+          "answeredAt": "2026-09-04T00:55:00.000Z",
+          "answer": "As part of all tender evaluations, Council is required to conduct a financial assessment report on bidders. This is a requirement under the Waverley Procurement Framework. Following the Evaluation Committee's initial assessment, tenderers may be approached by Fiable (previously trading as Anility), the Council's independent third-party agent. Please also be mindful that if Fiable has recently assessed a supplier at the request of any other southern Sydney regional council, that assessment may still be valid and relevant. Financial assessment reports are standard practice for government agencies."
+        },
+        {
+          "askedAt": "2026-09-06T23:36:00.000Z",
+          "question": "Good morning,\n\nPlease can you tell me where to download the revised drawing - R8 issue D, as per Addendum 1?\n\nThank you.",
+          "answeredAt": "2026-09-09T08:26:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nPlease refer to Addendum 2 and attachment that has been issued.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-09T05:40:00.000Z",
+          "question": "Good afternoon,\n\nRegarding the pricing requirements for Attachment 5, could Council please confirm whether tenderers can submit pricing for selected categories only? Also, can the tenderers submit rates for selected items only within that particular category/ categories?\n\nThank you.",
+          "answeredAt": "2026-09-09T08:00:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nYes, tenderers can submit pricing for selected categories. Tenderers can submit for selected items only. However, must include all 5 years\n\nExamples – tenderers can price for:\n\n1. 01 Concrete Works – Item ID CW-D1/CW-D2/CW-D2 (Driveway), Item ID CW-FP1/FP-2 (Footpath)\n\n2. 03 Paving Works (PW) – Item ID PW-BP1/BP1a/BP-2/BP-2a (Block Paving)\n\n3. The selected items should be priced for all 5 years\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-14T03:26:00.000Z",
+          "question": "We seek Council’s clarification on the following RFT requirements:\n\nProposed Methodology\n\nThe RFT requires Tenderers to provide a proposed methodology for “this project”, limited to two pages. As this is a panel tender and no specific project has been identified, could Council please clarify what project or type of works the methodology should be based on?\n\nContract Program\n\nThe RFT also requires Tenderers to submit a Contract Program in the form of a Gantt chart, bar chart or network diagram showing key milestones and proposed dates in accordance with Council’s required timeline.\n\nAs no specific project scope, commencement date or completion timeframe has been provided, could Council please clarify what type of program Tenderers are expected to submit for this panel tender?",
+          "answeredAt": "2026-09-14T07:27:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nPlease refer to Addendum 3 and attachment that has now been issued.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-15T00:22:00.000Z",
+          "question": "You are requesting a methodology and Gantt chart program.\n\n- Do you have an example project that we can base the methodology and program off?\n\n- Should we provide a sample program and methodology from a similar project?",
+          "answeredAt": "2026-09-15T02:30:00.000Z",
+          "answer": "Thank you for your enquiry.\n\n1. Please refer to Addendum 3. Contract Gantt Chart requirement is removed.\n\n2. Methodology should be based on the understanding of Tender Scope Requirement.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-15T00:27:00.000Z",
+          "question": "Thank you for your response, do we need to submit a methodology? Or does that also need to be removed?",
+          "answeredAt": "2026-09-15T02:33:00.000Z",
+          "answer": "Thank you for your enquiry.\n\n1. Methodology and Understanding will be one of the assessment criteria, submission is recommended.\n\n2. The methodology schedule will not be removed.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-15T06:51:00.000Z",
+          "question": "Good afternoon\n\nPlease can council confirm if they will be reinstating line marking after road restoration?\n\nthank you",
+          "answeredAt": "2026-09-15T07:02:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nThe road restoration rate should not include line marking.\n\nKind regards,\n\nWaverley Council"
+        },
+        {
+          "askedAt": "2026-09-16T02:52:00.000Z",
+          "question": "Hi,\n\nCan Council please confirm if all traffic control required for the works is to be paid under the Miscellaneous schedule (05)\n\nRegards",
+          "answeredAt": "2026-09-16T03:30:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nPlease submit Traffic control itemised rates in 05 Miscellaneous.\n\nKind regards,\n\nWaverley Council"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T23:40:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t 20260904 - RFT 2659 - Addenda 1.pdf\n\n2. Added: \t Attachment 5 - Schedule of Rates RFT 2659.xlsx\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-09T08:25:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t R8-Trench Restoration (Utility).pdf\n\n2. Added: \t RFT 2659 - Addenda 2.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-14T07:26:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t 20260914 - RFT 2659 - Addendum 3.pdf\n\n2. Added: \t Attachment 1 - Volume 3 - Returnable Schedules.RevA.docx\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "RFT 2659 Waverley Council Road & Footpath Restoration Contractors Panel\n\nPlease refer to all RFT documents attached on VendorPanel.\n\nCouncil is seeking submissions from appropriately qualified and experienced Respondents for Minor Civil Works Suppliers to be part of Waverley Council’s Footpath and Road Restoration Panel. \n\nA more detailed brief of the extent of Council's requirement is set out in Volume 2 – Specification.",
+        "to": "RFT 2659 Waverley Council Road & Footpath Restoration Contractors Panel\n\nPlease refer to all RFT documents attached on VendorPanel.\n\nCouncil is seeking submissions from appropriately qualified and experienced Respondents for Minor Civil Works Suppliers to be part of Waverley Council’s Footpath and Road Restoration Panel.\n\nA more detailed brief of the extent of Council's requirement is set out in Volume 2 – Specification.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "11",
+        "at": "2026-09-09T22:04:31.613Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "11",
+        "to": "13",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
+    "id": "08778e4301ff4b9aad05bb7e4bc16040",
+    "source": "vendorpanel",
+    "reference": "VP523712",
+    "title": "BSC 26/27 – T17 - Gravel Supply & Deliver - Noondoo Mungindi Road",
+    "description": "Balonne Shire Council invites tenders from suitably qualified tenderers for the 2026/27 TIDS/RTR Supply & Delivery Gravel – Noondoo Mungindi Road.\n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
+    "buyer": "Balonne Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T05:41:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=08778e4301ff4b9aad05bb7e4bc16040s523712sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerAddress": "Grey St\nSt George, Queensland 4487\nAustralia",
+      "buyerWebsite": "http://www.balonne.qld.gov.au",
+      "buyerDescription": "The Balonne Shire is located in Queensland on the New South Wales border some 500 kilometres\nfrom the east coast of Australia and has an area of 31,119m2. A region of surprising diversity and\nunique attractions, the Balonne Shire is rich in native bird and animal life, wide open spaces, beautiful\nwaterways, and many historic buildings.",
+      "buyerReference": null,
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-18T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs\n2: South West"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "087d3624dccd480db7c939aca0bb227a",
     "source": "vendorpanel",
     "reference": "VP523675",
@@ -3503,6 +3774,57 @@
       }
     ],
     "archivedAt": "2026-09-22T22:28:49.427Z"
+  },
+  {
+    "id": "09b3c33f04cb4d8eac8b3123767bfd0a",
+    "source": "vendorpanel",
+    "reference": "VP523726",
+    "title": "TC26087- MI187131- Lot 48 & 81 Waterfront Road, Hammond (Deck/Stairs/Kitchen Upgrade)",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-01T23:58:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=09b3c33f04cb4d8eac8b3123767bfd0as523726",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26087",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-18T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\" \n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming. \n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download. \n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+        "to": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "0a7acad97d0243e5bbc7db8f1f9a8927",
@@ -5200,6 +5522,124 @@
     "archivedAt": "2026-09-09T22:04:31.613Z"
   },
   {
+    "id": "1cdb067cb0114d08b1a1d4fb1ddfa1f9",
+    "source": "vendorpanel",
+    "reference": "VP523804",
+    "title": "Casino STP Early Works Geotechnical and Designs",
+    "description": "Richmond Valley Council requests tenders from suitably qualified and experienced consultants to provide Geotechnical Investigation and Civil Design services.\n\nThe successful tenderer will have:\n\n* Previously provided Geotechnical Investigation and Civil Design Services to the local government sector and/or in the Richmond Valley Region or the Northern Rivers.\n\n* Extensive and proven practical experience with Geotechnical Investigation and Civil Design.",
+    "buyer": "Richmond Valley Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T00:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 10:00 AM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-02T03:42:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=1cdb067cb0114d08b1a1d4fb1ddfa1f9s523804s187d3a05decd404191ffe66fba693c4fs1559",
+    "vendorPanelDetails": {
+      "buyerAddress": "10 Graham Pl\nCasino, New South Wales 2470\nAustralia",
+      "buyerWebsite": "http://www.richmondvalley.nsw.gov.au/",
+      "buyerDescription": "Richmond Valley Council (RVC) is a local government area on the Northern Rivers region of north-eastern New South Wales, Australia. RVC services an area of 3,051 square kilometres (1,178 sq mi) and draws its name from the Richmond River, which flows through most of the council area. The area under management is located adjacent to the Bruxner Highway, Pacific Highway, and the North Coast railway line.",
+      "buyerReference": null,
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-18T00:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 10:00 AM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-20T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 21 October 2026 (AUS Eastern Standard Time)",
+      "background": "Council is now progressing the Development Phase of the new STP project which is required to replace the existing (failing) infrastructure. Currently preliminary works and investigations have been undertaken. These include Concept Design, geological investigations, Detailed Design (90%) and other environmental studies.\n\nCouncil is progressing the Development of a package of works being termed “Early Works”.\n\nThe Early Works will be completed prior to the Detailed Design and Construction (DD&C) Phase of the new STP process plant. The Early Works will produce the “Infrastructure Pad” and generally include:\n\n•\tClearing, Grubbing and Removal of unsuitable fill, including contaminated spoil, and unsuitable spoil. Stockpiling on site.\n\n•\tGround Remediation of the current subgrade.\n\n•\tImport of Engineered Fill.\n\n•\tPlacement and compaction of Imported Fill.\n\nTogether these activities will lead to:\n\n1.\tProviding a robust, settled and well documented base for the future work/plant.\n\n2.\tReduced construction risk and cost for the DD&C Contract.\n\n3.\tFlood proofing of the site and hence the future STP (when constructed).",
+      "desiredOutcomes": "See RFT document for Scope of Work.",
+      "buyerQuestions": [
+        "Provide evidence of Satisfaction of Insurance requirements",
+        "Completion of Non-disclosure and Confidentiality Deed Poll has been returned to linda.rankin@richmondvalley.nsw.gov.au",
+        "Attendance at weekly project update meetings throughout the duration of the project (allow 1 hour/week)",
+        "Attendance at the Mandatory Briefing meeting Monday 14 September 2026 @ 10:00am AEST",
+        "Lodgement of the tender in accordance with the requirements of the Council's Code of Conduct",
+        "Compliance and observation of the ethical principles in Council's Statement of Business Ethics (available from RVC website)"
+      ],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: ACT (all other areas)",
+        "New South Wales\n1: Central West\n2: Hunter\n3: Illawarra\n4: Mid-North Coast\n5: Murrumbidgee\n6: North Western\n7: Northern\n8: Richmond-Tweed\n9: South Eastern\n10: Sydney",
+        "Queensland\n1: Brisbane\n2: Darling Downs\n3: Gold Coast\n4: South West\n5: Sunshine Coast",
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-09T04:06:00.000Z",
+          "question": "Would RVC be agreeable to pushing back the submission date by say 1 week, to the 30th of September? Given the briefing meeting is on the 14th, the current due date only has ~7 working days to prepare and submit the RFT response following the tender meeting. An extra week would allow parties to better finalise their bids, including any 3rd parties that may need to be engaged.",
+          "answeredAt": "2026-09-09T05:41:00.000Z",
+          "answer": "Council is unable to extend the closing date for this RFT due to the synchronisation of this procurement with other large projects Council is undertaking and resourcing available for the assessment task having been previously scheduled and locked in. Council considers the RFT response timeframe is more than adequate considering the information to be provided at the Briefing Session has already been provided and its primary purpose is for interested parties to ask questions of the project team."
+        },
+        {
+          "askedAt": "2026-09-09T05:31:00.000Z",
+          "question": "1. Does Council intend to provide any returnable schedules or other guidelines setting out the format in which they would like us to provide our tender submission?\n\n2. Regarding the mandatory briefing session next Monday 14th September, do we need to formally register for this or is it OK if we simply turn up using the meeting details provided in the RFT?",
+          "answeredAt": "2026-09-09T05:45:00.000Z",
+          "answer": "1. There is no intention to provide returnable schedules for this RFT. Tenderers can respond in their own format.\n\n2. No need to formally register for Mandatory Briefing session. Just use the provided link in the RFT. Council will request all attendees at the meeting to provide their name and company in the chat function during the meeting."
+        },
+        {
+          "askedAt": "2026-09-14T06:27:00.000Z",
+          "question": "Thinking for the outcome of the project, could Council pls provide clarification on the below as to provide tenderers a common basis for pricing and reduce the likelihood of later redesign, delays or variations:\n\n1. Original electronic data from all cone penetration tests (CPTu), preferably in CSV or the original file format.\n\n2. Equipment (piezocone) details and calibration certificates, including records showing its accuracy when measuring the small loads expected in soft soils.\n\n3. Full results from tests measuring how water pressure in the soil reduced over time (pore-pressure dissipation records), including the original data and interpretation.\n\n4. Laboratory results showing the strength of the soil and how much it compresses under load (oedometers), particularly for the layers identified as Units 2.1 and 2.2 (compressible clay layers in DP report).\n\n5. The factors used to estimate soil strength from the CPTu results (piezocone factors - Nkt) and any separate field or laboratory checks supporting those estimates. We couldn’t identify any in-situ vane shear results, which could provide an independent check of soil strength.\n\n6. Soil parameters, calculation basis and sensitivity results supporting the settlement estimates, including how consolidation timing and creep were addressed.\n\nWe’ll be using the above information to assess whether the existing testing is sufficient, identify any further investigation needed, and develop our ground improvement recommendations, cost estimates and programme.\n\nPublished studies show that CPTu piezocone capacity, sensitivity and calibration can materially affect test results in soft soils. The supporting records will help us check whether the equipment provided sufficient accuracy for the conditions encountered (Scholey, 2024; McConnell, 2022)\n\nWe suggest an initial review of the existing information to identify gaps, together with an independent check of the settlement assessment, before selecting a ground improvement method or confirming the programme.\n\nUnresolved measurement, stratigraphic and consolidation uncertainties could change predicted total and differential settlement, foundation selection, treatment depth or extent, and preload holding periods. Longer surcharge periods could materially increase construction costs and delay the DD&C phase. Movement exceeding the adopted tolerances could affect tank watertightness, joints and service connections.\n\nThank you,",
+          "answeredAt": "2026-09-15T22:29:00.000Z",
+          "answer": "1.\tOriginal electronic data from all cone penetration tests (CPTu), preferably in CSV or the original file format.\n\nPlease see attached a zip file of all of Douglas’ August 2025 testing. (237052 Raw CPT for RVC.zip)\n\n2.\tEquipment (piezocone) details and calibration certificates, including records showing its accuracy when measuring the small loads expected in soft soils.\n\nThe records will be provided in due course.\n\n3.\tFull results from tests measuring how water pressure in the soil reduced over time (pore-pressure dissipation records), including the original data and interpretation.\n\nRaw data for the 2x dissipation tests has been provided (T01 files for the relevant CPTu’s).\n\n4.\tLaboratory results showing the strength of the soil and how much it compresses under load (oedometers), particularly for the layers identified as Units 2.1 and 2.2 (compressible clay layers in DP report).\n\nNo geotechnical laboratory testing (including oedometer testing) was undertaken.\n\n5.\tThe factors used to estimate soil strength from the CPTu results (piezocone factors - Nkt) and any separate field or laboratory checks supporting those estimates. We couldn’t identify any in-situ vane shear results, which could provide an independent check of soil strength.\n\nRaw piezocone data has been provided. No laboratory testing was undertaken.\n\n6.\tSoil parameters, calculation basis and sensitivity results supporting the settlement estimates, including how consolidation timing and creep were addressed.\n\nDouglas has provided assumptions made and design parameters utilised (where appropriate) within the reports and memoranda. The test files have been provided."
+        },
+        {
+          "askedAt": "2026-09-15T01:58:00.000Z",
+          "question": "It is understood that during yesterday's meeting RVC indicated that ongoing groundwater monitoring was being undertaken to confirm groundwater levels. Could RVC provide an indication of the scope or extent/duration of this additional monitoring.",
+          "answeredAt": "2026-09-15T22:24:00.000Z",
+          "answer": "The current Groundwater Monitoring Plan is for the existing Casino STP and its surrounds. It is not a monitoring program for the new STP Infrastructure Pad. The proposed new plant sits immediately east of the existing plant, so some results will be relevant to the Early Works site, but the network is focused on the existing facility and is generally outside the new-plant footprint.\n\nThe current work is reconnaissance only:\n\n•\tDesktop study of existing reports and public data to assess likely groundwater flow and contaminant migration from the existing STP toward receptors (drainage line, Barlings Creek, nearby users).\n\n•\tInspection of existing bores, plus up to four temporary shallow piezometers (typically 5 m). Proposed locations are around the existing plant (upgradient and downgradient). One point was shown provisionally near the future plant only if no suitable existing bore is found. Refer diagrams below\n\n•\tOne laboratory sampling round to establish chemistry in the shallow water table (nutrients, metals, PFAS, microbes and field parameters). That gives a baseline for later assessment of whether imported engineered fill or pad works could interact with existing groundwater quality.\n\n•\tWater-level measurements and loggers, with extra readings after significant rain where practicable, to see how levels respond to rainfall and flood.\n\nThe consultant will do the first event. Council will then complete at least five further level rounds (monthly proposed). A longer 12–24 month program may be needed later for decommissioning approvals; that is outside the current scope.\n\nAn addendum document has been attached which indicates the existing bore locations and the 4 x shallow piezometer locations."
+        },
+        {
+          "askedAt": "2026-09-16T05:36:00.000Z",
+          "question": "Would Council be open to undertaking targeted supplementary geotechnical investigation and laboratory testing before the analysis is completed?\n\nAlthough the CPTu data have now been provided, CPTu interpretation alone cannot confirm the soil classification or all parameters required for the settlement, filling and foundation assessments. Without targeted sampling, in-situ strength testing and laboratory testing, the geotech consultant would need to rely heavily on assumptions similar to those adopted by DP. This would limit the level of independent verification that can be provided.\n\nA targeted testing program would allow the consultant to:\n\n1. Verify the soil profile interpreted from the CPTu data.\n\n2 Check the soil strength parameters adopted in the design.\n\n3. Assess total and differential settlement.\n\n4. Estimate consolidation rates and the required surcharge duration.\n\n5. Assess long-term post-construction settlement.\n\n6. Establish suitable rates and staging for surcharge and construction fill placement.\n\n7. assess and price suitable ground improvement options.\n\n8. Confirm whether shallow foundations remain suitable for the proposed structures.\n\nThank you,",
+          "answeredAt": "2026-09-16T21:44:00.000Z",
+          "answer": "Council expects tenderers to state what supplementary investigation and laboratory testing is needed to complete the Early Works design with an appropriate level of independent verification.\n\nSection 4 of the RFT requests consultants to set out the work required to move Council to a contractor-ready Early Works package. Section 1 states that Council seeks a consultant with proven geotechnical investigation and civil design experience. Section 8.8 requires a methodology, including how the scope will be delivered. Tenderers should therefore identify any targeted sampling, in-situ testing and laboratory testing they consider necessary, why it is required, and how it fits the 4-month program.\n\nCouncil already holds investigation data, including Douglas Partners reporting and CPTu results, which will be released under the NDA. Council agrees that CPTu interpretation alone may not confirm all classification and design parameters for settlement, fill staging, ground improvement and foundations. Supplementary testing to verify the CPTu profile and to support items 4.1, 4.2, 4.4, 4.6 and 4.7 of the RFT is acceptable.\n\nPlease include any proposed additional investigations in your RFT response, with:\n\n•\tproposed locations, methods and laboratory tests\n\n•\tpurpose\n\n•\tprogram impact\n\n•\tlump-sum price, or a provisional-sum / schedule of rates if quantities cannot yet be fixed\n\nDo not assume an open-ended field program. Analysis may start on the existing data; supplementary testing should be programmed so it informs the Options Report and detailed design, not delay them without cause."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-07T00:25:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 260907 Richmond Valley Council - AS4122 Amended CLEAN COPY VP521953.pdf\n\n2. Added: \t (Addendum) 260907 Richmond Valley Council - AS4122 Amended Tracked Changes VP521953.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-07T00:28:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 260907 Richmond Valley Council - AS4122 Amended CLEAN COPY VP523804.pdf\n\n2. Added: \t (Addendum) 260907 Richmond Valley Council - AS4122 Amended Tracked Changes VP523804.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-15T22:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Groundwater Monitoring Plan locations.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-15T22:29:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 237052 Raw CPT for RVC.zip\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-21T20:48:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 120522 Calibration Cert 20250418.pdf\n\n2. Added: \t (Addendum) 240118 Calibration Cert 20250625.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "7",
+        "at": "2026-09-15T22:30:52.819Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "9",
+        "at": "2026-09-21T22:54:50.025Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "1ce04219ed36425da34558e87e7db901",
     "source": "vendorpanel",
     "reference": "VP521874",
@@ -5996,6 +6436,57 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "2a89ebddf6c048a6abfb6fb8c3cf783b",
+    "source": "vendorpanel",
+    "reference": "VP523727",
+    "title": "TC26088- MI187150- Lot 205 Depot Road, Saibai (Bathroom inc. Sub Flooring Upgrade)",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2a89ebddf6c048a6abfb6fb8c3cf783bs523727",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26088",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-18T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\" \n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming. \n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download. \n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+        "to": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "2ce0faa3ec6b4d99846183951fbf4f8e",
     "source": "vendorpanel",
     "reference": "VP521678",
@@ -6135,6 +6626,54 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "309a6f2173804f208912016de1e35bb8",
+    "source": "vendorpanel",
+    "reference": "VP524802",
+    "title": "Detailed Survey for Somerton Bridge",
+    "description": "Detailed survey for Somerton Bridge. Refer RFQ Scoping attachment.",
+    "buyer": "Tamworth Regional Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-23T01:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 11:00 AM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-09T00:09:00.000Z",
+    "contact": {
+      "raw": "Angie Taylor Email: a.taylor@tamworth.nsw.gov.au Tel: 0267675506",
+      "name": "Angie Taylor",
+      "email": "a.taylor@tamworth.nsw.gov.au",
+      "phone": "0267675506"
+    },
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=309a6f2173804f208912016de1e35bb8s524802s187d3a05decd404191ffe66fba693c4fs1559",
+    "vendorPanelDetails": {
+      "buyerAddress": "474 Peel St\nTamworth, New South Wales 2340\nAustralia",
+      "buyerWebsite": "https://www.tamworth.nsw.gov.au/",
+      "buyerDescription": "Tamworth Regional Council is a local government area in the New England region of New South Wales, Australia. The area under administration is located adjacent to the New England Highway and the Main North railway line. It was established in March 2004 through the amalgamation of the former City of Tamworth with surrounding shires of Barraba, Manilla, Nundle and Parry.",
+      "buyerReference": "Q026-2027",
+      "opensAt": "2026-09-08T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 09 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-22T01:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 22 September 2026 11:00 AM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-09T04:26:33.566Z",
+    "changes": [],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "3101988dbb5243cda2b03b247bb9e79d",
@@ -9098,6 +9637,49 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "70280f8f5f2b4089bce459448fde3166",
+    "source": "vendorpanel",
+    "reference": "VP523717",
+    "title": "BSC 26/27 – T16 - 26/27 TIDS/RTR Supply & Deliver Gravel – Jakelwar Goodooga Road (South)",
+    "description": "Balonne Shire Council invites tenders from suitably qualified tenderers for the 2026/27 TIDS/RTR Supply & Deliver Gravel – Jakelwar Goodooga Road (South).\n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
+    "buyer": "Balonne Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T05:41:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=70280f8f5f2b4089bce459448fde3166s523717sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerAddress": "Grey St\nSt George, Queensland 4487\nAustralia",
+      "buyerWebsite": "http://www.balonne.qld.gov.au",
+      "buyerDescription": "The Balonne Shire is located in Queensland on the New South Wales border some 500 kilometres\nfrom the east coast of Australia and has an area of 31,119m2. A region of surprising diversity and\nunique attractions, the Balonne Shire is rich in native bird and animal life, wide open spaces, beautiful\nwaterways, and many historic buildings.",
+      "buyerReference": null,
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-18T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 18 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs\n2: South West"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "71070a5efafa4e7b8347c1f5202bd7ef",
@@ -12540,6 +13122,56 @@
     "archivedAt": "2026-09-18T22:00:51.010Z"
   },
   {
+    "id": "a1f8f011870f41f2ba3c9f0e414fbc75",
+    "source": "vendorpanel",
+    "reference": "VP523076",
+    "title": "RFT2627-09 Event Management Services Australia Day 2027",
+    "description": "Fireworks Spectacular will be held on Tuesday, 26 January 2026 from 5:30pm – 8:30pm at Kevin Scott Oval, Hamilton Road, South Hedland with Marie Marland Reserve, Parola Court, South Hedland utilised for the fireworks firing zone. The project budget is $155,000.00 (ex. GST).\n\nThis will be an externally delivered event with the Town having a partnership role in the event.\n\nThe services will include:\n\nEvent Administration\n\nFood and Beverage Vendors\n\nEntertainment and Activities\n\nCommunity Perception Surveys",
+    "buyer": "Town of Port Hedland",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Event Management & Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T07:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 03:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-09-01T21:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=a1f8f011870f41f2ba3c9f0e414fbc75s523076s335cd04363554dcfa4d65b1fd63095c3s1561",
+    "vendorPanelDetails": {
+      "buyerAddress": "Port Hedland Rd\nPort Hedland, Western Australia 6721\nAustralia",
+      "buyerWebsite": "http://www.porthedland.wa.gov.au/",
+      "buyerDescription": "Port Hedland is transforming into a vibrant attractive regional city with a community that are proud to live, work and play in the heart of the Pilbara.",
+      "buyerReference": "RFT2627-09",
+      "opensAt": "2026-09-01T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-20T07:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 20 September 2026 03:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Pilbara"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Fireworks Spectacular will be held on Tuesday, 26 January 2026 from 5:30pm – 8:30pm at Kevin Scott Oval, Hamilton Road, South Hedland with Marie Marland Reserve, Parola Court, South Hedland utilised for the fireworks firing zone. The project budget is $155,000.00 (ex. GST).\n\nThis will be an externally delivered event with the Town having a partnership role in the event. \n\nThe services will include:\n\nEvent Administration\n\nFood and Beverage Vendors\n\nEntertainment and Activities\n\nCommunity Perception Surveys",
+        "to": "Fireworks Spectacular will be held on Tuesday, 26 January 2026 from 5:30pm – 8:30pm at Kevin Scott Oval, Hamilton Road, South Hedland with Marie Marland Reserve, Parola Court, South Hedland utilised for the fireworks firing zone. The project budget is $155,000.00 (ex. GST).\n\nThis will be an externally delivered event with the Town having a partnership role in the event.\n\nThe services will include:\n\nEvent Administration\n\nFood and Beverage Vendors\n\nEntertainment and Activities\n\nCommunity Perception Surveys",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "a25ebb3abadb4ba0b232dfb0693d87eb",
     "source": "vendorpanel",
     "reference": "VP521643",
@@ -13848,6 +14480,162 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "b25d2e2c5b984377a7344a471f454e81",
+    "source": "vendorpanel",
+    "reference": "VP523799",
+    "title": "RFT 1449 - Clive Street Widening",
+    "description": "This project is located at Clive Street, Fernvale. The aim of the project is to widen a section of Clive Street, from Chatham St intersection to the Brisbane Valley Rail Trail intersection, including but not limited to the following:\n\n•\tEarthworks\n\n•\tRoad pavement construction including seal\n\n•\tDrainage, landscape, line marking, kerbs, concrete works\n\n•\tManaging works adjacent to PUP\n\n•\tTraffic Management",
+    "buyer": "Somerset Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-23T07:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T03:21:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b25d2e2c5b984377a7344a471f454e81s523799s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "2 Redbank St\nEsk, Queensland 4312\nAustralia",
+      "buyerWebsite": "http://www.somerset.qld.gov.au",
+      "buyerDescription": "Somerset Regional Council",
+      "buyerReference": null,
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T07:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-20T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "background": "The Work to be performed under this Contract will include the following:\n\n•\tall associated site works (including site clearing, earthworks, stormwater drainage, pavement, surfacing, landscaping and road furniture works etc) required for the construction of the project.\n\n•\ttraffic management for the duration of the of the works including construction and maintenance of access to the site during construction.\n\n•\ttemporary management and protection of existing public utility plant if required, and.\n\n•\ttesting and quality certification of the project, including provision of quality documentation and as constructed documentation to specification standards.\n\nThis project is to be carried out in accordance with Project Drawings and Specifications, Particular Conditions of Contract, General Conditions of Contract AS 2124-1992 including Annexures A and B.\n\nAll documentation submitted will be treated as confidential by Council and will be assessed by an evaluation panel under probity.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Darling Downs\n3: Gold Coast\n4: Sunshine Coast\n5: West Moreton"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-04T04:55:00.000Z",
+          "question": "HI\n\nMay we please request that the Design & Natural Surface CAD files be uploaded for this opportunity.\n\nWith thanks",
+          "answeredAt": "2026-09-09T02:50:00.000Z",
+          "answer": "Design drawings uploaded."
+        },
+        {
+          "askedAt": "2026-09-07T04:30:00.000Z",
+          "question": "Good Afternoon,\n\nCan you please advise the below?\n\nQ1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\n\nQ2. Can we get the design model for the project so we can check quantities etc?",
+          "answeredAt": "2026-09-08T01:11:00.000Z",
+          "answer": "Q1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\n\nYes – Tenderers to allow for this in item 220. This item is to be changed to Lump Sum – quantity 1. All clearing are to be sufficient to complete the works as per design."
+        },
+        {
+          "askedAt": "2026-09-08T03:27:00.000Z",
+          "question": "Is the any approved temporary topsoil stockpile area for item 210, including available capacity and access. If off-site storage is required, please confirm the location so cartage and rehandling can be priced.",
+          "answeredAt": "2026-09-08T20:12:00.000Z",
+          "answer": "Nearby stockpile sites are Applewoods Ln (-27.465089, 152.647849) and Theuerkaufs Rd (-27.483098, 152.660860). There will be minimal area to store onsite so majority will be at either of these stockpile sites. These sites are both unrestricted and have reasonable capacity. Applewoods site does have large amount of culverts already there."
+        },
+        {
+          "askedAt": "2026-09-08T22:17:00.000Z",
+          "question": "As the revised scope now requires the removal of all trees within the road reserve, a DBYD enquiry has been completed. However, without the underground services being physically located, complete stump removal may present a risk of damaging existing infrastructure.\n\nWhere a stump cannot be safely removed, will Council accept it being ground below the finished surface level?",
+          "answeredAt": "2026-09-09T02:38:00.000Z",
+          "answer": "The preferred method is complete stump removal, however where they may be clashes with underground services, stump grinding to a reasonable level below FSL will be acceptable. This will be on a case-by-case basis and will require approval from Somerset Regional Council before proceeding."
+        },
+        {
+          "askedAt": "2026-09-08T23:56:00.000Z",
+          "question": "Can we get the design model for the project if possible so we can check quantities etc?",
+          "answeredAt": "2026-09-09T02:50:00.000Z",
+          "answer": "Design drawings uploaded."
+        },
+        {
+          "askedAt": "2026-09-09T05:02:00.000Z",
+          "question": "Please confirm whether Council has any nominated or approved disposal sites for the following materials generated by the works:\n\nExcavated spoil, including soil and unsuitable material.\n\nConcrete waste arising from the demolition of existing infrastructure.\n\nIf nominated sites are available, please provide their locations and confirm any applicable disposal fees, material acceptance requirements, testing requirements and quantity restrictions.\n\nIf Council does not have nominated disposal sites, please confirm that the Contractor is to allow for disposal at a suitably licensed facility.",
+          "answeredAt": "2026-09-10T03:57:00.000Z",
+          "answer": "There is no ‘nominated’ refuse centre for this project. The contractor may nominate and price according to their preferred disposal site. With this in mind, Council’s Esk Refuse and Recycling Centre and Landfill is located at 30 Murrumba Road, Esk. The contractor may use this centre if they so choose.\n\nFees and Charges for disposal of items are given in Register of Cost-Recovery Fees and Schedule of Fees and Charges under Somerset Regional Council’s Publication Scheme. For further restrictions – the best way would be to contact them directly (07) 5424 2976.\n\nThe contractor is responsible for complying with all applicable fireant bio security requirements – in particular the requirements surrounding the movement of excavated soil, imported fill as well as any other potential carrier material for fireants. Where material cannot be moved to the Esk Landfill or is not accepted by the refuse facility, the contractor is to allow for disposal at a suitably licensed facility."
+        },
+        {
+          "askedAt": "2026-09-10T03:20:00.000Z",
+          "question": "Hi\n\nRFI# 2 -\n\nAll the Kerb Inlet Pits refer to DTMR Std Dwg SD1311 which calls for an insitu Gully pit construction.\n\nThe average depth of the gully pits is 1.7mts ranging from 1.9 to 1.52..\n\nThe BOQ states Supply and Install Lintel and Pit - precast storm water 900*900*1.5m with S Type 2.4m grated kerb inlet lintel.\n\nCould you please clarify whether the gully pits are to be cast in situ as per DTMR Std Dwg SD1311 or precast gully pits?\n\nWith thanks",
+          "answeredAt": "2026-09-10T20:14:00.000Z",
+          "answer": "Please ensure all pits are constructed as per DTMR SD1311 (cast-insitu). Please disregard the ‘precast’ description written in BOQ for item 1070."
+        },
+        {
+          "askedAt": "2026-09-10T23:22:00.000Z",
+          "question": "Drawing 2024-NKT-SRC-DR-006 states that “2 No. 1500mm wide × 600mm high RCBC” are to be extended by approximately 10m.\n\nCould Council please confirm:\n\nAre these two RCBC cells installed side-by-side?\n\nIs one headwall with two wingwalls required at the outlet only, or are headwalls and wingwalls required at both ends?",
+          "answeredAt": "2026-09-15T20:21:00.000Z",
+          "answer": "1.\tYes the RCBC are twin 1500 x 600 culverts.\n\n2.\tNew headwalls and wingwalls are required at the outlet only."
+        },
+        {
+          "askedAt": "2026-09-11T00:22:00.000Z",
+          "question": "Good morning\n\nRFI# 3 - Could you please clarify the below regarding earthwork's quantities.\n\nAfter reviewing the existing and design dwg files received on the 9/9/26 the volume of earthworks quantities from the dwg files differs significantly for the quantities in the BOQ RFT_1449-BOQ_and_Dayworks_Schedule_Rev_.\n\nPlease supply design strings for the project so we can confirm the quantities to our satisfaction and confirm that the dwg files include the full extent of the works.\n\nWith thanks",
+          "answeredAt": "2026-09-22T21:57:00.000Z",
+          "answer": "This was addressed with the design files that have been uploaded."
+        },
+        {
+          "askedAt": "2026-09-14T04:04:00.000Z",
+          "question": "1. Pedestrian refuge island – holding rail (Drawing 2024-NKT-SRC-DR-021)\n\nDrawing 2024-NKT-SRC-DR-021 shows a holding rail on the pedestrian refuge island, however no specification or details for the rail are provided in the drawings or the BOQ (BOQ Item 940 – \"Supply and install Refuge Islands complete with edge restraint and paving blocks\" does not mention the rail).\n\nCould Council please provide:\n\n(a) The specification and details for the holding rail – rail type/profile, material and finish (e.g. galvanised steel pipe, powder-coated), height, post spacing, footing/fixing details and any applicable standard drawing (TMR SD, IPWEAQ or SRC) or product reference.\n\n(b) Confirmation of which BOQ item the holding rail is to be priced under (Item 940 or a new item under 1300 – Misc).\n\n(c) Whether the refuge island (kerb/edge restraint and holding rail) may be supplied as a proprietary precast/prefabricated pedestrian refuge unit in lieu of the cast-in-situ edge restraint shown, provided it meets the dimensions and pedestrian standards shown on the drawings.\n\n2. Pedestrian refuge island – pavers\n\nIf a precast unit is not acceptable, could Council please provide details of the paving blocks for the infill of the refuge island – paver type, size, thickness, colour/finish, laying pattern, bedding and jointing requirements – as these are not specified on the drawings or in the BOQ. Please also confirm whether the same paver details apply to the traffic island with ER2 edge restraint on Detail 1, Drawing 2024-NKT-SRC-DR-013 (\"infill traffic island with pavers on 35 mm compacted sand\").\n\n3. Edge restraint ER2 (Drawing 2024-NKT-SRC-DR-013, Detail 1)\n\nStandard Drawing SRC-ROAD-011 shows ER2 as a cast-in-situ 230 x 230 mm reinforced concrete edge restraint. Please confirm whether Council will accept an equivalent precast concrete kerb unit for the ER2 edge restraint around the traffic island.\n\n4. BOQ earthworks quantities (Section 300)\n\nCould Council please confirm the following quantities in the Bill of Quantities Rev 1, and the basis on which they have been measured:\n\nItem\tDescription\tUnit\tBOQ Qty\n\n310\tExcavation to roadways and open drains (smaller projects)\tm³\t1,697\n\n320\tEmbankment to roadways and allotments\tm³\t10,080\n\n330\tImport select fill\tm³\t8,383\n\n340\tExcavation to spoil\tm³\t849\n\nIn particular:\n\n(a) Please confirm the embankment quantity of 10,080 m³ (Item 320) is correct for the extent of widening shown on the drawings, and whether it is measured as compacted in-place volume.\n\n(b) Please confirm whether Item 320 (10,080 m³) is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330, or whether the imported fill is additional to the embankment quantity.\n\n(c) Please confirm whether Item 340 – Excavation to spoil (849 m³) is included in or additional to Item 310, and whether Council will nominate a spoil disposal site or the Contractor is to dispose off-site.\n\n(d) Please confirm the specification for \"select fill\" under Item 330 (e.g. MRTS04 Type / CBR requirement) and whether the 1,786 m³ of topsoil under Item 210 is to be respread within the embankment areas or the footpath/allotment areas only.\n\n(e) Please confirm whether these quantities are Provisional Quantities to be remeasured, or form part of the Lump Sum.",
+          "answeredAt": "2026-09-17T03:53:00.000Z",
+          "answer": "1. - Refer attachment\n\n(a) See below typical details for holding rail. They are to be bolted on a 130 x 130 x 5mm square base plate with 4 x 13mm holes. Pipe to be 50mm galvanised.\n\n(b) Please price is within Item 940\n\n(c) Utilising precast kerb/edge restraint is acceptable.\n\n2.\n\nPrecast unit is considered acceptable\n\n3.\n\nPrecast Edge restraint is considered acceptable.\n\n4.\n\nAttached is updated models and strings for verifications/quantity checks.\n\n(a) Item 320 is to be placed uncompacted. Please use attached design strings for verifications if required.\n\n(b) Item 320 is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330.\n\n(c) Item 340 is additional to item 310. Refer to previous RFI outlining nominated disposal sites.\n\n(d) Item 210 is to be respread within the embankment areas and footpath. To be general fill material, i.e. CBR 3% or lower.\n\n(e) Except for items specifically named Provisional, all are part of Lump Sum."
+        },
+        {
+          "askedAt": "2026-09-15T06:10:00.000Z",
+          "question": "Particular Conditions Clause 4 and BoQ items 1040 and 1060 note the 450 mm RCP and the RCBC culvert units are supplied by SRC. The documents do not say how these are made available, so we ask Council to confirm:\n\nWill Council deliver these materials to site, or is the Contractor to collect them? If collection, please nominate the location and confirm loading facilities are available.\n\nAre unloading, storage and protection on site to be included in the rates for items 1040 and 1060?\n\nWhen will the materials be available relative to possession of site?",
+          "answeredAt": "2026-09-15T23:48:00.000Z",
+          "answer": "The 1500x600 RCBC units and 150 units of 450 RCP are currently in the Applewoods Ln stockpile area. The remaining 450 RCP are to be collected by the contractor from 30 Murrumba Road (off Esk-Kilcoy Road), Esk, QLD, 4312. The contractor is to provide sufficient plant to facilitate movement of RCP to site.\n\nYes, unloading and movement fees are to be incorporated into their respective BOQ item no i.e. 1040,1050 or 1060.\n\nMaterials will be available immediately upon possession of site being issued."
+        },
+        {
+          "askedAt": "2026-09-15T06:33:00.000Z",
+          "question": "Hi Council Team,\n\nCould you please confirm whether only the 450 mm pipes are being supplied by the Principal, or whether the 600 mm pipe associated with Item 1050 in the BOQ is also to be supplied by the Principal?\n\nThank you for your clarification.",
+          "answeredAt": "2026-09-15T23:47:00.000Z",
+          "answer": "450mm RCP supplied by SRC – refer to RFI discussing current locations of SRC supplied units\n\nRCBC 1500x600 culvert units supplied by SRC\n\n600mm – supply and install – so they are to be supplied by the Tenderer."
+        },
+        {
+          "askedAt": "2026-09-16T01:31:00.000Z",
+          "question": "Please grant a one-week extension to the close.",
+          "answeredAt": "2026-09-16T02:51:00.000Z",
+          "answer": "Unfortunately, we cannot extend the tender period any longer."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-09T02:48:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Clive St Design TRIA.dwg\n\n2. Added: \t Clive St Existing TRIA.dwg\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-17T03:55:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Typical Rail Detail.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "9",
+        "at": "2026-09-09T04:26:33.566Z"
+      },
+      {
+        "field": "description",
+        "from": "This project is located at Clive Street, Fernvale. The aim of the project is to widen a section of Clive Street, from Chatham St intersection to the Brisbane Valley Rail Trail intersection, including but not limited to the following:\n\n•\tEarthworks \n\n•\tRoad pavement construction including seal\n\n•\tDrainage, landscape, line marking, kerbs, concrete works\n\n•\tManaging works adjacent to PUP\n\n•\tTraffic Management",
+        "to": "This project is located at Clive Street, Fernvale. The aim of the project is to widen a section of Clive Street, from Chatham St intersection to the Brisbane Valley Rail Trail intersection, including but not limited to the following:\n\n•\tEarthworks\n\n•\tRoad pavement construction including seal\n\n•\tDrainage, landscape, line marking, kerbs, concrete works\n\n•\tManaging works adjacent to PUP\n\n•\tTraffic Management",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "10",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"2 Redbank St\\nEsk, Queensland 4312\\nAustralia\",\"buyerWebsite\":\"http://www.somerset.qld.gov.au\",\"buyerDescription\":\"Somerset Regional Council\",\"buyerReference\":null,\"opensAt\":\"2026-09-01T14:00:00.000Z\",\"opensAtRaw\":\"Wednesday 02 September 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-16T07:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 16 September 2026 05:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-10-20T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 21 October 2026 (E. Australia Standard Time)\",\"background\":\"The Work to be performed under this Contract will include the following:\\n\\n•\\tall associated site works (including site clearing, earthworks, stormwater drainage, pavement, surfacing, landscaping and road furniture works etc) required for the construction of the project.\\n\\n•\\ttraffic management for the duration of the of the works including construction and maintenance of access to the site during construction.\\n\\n•\\ttemporary management and protection of existing public utility plant if required, and.\\n\\n•\\ttesting and quality certification of the project, including provision of quality documentation and as constructed documentation to specification standards.\\n\\nThis project is to be carried out in accordance with Project Drawings and Specifications, Particular Conditions of Contract, General Conditions of Contract AS 2124-1992 including Annexures A and B.\\n\\nAll documentation submitted will be treated as confidential by Council and will be assessed by an evaluation panel under probity.\",\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: Darling Downs\\n3: Gold Coast\\n4: Sunshine Coast\\n5: West Moreton\"],\"publicQuestions\":[{\"askedAt\":\"2026-09-04T04:55:00.000Z\",\"question\":\"HI\\n\\nMay we please request that the Design & Natural Surface CAD files be uploaded for this opportunity.\\n\\nWith thanks\",\"answeredAt\":\"2026-09-09T02:50:00.000Z\",\"answer\":\"Design drawings uploaded.\"},{\"askedAt\":\"2026-09-07T04:30:00.000Z\",\"question\":\"Good Afternoon,\\n\\nCan you please advise the below?\\n\\nQ1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\\n\\nQ2. Can we get the design model for the project so we can check quantities etc?\",\"answeredAt\":\"2026-09-08T01:11:00.000Z\",\"answer\":\"Q1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\\n\\nYes – Tenderers to allow for this in item 220. This item is to be changed to Lump Sum – quantity 1. All clearing are to be sufficient to complete the works as per design.\"},{\"askedAt\":\"2026-09-08T03:27:00.000Z\",\"question\":\"Is the any approved temporary topsoil stockpile area for item 210, including available capacity and access. If off-site storage is required, please confirm the location so cartage and rehandling can be priced.\",\"answeredAt\":\"2026-09-08T20:12:00.000Z\",\"answer\":\"Nearby stockpile sites are Applewoods Ln (-27.465089, 152.647849) and Theuerkaufs Rd (-27.483098, 152.660860). There will be minimal area to store onsite so majority will be at either of these stockpile sites. These sites are both unrestricted and have reasonable capacity. Applewoods site does have large amount of culverts already there.\"},{\"askedAt\":\"2026-09-08T22:17:00.000Z\",\"question\":\"As the revised scope now requires the removal of all trees within the road reserve, a DBYD enquiry has been completed. However, without the underground services being physically located, complete stump removal may present a risk of damaging existing infrastructure.\\n\\nWhere a stump cannot be safely removed, will Council accept it being ground below the finished surface level?\",\"answeredAt\":\"2026-09-09T02:38:00.000Z\",\"answer\":\"The preferred method is complete stump removal, however where they may be clashes with underground services, stump grinding to a reasonable level below FSL will be acceptable. This will be on a case-by-case basis and will require approval from Somerset Regional Council before proceeding.\"},{\"askedAt\":\"2026-09-08T23:56:00.000Z\",\"question\":\"Can we get the design model for the project if possible so we can check quantities etc?\",\"answeredAt\":\"2026-09-09T02:50:00.000Z\",\"answer\":\"Design drawings uploaded.\"},{\"askedAt\":\"2026-09-09T05:02:00.000Z\",\"question\":\"Please confirm whether Council has any nominated or approved disposal sites for the following materials generated by the works:\\n\\nExcavated spoil, including soil and unsuitable material.\\n\\nConcrete waste arising from the demolition of existing infrastructure.\\n\\nIf nominated sites are available, please provide their locations and confirm any applicable disposal fees, material acceptance requirements, testing requirements and quantity restrictions.\\n\\nIf Council does not have nominated disposal sites, please confirm that the Contractor is to allow for disposal at a suitably licensed facility.\",\"answeredAt\":\"2026-09-10T03:57:00.000Z\",\"answer\":\"There is no ‘nominated’ refuse centre for this project. The contractor may nominate and price according to their preferred disposal site. With this in mind, Council’s Esk Refuse and Recycling Centre and Landfill is located at 30 Murrumba Road, Esk. The contractor may use this centre if they so choose.\\n\\nFees and Charges for disposal of items are given in Register of Cost-Recovery Fees and Schedule of Fees and Charges under Somerset Regional Council’s Publication Scheme. For further restrictions – the best way would be to contact them directly (07) 5424 2976.\\n\\nThe contractor is responsible for complying with all applicable fireant bio security requirements – in particular the requirements surrounding the movement of excavated soil, imported fill as well as any other potential carrier material for fireants. Where material cannot be moved to the Esk Landfill or is not accepted by the refuse facility, the contractor is to allow for disposal at a suitably licensed facility.\"},{\"askedAt\":\"2026-09-10T03:20:00.000Z\",\"question\":\"Hi\\n\\nRFI# 2 -\\n\\nAll the Kerb Inlet Pits refer to DTMR Std Dwg SD1311 which calls for an insitu Gully pit construction.\\n\\nThe average depth of the gully pits is 1.7mts ranging from 1.9 to 1.52..\\n\\nThe BOQ states Supply and Install Lintel and Pit - precast storm water 900*900*1.5m with S Type 2.4m grated kerb inlet lintel.\\n\\nCould you please clarify whether the gully pits are to be cast in situ as per DTMR Std Dwg SD1311 or precast gully pits?\\n\\nWith thanks\",\"answeredAt\":\"2026-09-10T20:14:00.000Z\",\"answer\":\"Please ensure all pits are constructed as per DTMR SD1311 (cast-insitu). Please disregard the ‘precast’ description written in BOQ for item 1070.\"},{\"askedAt\":\"2026-09-10T23:22:00.000Z\",\"question\":\"Drawing 2024-NKT-SRC-DR-006 states that “2 No. 1500mm wide × 600mm high RCBC” are to be extended by approximately 10m.\\n\\nCould Council please confirm:\\n\\nAre these two RCBC cells installed side-by-side?\\n\\nIs one headwall with two wingwalls required at the outlet only, or are headwalls and wingwalls required at both ends?\",\"answeredAt\":\"2026-09-15T20:21:00.000Z\",\"answer\":\"1.\\tYes the RCBC are twin 1500 x 600 culverts.\\n\\n2.\\tNew headwalls and wingwalls are required at the outlet only.\"},{\"askedAt\":\"2026-09-14T04:04:00.000Z\",\"question\":\"1. Pedestrian refuge island – holding rail (Drawing 2024-NKT-SRC-DR-021)\\n\\nDrawing 2024-NKT-SRC-DR-021 shows a holding rail on the pedestrian refuge island, however no specification or details for the rail are provided in the drawings or the BOQ (BOQ Item 940 – \\\"Supply and install Refuge Islands complete with edge restraint and paving blocks\\\" does not mention the rail).\\n\\nCould Council please provide:\\n\\n(a) The specification and details for the holding rail – rail type/profile, material and finish (e.g. galvanised steel pipe, powder-coated), height, post spacing, footing/fixing details and any applicable standard drawing (TMR SD, IPWEAQ or SRC) or product reference.\\n\\n(b) Confirmation of which BOQ item the holding rail is to be priced under (Item 940 or a new item under 1300 – Misc).\\n\\n(c) Whether the refuge island (kerb/edge restraint and holding rail) may be supplied as a proprietary precast/prefabricated pedestrian refuge unit in lieu of the cast-in-situ edge restraint shown, provided it meets the dimensions and pedestrian standards shown on the drawings.\\n\\n2. Pedestrian refuge island – pavers\\n\\nIf a precast unit is not acceptable, could Council please provide details of the paving blocks for the infill of the refuge island – paver type, size, thickness, colour/finish, laying pattern, bedding and jointing requirements – as these are not specified on the drawings or in the BOQ. Please also confirm whether the same paver details apply to the traffic island with ER2 edge restraint on Detail 1, Drawing 2024-NKT-SRC-DR-013 (\\\"infill traffic island with pavers on 35 mm compacted sand\\\").\\n\\n3. Edge restraint ER2 (Drawing 2024-NKT-SRC-DR-013, Detail 1)\\n\\nStandard Drawing SRC-ROAD-011 shows ER2 as a cast-in-situ 230 x 230 mm reinforced concrete edge restraint. Please confirm whether Council will accept an equivalent precast concrete kerb unit for the ER2 edge restraint around the traffic island.\\n\\n4. BOQ earthworks quantities (Section 300)\\n\\nCould Council please confirm the following quantities in the Bill of Quantities Rev 1, and the basis on which they have been measured:\\n\\nItem\\tDescription\\tUnit\\tBOQ Qty\\n\\n310\\tExcavation to roadways and open drains (smaller projects)\\tm³\\t1,697\\n\\n320\\tEmbankment to roadways and allotments\\tm³\\t10,080\\n\\n330\\tImport select fill\\tm³\\t8,383\\n\\n340\\tExcavation to spoil\\tm³\\t849\\n\\nIn particular:\\n\\n(a) Please confirm the embankment quantity of 10,080 m³ (Item 320) is correct for the extent of widening shown on the drawings, and whether it is measured as compacted in-place volume.\\n\\n(b) Please confirm whether Item 320 (10,080 m³) is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330, or whether the imported fill is additional to the embankment quantity.\\n\\n(c) Please confirm whether Item 340 – Excavation to spoil (849 m³) is included in or additional to Item 310, and whether Council will nominate a spoil disposal site or the Contractor is to dispose off-site.\\n\\n(d) Please confirm the specification for \\\"select fill\\\" under Item 330 (e.g. MRTS04 Type / CBR requirement) and whether the 1,786 m³ of topsoil under Item 210 is to be respread within the embankment areas or the footpath/allotment areas only.\\n\\n(e) Please confirm whether these quantities are Provisional Quantities to be remeasured, or form part of the Lump Sum.\",\"answeredAt\":\"2026-09-17T03:53:00.000Z\",\"answer\":\"1. - Refer attachment\\n\\n(a) See below typical details for holding rail. They are to be bolted on a 130 x 130 x 5mm square base plate with 4 x 13mm holes. Pipe to be 50mm galvanised.\\n\\n(b) Please price is within Item 940\\n\\n(c) Utilising precast kerb/edge restraint is acceptable.\\n\\n2.\\n\\nPrecast unit is considered acceptable\\n\\n3.\\n\\nPrecast Edge restraint is considered acceptable.\\n\\n4.\\n\\nAttached is updated models and strings for verifications/quantity checks.\\n\\n(a) Item 320 is to be placed uncompacted. Please use attached design strings for verifications if required.\\n\\n(b) Item 320 is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330.\\n\\n(c) Item 340 is additional to item 310. Refer to previous RFI outlining nominated disposal sites.\\n\\n(d) Item 210 is to be respread within the embankment areas and footpath. To be general fill material, i.e. CBR 3% or lower.\\n\\n(e) Except for items specifically named Provisional, all are part of Lump Sum.\"},{\"askedAt\":\"2026-09-15T06:10:00.000Z\",\"question\":\"Particular Conditions Clause 4 and BoQ items 1040 and 1060 note the 450 mm RCP and the RCBC culvert units are supplied by SRC. The documents do not say how these are made available, so we ask Council to confirm:\\n\\nWill Council deliver these materials to site, or is the Contractor to collect them? If collection, please nominate the location and confirm loading facilities are available.\\n\\nAre unloading, storage and protection on site to be included in the rates for items 1040 and 1060?\\n\\nWhen will the materials be available relative to possession of site?\",\"answeredAt\":\"2026-09-15T23:48:00.000Z\",\"answer\":\"The 1500x600 RCBC units and 150 units of 450 RCP are currently in the Applewoods Ln stockpile area. The remaining 450 RCP are to be collected by the contractor from 30 Murrumba Road (off Esk-Kilcoy Road), Esk, QLD, 4312. The contractor is to provide sufficient plant to facilitate movement of RCP to site.\\n\\nYes, unloading and movement fees are to be incorporated into their respective BOQ item no i.e. 1040,1050 or 1060.\\n\\nMaterials will be available immediately upon possession of site being issued.\"},{\"askedAt\":\"2026-09-15T06:33:00.000Z\",\"question\":\"Hi Council Team,\\n\\nCould you please confirm whether only the 450 mm pipes are being supplied by the Principal, or whether the 600 mm pipe associated with Item 1050 in the BOQ is also to be supplied by the Principal?\\n\\nThank you for your clarification.\",\"answeredAt\":\"2026-09-15T23:47:00.000Z\",\"answer\":\"450mm RCP supplied by SRC – refer to RFI discussing current locations of SRC supplied units\\n\\nRCBC 1500x600 culvert units supplied by SRC\\n\\n600mm – supply and install – so they are to be supplied by the Tenderer.\"},{\"askedAt\":\"2026-09-16T01:31:00.000Z\",\"question\":\"Please grant a one-week extension to the close.\",\"answeredAt\":\"2026-09-16T02:51:00.000Z\",\"answer\":\"Unfortunately, we cannot extend the tender period any longer.\"}],\"updates\":[{\"at\":\"2026-09-09T02:48:00.000Z\",\"description\":\"Please note: The following attachments have been recently added.\\n\\n1. Added: \\t Clive St Design TRIA.dwg\\n\\n2. Added: \\t Clive St Existing TRIA.dwg\\n\\nPlease consider these attachments when responding.\"},{\"at\":\"2026-09-17T03:55:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t Typical Rail Detail.pdf\\n\\nPlease consider this attachment when responding.\"}]}",
+        "to": "{\"buyerAddress\":\"2 Redbank St\\nEsk, Queensland 4312\\nAustralia\",\"buyerWebsite\":\"http://www.somerset.qld.gov.au\",\"buyerDescription\":\"Somerset Regional Council\",\"buyerReference\":null,\"opensAt\":\"2026-09-01T14:00:00.000Z\",\"opensAtRaw\":\"Wednesday 02 September 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-09-16T07:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 16 September 2026 05:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-10-20T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 21 October 2026 (E. Australia Standard Time)\",\"background\":\"The Work to be performed under this Contract will include the following:\\n\\n•\\tall associated site works (including site clearing, earthworks, stormwater drainage, pavement, surfacing, landscaping and road furniture works etc) required for the construction of the project.\\n\\n•\\ttraffic management for the duration of the of the works including construction and maintenance of access to the site during construction.\\n\\n•\\ttemporary management and protection of existing public utility plant if required, and.\\n\\n•\\ttesting and quality certification of the project, including provision of quality documentation and as constructed documentation to specification standards.\\n\\nThis project is to be carried out in accordance with Project Drawings and Specifications, Particular Conditions of Contract, General Conditions of Contract AS 2124-1992 including Annexures A and B.\\n\\nAll documentation submitted will be treated as confidential by Council and will be assessed by an evaluation panel under probity.\",\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Brisbane\\n2: Darling Downs\\n3: Gold Coast\\n4: Sunshine Coast\\n5: West Moreton\"],\"publicQuestions\":[{\"askedAt\":\"2026-09-04T04:55:00.000Z\",\"question\":\"HI\\n\\nMay we please request that the Design & Natural Surface CAD files be uploaded for this opportunity.\\n\\nWith thanks\",\"answeredAt\":\"2026-09-09T02:50:00.000Z\",\"answer\":\"Design drawings uploaded.\"},{\"askedAt\":\"2026-09-07T04:30:00.000Z\",\"question\":\"Good Afternoon,\\n\\nCan you please advise the below?\\n\\nQ1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\\n\\nQ2. Can we get the design model for the project so we can check quantities etc?\",\"answeredAt\":\"2026-09-08T01:11:00.000Z\",\"answer\":\"Q1. Do we assume that all the trees within the road reserve are to be removed to allow the earthworks to occur?\\n\\nYes – Tenderers to allow for this in item 220. This item is to be changed to Lump Sum – quantity 1. All clearing are to be sufficient to complete the works as per design.\"},{\"askedAt\":\"2026-09-08T03:27:00.000Z\",\"question\":\"Is the any approved temporary topsoil stockpile area for item 210, including available capacity and access. If off-site storage is required, please confirm the location so cartage and rehandling can be priced.\",\"answeredAt\":\"2026-09-08T20:12:00.000Z\",\"answer\":\"Nearby stockpile sites are Applewoods Ln (-27.465089, 152.647849) and Theuerkaufs Rd (-27.483098, 152.660860). There will be minimal area to store onsite so majority will be at either of these stockpile sites. These sites are both unrestricted and have reasonable capacity. Applewoods site does have large amount of culverts already there.\"},{\"askedAt\":\"2026-09-08T22:17:00.000Z\",\"question\":\"As the revised scope now requires the removal of all trees within the road reserve, a DBYD enquiry has been completed. However, without the underground services being physically located, complete stump removal may present a risk of damaging existing infrastructure.\\n\\nWhere a stump cannot be safely removed, will Council accept it being ground below the finished surface level?\",\"answeredAt\":\"2026-09-09T02:38:00.000Z\",\"answer\":\"The preferred method is complete stump removal, however where they may be clashes with underground services, stump grinding to a reasonable level below FSL will be acceptable. This will be on a case-by-case basis and will require approval from Somerset Regional Council before proceeding.\"},{\"askedAt\":\"2026-09-08T23:56:00.000Z\",\"question\":\"Can we get the design model for the project if possible so we can check quantities etc?\",\"answeredAt\":\"2026-09-09T02:50:00.000Z\",\"answer\":\"Design drawings uploaded.\"},{\"askedAt\":\"2026-09-09T05:02:00.000Z\",\"question\":\"Please confirm whether Council has any nominated or approved disposal sites for the following materials generated by the works:\\n\\nExcavated spoil, including soil and unsuitable material.\\n\\nConcrete waste arising from the demolition of existing infrastructure.\\n\\nIf nominated sites are available, please provide their locations and confirm any applicable disposal fees, material acceptance requirements, testing requirements and quantity restrictions.\\n\\nIf Council does not have nominated disposal sites, please confirm that the Contractor is to allow for disposal at a suitably licensed facility.\",\"answeredAt\":\"2026-09-10T03:57:00.000Z\",\"answer\":\"There is no ‘nominated’ refuse centre for this project. The contractor may nominate and price according to their preferred disposal site. With this in mind, Council’s Esk Refuse and Recycling Centre and Landfill is located at 30 Murrumba Road, Esk. The contractor may use this centre if they so choose.\\n\\nFees and Charges for disposal of items are given in Register of Cost-Recovery Fees and Schedule of Fees and Charges under Somerset Regional Council’s Publication Scheme. For further restrictions – the best way would be to contact them directly (07) 5424 2976.\\n\\nThe contractor is responsible for complying with all applicable fireant bio security requirements – in particular the requirements surrounding the movement of excavated soil, imported fill as well as any other potential carrier material for fireants. Where material cannot be moved to the Esk Landfill or is not accepted by the refuse facility, the contractor is to allow for disposal at a suitably licensed facility.\"},{\"askedAt\":\"2026-09-10T03:20:00.000Z\",\"question\":\"Hi\\n\\nRFI# 2 -\\n\\nAll the Kerb Inlet Pits refer to DTMR Std Dwg SD1311 which calls for an insitu Gully pit construction.\\n\\nThe average depth of the gully pits is 1.7mts ranging from 1.9 to 1.52..\\n\\nThe BOQ states Supply and Install Lintel and Pit - precast storm water 900*900*1.5m with S Type 2.4m grated kerb inlet lintel.\\n\\nCould you please clarify whether the gully pits are to be cast in situ as per DTMR Std Dwg SD1311 or precast gully pits?\\n\\nWith thanks\",\"answeredAt\":\"2026-09-10T20:14:00.000Z\",\"answer\":\"Please ensure all pits are constructed as per DTMR SD1311 (cast-insitu). Please disregard the ‘precast’ description written in BOQ for item 1070.\"},{\"askedAt\":\"2026-09-10T23:22:00.000Z\",\"question\":\"Drawing 2024-NKT-SRC-DR-006 states that “2 No. 1500mm wide × 600mm high RCBC” are to be extended by approximately 10m.\\n\\nCould Council please confirm:\\n\\nAre these two RCBC cells installed side-by-side?\\n\\nIs one headwall with two wingwalls required at the outlet only, or are headwalls and wingwalls required at both ends?\",\"answeredAt\":\"2026-09-15T20:21:00.000Z\",\"answer\":\"1.\\tYes the RCBC are twin 1500 x 600 culverts.\\n\\n2.\\tNew headwalls and wingwalls are required at the outlet only.\"},{\"askedAt\":\"2026-09-11T00:22:00.000Z\",\"question\":\"Good morning\\n\\nRFI# 3 - Could you please clarify the below regarding earthwork's quantities.\\n\\nAfter reviewing the existing and design dwg files received on the 9/9/26 the volume of earthworks quantities from the dwg files differs significantly for the quantities in the BOQ RFT_1449-BOQ_and_Dayworks_Schedule_Rev_.\\n\\nPlease supply design strings for the project so we can confirm the quantities to our satisfaction and confirm that the dwg files include the full extent of the works.\\n\\nWith thanks\",\"answeredAt\":\"2026-09-22T21:57:00.000Z\",\"answer\":\"This was addressed with the design files that have been uploaded.\"},{\"askedAt\":\"2026-09-14T04:04:00.000Z\",\"question\":\"1. Pedestrian refuge island – holding rail (Drawing 2024-NKT-SRC-DR-021)\\n\\nDrawing 2024-NKT-SRC-DR-021 shows a holding rail on the pedestrian refuge island, however no specification or details for the rail are provided in the drawings or the BOQ (BOQ Item 940 – \\\"Supply and install Refuge Islands complete with edge restraint and paving blocks\\\" does not mention the rail).\\n\\nCould Council please provide:\\n\\n(a) The specification and details for the holding rail – rail type/profile, material and finish (e.g. galvanised steel pipe, powder-coated), height, post spacing, footing/fixing details and any applicable standard drawing (TMR SD, IPWEAQ or SRC) or product reference.\\n\\n(b) Confirmation of which BOQ item the holding rail is to be priced under (Item 940 or a new item under 1300 – Misc).\\n\\n(c) Whether the refuge island (kerb/edge restraint and holding rail) may be supplied as a proprietary precast/prefabricated pedestrian refuge unit in lieu of the cast-in-situ edge restraint shown, provided it meets the dimensions and pedestrian standards shown on the drawings.\\n\\n2. Pedestrian refuge island – pavers\\n\\nIf a precast unit is not acceptable, could Council please provide details of the paving blocks for the infill of the refuge island – paver type, size, thickness, colour/finish, laying pattern, bedding and jointing requirements – as these are not specified on the drawings or in the BOQ. Please also confirm whether the same paver details apply to the traffic island with ER2 edge restraint on Detail 1, Drawing 2024-NKT-SRC-DR-013 (\\\"infill traffic island with pavers on 35 mm compacted sand\\\").\\n\\n3. Edge restraint ER2 (Drawing 2024-NKT-SRC-DR-013, Detail 1)\\n\\nStandard Drawing SRC-ROAD-011 shows ER2 as a cast-in-situ 230 x 230 mm reinforced concrete edge restraint. Please confirm whether Council will accept an equivalent precast concrete kerb unit for the ER2 edge restraint around the traffic island.\\n\\n4. BOQ earthworks quantities (Section 300)\\n\\nCould Council please confirm the following quantities in the Bill of Quantities Rev 1, and the basis on which they have been measured:\\n\\nItem\\tDescription\\tUnit\\tBOQ Qty\\n\\n310\\tExcavation to roadways and open drains (smaller projects)\\tm³\\t1,697\\n\\n320\\tEmbankment to roadways and allotments\\tm³\\t10,080\\n\\n330\\tImport select fill\\tm³\\t8,383\\n\\n340\\tExcavation to spoil\\tm³\\t849\\n\\nIn particular:\\n\\n(a) Please confirm the embankment quantity of 10,080 m³ (Item 320) is correct for the extent of widening shown on the drawings, and whether it is measured as compacted in-place volume.\\n\\n(b) Please confirm whether Item 320 (10,080 m³) is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330, or whether the imported fill is additional to the embankment quantity.\\n\\n(c) Please confirm whether Item 340 – Excavation to spoil (849 m³) is included in or additional to Item 310, and whether Council will nominate a spoil disposal site or the Contractor is to dispose off-site.\\n\\n(d) Please confirm the specification for \\\"select fill\\\" under Item 330 (e.g. MRTS04 Type / CBR requirement) and whether the 1,786 m³ of topsoil under Item 210 is to be respread within the embankment areas or the footpath/allotment areas only.\\n\\n(e) Please confirm whether these quantities are Provisional Quantities to be remeasured, or form part of the Lump Sum.\",\"answeredAt\":\"2026-09-17T03:53:00.000Z\",\"answer\":\"1. - Refer attachment\\n\\n(a) See below typical details for holding rail. They are to be bolted on a 130 x 130 x 5mm square base plate with 4 x 13mm holes. Pipe to be 50mm galvanised.\\n\\n(b) Please price is within Item 940\\n\\n(c) Utilising precast kerb/edge restraint is acceptable.\\n\\n2.\\n\\nPrecast unit is considered acceptable\\n\\n3.\\n\\nPrecast Edge restraint is considered acceptable.\\n\\n4.\\n\\nAttached is updated models and strings for verifications/quantity checks.\\n\\n(a) Item 320 is to be placed uncompacted. Please use attached design strings for verifications if required.\\n\\n(b) Item 320 is the total placed volume, comprising the 1,697 m³ of cut from Item 310 plus the 8,383 m³ of imported select fill from Item 330.\\n\\n(c) Item 340 is additional to item 310. Refer to previous RFI outlining nominated disposal sites.\\n\\n(d) Item 210 is to be respread within the embankment areas and footpath. To be general fill material, i.e. CBR 3% or lower.\\n\\n(e) Except for items specifically named Provisional, all are part of Lump Sum.\"},{\"askedAt\":\"2026-09-15T06:10:00.000Z\",\"question\":\"Particular Conditions Clause 4 and BoQ items 1040 and 1060 note the 450 mm RCP and the RCBC culvert units are supplied by SRC. The documents do not say how these are made available, so we ask Council to confirm:\\n\\nWill Council deliver these materials to site, or is the Contractor to collect them? If collection, please nominate the location and confirm loading facilities are available.\\n\\nAre unloading, storage and protection on site to be included in the rates for items 1040 and 1060?\\n\\nWhen will the materials be available relative to possession of site?\",\"answeredAt\":\"2026-09-15T23:48:00.000Z\",\"answer\":\"The 1500x600 RCBC units and 150 units of 450 RCP are currently in the Applewoods Ln stockpile area. The remaining 450 RCP are to be collected by the contractor from 30 Murrumba Road (off Esk-Kilcoy Road), Esk, QLD, 4312. The contractor is to provide sufficient plant to facilitate movement of RCP to site.\\n\\nYes, unloading and movement fees are to be incorporated into their respective BOQ item no i.e. 1040,1050 or 1060.\\n\\nMaterials will be available immediately upon possession of site being issued.\"},{\"askedAt\":\"2026-09-15T06:33:00.000Z\",\"question\":\"Hi Council Team,\\n\\nCould you please confirm whether only the 450 mm pipes are being supplied by the Principal, or whether the 600 mm pipe associated with Item 1050 in the BOQ is also to be supplied by the Principal?\\n\\nThank you for your clarification.\",\"answeredAt\":\"2026-09-15T23:47:00.000Z\",\"answer\":\"450mm RCP supplied by SRC – refer to RFI discussing current locations of SRC supplied units\\n\\nRCBC 1500x600 culvert units supplied by SRC\\n\\n600mm – supply and install – so they are to be supplied by the Tenderer.\"},{\"askedAt\":\"2026-09-16T01:31:00.000Z\",\"question\":\"Please grant a one-week extension to the close.\",\"answeredAt\":\"2026-09-16T02:51:00.000Z\",\"answer\":\"Unfortunately, we cannot extend the tender period any longer.\"}],\"updates\":[{\"at\":\"2026-09-09T02:48:00.000Z\",\"description\":\"Please note: The following attachments have been recently added.\\n\\n1. Added: \\t Clive St Design TRIA.dwg\\n\\n2. Added: \\t Clive St Existing TRIA.dwg\\n\\nPlease consider these attachments when responding.\"},{\"at\":\"2026-09-17T03:55:00.000Z\",\"description\":\"Please note: The following attachment has been recently added.\\n\\n1. Added: \\t Typical Rail Detail.pdf\\n\\nPlease consider this attachment when responding.\"}]}",
+        "at": "2026-09-22T22:28:49.427Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "b2dacf9c421f4107b40a16cd9003d280",
     "source": "vendorpanel",
     "reference": "VP520239",
@@ -14341,6 +15129,62 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "b9e5510a0a0a4beeb72904f4f5aec861",
+    "source": "vendorpanel",
+    "reference": "VP522767",
+    "title": "QBNQ440BLD1-Design and Installation New Playground Shade Structure-SUNSET STATE SCHOOL",
+    "description": "QBNQ440BLD1 – Carry out Design and Installation of New Playground and Shade Structure- SUNSET STATE SCHOOL, ABEL SMITH PDE MOUNT ISA QLD 4825\n\nPricing: 80 points\n\nNon Price Criteria: 20 points (Methodology and Program, Local Benefits, Support of Social Enterprise)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: Within 6 weeks of acceptance\n\nDate for Practical Completion: Within 16 weeks from acceptance\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/ under reference number QBNQ440BLD1",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-26T23:49:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b9e5510a0a0a4beeb72904f4f5aec861s522767s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "9-15 Langton St\nGarbutt, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "QBNQ440BLD1",
+      "opensAt": "2026-08-26T14:00:00.000Z",
+      "opensAtRaw": "Thursday 27 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-17T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 17 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-13T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 14 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-02T02:31:00.000Z",
+          "question": "1. Shade Structure and Heat Considerations\n\nWill heat mitigation and thermal performance need to be considered in the design of the shade structure? Please confirm whether a hard-roof structure, such as insulated roof panels, is preferred or whether a shade-sail-style structure would be suitable.\n\n2. Ground Preparation\n\nAs the proposed structure will be constructed on previously undeveloped ground, please confirm whether a new substrate, such as a compacted gravel base, is required before construction begins.\n\n3. Finished Ground Level and Drainage\n\nPlease confirm whether the substrate or finished ground level needs to be raised to minimize the risk of surface-water ingress and provide adequate drainage.",
+          "answeredAt": "2026-09-02T05:12:00.000Z",
+          "answer": "Please refer to Addendum 001 previously issued through eTender"
+        },
+        {
+          "askedAt": "2026-09-03T02:41:00.000Z",
+          "question": "Hi it seems not all documents are uploaded. i can only access the Request summary report.\n\nIs there another way to access the files.\n\nthankyou Robert\n\nJKR Group",
+          "answeredAt": "2026-09-03T03:25:00.000Z",
+          "answer": "Tender documents are to be downloaded from eTender https://etender.hpw.qld.gov.au/"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "bacb05d8e6144e45bde625f52847875b",
@@ -15553,6 +16397,56 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "ca9c67c7b68f4565b87a58d9828a4ff2",
+    "source": "vendorpanel",
+    "reference": "VP524792",
+    "title": "CN-27585 - North Queensland Region - North West District - Weed Management - Various Locations",
+    "description": "The Department of Transport and Main Roads (TMR) is seeking to engage a suitable supplier to undertake weed control activities on the state-controlled road network in North West District, to fulfill our obligations as a landholder under the Biosecurity Act 2014.\n\nThis invitation contains two packages of work identified as follows:\n\nPackage 1 - Northern - Project extents: Burke and Carpentaria Shire Council areas\n\nPackage 2 - Southern - Project extents: Flinders, Richmond, McKinlay, Cloncurry and Mt Isa Shire Council areas\n\nTenders are to be submitted electronically on VendorPanel (this site). Please note this is a private tender opening.",
+    "buyer": "Department of Transport and Main Roads - North Qld",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T23:22:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=ca9c67c7b68f4565b87a58d9828a4ff2s524792sd0ec39275abc414a892a71ca27442204s1574",
+    "vendorPanelDetails": {
+      "buyerAddress": "Ramsay St\nCloncurry, Queensland 4824\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's Program Delivery & Operations branch - North Queensland Region.",
+      "buyerReference": "CN-27585",
+      "opensAt": "2026-09-08T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 09 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-21T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 21 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": "Refer Invitation Documents",
+      "desiredOutcomes": "Refer Invitation documents",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: North West"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-09T04:26:33.566Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Department of Transport and Main Roads (TMR) is seeking to engage a suitable supplier to undertake weed control activities on the state-controlled road network in North West District, to fulfill our obligations as a landholder under the Biosecurity Act 2014. \n\nThis invitation contains two packages of work identified as follows:\n\nPackage 1 - Northern - Project extents: Burke and Carpentaria Shire Council areas\n\nPackage 2 - Southern - Project extents: Flinders, Richmond, McKinlay, Cloncurry and Mt Isa Shire Council areas\n\nTenders are to be submitted electronically on VendorPanel (this site). Please note this is a private tender opening.",
+        "to": "The Department of Transport and Main Roads (TMR) is seeking to engage a suitable supplier to undertake weed control activities on the state-controlled road network in North West District, to fulfill our obligations as a landholder under the Biosecurity Act 2014.\n\nThis invitation contains two packages of work identified as follows:\n\nPackage 1 - Northern - Project extents: Burke and Carpentaria Shire Council areas\n\nPackage 2 - Southern - Project extents: Flinders, Richmond, McKinlay, Cloncurry and Mt Isa Shire Council areas\n\nTenders are to be submitted electronically on VendorPanel (this site). Please note this is a private tender opening.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
     "id": "cb09796fa7e74b2687530c0b1d78b4e4",
     "source": "vendorpanel",
     "reference": "VP522794",
@@ -15961,6 +16855,97 @@
       }
     ],
     "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "d1017181235a4cdc9d55ea040dd3dc72",
+    "source": "vendorpanel",
+    "reference": "VP522246",
+    "title": "Construction (Shire Hall Upgrade) - re-issue",
+    "description": "Cook Shire Council invites Tenders from suitably qualified Tenderers for the construction of a new ablution block, covered access pathway, ramp and/or carpark works at the Shire Hall, Cooktown as described in more detail in Part 5 – Scope.\n\nThe Works generally include:\n\n•\tDemolition and removal of the existing ablution block and existing access walkway, including disposal of materials off-site;\n\n•\tConstruction of a new ablution block;\n\n•\tConstruction of accessible covered access pathways and ramps;\n\n•\tCarpark, drainage and associated civil works;\n\n•\tAssociated building, structural, hydraulic, electrical and ancillary works required to complete the project.\n\nSeparate pricing is required for each project element including:\n\n•\tAblution Block;\n\n•\tPathway/Ramp Works; and\n\n•\tCarpark Works.\n\nAll works are to be completed in accordance with the attached plans, specifications and consultant documentation.\n\nThe successful contractor shall work alongside and coordinate with Council’s Project Management Team throughout the duration of the project.\n\nThe site is a recognised heritage site. Contractors shall comply with all applicable heritage requirements and restrictions during the course of the works.\n\nCook Shire Council will obtain the required heritage exemptions and statutory building approvals associated with the project.\n\nThe project will need to be completed by no later than 30 June 2028.",
+    "buyer": "Cook Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T04:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-25T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d1017181235a4cdc9d55ea040dd3dc72s522246",
+    "vendorPanelDetails": {
+      "buyerAddress": "10 Furneaux St\nCooktown, Queensland 4895\nAustralia",
+      "buyerWebsite": "http://www.cook.qld.gov.au/",
+      "buyerDescription": "Cook Shire is the largest land area shire in Queensland. From the Bloomfield River in the south to just north of the Jardine River, it covers more than 100,000km2 and occupies 80 per cent of Cape York Peninsula.\n\nCook Shire is a vibrant area, from the main township of Cooktown to smaller outlying communities rich in indigenous history, agriculture, tourism and arts. About half of the Shire's 5000-strong population live in Cooktown, on the banks of the Endeavour River, with the remainder spread between the smaller population centres of Marton, Laura, Lakeland, Coen, Ayton, Rossville, Portland Roads and offshore islands including Lizard Island.\n\nDue to Cook Shire's commitment to open and effective competition and value for money, we will regularly call for tenders, expressions of interest or request for quotes on projects of lesser value to ensure the best contractor is sourced, locally where possible.",
+      "buyerReference": "RFT T07425",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-23T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 23 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 04 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-03T05:04:00.000Z",
+          "question": "Q1. Is there a Schedule of Plumbing Fixtures?\n\nQ2. Extent of concrete pathways - varying scope between structural, civil and architectural.",
+          "answeredAt": "2026-09-04T03:20:00.000Z",
+          "answer": "Please refer to Notice to Tenderers #1 which has been uploaded"
+        },
+        {
+          "askedAt": "2026-09-16T02:51:00.000Z",
+          "question": "1. Can you advise the FW-1 & FW-2 Floor Wastes required?\n\n2. The 746200W suite is obsolete. Please confirm new model and confirm if the suites required will be bottom inlet or back entry?\n\n3. Please advise the urinal and flushing system required? The schedule calls for a 678655W & Invisi urinal cistern and the hydraulic drawing notes ceiling mounted flushing system?\n\n Architecturals do not show flush buttoms for the urinal with Invisi cisterns?",
+          "answeredAt": "2026-09-17T05:34:00.000Z",
+          "answer": "1.\tFW-1 x 1of (in Cleaners), and provide FW-2 x 3 of. (ie. Male/ Female/ PWD) - provide all 316 S/Steel (including all IO's).\n\n2.\tNew model = 746350W - Caroma Urbane® II CleanFlush® Wall Faced Close Coupled Toilet Suite (Back inlet) with GermGard\n\n3.\tDelete specified ''678655W & Invisi urinal cistern'', and provide ceiling mounted flushing system to be Zip Flushmaster MK II (WS003) with 128dia. Ceiling mounted sensor."
+        },
+        {
+          "askedAt": "2026-09-17T06:51:00.000Z",
+          "question": "(1) Please identify the Contract and supporting annexure in the documents\n\n(2) Please confirm the extent of the concrete pathways to be constructed in this scope of work. Are the pathways identified at the front of the buildings stairs to be constructed or as per the structural drawings or as per the civil drawings?",
+          "answeredAt": "2026-09-18T05:46:00.000Z",
+          "answer": "1. A copy of the contract has been uploaded to the portal.\n\n2. For this scope we were specifically after the covered walk way and ablution only."
+        },
+        {
+          "askedAt": "2026-09-21T21:41:00.000Z",
+          "question": "Good morning\n\nCan you please confirm if this tender re-issue requires pricing for the three project elements:\n\n1. Ablution Block;\n\n2. Pathway/Ramp Works; and\n\n3. Carpark Works.\n\nOR just the ablution block and Pathway/Ramp works\n\nThank you",
+          "answeredAt": "2026-09-21T22:03:00.000Z",
+          "answer": "Just the ablution block and pathway/ramp works please"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-04T03:21:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) T07425-Construction_(Shire_Hall_Upgrade) - Notice to Tenderers #1.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-18T05:47:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) T07425 - Construction (Shire Hall Upgrade) - Contract (Construct Only).pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Cook Shire Council invites Tenders from suitably qualified Tenderers for the construction of a new ablution block, covered access pathway, ramp and/or carpark works at the Shire Hall, Cooktown as described in more detail in Part 5 – Scope. \n\nThe Works generally include:\n\n•\tDemolition and removal of the existing ablution block and existing access walkway, including disposal of materials off-site;\n\n•\tConstruction of a new ablution block;\n\n•\tConstruction of accessible covered access pathways and ramps;\n\n•\tCarpark, drainage and associated civil works;\n\n•\tAssociated building, structural, hydraulic, electrical and ancillary works required to complete the project.\n\nSeparate pricing is required for each project element including:\n\n•\tAblution Block;\n\n•\tPathway/Ramp Works; and\n\n•\tCarpark Works.\n\nAll works are to be completed in accordance with the attached plans, specifications and consultant documentation.<br ...",
+        "to": "Cook Shire Council invites Tenders from suitably qualified Tenderers for the construction of a new ablution block, covered access pathway, ramp and/or carpark works at the Shire Hall, Cooktown as described in more detail in Part 5 – Scope.\n\nThe Works generally include:\n\n•\tDemolition and removal of the existing ablution block and existing access walkway, including disposal of materials off-site;\n\n•\tConstruction of a new ablution block;\n\n•\tConstruction of accessible covered access pathways and ramps;\n\n•\tCarpark, drainage and associated civil works;\n\n•\tAssociated building, structural, hydraulic, electrical and ancillary works required to complete the project.\n\nSeparate pricing is required for each project element including:\n\n•\tAblution Block;\n\n•\tPathway/Ramp Works; and\n\n•\tCarpark Works.\n\nAll works are to be completed in accordance with the attached plans, specifications and consultant documentation.\n\nThe successful contractor shall work alongside and coordinate with Council’s Project Management Team throughout the duration of the project.\n\nThe site is a recognised heritage site. Contractors shall comply with all applicable heritage requirements and restrictions during the course of the works.\n\nCook Shire Council will obtain the required heritage exemptions and statutory building approvals associated with the project.\n\nThe project will need to be completed by no later than 30 June 2028.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-09-18T22:00:51.010Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "d26904d544d84089adaadfb006081b69",
@@ -18557,6 +19542,56 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-13T21:53:54.962Z"
+  },
+  {
+    "id": "f7eb565527b547a9b39ab0af2aa9989d",
+    "source": "vendorpanel",
+    "reference": "VP523896",
+    "title": "Ports North Tingira Street – 2026 Surcharge Relocation and Gravel Pavement Works",
+    "description": "Far North Queensland Ports Corporation Limited, trading as Ports North (PN) is a government-owned Corporation established under the Government Owned Corporations Act 1993 (Qld) that develops and manages Port facilities. PN operates the Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown.\n\nPorts North invites Tenders from Civil Construction Contractors for a project in the Port of Cairns. The project’s scope of work includes the relocation two separate surcharge stockpiles and the repair and augmentation of pavement gravel to an existing storage yard.",
+    "buyer": "Far North Queensland Ports Corporation Ltd",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-23T06:00:00.000Z",
+    "closingAtRaw": "23/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T06:46:00.000Z",
+    "contact": null,
+    "documentCount": 14,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=f7eb565527b547a9b39ab0af2aa9989ds523896s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Hartley St\nCairns City, Queensland 4870\nAustralia",
+      "buyerWebsite": "https://www.portsnorth.com.au/",
+      "buyerDescription": "Ports North is responsible for the development and management of the declared Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown. We are committed to supporting economic growth of Far North Queensland, through the movement of cargo bound for domestic and international markets. We believe Ports North not only connects the communities of Far North Queensland to each other, but we also connect Far North Queensland to the world.",
+      "buyerReference": "CNS 26-15-01",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-16T06:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 16 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 07 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Far North Queensland Ports Corporation Limited, trading as Ports North (PN) is a government-owned Corporation established under the Government Owned Corporations Act 1993 (Qld) that develops and manages Port facilities. PN operates the Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown. \n\n \n\nPorts North invites Tenders from Civil Construction Contractors for a project in the Port of Cairns. The project’s scope of work includes the relocation two separate surcharge stockpiles and the repair and augmentation of pavement gravel to an existing storage yard.",
+        "to": "Far North Queensland Ports Corporation Limited, trading as Ports North (PN) is a government-owned Corporation established under the Government Owned Corporations Act 1993 (Qld) that develops and manages Port facilities. PN operates the Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown.\n\nPorts North invites Tenders from Civil Construction Contractors for a project in the Port of Cairns. The project’s scope of work includes the relocation two separate surcharge stockpiles and the repair and augmentation of pavement gravel to an existing storage yard.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
     "id": "fa633ba077384f358a9b8f57b83c11cd",
