@@ -55,6 +55,33 @@
     "archivedAt": "2026-09-10T22:02:21.264Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/0f4f9cda-1973-4b45-bfd1-b571860c0ed8",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/0f4f9cda-1973-4b45-bfd1-b571860c0ed8",
+    "reference": "PROC-9177459",
+    "title": "Southern Region pulse research, demonstration, and extension",
+    "description": "GRDC is investing in a new Southern Region investment to improve the profitability and adoption of pulse crops within farming systems. Pulses are already an important component of these systems, with recent growth driven by lentil production in Victoria and South Australia and expansion into new environments. However, as pulse intensity increases, constraints such as soil acidity and subsoil limitations, herbicide resistance and residue risks, greater disease pressure under tighter pulse sequences, and seasonal variability are becoming more prominent. These challenges, along with emerging opportunities, are identified in GRDC’s pulse crop improvement plans. To address them, the investment will use a regional “hub and spoke” model that combines rigorous field research with practical, paddock-scale learning. Hub sites will target key knowledge gaps, while spoke sites will deliver locally relevant trials, demonstrations, field days and workshops that support growers and advisers and generate high-quality industry datasets. The Regional Pulse Advisory Committee and relevant grower and adviser networks will help set annual priorities for each agroecological zone, supported by expertise from the National Pulse Coordination and Strategy Program in agronomy, crop protection, rhizobia, soils, trial design, data analysis, extension and markets. This approach will retain the flexibility to respond as regional priorities and opportunities evolve.",
+    "publishedAt": "2026-08-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": "SA",
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Brianna Oram\nEmail Address:\ntenders@grdc.com.au",
+      "name": "Brianna Oram",
+      "email": "tenders@grdc.com.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/127e73bb-3604-4e21-a246-6b775eaefe21",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/127e73bb-3604-4e21-a246-6b775eaefe21",
     "reference": "S-EST10699",
@@ -299,6 +326,33 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/80af1297-ddf0-4fc2-88ff-a5b380dc2055",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/80af1297-ddf0-4fc2-88ff-a5b380dc2055",
+    "reference": "PROC-9177472",
+    "title": "Northern Region pulse research, demonstration and extension (Southern to Central NSW)",
+    "description": "GRDC is investing in a regionally relevant pulse research, demonstration and extension program across southern and central NSW to improve the profitability, reliability and adoption of priority pulse crops in farming systems. The investment will generate locally relevant field trial and demonstration data, address key agronomic constraints and opportunities with growers and advisers, and deliver practical extension to support decisions on pulse fit, crop and variety choice, establishment, nutrition, pest, disease and weed management, harvestability, grain quality and farming system integration. Delivery will use a hub-and-spoke model and link with GRDC’s national pulse coordination, monitoring and evaluation activities to ensure regional work is aligned with broader pulse research, breeding, market and farming systems priorities.",
+    "publishedAt": "2026-08-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": "NSW",
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Brianna Oram\nEmail Address:\ntenders@grdc.com.au",
+      "name": "Brianna Oram",
+      "email": "tenders@grdc.com.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e",
     "reference": "ASD-COM-2026-35",
@@ -530,6 +584,33 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/b53a99b1-78d2-40f4-af70-cd662d77b922",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/b53a99b1-78d2-40f4-af70-cd662d77b922",
+    "reference": "PROC-9177473",
+    "title": "Northern Region pulse research, demonstration and extension (Northern NSW to Central QLD)",
+    "description": "GRDC is investing in a regionally relevant pulse research, demonstration and extension program across northern NSW and Queensland to improve the profitability, reliability and adoption of priority pulse crops in northern farming systems. The investment will generate locally relevant field trial and demonstration data, address key agronomic constraints and opportunities with growers and advisers, and deliver practical extension to support decisions on pulse fit, crop and variety choice, establishment, nutrition, pest, disease and weed management, harvest logistics, grain quality and farming system integration. Delivery will use a hub-and-spoke model and link with GRDC’s national pulse coordination, monitoring and evaluation activities to ensure regional work is aligned with broader pulse research, breeding, market and farming systems priorities.",
+    "publishedAt": "2026-08-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Brianna Oram\nEmail Address:\ntenders@grdc.com.au",
+      "name": "Brianna Oram",
+      "email": "tenders@grdc.com.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c",
     "reference": "PROC-15895",
@@ -555,6 +636,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-09-09T22:04:31.613Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/d2384014-438a-434e-93c5-6b1a5b2cc3d3",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/d2384014-438a-434e-93c5-6b1a5b2cc3d3",
+    "reference": "PROC-9177458",
+    "title": "Western Region pulse research, demonstration, and extension",
+    "description": "GRDC is proposing a new Western Region investment to help more growers profitably include pulse crops in their farming systems. Pulses such as lupins, lentils, chickpeas and faba beans improve rotations, add nitrogen and support more diverse, profitable systems, yet adoption in Western Australia remains limited by practical barriers around establishment, weed and disease management, harvestability, market access, storage and confidence in local performance. The investment proposes a regional \"hub and spoke\" model that links practical paddock-scale learning with rigorous field research, with hub sites addressing key knowledge gaps and spoke sites delivering locally relevant trials, demonstrations, field days and workshops that benefit growers and advisers while generating quality datasets for industry. Local grower groups, advisers and stakeholders will shape annual priorities for each agro-ecological zone, drawing on the National Pulse Coordination and Strategy program for expertise in agronomy, crop protection, rhizobia, soils, trial design, data analysis, extension and markets, with flexibility to adjust as opportunities change. By 2032, the investment aims to equip Western Region growers and advisers with the knowledge and confidence to increase pulse production and improve gross margins, strengthening pulse agronomy capability in Western Australia and leaving a better-connected legacy of trial results, resources and practical guidance.",
+    "publishedAt": "2026-08-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": "WA",
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Brianna Oram\nEmail Address:\ntenders@grdc.com.au",
+      "name": "Brianna Oram",
+      "email": "tenders@grdc.com.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/d356a65c-0769-4ca8-9a5c-e0bba6ca1417",
@@ -842,6 +950,33 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/e85efc98-5bfb-4dde-8ef9-03918129df25",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/e85efc98-5bfb-4dde-8ef9-03918129df25",
+    "reference": "DFAT/SXD/AICF",
+    "title": "Australia-India CEO Forum – Secretariat Services",
+    "description": "The Commonwealth of Australia, represented by the Department, requires the services of a suitably qualified and experienced service provider to provide secretariat services for the Australia-India CEO Forum.\nDFAT manages the Australia-India CEO Forum, which is the premier high level business forum between Australia and India. It connects the experience and expertise of leading CEOs from Australia and India to grow the bilateral economic relationship. CEO Forum meetings typically coincide with meetings of Australian and Indian Prime Ministers and Trade Ministers. The Forum last convened during Prime Minister Modi’s visit to Australia in July 2026.",
+    "publishedAt": "2026-09-04T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Foreign Affairs and Trade",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80160000 - Business administration services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "India Outreach Section\nEmail Address:\nIndia.Outreach@dfat.gov.au",
+      "name": "India Outreach Section",
+      "email": "India.Outreach@dfat.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/f15f6f40-7f54-44cb-ba89-f630cb446374",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/f15f6f40-7f54-44cb-ba89-f630cb446374",
     "reference": "PROC0018432",
@@ -867,6 +1002,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-09-18T22:00:51.010Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/f6f26f14-d9b7-48ea-911d-baf44d19d37e",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/f6f26f14-d9b7-48ea-911d-baf44d19d37e",
+    "reference": "PROC-9177471",
+    "title": "The National Pulse Expansion, Improvement, and Adoption Program - National Coordination and Strategy Function",
+    "description": "This procurement seeks a suitably qualified applicant to establish and deliver the National Coordination and Strategy Function for the National Pulse Expansion, Improvement and Adoption Program. The successful provider will work with the Regional Pulse RD&E to baseline adoption, understand barriers and drivers of adoption and set strategic evidence-based adoption targets for key pulses in each agroecological zone. The provider will coordinate national meetings and support Regional pulse RD&E projects with reporting processes and plans as well as drive the two-way sharing of information and key learnings between the Regional pulse RD&E projects and other key GRDC investments in pulses. This coordination role will ensure that regional activities contribute to the nationally coordinated outcome of improving the profitability and adoption of pulse crops across Australian grain-growing regions.",
+    "publishedAt": "2026-08-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29-Sep-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Brianna Oram\nEmail Address:\ntenders@grdc.com.au",
+      "name": "Brianna Oram",
+      "email": "tenders@grdc.com.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/fa8d0d11-f7c0-4034-9728-f1d819ad1fb5",
@@ -3675,6 +3837,91 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "00edb5563a0a4b96a68fdcdcdc340c64",
+    "source": "vendorpanel",
+    "reference": "VP524582",
+    "title": "Winton Memorial Swimming Pool Management Agreement",
+    "description": "Winton Shire Council invites tenders from suitably qualified tenderers for the day-to-day management, operation, supervision, and administration of the Winton Memorial Swimming Pool Complex, including the 25m main pool, learn-to-swim pool, toddler pool, aquatic playground, amenities, kiosk/entry building, and associated plant and chemical storage facilities.",
+    "buyer": "Winton Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Community & Social Services",
+      "Real Estate & Property Services",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T00:31:00.000Z",
+    "contact": null,
+    "documentCount": 11,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=00edb5563a0a4b96a68fdcdcdc340c64s524582",
+    "vendorPanelDetails": {
+      "buyerAddress": "8 Distribution Ct\nArundel, Queensland 4214\nAustralia",
+      "buyerWebsite": "https://www.winton.qld.gov.au/Home",
+      "buyerDescription": "The Shire of Winton is a local government area in Central West Queensland, Australia. It covers an area of 62,000.7 square kilometres (23,938.6 sq mi), and has existed as a local government entity since 1887. Its administrative centre is located in the town of Winton. It is named after Winton, Dorset, England, the birthplace of Robert Allen, the first white settler in the Winton (Queensland) area.",
+      "buyerReference": "WSCT-2627-01",
+      "opensAt": "2026-09-07T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 08 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-29T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 29 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-12T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 13 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West\n2: Darling Downs\n3: Far North\n4: Mackay\n5: North West\n6: Northern\n7: South West"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-09T05:20:00.000Z",
+          "description": "Please note: The following attachment was corrupted and has now been replaced.\n\n1. Added: \t Part D - WSCT-2627-01 - Contract - Services (Fixed Term Engagement).pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-10T06:09:00.000Z",
+          "description": "Please note the following changes and see the Addendum\n\n1. Added: \t Part A - WSCT-2627-01 - Request for Tender - Pool Management.pdf\n\n2. Added: \t Part D - WSCT-2627-01 - Management Agreement - Winton Memorial Pool.pdf\n\n3. Added: \t Winton Memorial Swimming Pool Management Agreement Addendum NO.01.pdf\n\n4. Added: \t WSCT-2627-01 Invitation to Tender Letter.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-13T23:46:00.000Z",
+          "description": "Please note: The following attachments have been recently added as part of addendum NO.02\n\nChange to site inspection date.\n\n1. Added: \t Part A - WSCT-2627-01 - Request for Tender - Pool Management.pdf\n\n2. Added: \t Winton Memorial Swimming Pool Management Agreement Addendum NO.02.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-14T04:37:00.000Z",
+          "description": "Please note: The following attachments have been recently added. Amendments made as per addendum NO.02.\n\n1. Added: \t Part A - WSCT-2627-01 - Request for Tender - Pool Management.pdf\n\n2. Added: \t Winton Memorial Swimming Pool Management Agreement Addendum NO.02.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-09-17T01:23:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Part D - WSCT-2627-01 - Management Agreement - Winton Memorial Pool.pdf\n\n2. Added: \t Winton Memorial Swimming Pool Management Agreement Addendum NO.03.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "10",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "11",
+        "at": "2026-09-17T22:30:54.401Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "0183e4b52ddc42db9c9d50976b7b6133",
     "source": "vendorpanel",
     "reference": "VP521147",
@@ -3841,6 +4088,106 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "04a4a300a81346269e2a9a41efce2e2b",
+    "source": "vendorpanel",
+    "reference": "VP523796",
+    "title": "CN26180 - Maintenance and Servicing of Heating Ventilation and Air Conditioning Systems",
+    "description": "Refer RFT Documentation enclosed.",
+    "buyer": "Noosa Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Mechanical Plant, Equip, Services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T05:42:00.000Z",
+    "contact": null,
+    "documentCount": 18,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=04a4a300a81346269e2a9a41efce2e2bs523796",
+    "vendorPanelDetails": {
+      "buyerAddress": "Council & Boat Ramp Carpark, 9 Pelican St\nTewantin, Queensland 4565\nAustralia",
+      "buyerWebsite": "http://www.noosa.qld.gov.au/",
+      "buyerDescription": "Noosa Council",
+      "buyerReference": "CN26180",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-24T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 December 2026 (E. Australia Standard Time)",
+      "background": "Refer RFT Documentation enclosed.",
+      "desiredOutcomes": "Refer RFT Documentation enclosed.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast\n2: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-04T00:05:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.1.pdf\n\nPlease consider this addendum when responding. Regards, Noosa Council."
+        },
+        {
+          "at": "2026-09-09T05:24:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.2.pdf\n\nPlease consider this addendum when responding. Regards, Noosa Council."
+        },
+        {
+          "at": "2026-09-15T04:15:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.3.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-16T06:50:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.4.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-22T04:28:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.5.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-23T23:27:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN26180 - Addendum - Pre Response Closing Time - Notice to Respondents No.6.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "14",
+        "at": "2026-09-09T05:59:21.827Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "15",
+        "at": "2026-09-15T22:30:52.819Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "15",
+        "to": "16",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "17",
+        "at": "2026-09-22T22:28:49.427Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "17",
+        "to": "18",
+        "at": "2026-09-24T22:48:30.626Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "04ef51abf11947fc99fa3be7c74f5f82",
@@ -4674,6 +5021,56 @@
       }
     ],
     "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "0c917fe0ceb942b190c456e973f1267f",
+    "source": "vendorpanel",
+    "reference": "VP524127",
+    "title": "Forward Procurement Notice - Toowoomba Regional Council - Southern Water Treatment Plant Project",
+    "description": "Forward Procurement Notice #1\n\nToowoomba Regional Council - Southern Water Treatment Plant Project – Design and Construction Contractor\n\nToowoomba Regional Council (Council) is providing advance notice of its intention to approach the open market to engage a suitably qualified and experienced Design and Construct (D&C) contractor to support the delivery of the main works for the Southern Water Treatment Plant Project (Project).\n\nThis is the first of two forward procurement notices that Council intends to issue through VendorPanel ahead of the formal Expression of Interest (EOI) process. These notices are intended to raise market awareness and provide prospective respondents with sufficient time to understand the opportunity, assess their capability and capacity, establish appropriate delivery partnerships and allocate resources in preparation for the EOI process.",
+    "buyer": "Toowoomba Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-03T22:04:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0c917fe0ceb942b190c456e973f1267fs524127s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "153 Herries St\nToowoomba City, Queensland 4350\nAustralia",
+      "buyerWebsite": "http://www.tr.qld.gov.au/",
+      "buyerDescription": "Toowoomba Regional Council is the local government authority for an area extending from the city of Toowoomba to the east, the townships of Millmerran in the west, Clifton in the south and Yarraman to the north.",
+      "buyerReference": null,
+      "opensAt": "2026-09-03T14:00:00.000Z",
+      "opensAtRaw": "Friday 04 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-29T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 29 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-09-29T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 30 September 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-24T04:21:00.000Z",
+          "question": "Hi,\n\nWould Council advise on anticipated timing for release of the EOI, noting that a further advanced notice may be issued ahead of EOI release?\n\nThanks",
+          "answeredAt": "2026-09-24T06:05:00.000Z",
+          "answer": "The next Forward Procurement Notice will include the planned EOI release date."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "0ca32811c92047da93a1143c07df83dc",
@@ -7986,6 +8383,88 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "319ceed3bffb4685acb439402fd5b952",
+    "source": "vendorpanel",
+    "reference": "VP524142",
+    "title": "ITT269 - Redevelopment Kawana Aquatic Centre - Construction Stage 3",
+    "description": "Sunshine Coast Council has engaged a specialist design team to prepare the design and construction documentation for Stages 1 to 4 of the Kawana Aquatic Centre Redevelopment. With Stages 1 and 2 now complete, Council is seeking submissions from suitably qualified Principal Contractors to undertake the Kawana Aquatic Centre Redevelopment – Construction Stage 3 works.\n\nStage 3 of the redevelopment will involve the resurfacing of the existing 25-metre pool, construction of a new storage facility, and upgrades to the centre's mechanical and electrical infrastructure.\n\nThe successful Principal Contractor will be required to supply all materials, plant, equipment and labour necessary to undertake and complete all activities associated with the scope of works under this Contract. This includes carrying out all tasks, operations and associated services required to deliver the works in accordance with the specified requirements and to a satisfactory standard.\n\nGiven the facility will remain operational during construction, the Contractor must implement a staged delivery approach that minimises disruption to facility users, pedestrian access, parking availability, traffic movements, and visitors to the precinct.\n\nThe works will be delivered under a lump sum contract, with an anticipated commencement date of February 2027 and a required completion date no later than November 2027.\n\nA site information session will be held to provide further details and clarification regarding the project requirements, site conditions and Council’s expectations. Council strongly encourages tenderers to attend this session to facilitate inspection of restricted access areas, including the plant rooms, noting that no alternative access arrangements will be made available. The session will be conducted in accordance with the details provided in Schedule 2 below.",
+    "buyer": "Sunshine Coast Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T02:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-04T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 22,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=319ceed3bffb4685acb439402fd5b952s524142",
+    "vendorPanelDetails": {
+      "buyerAddress": "54 First Ave\nMaroochydore, Queensland 4558\nAustralia",
+      "buyerWebsite": "https://www.sunshinecoast.qld.gov.au/",
+      "buyerDescription": "The Mayor and councillors work closely with the Executive Leadership Team and staff to deliver a range of plans and strategies that guide the delivery of major projects across the region, and council’s capital works program. Council remains committed to its vision for the Sunshine Coast: to be Australia’s most sustainable region – healthy, smart, creative.",
+      "buyerReference": "ITT269",
+      "opensAt": "2026-09-04T14:00:00.000Z",
+      "opensAtRaw": "Saturday 05 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-24T02:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 28 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-08T02:32:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Additional Attachment ITT269 Schedule 5 - Attachment 10 - 25m Pool Site Inspection Report.PDF\n\n2. Added: \t (Addendum) ITT269 Notice to Respondents 1.pdf\n\n3. Added: \t (Addendum) Revised Attachment ITT269 Schedule 5 - Attachment 6 - 25m Pool Finishes & Backwash Tank Upgrade Specification REV B.PDF\n\n4. Added: \t (Addendum) Revised Attachment ITT269 Schedule 5 - Attachment 7 - 25m Pool Finishes Drawings REV 26-09-07..pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-09T05:13:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) ITT269 Notice to Respondents 2.pdf\n\n2. Added: \t (Addendum) Revised Attachment ITT269 Schedule 5 - Attachment 5 - Hydraulic Drawings & Specifications REV 26-09-08.PDF\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-16T01:25:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Additional Attachment - ITT269 Schedule 5 - Attachment 11 - Hazard Identification_ Risk Assessment and Control (HIRAC).PDF\n\n2. Added: \t (Addendum) ITT269 Meeting Minutes of Information Session.pdf\n\n3. Added: \t (Addendum) ITT269 Notice to Respondents 3.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "17",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "description",
+        "from": "Sunshine Coast Council has engaged a specialist design team to prepare the design and construction documentation for Stages 1 to 4 of the Kawana Aquatic Centre Redevelopment. With Stages 1 and 2 now complete, Council is seeking submissions from suitably qualified Principal Contractors to undertake the Kawana Aquatic Centre Redevelopment – Construction Stage 3 works.\n\nStage 3 of the redevelopment will involve the resurfacing of the existing 25-metre pool, construction of a new storage facility, and upgrades to the centre's mechanical and electrical infrastructure.\n\nThe successful Principal Contractor will be required to supply all materials, plant, equipment and labour necessary to undertake and complete all activities associated with the scope of works under this Contract. This includes carrying out all tasks, operations and associated services required to deliver the works in accordance with the specified requirements and to a satisfactory standard.\n\nGiven the facility will rema...",
+        "to": "Sunshine Coast Council has engaged a specialist design team to prepare the design and construction documentation for Stages 1 to 4 of the Kawana Aquatic Centre Redevelopment. With Stages 1 and 2 now complete, Council is seeking submissions from suitably qualified Principal Contractors to undertake the Kawana Aquatic Centre Redevelopment – Construction Stage 3 works.\n\nStage 3 of the redevelopment will involve the resurfacing of the existing 25-metre pool, construction of a new storage facility, and upgrades to the centre's mechanical and electrical infrastructure.\n\nThe successful Principal Contractor will be required to supply all materials, plant, equipment and labour necessary to undertake and complete all activities associated with the scope of works under this Contract. This includes carrying out all tasks, operations and associated services required to deliver the works in accordance with the specified requirements and to a satisfactory standard.\n\nGiven the facility will remain operational during construction, the Contractor must implement a staged delivery approach that minimises disruption to facility users, pedestrian access, parking availability, traffic movements, and visitors to the precinct.\n\nThe works will be delivered under a lump sum contract, with an anticipated commencement date of February 2027 and a required completion date no later than November 2027.\n\nA site information session will be held to provide further details and clarification regarding the project requirements, site conditions and Council’s expectations. Council strongly encourages tenderers to attend this session to facilitate inspection of restricted access areas, including the plant rooms, noting that no alternative access arrangements will be made available. The session will be conducted in accordance with the details provided in Schedule 2 below.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "17",
+        "to": "19",
+        "at": "2026-09-09T05:59:21.827Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "19",
+        "to": "22",
+        "at": "2026-09-16T22:27:38.012Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "34925a18d39f40e4afb9c01f7fdfa3f7",
     "source": "vendorpanel",
     "reference": "VP523871",
@@ -8905,6 +9384,103 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "3fbf57a2ea724366bbf8a42360fb1a57",
+    "source": "vendorpanel",
+    "reference": "VP521937",
+    "title": "2027/334 Footpath Program - Merbein - Reilly Street, River Avenue and Commercial Street",
+    "description": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Footpath Program – Merbein – Reilly Street, River Avenue and Commercial Street project. This will include demolition and site preparation works, construction of reinforced concrete footpaths, construction of new pram ramps completes with Tactile Ground Surface Indicators (TGSI), localised earthworks, adjustment of existing infrastructure, landscaping and reinstatement works, and post-project site clean-up in accordance with the Drawings and Specifications.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ONLY be submitted electronically by uploading into the VendorPanel System. Respondents will receive a confirmation email response upon completion. Should assistance be required please use the help function or the online chat available from the home page of VendorPanel.\n\nSubmissions must be fully received by the closing time as late submissions will not be accepted. Council is not bound to accept the lowest priced Tender or all or any part of a Tender and reserves the right to conduct the Request for Tender process and select the successful respondent(s) as it sees fit. All responses must be made by online submission. Any response made by any other means (open email, facsimile, post or in person) will not be considered.",
+    "buyer": "Mildura Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-19T07:52:00.000Z",
+    "contact": null,
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=3fbf57a2ea724366bbf8a42360fb1a57s521937",
+    "vendorPanelDetails": {
+      "buyerAddress": "Madden Ave\nMildura, Victoria 3500\nAustralia",
+      "buyerWebsite": "http://www.mildura.vic.gov.au/",
+      "buyerDescription": "Mildura Rural City Council is the local government organisation that represents and serves approximately 51,000 people who reside in or own land within Mildura Rural City. Located in North West Victoria, the municipality covers an area of 22,330 square kilometres.\n\nMildura Rural City Council was established on 20 January 1995 following the amalgamation of the former City of Mildura and the Shires of Mildura and Walpeup.",
+      "buyerReference": "2027/334",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-24T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (AUS Eastern Standard Time)",
+      "background": "Council encourages innovative and creative responses to its specifications, however such responses should always form part of a conforming tender.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "If you are trading as a company, have you provided a copy of the certificate of incorporation and a copy of the current company extract?",
+        "If you are a trust, have you provided a copy of your registration certificate that includes the ACN of the trustee?",
+        "Have you signed and uploaded the tender schedules as part of your submission?",
+        "Have you only included pricing in the applicable pricing schedule?",
+        "Have you signed and uploaded the statutory declaration as part of your submission?"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Mallee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-10T05:56:00.000Z",
+          "question": "Indigenous Project Management Pty Ltd submits the following for clarification. These are lodged under clause 2.5 immediately upon identification, and we request that any resulting corrections be issued as an Addendum under clause 4.1.\n\n1. Incorrect contract number in Schedule A returnables\n\nConditions of Tender, Schedule A (\"The documents and information to be supplied by the tenderer are\") lists \"2027-331 Tender Schedules\" and \"2027-331 Schedule 2 – Pricing Information\". The documents issued for this Request are numbered 2027-334. Please confirm the returnables are the 2027-334 Tender Schedules and 2027-334 Schedule 2.\n\n2. Conflicting completion dates\n\nConditions of Tender, Schedule A, Additional Information states \"Anticipated Date of Acceptance: April 2027\" and \"Date of Completion: October 2026\" — a completion date preceding acceptance. The Annexure to AS 4000-1997, Item 7(a), states a Date for Practical Completion of April 2027, with Item 7(b) Not Applicable. Please confirm the Date for Practical Completion and the anticipated date of acceptance, as both are required to prepare the Schedule 8 construction program.\n\n3. Errors in Schedule 2 – Pricing Information workbook\n\nThe issued workbook contains: (a) cell A30 (Provisional Items heading) returns #REF!; and (b) the Total Cost (Ex. GST) at F36 references the works subtotal only, so the Provisional Items subtotal at F33 does not flow into the total. Please confirm whether Council will reissue a corrected workbook, or whether tenderers are to repair the formulas in the returned file. We wish to avoid any repair being construed as a departure under Schedule 4.\n\n4. Provisional Items — no items nominated\n\nRows 31 and 32 under Provisional Items are blank. Please confirm whether Council will nominate provisional items by Addendum, or whether tenderers are to leave this section blank. We note Annexure Item 12 sets the provisional sum percentage for profit and attendance at 0%.\n\n5. Concrete strength — specification vs drawing\n\nContract Specification cl 12.4 requires concrete pavement to achieve 32 MPa at 28 days, and all other concrete 25 MPa. Drawing 200, Footpath Note 1, requires minimum 25 MPa. Please confirm the required 28-day characteristic strength for the footpath, pram ramps and driveway sections.\n\n6. Bedding material — specification vs drawing\n\nContract Specification cl 12.15.2 requires a 50mm nominal foundation bedding of limestone rubble or other approved material under footpaths and pram crossings (75mm under vehicle crossings). Drawing 200, Section A and Section B, shows a 50mm compacted sand bed. Noting the order of precedence at cl 2.5 of the Specification places Design Drawings above the Project Specification, please confirm the required bedding material and thickness, including at driveway crossings.\n\n7. Schedule 2 item 8.01 — additional TGSI\n\nThe item \"Supply and install additional TGSI not associated with the seven scheduled pram ramps\" carries a quantity of 1 Item with no area, location or count shown on the drawings. Please provide the quantity and location, or confirm this item is to be treated as provisional.\n\n8. Bill of Quantities\n\nAnnexure Item 10 applies Alternative 2, states the Bill of Quantities is not to be priced, and gives a lodgement time of \"With Tender\". No Bill of Quantities has been issued with the tender documents. Please confirm no Bill of Quantities is required to be lodged.\n\n9. Annexure Part C\n\nAnnexure Part B, paragraph 1, records that Annexure Part C (Approved form of unconditional undertaking) has been deleted from the General Conditions, yet Part C remains in the issued Annexure document. Please confirm whether an unconditional undertaking in that form is acceptable where the Contractor elects to provide security by bank guarantee under Item 13(a).",
+          "answeredAt": "2026-09-15T23:03:00.000Z",
+          "answer": "QUESTION 1. Incorrect contract number in Schedule A returnables\n\nConditions of Tender, Schedule A (\"The documents and information to be supplied by the tenderer are\") lists \"2027-331 Tender Schedules\" and \"2027-331 Schedule 2 – Pricing Information\". The documents issued for this Request are numbered 2027-334. Please confirm the returnables are the 2027-334 Tender Schedules and 2027-334 Schedule 2.\n\nANSWER: The documents and information to be supplied by the tenderer are:\n\n2027-334 Tender Schedules\n\n2027-334 Schedule 2 - Pricing Information\n\nAn Addendum with revised Conditions of Tender will be issued.\n\nQUESTION 2. Conflicting completion dates\n\nConditions of Tender, Schedule A, Additional Information states \"Anticipated Date of Acceptance: April 2027\" and \"Date of Completion: October 2026\" — a completion date preceding acceptance. The Annexure to AS 4000-1997, Item 7(a), states a Date for Practical Completion of April 2027, with Item 7(b) Not Applicable. Please confirm the Date for Practical Completion and the anticipated date of acceptance, as both are required to prepare the Schedule 8 construction program.\n\nANSWER: In the Conditions of Tender Schedule A, Additional Information should read:\n\nConditions of Contract – Anticipated Date of Acceptance: October 2026\n\nConditions of Contract – Date of Completion: April 2027\n\nAn Addendum with revised Conditions of Tender will be issued.\n\n3. Errors in Schedule 2 – Pricing Information workbook\n\nThe issued workbook contains: (a) cell A30 (Provisional Items heading) returns #REF!; and (b) the Total Cost (Ex. GST) at F36 references the works subtotal only, so the Provisional Items subtotal at F33 does not flow into the total. Please confirm whether Council will reissue a corrected workbook, or whether tenderers are to repair the formulas in the returned file. We wish to avoid any repair being construed as a departure under Schedule 4.\n\nANSWER: An Addendum with a revised Schedule 2 - Pricing Information will be issued.\n\n4. Provisional Items — no items nominated\n\nRows 31 and 32 under Provisional Items are blank. Please confirm whether Council will nominate provisional items by Addendum, or whether tenderers are to leave this section blank. We note Annexure Item 12 sets the provisional sum percentage for profit and attendance at 0%.\n\nANSWER: We confirm there are no Provisional Items applicable to this Contract. Tenderers are to leave the Provisional Items section blank.\n\n5. Concrete strength — specification vs drawing\n\nContract Specification cl 12.4 requires concrete pavement to achieve 32 MPa at 28 days, and all other concrete 25 MPa. Drawing 200, Footpath Note 1, requires minimum 25 MPa. Please confirm the required 28-day characteristic strength for the footpath, pram ramps and driveway sections.\n\nANSWER: We confirm that the required 28-day characteristic compressive strength for the concrete footpath, pram ramps and driveway crossing sections is 25 MPa. The reference to 32 MPa concrete pavements in Clause 12.4 of the Contract Specification is not applicable to the nominated footpath, pram ramp and driveway crossing works under this Contract. Drawing 200 correctly reflects the design requirement.\n\n6. Bedding material — specification vs drawing\n\nContract Specification cl 12.15.2 requires a 50mm nominal foundation bedding of limestone rubble or other approved material under footpaths and pram crossings (75mm under vehicle crossings). Drawing 200, Section A and Section B, shows a 50mm compacted sand bed. Noting the order of precedence at cl 2.5 of the Specification places Design Drawings above the Project Specification, please confirm the required bedding material and thickness, including at driveway crossings.\n\nANSWER: We confirm that tenderers are to adopt the bedding requirements shown on Drawing 200. Footpaths, pram ramps and driveway crossings are to be constructed on a 50 mm thick compacted sand bedding layer as detailed on Drawing 200.\n\n7. Schedule 2 item 8.01 — additional TGSI\n\nThe item \"Supply and install additional TGSI not associated with the seven scheduled pram ramps\" carries a quantity of 1 Item with no area, location or count shown on the drawings. Please provide the quantity and location, or confirm this item is to be treated as provisional.\n\nANSWER: We confirm that the additional TGSI item relates to the TGSI installation shown on Drawing Sheet 501 near the intersection of Commercial Street and Reilly Street, immediately in front of 1 Reilly Street, Merbein. The dimensions and installation details for the TGSI are provided on Drawing 200. Tenderers are to allow for the supply and installation of this additional TGSI under Item 8.01.\n\n8. Bill of Quantities\n\nAnnexure Item 10 applies Alternative 2, states the Bill of Quantities is not to be priced, and gives a lodgement time of \"With Tender\". No Bill of Quantities has been issued with the tender documents. Please confirm no Bill of Quantities is required to be lodged.\n\nANSWER: Schedule 2 – Pricing Information constitutes the Bill of Quantities. As detailed in the Tender Schedules, a completed Schedule 2 – Pricing Information is to be lodged in MS Excel format.\n\n9. Annexure Part C\n\nAnnexure Part B, paragraph 1, records that Annexure Part C (Approved form of unconditional undertaking) has been deleted from the General Conditions, yet Part C remains in the issued Annexure document. Please confirm whether an unconditional undertaking in that form is acceptable where the Contractor elects to provide security by bank guarantee under Item 13(a).\n\nANSWER: As indicated by the strikethrough, any and all contents of Annexure C have been deleted and do not apply."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-14T22:51:00.000Z",
+          "description": "The Contract Manager has extended the closing date to Tuesday 29 September 2026. Please note the closing time will remain unchanged.\n\nCouncil will also shortly issue an Addendum with revised tender documents. Any suppliers who have already lodged a submission to this tender will be contacted directly via email regarding lodgement of an updated submission.\n\nKind regards,\n\nMildura Rural City Council"
+        },
+        {
+          "at": "2026-09-22T00:37:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 2027-334 Addenda 1 - Revised Documents.pdf\n\n2. Added: \t (Addendum) 2027-334 Conditions of Tender - revised.pdf\n\n3. Added: \t (Addendum) 2027-334 Schedule 2 - Pricing Information - revised.xlsx\n\nPlease consider these addenda when responding.\n\nRegards\n\nProcurement Team"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Footpath Program – Merbein – Reilly Street, River Avenue and Commercial Street project. This will include demolition and site preparation works, construction of reinforced concrete footpaths, construction of new pram ramps completes with Tactile Ground Surface Indicators (TGSI), localised earthworks, adjustment of existing infrastructure, landscaping and reinstatement works, and post-project site clean-up in accordance with the Drawings and Specifications.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ONLY be submitted electronically by uploading into the VendorPanel System. Respondents will receive a confirmation email res...",
+        "to": "Mildura Rural City Council is seeking Tender responses from suitably qualified contractors to undertake civil construction works associated with the Footpath Program – Merbein – Reilly Street, River Avenue and Commercial Street project. This will include demolition and site preparation works, construction of reinforced concrete footpaths, construction of new pram ramps completes with Tactile Ground Surface Indicators (TGSI), localised earthworks, adjustment of existing infrastructure, landscaping and reinstatement works, and post-project site clean-up in accordance with the Drawings and Specifications.\n\nENQUIRIES: Any tender enquiries should be directed to the online forum in VendorPanel.\n\nINSPECTION: A site inspection with Council is available on request via the forum. Inspections are recommended however not mandatory.\n\nSUBMISSIONS: Completed responses can ONLY be submitted electronically by uploading into the VendorPanel System. Respondents will receive a confirmation email response upon completion. Should assistance be required please use the help function or the online chat available from the home page of VendorPanel.\n\nSubmissions must be fully received by the closing time as late submissions will not be accepted. Council is not bound to accept the lowest priced Tender or all or any part of a Tender and reserves the right to conduct the Request for Tender process and select the successful respondent(s) as it sees fit. All responses must be made by online submission. Any response made by any other means (open email, facsimile, post or in person) will not be considered.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "requestType",
+        "from": "other",
+        "to": "rft",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-17T04:00:00.000Z",
+        "to": "2026-09-29T04:00:00.000Z",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "17/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "29/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-14T22:50:02.192Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "8",
+        "at": "2026-09-22T02:22:22.858Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "4042ca25ba6f4ec98a6a0104f53b0d6a",
@@ -13075,6 +13651,89 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "7e75c37dfeec4adea879b32c08b52de7",
+    "source": "vendorpanel",
+    "reference": "VP523595",
+    "title": "Rotunda Restoration Works at Pioneer Settlement, Swan Hill",
+    "description": "Swan Hill Rural City Council invites suitably qualified and experienced contractors, preferably with heritage restoration experience, to undertake restoration works to the Roy Grounds Rotunda at the Pioneer Settlement in Swan Hill, Victoria.\n\nThe successful contractor will be required to deliver the works in accordance with the endorsed Heritage Victoria documentation, permit conditions and Part B (Specification), Part C (General Conditions of Contract AS4000-2025) and Part D (Drawings and Supporting Information) of the tender documents. The objective of the project is to restore and conserve the heritage significance of the structure while maintaining its authenticity, character and long-term integrity.\n\nThe Contract is expected to include all activities necessary to complete the works, from site establishment through to practical completion.",
+    "buyer": "Swan Hill Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Environmental & Heritage Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-01T03:21:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7e75c37dfeec4adea879b32c08b52de7s523595",
+    "vendorPanelDetails": {
+      "buyerAddress": "45 Splatt St\nSwan Hill, Victoria 3585\nAustralia",
+      "buyerWebsite": "https://www.swanhill.vic.gov.au/",
+      "buyerDescription": "Swan Hill Rural City Council, \"The Heart of the Murray\" is a bustling provincial centre just three and a half hours from Melbourne and five and a half hours from Adelaide.The region is renowned for its world class produce, spectacular landscapes and close proximity to the Murray River. Our region runs adjacent to the Murray River for nearly 200 kilometres and encompasses 6,000 square kilometres and home to 20,000 people.",
+      "buyerReference": "27 10 504",
+      "opensAt": "2026-08-31T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 01 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-24T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (AUS Eastern Standard Time)",
+      "background": "Swan Hill Rural City Council is a local government authority covering approximately 6,116 square kilometres in north-west Victoria and serving a population of around 21,000 residents. The municipality extends along the Murray River and includes the townships of Swan Hill, Robinvale, Lake Boga, Nyah, Nyah West, Piangil, Beverford, Woorinen South, Ultima, Manangatang and Boundary Bend.\n\nThe Swan Hill Pioneer Settlement is one of the region's most significant cultural and tourism assets, preserving and celebrating the history and heritage of the Murray River and surrounding district. Located within the Settlement, the Roy Grounds Rotunda is a heritage-listed structure of architectural and historical significance.\n\nCouncil is proceeding with the physical restoration of the Roy Grounds Rotunda as part of its commitment to preserving important heritage assets. Conservation assessments, restoration documentation and construction-ready drawings have been prepared and submitted to Heritage Victoria, with the drawings now formally endorsed under the applicable heritage permit. The endorsed documentation identifies a series of restoration and conservation works intended to preserve the heritage significance, authenticity and long-term integrity of the structure.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you demonstrated within your tender submission that appropriate Occupational Health and Safety (OHS) and risk management systems are in place and will be maintained throughout the delivery of the Contract?",
+        "Have you provided evidence demonstrating compliance with the insurance requirements specified in Part C (General Conditions of Contract)?"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Loddon\n2: Mallee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-02T06:07:00.000Z",
+          "question": "Hi,\n\nCould Council please confirm the correct Contract Number for the Rotunda Restoration Works at Pioneer Settlement?\n\nWe note the Contract Number is identified as 27 10 504 throughout the Tender Response Schedules and General Conditions of Contract, however the Price Schedule identifies the Contract as 26 45 504.\n\nCould Council please confirm which Contract Number should be referenced in our tender submission?\n\nThank you.",
+          "answeredAt": "2026-09-03T01:55:00.000Z",
+          "answer": "The correct Contract number is 27 10 504."
+        },
+        {
+          "askedAt": "2026-09-02T22:07:00.000Z",
+          "question": "Q02 – Heritage Victoria Permit and Approval Requirements\n\nPlease confirm the current Heritage Victoria permit/approval applicable to the Rotunda Restoration Works and provide the approved permit conditions and any associated endorsed documentation that the Contractor is required to comply with.\n\nPlease also confirm whether any further Heritage Victoria approvals, permit amendments or applications are required to be obtained by the successful Contractor prior to or during the Works.\n\nQ03 – Existing Paving, Substrate and Proposed Brick Tile Floor Build-Up\n\nThe structural drawings state “MAKE GOOD EXISTING PAVING AFTER FOOTING INSTALLATION”, while the architectural drawings nominate new Elephant Brick Co. Old Red Wirecut brick tiles laid in a herringbone pattern over the existing substrate on a 10mm mortar bed.\n\nPlease confirm:\n\nThe existing paving/substrate construction and supporting base;\n\nWhether the existing paving is to remain in place;\n\nWhether the new brick tiles are intended to be installed directly over the existing paving/substrate;\n\nWhether the existing substrate has been assessed as suitable for the proposed new floor finish;\n\nWhether any preparation, levelling, reinforcement or movement joints are required; and\n\nWhether removal, reconstruction or strengthening of the existing paving/substrate is to be included within the Contractor's scope if the existing substrate is found to be unsuitable.\n\nGiven the proposed structural lifting works, please also confirm that the nominated floor build-up has been assessed for potential movement associated with the structural works\n\n.\n\nQ04 – Lead Paint Identification, Preparation and Removal\n\nThe demolition drawings require the Contractor to assume that all painted substrates contain greater than 0.1% lead and require preparation in accordance with AS 4361.1:2017 and AS 4361.2:2017.\n\nPlease confirm whether a lead paint assessment or testing has been undertaken and, if so, provide the available results.\n\nPlease also clarify whether the intended methodology is controlled preparation and overcoating/encapsulation of existing sound coatings, or removal of existing paint coatings back to bare substrate.\n\nIf complete removal is required, please nominate the required extent and methodology.\n\nQ05 – Contractor Storage, Materials Laydown and Site Compound\n\nThe site establishment notes state:\n\n“Principal will provide a small external area for external storage.”\n\nPlease confirm the proposed location and approximate size of this area, together with any requirements or restrictions relating to storage of salvaged heritage materials, construction materials, security/fencing and access for deliveries.\n\nPlease also confirm whether a temporary storage container may be located within the nominated area if required.\n\nQ06 – Existing Roof Sheeting, Fascia Flashing and Roof Drainage\n\nThe drawings nominate removal of the existing flashing covering the timber fascia, followed by preparation and painting of the fascia. The documentation does not clearly identify the replacement flashing detail or any significant works to the existing roof sheeting.\n\nPlease confirm:\n\nWhether the existing roof sheeting is to remain;\n\nWhether any roof sheet repairs, replacement or treatment are required;\n\nThe required material/profile/detail for replacement fascia flashing;\n\nWhether replacement flashing is included within the Contractor's scope; and\n\nWhether any gutter, downpipe or stormwater drainage works are required beyond local rerouting around the new footing locations.\n\nQ07 – Existing Rafter Packers\n\nThe demolition drawings nominate removal of the non-original timber packers between the existing timber rafters.\n\nPlease confirm whether the requirement is for removal of the existing packers only, or removal and replacement with new timber packing/infill to maintain the existing configuration/detail.\n\nIf replacement is required, please provide the required material, dimensions and detailing.\n\nQ08 – Building Practitioner Registration / Building Permit Requirements\n\nThe tender documentation requires the Tenderer to allow for applicable permits, approvals and licences, and Schedule 4 refers to provision of a Building Licence or Registration where applicable.\n\nGiven the Works include structural alterations, temporary structural support, structural lifting, new footings and post connections, please confirm:\n\nWhether a Building Permit is required for the Works;\n\nWhether the successful Contractor is required to hold Victorian Building Practitioner registration;\n\nIf registration is required, the specific registration category/class required; and\n\nWhether the Building Permit has already been obtained, or whether obtaining the Building Permit and associated building surveyor services is included within the Contractor's scope.\n\nQ09 – Paint Colours and Existing/Proposed Paint Systems\n\nThe tender drawings/specification identify preparation and painting of existing and new timber elements and other nominated substrates; however, the tender documentation does not clearly identify all proposed paint colours, Dulux colour codes, gloss levels or coating systems for each substrate.\n\nPlease confirm:\n\nThe nominated Dulux product/system for each substrate;\n\nThe required colour names/codes;\n\nRequired gloss/finish levels;\n\nWhether colours are to match existing finishes or are otherwise nominated by Heritage Victoria/the project architect; and\n\nWhether any colour sampling or mock-ups are required prior to final application.\n\nQ10 – Structural Engineering and Temporary Works Responsibility\n\nThe drawings require the existing rotunda to be lifted approximately 50mm on the eastern side and temporarily supported during installation of the new footings and post stirrups.\n\nPlease confirm the extent of the Contractor's responsibility for:\n\nTemporary works design;\n\nHydraulic jacking/lifting methodology;\n\nTemporary propping and support design;\n\nStructural engineer attendance during the lifting works;\n\nVerification of final levels/alignment; and\n\nCertification/inspection of the completed structural works.\n\nPlease also confirm whether structural engineering documentation for the temporary works is to be provided by the Principal or Contractor.\n\nQ11 – Existing Electrical Services and New Lighting\n\nThe drawings nominate removal of existing fans, lighting fittings, switches and associated wiring, together with installation of new LED battens and conduit.\n\nPlease confirm:\n\nWhich existing electrical infrastructure is to be retained;\n\nWhether existing supply cabling and distribution equipment are considered adequate for the proposed new installation;\n\nWhether any upgrades to the existing electrical supply/distribution board are required; and\n\nWhether all redundant wiring is to be removed back to its source or made safe and left in situ where removal is impractical.",
+          "answeredAt": "2026-09-16T03:20:00.000Z",
+          "answer": "Q02 – Heritage Victoria Permit and Approval Requirements\n\nCouncil’s response:\n\nAnnexure B of part D of the tender is a Heritage Victoria approved plan and details. Contractor must comply with all the specifications and details as per the annexures, particularly B and C of part D of the tender for heritage related things. Please refer to annexure D of part D for structural things. Contractor to highlight to the council if there is any mismatch.\n\nNo further Heritage Victoria approvals, permits, or applications are required to be obtained by the successful Contractor prior to or during the Works. No Planning permit is applicable. However, Building Permit is applicable and is on the contractor.\n\nQ03 – Existing Paving, Substrate and Proposed Brick Tile Floor Build-Up\n\nCouncil’s response:\n\nConcrete footing to match with finished existing surface. Elephant bricks to be laid over the existing surface, as per the specifications.\n\nQ04 – Lead Paint Identification, Preparation and Removal\n\nCouncil’s response:\n\nWe have not undertaken hazardous materials audits for the works. However, given the age of the pavilion, have assumed that lead-based paints will be present in the painted surfaces. The current topcoat is likely to be acrylic paint as it has been repainted since 1997 and is therefore not likely to contain lead, however this has not been confirmed.\n\nIn accordance with our specification and drawing notes, we would expect the contractor to undertake the painting preparation works in accordance with AS/NZS 4361.2:2017 - Guide to hazardous paint management, Part 2: Lead paint in residential, public, and commercial buildings.\n\nWhere a contractor is required to cut a section of existing timber, to manage lead paint and works near to a waterway, we would expect some localised paint removal to occur. Paint removal can be undertaken to as a 50mm wide strip over the cut line using a combination of Peel-away (Haymes) 1 and 8 – anticipated one coat of each will be needed with 48-hour dwell time. Alternative products include Dulux Precision Paint Removal.\n\nQ05 – Contractor Storage, Materials Laydown and Site Compound\n\nCouncil’s response:\n\nAll demolition materials are to be disposed of as per BOQ item 2.3. The flue gas chimney can be stored within Council’s premises (within Pioneer Settlement). The site establishment including the temporary fencing is on the contractor as per BOQ item 1.2. The contractor can store the new building materials only within this temporary fencing. Contractor to make all due considerations that the access pathway or the entry gate nearest to the rotunda is not blocked by the temporary fencing. In no way, the regular tourism or general businesses of the Pioneer Settlement are to be affected.\n\nQ06 – Existing Roof Sheeting, Fascia Flashing and Roof Drainage\n\nCouncil’s response:\n\nThe existing roof sheeting has not been identified as urgent conservation works and does not need to be replaced at this stage. It is not part of the works.\n\n The fascia is to be reinstated to the original details of painted timber – un-flashed.\n\n A small Colorbond flashing is to be installed over the top of the junction between the gutter and the fascia with a 50mm down stand and 20mm fold at 45 degrees to shed water.\n\n No works to downpipes are included in these works.\n\n Some minor rerouting of stormwater will be needed where a clash may exist with new footings. The contractor must account for this minor cost, if applicable , in the tender quote. No separate price or variation is applicable.\n\nQ07 – Existing Rafter Packers\n\nCouncil’s response:\n\nPlease disregard this note.\n\nA timber packer has been installed between section of rafter at the post in the rear wall where the rafter has split.\n\n This packer is to remain and can be painted.\n\nOther have been installed for mounting services. These can remain and be painted.\n\nQ08 – Building Practitioner Registration / Building Permit Requirements\n\nCouncil’s response:\n\nThe tender documentation requires the Tenderer to allow for applicable permits, approvals and licences, including, but not limited to, a Building Licence or Registration as per the legislation.\n\nNo additional Heritage Permit is needed.\n\nBuilding Permit is required for the Works and the contractor is to arrange for this as per the BOQ item 1.3.\n\nThe successful Contractor is required to hold Victorian Building Practitioner registration as applicable.\n\nThe Building Permit has NOT been obtained, and obtaining the Building Permit and associated building surveyor services is included within the Contractor's scope.\n\nQ09 – Paint Colours and Existing/Proposed Paint Systems\n\nCouncil’s response\n\nAll colours to match existing\n\n All timber lined ceiling (interior) to remain varnished with clearcoat polyurethane – Cabot’s Cabothane Clear – Gloss\n\n All exposed rafter (interior) to remain Mission Brown – Dulux Traditional Range – Matt – Weathersheild\n\n All exterior elements to remain off-white – Dulux Berkshire White SW1E8 – Matt - Weathersheild\n\n In situ colour samples to be provided in one location for each paint system and colour for review by the Superintendent and architects.\n\nSample to be 300 x 300 min.\n\nQ10 – Structural Engineering and Temporary Works Responsibility\n\nCouncil’s response\n\nThe drawings require the existing rotunda to be lifted approximately 50mm on the eastern side and temporarily supported during installation of the new footings and post stirrups.\n\nIt is the contractor’s responsibility to propose a suitable lifting methodology ensuring structural suitability, and safety. All associated costs are within the contractor’s scope. Council does not specify any methodology in particular.\n\nQ11 – Existing Electrical Services and New Lighting\n\nCouncil’s response\n\nDemolition of the electrical items should be as per the notes (9, 10, 11) on page 2 of annexure B of Part D of the tender. For item specifications, please refer to note 7 on page 3 of Part D of the tender and annexure C of part D."
+        },
+        {
+          "askedAt": "2026-09-11T00:00:00.000Z",
+          "question": "Hello,\n\nIs there another opportunity to attend site?\n\nThank you.",
+          "answeredAt": "2026-09-13T22:58:00.000Z",
+          "answer": "A site inspection was held last Friday (11/09). The questions raised during the inspection, together with Council's responses, will be published on VendorPanel later this week.\n\nNo additional site inspections are currently scheduled. However, prospective tenderers may independently visit the site. If you do so, please report to the front desk on arrival and provide your name and company details. Staff will grant you access to the site and direct you to the rotunda. If you have any questions arising from your site visit, please submit them through VendorPanel before the closing date of the question period. In accordance with Council's procurement process, all questions and responses will be published to all tenderers via VendorPanel."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T02:02:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t REVISED_Price-Schedule_V2.1.xlsx\n\nThe previous file titled \"Price Schedule_V2.0\" has been withdrawn and replaced with the revised version above. The only amendment is the correction of the contract number referenced in the file. No other changes have been made."
+        },
+        {
+          "at": "2026-09-21T04:35:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t VP523595_Tender Addendum 1.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-09-21T22:54:50.025Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "7e7af7d26e2d4ae5b9cd61927b346dd2",
     "source": "vendorpanel",
     "reference": "VP522922",
@@ -13684,6 +14343,172 @@
       }
     ],
     "archivedAt": "2026-09-22T22:28:49.427Z"
+  },
+  {
+    "id": "8569360f6e2a40669e7afa2eeebf41d3",
+    "source": "vendorpanel",
+    "reference": "VP521314",
+    "title": "TEN/3069 - Detailed Design of Childers Wastewater Treatment Plant",
+    "description": "Please Refer to invitation to Offer",
+    "buyer": "Bundaberg Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-14T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 19,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8569360f6e2a40669e7afa2eeebf41d3s521314s187d3a05decd404191ffe66fba693c4fs1559",
+    "vendorPanelDetails": {
+      "buyerAddress": "190 Bourbong St\nBundaberg Central, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.bundaberg.qld.gov.au/business/doing-business",
+      "buyerDescription": "Bundaberg Regional Council was formed in 2008 as a result of the merging of Bundaberg City Council, Burnett Shire, Isis Shire and Kolan Shire Councils. Situated at the southern end of the Great Barrier Reef and stretching from the Burrum River to Baffle Creek, is comprised of 6,451 sq km and is home to more than 102,000 people, with our population expected to grow to over 141,000 people within twenty-five years. Collectively, we are renowned for the friendliness of our residents, superb climate, affordable cost of living, first-class facilities, and relaxed lifestyle. The Bundaberg Region is rapidly progressing to be a destination of choice - for residents, visitors, and investors.",
+      "buyerReference": "TEN/3069",
+      "opensAt": "2026-08-14T14:00:00.000Z",
+      "opensAtRaw": "Saturday 15 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-23T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 23 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-17T01:22:00.000Z",
+          "question": "Hi,\n\nThe files “VP521314_4. TEN3069 - Supporting Information” and “4._TEN3069-Supporting_Information” are downloading as 0 KB files.\n\nCould you please redistribute the supporting information, or provide it in a different format?\n\nThanks",
+          "answeredAt": "2026-08-17T06:49:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 1 & updated files."
+        },
+        {
+          "askedAt": "2026-08-21T04:04:00.000Z",
+          "question": "Can you please advise if successful participation in this design portion will exclude same parties from tendering the delivery portion of the project.\n\nThanks",
+          "answeredAt": "2026-08-24T01:22:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 2."
+        },
+        {
+          "askedAt": "2026-08-24T04:04:00.000Z",
+          "question": "Hi - can you advise agenda and approx duration of the tender briefing. Thanks",
+          "answeredAt": "2026-08-26T02:04:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 3."
+        },
+        {
+          "askedAt": "2026-08-24T23:57:00.000Z",
+          "question": "Section 3.1 requests the client to review the concept design of the RPS and emergency requirements\n\nSection 15 of the PPR requests the Consultant to meet or exceed the specifications detailed in GHD’s concept design documentation\n\nThe Consultant requests the following\n\n1.\tConfirmation of the agreed daily flow per person for DWF, ADWF and PWWF and or confirmation of flow rates to be used\n\n2.\tConfirmation that the flows provided on 12683782-GHD-CH-NF-DRG-PE-00001 Rev P01 are correct\n\n3.\tConfirmation of emergency storage requirement Volume and Duration of emergency\n\n4.\tSection 3.1.requests the Consultant to develop the concept to final but also to review the design. The consultant requests confirmation that the concept is either fixed and therefore requires development to detail and IFC design, or if the consultant is permitted to offer an alternative solution\n\n5.\tPlease confirm if vendor supplied drawings are to meet BRC's requirements\n\n6.\tSection 7.8, The consultant proposes to provide a Navisworks model to the appropriate LOD. Please confirm this is acceptable\n\n7.\tThe proposed scope is to produce an IFC design as well as specifications for the supply of equipment. The IFC drawings will be dependent upon suppliers information which won't be available until the supplier is engaged. Is the intention to engage the consultant on construction advice basis, or will the intention be to use uncertified information and allow the constructor to exercise judgement\n\n8.\tPlease provide the GHD hydraulic profile for the main to confirm that flow can be transferred from the existing site to the new site and the pump size as this will impact the electrical effort and may avoid allowances for provisional sums\n\n9.\tPlease confirm the minimum storage requirements (days) of the chemicals. This may avoid allowances for provisional sums\n\n10.\tPlease confirm the daily chemical consumption . This may avoid allowances for provisional sums\n\n11.\t 12683782-GHD-CH-NF-DRG-PE-00004 Rev P01 states the Biosolids collection and disposal system is to be confirmed during detailed design. Please confirm the need for a storage hopper and or sludge load out facility. This may avoid allowances for provisional sums\n\n12.\tPlease confirm the site security requirements",
+          "answeredAt": "2026-08-27T07:06:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 6."
+        },
+        {
+          "askedAt": "2026-09-01T03:43:00.000Z",
+          "question": "Will the design need to include the incorporation of technology for the management/treatment/remediation of PFAS?",
+          "answeredAt": "2026-09-03T05:29:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 7."
+        },
+        {
+          "askedAt": "2026-09-07T08:42:00.000Z",
+          "question": "In the TEN3069 - Lump Sum Returnable Schedule in states:\n\n1) 2.3 50% Preparation and submission of cost estimate; and\n\n2) 2.8 90% Submission of updated cost estimate.\n\nCan you please provide what the expectations are and what AACE Class of estimate is to be delivered at each stage. The Invitation to Offer is unclear on the expectations.",
+          "answeredAt": "2026-09-09T23:44:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 9."
+        },
+        {
+          "askedAt": "2026-09-08T05:18:00.000Z",
+          "question": "Good afternoon Bundaberg Regional Council, we would love responses to the following questions if possible:\n\n1. For the Class 2 cost estimate, external pricing is required. Please advise whether obtaining pricing from vendors or contractors would preclude them from participating in future tendering.\n\n2. To develop a detailed design for IFC, vendor information would be required to be used. Does BRC have any preferred equipment/supplier lists for use in developing the design? (e.g. pipes/fittings/pumps/switchboard)\n\n3. Will Council supply a Digital Cadastral Data Base showing all the Deposited Plans from the existing WWTW to the new WWTP site, especially along the proposed transfer pipeline route?\n\n4. Are there any limitations that need to be considered if the plant footprint changes?\n\n5. Will the council provide details on existing potable water mains local to the proposed site. Will we be required to design an extension of water main to service the site if its not in close proximity to the main site access?\n\n6. Will the Council have any plan to reuse effluent within the plant for O&M?\n\n7. To better understand the reasons for relocation of the WWTP, the Childers WWTP Siting Study Report completed by AECOM is requested.\n\n8. It is noted that there is a design basis developed by GHD in the concept design phase. To facilitate a detailed review of the proposed design, the raw influent sewage flow and concentration monitoring data used in developing the design basis is requested. This information will assist in assessing the daily and monthly peaking factors adopted and understanding the underlying assumptions used for process design.",
+          "answeredAt": "2026-09-14T06:50:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 10."
+        },
+        {
+          "askedAt": "2026-09-15T06:58:00.000Z",
+          "question": "Good afternoon Bundaberg Regional Council, we would love responses to the following questions if possible: 1. Has BRC obtained approval / agreement for the nominated pipeline alignment. E.g. road and other relevant authorities and if easement is required? 2. The old building in the existing plant has solar power. The new irrigation system valves need automatic control valves with solar power. Does BRC require solar power to the control building? 3. Please confirm if a fire engineering report should be completed as part of the detailed design under this project. GHD Concept design report states that a trickle feed system should be designed with a storage tank and a booster until a Fire Engineering Report can be completed as part of detailed design.",
+          "answeredAt": "2026-09-17T02:05:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 11"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-17T06:48:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.1.pdf\n\n2. Added: \t (Addendum) TEN3069 Supporting Information - Part 1.zip\n\n3. Added: \t (Addendum) TEN3069 Supporting Information - Part 2.zip\n\n4. Added: \t (Addendum) TEN3069 Supporting Information - Part 3.zip\n\n5. Added: \t (Addendum) TEN3069 Supporting Information - Part 4.zip\n\n6. Added: \t (Addendum) TEN3069 Supporting Information - Part 5.zip\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-08-24T01:22:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.2.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-26T02:03:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.3.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-26T02:08:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.4.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-08-27T07:04:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 1. TEN3069 - Invitation to Offer .pdf\n\n2. Added: \t (Addendum) TEN3069 Notice to Tenderers No.5.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-08-27T07:06:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.6.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-03T05:29:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No.7.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-08T03:51:00.000Z",
+          "description": "Please refer to Notice to Tenderers No. 8"
+        },
+        {
+          "at": "2026-09-08T03:53:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Notice to Tenderers No.8.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-08T04:28:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No. 9.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-10T03:56:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No. 10.zip\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-17T02:04:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3069 Notice to Tenderers No. 11.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "15",
+        "to": "16",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "17",
+        "at": "2026-09-08T04:31:00.484Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "17",
+        "to": "18",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "18",
+        "to": "19",
+        "at": "2026-09-17T22:30:54.401Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "860f75d3f14a4b648e714e37f98c5df4",
@@ -20901,6 +21726,98 @@
     "archivedAt": "2026-09-09T05:00:09.608Z"
   },
   {
+    "id": "d3e3d86fed26478381e6ee529da00651",
+    "source": "vendorpanel",
+    "reference": "VP523025",
+    "title": "PR000131 Airconditioning & Refrigeration Scheduled Maintenance",
+    "description": "Charters Towers Regional Council invites tenders from suitably qualified and experienced tenderers for appointment as a preferred supplier of air conditioning and refrigeration scheduled maintenance services.\n\nFurther information can be found in the Tender documentation which are attached to this request.\n\nCouncil reserves the right to invite all tenderers to change their tenders to take account of a change in the tender specification.\n\nCouncil's representative for this tender is Paul Weston, Procurement & Depot Coordinator, who can be contacted on 07 4761 5300.",
+    "buyer": "Charters Towers Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-06T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=d3e3d86fed26478381e6ee529da00651s523025s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "10 Depot Rd\nBlack Jack, Queensland 4820\nAustralia",
+      "buyerWebsite": "http://www.charterstowers.qld.gov.au/",
+      "buyerDescription": "The Charters Towers Region is a local government area in North Queensland, Australia southwest of, and inland from the city of Townsville, based in Charters Towers. Established in 2008, it was preceded by two previous local government areas which dated back to the 1870s.",
+      "buyerReference": "PR000131",
+      "opensAt": "2026-09-06T14:00:00.000Z",
+      "opensAtRaw": "Monday 07 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-29T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 29 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T02:56:00.000Z",
+          "question": "We are preparing a tender response to PR000131 and seek clarification on two matters concerning the items Council has asked to be priced. This Request is also submitted for the purposes of clause 7.2(e)(i) of the Procurement Process Conditions.\n\n1. Treatment of annual chemical cleans\n\nThe Scope lists \"Annual chemical cleans\" among the works, and separately, under Costing, requires a costing of \"Chem clean per unit per air conditioner type\" for Box, Split, Under ceiling, Cassette and Air curtain units. The Price Schedule at item 3.7 contains no line item for chemical cleans.\n\n(a) Is the Total Annual Cost at items 1 to 26 intended to cover preventative maintenance servicing only, or preventative maintenance and annual chemical cleans?\n\n(b) If chemical cleans are to be priced separately, should tenderers append their own schedule of rates, or will Council issue an amended Price Schedule? Will such a schedule count toward the 90 page Maximum Page Limit?\n\n(c) Where chemical cleans are required, do they apply to every unit listed in Schedule A, or only to nominated units? If the latter, please identify which.\n\n2. Items and attendance frequency in Schedule A\n\n(a) Schedule A nominates servicing months described as \"indication only\", ranging from one to six attendances per year. As the Price Schedule requires a fixed annual cost per site, the number of attendances determines the price. Please confirm the frequencies in Schedule A are firm for pricing purposes.\n\n(b) The Scope requires additional servicing frequencies at Dalrymple Saleyards, Highway Depot, Showgrounds and Workshop facilities. Please confirm whether the frequencies shown in Schedule A for those sites already incorporate that requirement, or whether further attendances are expected beyond those shown.\n\n(c) Schedule A includes Ducted, Split Ducted, Controller AHU, Evaporative Cooler, Cold Room, Fridge and pool Heater units, none of which are addressed in the Costing section. Please confirm these are within scope. In relation to the \"25 m pool Heater\" at Kennedy Memorial Pool, please advise the equipment type, make and model.\n\n(d) The Costing section names \"Under ceiling\" and \"Air curtain\" types. No units of either type appear in Schedule A. Please confirm whether such units exist within the Contract and, if so, provide locations and quantities.\n\n(e) Under Ravenswood, the entry \"Ambulance Station\" records no equipment type or quantity. Please advise the equipment type and number of units.\n\n(f) Please confirm the quantities in Schedule A are complete and current as at the date of the Request for Tender.\n\nWhere Council considers any of the above warrants amendment of the Procurement Documents, we would welcome the issue of an Addendum.",
+          "answeredAt": "2026-09-09T22:53:00.000Z",
+          "answer": "Q1 (a) Preventative maintenance only\n\nQ1 (b) Revised response form has been uploaded which includes a price schedule for the chemical cleans\n\nQ1 (c) As listed in the revised response form price schedule\n\nQ2 (a) The 'indication only' is within the month, if you have 3 visits per year you are required to service that unit 3 times a year within the months nominated \n\nQ2 (b) This means, instead of 3 times a year, they are required to be cleaned 6 times a year as set out in schedule A\n\nQ2 (c) These are included in the 'per-site' not requiring chem cleans\n\nRheem Wave RTHP 133yt-4qv-1\n\nQ2 (d) These have been temporarily taken off the tender as the building isn't in use at the moment, will possibly be put back on if the building is used again, this will than become an amendment to the contract\n\nQ2 (e) Please refer to schedule A, under the heading 'Ambulance station', you will find 5 box AC's\n\nQ2 (f) Yes they are"
+        },
+        {
+          "askedAt": "2026-09-08T05:47:00.000Z",
+          "question": "RFI Question 1. – Servicing Frequency\n\nCan you please confirm that the frequency of servicing for all assets is to be priced strictly in accordance with the “Suggested Service Month” columns shown in Reference Schedule A?\n\nFor example, the City Hall Boardroom cassette unit shows suggested service months of March and September.\n\nDoes this mean the unit is to be serviced twice per year (biannual), and that we should therefore price 2 services per annum for this asset?\n\nPlease confirm if this interpretation applies consistently across all assets listed in Schedule A",
+          "answeredAt": "2026-09-09T21:47:00.000Z",
+          "answer": "Q1. Can you please confirm that the frequency of servicing for all assets is to be priced strictly in accordance with the “Suggested Service Month” columns shown in Reference Schedule A?\n\nA1. This would be the preference, however, Council would consider some flexibility in the schedule by negotiation if there was value in doing so.\n\nQ2. Does this mean the unit is to be serviced twice per year (biannual), and that we should therefore price 2 services per annum for this asset?\n\nA2. Yes that is correct\n\nQ3. Please confirm if this interpretation applies consistently across all assets listed in Schedule A\"\n\nA3. Yes"
+        },
+        {
+          "askedAt": "2026-09-08T05:48:00.000Z",
+          "question": "Clarification of “Controller AHU”\n\nCan you please provide clarification on what is meant by a “Controller AHU” as referenced in the tender documents / asset list?\n\nSpecifically:\n\n•\tIs a Controller AHU an Air Handling Unit that is connected to a large DX (Direct Expansion) system or a chilled water system?\n\n•\tOr does the term refer to something else (e.g. an AHU that acts as a master/controller for other units)?\n\nPlease provide a brief description or definition so we can ensure we are pricing the correct scope of works and associated servicing requirements.",
+          "answeredAt": "2026-09-09T21:40:00.000Z",
+          "answer": "AHU unit is in line with a chilled water set up or AHU as a split ducting set up\n\nWorld Theatre (not yet operational) is chilled water to AHU units\n\nCity Hall is AHU to split ducking"
+        },
+        {
+          "askedAt": "2026-09-10T02:15:00.000Z",
+          "question": "Section B of WHS Response Schedule asks for a Contractor's Declaration. This is not included in the tender documents.",
+          "answeredAt": "2026-09-10T04:05:00.000Z",
+          "answer": "Appologies for the confusion. The declaration is refering to item 3.4 in the general response forms."
+        },
+        {
+          "askedAt": "2026-09-23T08:07:00.000Z",
+          "question": "Council's response of 10 September advised that a revised Response Schedule including a chemical clean price schedule had been uploaded. The Response Schedules currently on VendorPanel appear to be the original version without this schedule. Could Council please confirm where the revised form can be found or, if it will not be issued, how chemical clean pricing should be submitted (e.g. a rate per unit by unit type)?",
+          "answeredAt": "2026-09-23T23:10:00.000Z",
+          "answer": "Apologies for the oversight. A revised version (PR000131 Response Schedules V2) which simply has an additional table to add the chemical clean pricing has been now uploaded."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-23T23:07:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t PR000131 Response Schedules V2.docx\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Charters Towers Regional Council invites tenders from suitably qualified and experienced tenderers for appointment as a preferred supplier of air conditioning and refrigeration scheduled maintenance services. \n\nFurther information can be found in the Tender documentation which are attached to this request. \n\nCouncil reserves the right to invite all tenderers to change their tenders to take account of a change in the tender specification.\n\n \n\nCouncil's representative for this tender is Paul Weston, Procurement & Depot Coordinator, who can be contacted on 07 4761 5300.",
+        "to": "Charters Towers Regional Council invites tenders from suitably qualified and experienced tenderers for appointment as a preferred supplier of air conditioning and refrigeration scheduled maintenance services.\n\nFurther information can be found in the Tender documentation which are attached to this request.\n\nCouncil reserves the right to invite all tenderers to change their tenders to take account of a change in the tender specification.\n\nCouncil's representative for this tender is Paul Weston, Procurement & Depot Coordinator, who can be contacted on 07 4761 5300.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-09-24T22:48:30.626Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "d41c83645d2744e9a5084ebaf3adb959",
     "source": "vendorpanel",
     "reference": "VP524164",
@@ -21863,6 +22780,86 @@
     "archivedAt": "2026-09-09T04:26:33.566Z"
   },
   {
+    "id": "da2d85db8abf461c93b184ab91908832",
+    "source": "vendorpanel",
+    "reference": "VP524313",
+    "title": "TEN/3089 - Supply of HDPE Pipe and Fittings",
+    "description": "Please Refer to TEN/3089 - Invitation to Offer",
+    "buyer": "Bundaberg Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-04T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=da2d85db8abf461c93b184ab91908832s524313",
+    "vendorPanelDetails": {
+      "buyerAddress": "190 Bourbong St\nBundaberg Central, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.bundaberg.qld.gov.au/business/doing-business",
+      "buyerDescription": "Bundaberg Regional Council was formed in 2008 as a result of the merging of Bundaberg City Council, Burnett Shire, Isis Shire and Kolan Shire Councils. Situated at the southern end of the Great Barrier Reef and stretching from the Burrum River to Baffle Creek, is comprised of 6,451 sq km and is home to more than 102,000 people, with our population expected to grow to over 141,000 people within twenty-five years. Collectively, we are renowned for the friendliness of our residents, superb climate, affordable cost of living, first-class facilities, and relaxed lifestyle. The Bundaberg Region is rapidly progressing to be a destination of choice - for residents, visitors, and investors.",
+      "buyerReference": "TEN/3089",
+      "opensAt": "2026-09-04T14:00:00.000Z",
+      "opensAtRaw": "Saturday 05 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-23T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 23 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T00:47:00.000Z",
+          "question": "Good morning,\n\nWithin the response document, page 11 - Offer Form, references Supply of Concrete Culvert. Are we okay to amend this ourselves to reflect the correct tender package?\n\nMany thanks",
+          "answeredAt": "2026-09-10T01:20:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 1 & new version of Returnables Schedule."
+        },
+        {
+          "askedAt": "2026-09-11T01:45:00.000Z",
+          "question": "Good morning!\n\nItems 7.1.1 and 7.1.2 – Detectable Tape Colours\n\nThe specification requires blue detectable tape for water and beige detectable tape for sewer. Our supplier has advised that the manufacturer’s available products are:\n\nWater: Green/Black tape marked “Danger – Buried Water Main Below”.\n\nSewer: Clear/Black tape marked “Danger – Buried Sewer Main Below”.\n\nPlease confirm whether Council will accept these products in place of the specified blue and beige detectable tapes.\n\nItems 7.1.1 and 7.1.2 – Detectable Tape Colours\n\nThe specified detectable tape colours are blue for water and beige for sewer. However, the manufacturer’s available tapes are Green/Black for water, labelled “Danger – Buried Water Main Below”, and Clear/Black for sewer, labelled “Danger – Buried Sewer Main Below”.\n\nWill Council accept these alternative colours",
+          "answeredAt": "2026-09-14T06:54:00.000Z",
+          "answer": "Please refer to Notice to Tenderers No. 2."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-10T01:19:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) TEN3089 Notice to Tenderers No. 1.pdf\n\n2. Added: \t (Addendum) TEN3089 Returnable Schedules.zip\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-14T06:54:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TEN3089 Notice to Tenderers No. 2.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-14T22:50:02.192Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "daf5790b5a8041169e04ed844d302080",
     "source": "vendorpanel",
     "reference": "VP520146",
@@ -22500,6 +23497,57 @@
     "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
+    "id": "e14d259142ce4041b096ec78ddd31ba3",
+    "source": "vendorpanel",
+    "reference": "VP524727",
+    "title": "Head Contractor - Grovely State School – Asbestos Mitigation (Stage 2) (With Design Responsibility)",
+    "description": "Please contact Peter Millatt – Project Manager on peter@honeywill.com.au with your company details and tender documentation will be emailed to contractors. Details of the site inspection will be advised in the email and letters to tenderers.\n\nThe Department of Education (DoE) is calling for tender submissions for the design and construction of Landscaping and civil works as part of an Asbestos Mitigation Project at Grovely SS, located at 200 Dawson Parade, Keperra QLD 4054, as part of the Repair & Replacement (R&R) program.\n\nThe works are spread across three locations within the school site and include both formal playground and nature play landscaping elements as well as tiered sandstone landscaped seating. The position of the building is at the front of the school with limited site access and working space. All works are to be completed by start of Term 1 2027.\n\nTender submissions will be accepted from contractors that meet the following requirements:\n\n•\tAppropriate QBCC Builders licences to undertake the entire scope of works\n\n•\tProfessional Indemnity Insurance to the value of $1 Million.\n\nMinimum PQC Level 2 Eligibility required.\n\nWhere a PQC Level is stated, the Principal is not obliged to provide tender documents, consider or accept a tender unless the tenderer is appropriately registered under the Queensland Government's PQC System for that PQC Level (or higher) and categories for which the tender is invited.\n\nQBCC Licensing and Professional Indemnity Insurance\n\nIt is anticipated that a minimum of a QBCC (Structural Landscaping) builders’ licence will be required for this project. Contractors are required to hold Professional Indemnity Insurance in accordance with the contract.\n\nSubmissions close on 29/09/2026 at 3:00pm via email to tenders@honeywill.com.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T05:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-08T05:05:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e14d259142ce4041b096ec78ddd31ba3s524727",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "QED 6431 2026",
+      "opensAt": "2026-09-07T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 08 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-26T05:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 26 September 2026 03:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-08T10:14:35.772Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Please contact Peter Millatt – Project Manager on peter@honeywill.com.au with your company details and tender documentation will be emailed to contractors. Details of the site inspection will be advised in the email and letters to tenderers.\n\nThe Department of Education (DoE) is calling for tender submissions for the design and construction of Landscaping and civil works as part of an Asbestos Mitigation Project at Grovely SS, located at 200 Dawson Parade, Keperra QLD 4054, as part of the Repair & Replacement (R&R) program.\n\nThe works are spread across three locations within the school site and include both formal playground and nature play landscaping elements as well as tiered sandstone landscaped seating. The position of the building is at the front of the school with limited site access and working space. All works are to be completed by start of Term 1 2027.\n\nTender submissions will be accepted from contractors that meet the following requirements:\n\n•\tAppropriate Q...",
+        "to": "Please contact Peter Millatt – Project Manager on peter@honeywill.com.au with your company details and tender documentation will be emailed to contractors. Details of the site inspection will be advised in the email and letters to tenderers.\n\nThe Department of Education (DoE) is calling for tender submissions for the design and construction of Landscaping and civil works as part of an Asbestos Mitigation Project at Grovely SS, located at 200 Dawson Parade, Keperra QLD 4054, as part of the Repair & Replacement (R&R) program.\n\nThe works are spread across three locations within the school site and include both formal playground and nature play landscaping elements as well as tiered sandstone landscaped seating. The position of the building is at the front of the school with limited site access and working space. All works are to be completed by start of Term 1 2027.\n\nTender submissions will be accepted from contractors that meet the following requirements:\n\n•\tAppropriate QBCC Builders licences to undertake the entire scope of works\n\n•\tProfessional Indemnity Insurance to the value of $1 Million.\n\nMinimum PQC Level 2 Eligibility required.\n\nWhere a PQC Level is stated, the Principal is not obliged to provide tender documents, consider or accept a tender unless the tenderer is appropriately registered under the Queensland Government's PQC System for that PQC Level (or higher) and categories for which the tender is invited.\n\nQBCC Licensing and Professional Indemnity Insurance\n\nIt is anticipated that a minimum of a QBCC (Structural Landscaping) builders’ licence will be required for this project. Contractors are required to hold Professional Indemnity Insurance in accordance with the contract.\n\nSubmissions close on 29/09/2026 at 3:00pm via email to tenders@honeywill.com.au",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "e21c811d43414aff9f974009ef052faf",
     "source": "vendorpanel",
     "reference": "VP523036",
@@ -23063,6 +24111,76 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "e627fa13a5e24ac3946fc9a87e0626f8",
+    "source": "vendorpanel",
+    "reference": "VP524945",
+    "title": "Motor Vehicle Cargo Terminal SP1",
+    "description": "The purpose of the project is to undertake the drainage, service-interface and security works required to improve the existing drainage corridor and secure the existing Benwell Road car park. These works also support the Port’s future development of additional motor vehicle and cargo storage capacity, which does not form part of this Contract.\n\nThe recent construction of the Dedicated Laydown Area and the East Port Connection Road changed the available capacity and drainage arrangements near the existing Benwell Road car park. This Contract is limited to the drainage works and Benwell Road car park security upgrade.",
+    "buyer": "Port of Townsville Limited",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T07:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-09T05:13:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e627fa13a5e24ac3946fc9a87e0626f8s524945s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "1 Benwell Rd\nSouth Townsville, Queensland 4810\nAustralia",
+      "buyerWebsite": "https://www.townsville-port.com.au/",
+      "buyerDescription": "The Port of Townsville is Northern Australia’s largest container and automotive port, and the country's leading exporter of copper, zinc, lead, sugar, fertiliser and molasses. Located in the heart of Northern Australia's largest city, the Port handles more than 30 diverse commodities and is a strategic defence and cruise port.",
+      "buyerReference": "RFT000042",
+      "opensAt": "2026-09-08T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 09 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-29T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 29 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "background": "The works generally comprise:\n\n• modification and improvement of the existing drainage channel and associated erosion protection;\n\n• relocation, protection and underground installation of affected services;\n\n• installation of security fencing, gates, hazard signage and bat deflectors around the existing Benwell Road car park;\n\n• associated pavement-marking and signage modifications;\n\n• landscaping, revegetation and erosion and sediment controls; and\n\n• all temporary works, testing, certification and completion documentation necessary to complete the works.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "MANDATORY Tender Briefing / Site Inspection to occur 1:00pm, Tuesday 15/09/2026. Please register attendance for no more than three (3) people via email to tenders@townsville-port.com.au by 3pm, 14/09/2026."
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-14T03:09:00.000Z",
+          "question": "Good afternoon\n\nPlease see below list of RFI's.\n\nCritical\tPavement scope\tConfirm whether the 2.9 ha Pavement Type A, 2,382 m2 asphalt seal and 314 m2 pad pavement shown on 008-GA01/02 are included in SP1 despite Section 2 excluding future additional storage capacity.\n\nCritical\tEarthworks model\tIssue existing and design TIN surfaces/LandXML and the designer's cut/fill report, including shrink/swell and topsoil assumptions.\n\nCritical\tSchedule 3\tIssue Schedule 3 Part A Pricing Schedule and Part B Method of Measurement so this BOQ can be aligned to contractual pay items.\n\nHigh\tRock treatment\tIssue native CAD polygons or scheduled areas for D50 150 mm riprap, D50 350 mm chute rock and all BIDIM A44 extents.\n\nHigh\tServices division\tConfirm who supplies/installs water, electrical and communications services, completes cutovers, and provides testing. Confirm all underbores remain By Others.\n\nHigh\tExisting rock wall\tConfirm portions to remain, portions to be reconstructed, and the pay basis for damage/replacement.\n\nHigh\tPits\tProvide pit schedule, dimensions and required rise/trafficability upgrades for every affected electrical and communications pit.\n\nHigh\tFencing\tConfirm fence height/specification, post spacing, all gate types/operators, bat deflector/tag detail, and whether Windlass fencing is included.\n\nMedium\tLine marking\tProvide measured Schedule of Rates quantities or CAD linework for removal and new B-L, B-T, W-L, W-T, edge and pad markings.\n\nMedium\tMaterial placement\tConfirm nominated on-Port location, haul distance and acceptance criteria for excavated and unsuitable material.\n\nMedium\tDewatering\tProvide available groundwater, tide and water-quality data and identify permitted discharge/treatment locations.\n\nMedium\tApprovals\tIssue LOC0229 and LOC0222 and confirm all conditions relevant to the civil contractor.\n\nThank you,",
+          "answeredAt": "2026-09-16T04:12:00.000Z",
+          "answer": "Please see below responses to the RFI's:\n\n1. Pavement scope\n\nRFT000042 is limited to Separable Portion 1 (SP1), comprising the nominated drain remediation and new security fencing/gate works. The approximately 2.9 ha Pavement Type A, 2,382 m² asphalt seal and 314 m² pad pavement shown on Drawings POT-007-008-GA01 and GA02 are not included in the scope of this tender. The broader IFC drawings are provided to show the overall design and relevant interfaces.\n\n2. Earthworks model\n\nPOTL will not issue native TIN, LandXML or earthworks modelling files for tender pricing. Tenderers are to determine the quantities required for SP1 from the issued drawings, specifications, Schedule 3 and site information. Any excavation, filling, trimming or reinstatement necessary to complete the SP1 drain and fencing works is to be included in the tendered price. Tenderers remain responsible for confirming site conditions and quantities.\n\n3. Schedule 3\n\nSchedule 3 Part A – Pricing Schedule and Part B – Method of Measurement were issued through the tender portal as part of the tender package. Part A is to be completed and submitted with the tender.\n\nPart B provides the applicable measurement and payment basis and is to be read with the Scope of Works, drawings and specifications.\n\n4. Rock treatment\n\nRock and geotextile treatments are included only where expressly required for the SP1 drain remediation works. Applicable locations and treatment details are shown on the relevant drainage drawings and details, including the working plans and Drawing POT-007-013-DD01. Native CAD polygons will not be issued. Tenderers are to determine the quantities required from the tender documents and site inspection.\n\n5. Services division\n\nNo new permanent water, electrical or communications service installation or cutover forms part of SP1 unless expressly identified in the Scope of Works or Schedule 3. Underbores associated with the future development are by others and are excluded from this tender. The Contractor must locate, verify, protect and maintain existing services affected by its work and coordinate any required temporary protection or access with POTL. Any identified conflict is to be promptly referred to the Superintendent before disturbance.\n\n6. Existing rock wall\n\nOnly localised modification, reinstatement or rock treatment expressly shown or required to complete the SP1 drain remediation is included. Other portions of the existing rock wall are to remain undisturbed. Any damage caused by the Contractor’s operations must be rectified by the Contractor at its cost. Payment for specified SP1 work will be assessed under the applicable Schedule 3 item.\n\n7. Electrical and communications pits\n\nNo general pit raising or trafficability-upgrade program forms part of SP1. Existing pits and associated infrastructure are to be located and protected. Where an existing pit is directly affected by the specified SP1 works, the Contractor must notify the Superintendent and obtain direction before altering or adjusting it. No allowance should be made for upgrading pits outside the defined SP1 scope unless expressly scheduled.\n\n8. Fencing\n\nThe fencing and gate scope is limited to the new fencing and gates identified for SP1. The required locations and details are to be read from Drawings POT-007-011-LM01 to LM03 together with the Scope of Works and Schedule 3. Existing Windlass fencing outside the identified SP1 works is excluded. Tenderers are to include all posts, footings, fittings, hardware, gates, security treatments and other components necessary to provide a complete and operational installation. Any inconsistency between the drawings and Scope of Works is to be identified by RFI before tender close.\n\n9. Line marking\n\nRemoval and installation of pavement line marking associated with the future car-parking development are excluded from SP1, except for any minor reinstatement made necessary by the Contractor’s SP1 activities. Native CAD linework and separate measured line-marking quantities will therefore not be issued for this tender.\n\n10. Material placement\n\nExcavated material suitable for reuse is to be managed and placed within the nominated POTL-controlled area, with an allowance for a haul distance of up to 2 km from the work area. The final placement location will be confirmed by the Superintendent before excavation commences. Material is not to be removed from Port land unless directed or approved in writing. Placement is to include the specified bunding, spreading, compaction, trimming, erosion and sediment controls and management of unsuitable or potentially contaminated material.\n\n11. Dewatering\n\nTenderers are responsible for determining an appropriate dewatering methodology based on their site inspection, investigations and proposed construction methodology. POTL does not warrant the completeness of groundwater or tidal information for tender pricing. Water must not be discharged without prior approval and must be managed, tested and treated as necessary to comply with the contract, environmental approvals and applicable legislation. The Contractor must nominate its proposed treatment and discharge arrangements in its methodology for POTL’s review before commencing dewatering.\n\nWater quality is only known for groundwater and stormwater conditions, so not low flow tidal movement. Any release must ensure it does not cause, or have the potential to cause, environmental harm. Contractor will be expected to define their release process and standards to meet that requirement.\n\n12. Approvals\n\nLOC0229 and LOC0222, together with the conditions applicable to SP1, will be issued through the tender portal by addendum. The Contractor must comply with all conditions relevant to its activities, including environmental protection, access, security, vegetation, erosion and sediment control, water management and notification requirements. Tenderers must immediately identify any perceived inconsistency between an approval condition and the tender documents."
+        },
+        {
+          "askedAt": "2026-09-17T06:04:00.000Z",
+          "question": "Hi, can you lease confirm the following RFI's\n\n- Drawing POT-007-008-GA01 shows a maintenance access ramp to be constructed. Is the maintenance Access Ramp part of SP1, if so which item of Schedule 3 is this to be allowed under?\n\n- With the services, as these are privately owned by POTL, will scope for cable supply and install and connection of Comms and Power be undertaken by POTL own Electricians/Technicians, specific to dot point 6 of the Scope of Works document item 5.1\n\n- Will Subsoil outlets through the rock be placed, for future connection to the subsoil drains once pavement is done.",
+          "answeredAt": "2026-09-20T22:46:00.000Z",
+          "answer": "13. The maintenance Ramp is not included in SP1 as it requires the construction of SP2\n\n14. Supply of Cable for both power and Comms will be provided by POTL, The contractor is required to liaise with the Port regarding timing for install and cut over. The contractor is expected to assist the POTL electricians to perform the works\n\n15. All Subsoils and associated infrastructure are omitted from the scope\n\n5. (Re-word) Services Division. The contractor is required to under bore or if unable to, open trench all up 5 envelopers for this project. Details can be found in Schedule 3 Part B"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-25T01:18:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Schedule 4 - Draft Contract - Construct Only.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-09T05:59:21.827Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-25T22:55:03.789Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "e791bdf1cce449679fabae9c10758e20",
     "source": "vendorpanel",
     "reference": "VP522443",
@@ -23344,6 +24462,68 @@
     "archivedAt": "2026-09-21T22:54:50.025Z"
   },
   {
+    "id": "e9a54bcf4ea14953bca5cc518012b707",
+    "source": "vendorpanel",
+    "reference": "VP523708",
+    "title": "QED 6383 2026 - HEALY SS AND HAPPY VALLEY SS - NEW CAR PARK",
+    "description": "The Department of Education (DoE) is calling for submissions for New Carparks located at Healy SS & Happy Valley SS.\n\nTender submissions will be accepted from eligible contractors that satisfy the PQC requirements of this project.\n\nTender documentation is available for collection from RP Infrastructure from Friday 28 August 2026. Please contact Wendy Renner (Project Manager) on telephone 0412 523 345 or email wendy.renner@rpinfrastructure.com.au for further information.\n\nSubmissions close on Friday 18 September at 2:00pm.\n\nSite Visit Details: Details of the site visit to be confirmed by contacting Wendy Renner at wendy.renner@rpinfrastructure.com.au\n\n________________________________________\n\nIMPORTANT: The Principal is not obliged to provide a tender document, consider or accept a tender unless the tenderer: is pre-qualified under the Queensland Government’s Prequalification (PQC) System; satisfies financial requirements; and meets project-specific criteria. More information About the Prequalification (PQC) System, or contact PQCRegistrar@epw.qld.gov.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-01T23:13:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=e9a54bcf4ea14953bca5cc518012b707s523708s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "34-166591 & 34-702346",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-26T04:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 26 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Department of Education (DoE) is calling for submissions for New Carparks located at Healy SS & Happy Valley SS. \n\nTender submissions will be accepted from eligible contractors that satisfy the PQC requirements of this project.\n\nTender documentation is available for collection from RP Infrastructure from Friday 28 August 2026. Please contact Wendy Renner (Project Manager) on telephone 0412 523 345 or email wendy.renner@rpinfrastructure.com.au for further information.\n\nSubmissions close on Friday 18 September at 2:00pm. \n\nSite Visit Details: Details of the site visit to be confirmed by contacting Wendy Renner at wendy.renner@rpinfrastructure.com.au \n\n________________________________________\n\nIMPORTANT: The Principal is not obliged to provide a tender document, consider or accept a tender unless the tenderer: is pre-qualified under the Queensland Government’s Prequalification (PQC) System; satisfies financial requirements; and meets project-specifi...",
+        "to": "The Department of Education (DoE) is calling for submissions for New Carparks located at Healy SS & Happy Valley SS.\n\nTender submissions will be accepted from eligible contractors that satisfy the PQC requirements of this project.\n\nTender documentation is available for collection from RP Infrastructure from Friday 28 August 2026. Please contact Wendy Renner (Project Manager) on telephone 0412 523 345 or email wendy.renner@rpinfrastructure.com.au for further information.\n\nSubmissions close on Friday 18 September at 2:00pm.\n\nSite Visit Details: Details of the site visit to be confirmed by contacting Wendy Renner at wendy.renner@rpinfrastructure.com.au\n\n________________________________________\n\nIMPORTANT: The Principal is not obliged to provide a tender document, consider or accept a tender unless the tenderer: is pre-qualified under the Queensland Government’s Prequalification (PQC) System; satisfies financial requirements; and meets project-specific criteria. More information About the Prequalification (PQC) System, or contact PQCRegistrar@epw.qld.gov.au",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-18T04:00:00.000Z",
+        "to": "2026-09-29T04:00:00.000Z",
+        "at": "2026-09-18T22:00:51.010Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-18T22:00:51.010Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
+  },
+  {
     "id": "ea1ad342629f4c09af6f9edbe3589d44",
     "source": "vendorpanel",
     "reference": "VP523889",
@@ -23501,6 +24681,67 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "ec6bd368249242a59656c250620b4e39",
+    "source": "vendorpanel",
+    "reference": "VP521529",
+    "title": "CN25256 - Provision of Security Patrol Services",
+    "description": "Noosa Shire Council invites tenders from suitably qualified, experienced and resourced respondents for the provision of security patrol services to various Council buildings and sites throughout the Noosa Shire region as described in more detail in Part 5 – Scope.\n\nThis is a Schedule of Rates contract with an anticipated commencement date of 1 November 2026 for an initial term of two (2) years.",
+    "buyer": "Noosa Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Security Services & Equipment"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T04:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-03T02:21:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=ec6bd368249242a59656c250620b4e39s521529sac80c4bf18ad42cca3c5c7ad41e6ef8bs1601",
+    "vendorPanelDetails": {
+      "buyerAddress": "Council & Boat Ramp Carpark, 9 Pelican St\nTewantin, Queensland 4565\nAustralia",
+      "buyerWebsite": "http://www.noosa.qld.gov.au/",
+      "buyerDescription": "Noosa Council",
+      "buyerReference": "CN25256",
+      "opensAt": "2026-09-02T14:00:00.000Z",
+      "opensAtRaw": "Thursday 03 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-24T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 27 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-10T01:31:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN25256 - Addendum - Pre Response Closing Time No.1.pdf\n\nPlease consider this addendum when responding. Regards, Noosa Council."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Noosa Shire Council invites tenders from suitably qualified, experienced and resourced respondents for the provision of security patrol services to various Council buildings and sites throughout the Noosa Shire region as described in more detail in Part 5 – Scope. \n\nThis is a Schedule of Rates contract with an anticipated commencement date of 1 November 2026 for an initial term of two (2) years.",
+        "to": "Noosa Shire Council invites tenders from suitably qualified, experienced and resourced respondents for the provision of security patrol services to various Council buildings and sites throughout the Noosa Shire region as described in more detail in Part 5 – Scope.\n\nThis is a Schedule of Rates contract with an anticipated commencement date of 1 November 2026 for an initial term of two (2) years.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
     "id": "ed444ff54b524a86ade6eac32d6d9375",
