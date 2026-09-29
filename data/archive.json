@@ -299,6 +299,74 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/85a96ecf-0987-4632-864f-35ee4eeec64e",
+    "reference": "ASD-COM-2026-35",
+    "title": "ASD Essentials Training Provider",
+    "description": "Australian Signals Directorate (ASD) provides cyber security advice and services to government, critical infrastructure and industry. As part of this function, ASD is releasing the ASD Essentials series of technical guidance for the protection of enterprise technology networks.",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Signals Directorate",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "86000000 - Education and Training Services"
+    ],
+    "requestType": "rfp",
+    "closingAt": "2026-09-28T05:00:00.000Z",
+    "closingAtRaw": "28-Sep-2026 3:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Project Contact\nEmail Address:\nasd.irap@defence.gov.au",
+      "name": "Project Contact",
+      "email": "asd.irap@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [
+      {
+        "field": "requestType",
+        "from": "other",
+        "to": "rfp",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
+    "reference": "DFAT-1110",
+    "title": "PNG: Western Province Partnership Mid-Term Review",
+    "description": "The Mid-Term Review (MTR) of the Western Province Partnership (WPP) will assess the Program's progress toward its intended outcomes, identify key achievements and challenges, and provide actionable recommendations to inform management decisions and program improvement and consolidation opportunities for the remainder of WPP Phase II. The MTR will assess the relevance, effectiveness, efficiency, sustainability and cross-cutting performance (including GEDSI, subnational governance and climate resilience) of WPP’s approach and delivery.",
+    "publishedAt": "2026-09-02T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Foreign Affairs and Trade - Australian Aid Program",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80101600 - Project management"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-09-28T00:00:00.000Z",
+    "closingAtRaw": "28-Sep-2026 10:00 am (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Secretariat\nEmail Address:\nPort-Moresby.Devprogramquality@dfat.gov.au",
+      "name": "Tender Secretariat",
+      "email": "Port-Moresby.Devprogramquality@dfat.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-07T23:56:50.390Z",
+    "changes": [
+      {
+        "field": "title",
+        "from": "Western Province Partnership Mid-Term Review",
+        "to": "PNG: Western Province Partnership Mid-Term Review",
+        "at": "2026-09-09T04:26:33.566Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/a75f2f68-7cea-4a59-9c7c-7a2ec0ee6feb",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/a75f2f68-7cea-4a59-9c7c-7a2ec0ee6feb",
     "reference": "10033261",
@@ -3607,6 +3675,57 @@
     "archivedAt": "2026-09-10T07:06:28.027Z"
   },
   {
+    "id": "0183e4b52ddc42db9c9d50976b7b6133",
+    "source": "vendorpanel",
+    "reference": "VP521147",
+    "title": "Lease of Restaurant, Café at 443 Concord Road, Rhodes",
+    "description": "Council is seeking Tenders from appropriately qualified and experienced hospitality providers who have a proven track record of delivering high quality service to operate a restaurant/café located within Brays Bay Reserve, 443 Concord Road, Rhodes.\n\nA briefing/site inspection will be held as per the details below:\n\n- Date: 7 September 2026\n\n- Time: 2:30pm – 3:30pm\n\nLocation: Brays Bay Reserve, 443 Concord Road, Rhodes\n\nPlease confirm via the VendorPanel forum your attendance at this meeting no later than 5pm on Thursday the 3rd of September 2026.\n\nAttendance at this meeting is mandatory. Failure to attend this briefing/site inspection will leave the Tenderer ineligible to submit a Tender.",
+    "buyer": "City of Canada Bay",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Catering & Hospitality",
+      "Travel & Tourism"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T05:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-16T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=0183e4b52ddc42db9c9d50976b7b6133s521147",
+    "vendorPanelDetails": {
+      "buyerAddress": "1A Marlborough St\nDrummoyne, New South Wales 2047\nAustralia",
+      "buyerWebsite": "http://www.canadabay.nsw.gov.au/",
+      "buyerDescription": "The City of Canada Bay supports local business and industry by facilitating and promoting programs which encourage business retention, investment and growth.\n\nSustainable businesses contribute to the development of liveable, healthy communities while maintaining vibrant and thriving economic growth and local employment opportunities.\n\nDoing business in the City of Canada Bay is good business sense and this section provides information to assist you in establishing and growing a business.\n\nThe City of Canada Bay is a fast growing business region positioned within ten kilometres of Sydney's central business district, hosting a diverse and vibrant economy from small neighbourhood village centres to significant ‘A’ grade corporate developments. Local employment is trending upwards and the City boasts a diverse and vibrant economy with strong economic outlook.\n\nOur population is nearly 85,000 and growing at a rate of 3% a year – that’s faster than any other local government area in NSW.\n\nThe City of Canada Bay is intent on attracting investors and entrepreneurs who will contribute to our sustainable future and benefit from our fast growing population and well placed business precincts.",
+      "buyerReference": "2026/CSS3",
+      "opensAt": "2026-08-16T14:00:00.000Z",
+      "opensAtRaw": "Monday 17 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-10T05:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 10 September 2026 03:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-12-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 27 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-10T04:56:00.000Z",
+          "question": "We understand that the site inspection held on Monday 7th September 2026 was compulsory and that attendance was required for tender eligibility. Could you please reconfirm whether this is correct and whether failure to attend the scheduled site inspection would make a tenderer ineligible to submit a tender?",
+          "answeredAt": "2026-09-10T06:04:00.000Z",
+          "answer": "Yes, confirming that the site inspection on the 7th of September was mandatory and that failure to attend would make a tender ineligible."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "01d3efd1d7cf4df1992ec73d92fa92c2",
     "source": "vendorpanel",
     "reference": "VP521740",
@@ -4733,6 +4852,67 @@
       }
     ],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "0ed4763dbd3243c4bd42eb7599e73b15",
+    "source": "vendorpanel",
+    "reference": "VP524506",
+    "title": "Wagon 26",
+    "description": "Supply and delivery of 4x base model 5 door small wagons as per attached specifications.\n\nSUV style of wagon for ground clearance\n\n2wd drive train",
+    "buyer": "Blackall-Tambo Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Vehicles"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T07:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-07T06:08:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0ed4763dbd3243c4bd42eb7599e73b15s524506s5fc61fbc72584241939919f75e3ed2cas1608",
+    "vendorPanelDetails": {
+      "buyerAddress": "60 Rose St\nBlackall, Queensland 4472\nAustralia",
+      "buyerWebsite": "http://www.btrc.qld.gov.au",
+      "buyerDescription": "Blackall-Tambo Regional Council",
+      "buyerReference": null,
+      "opensAt": "2026-09-06T14:00:00.000Z",
+      "opensAtRaw": "Monday 07 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-24T07:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-08T04:56:00.000Z",
+          "description": "Small SUV style of wagon\n\n2wd drive train\n\nBull bar is preferred"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Supply and delivery of 4x base model 5 door small wagons as per attached specifications.",
+        "to": "Supply and delivery of 4x base model 5 door small wagons as per attached specifications. \n\nSUV style of wagon for ground clearance\n\n2wd drive train",
+        "at": "2026-09-08T10:14:35.772Z"
+      },
+      {
+        "field": "description",
+        "from": "Supply and delivery of 4x base model 5 door small wagons as per attached specifications. \n\nSUV style of wagon for ground clearance\n\n2wd drive train",
+        "to": "Supply and delivery of 4x base model 5 door small wagons as per attached specifications.\n\nSUV style of wagon for ground clearance\n\n2wd drive train",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "0ef67f40da6e4154861908c805b3bc1f",
@@ -7306,6 +7486,146 @@
     "archivedAt": "2026-09-08T10:14:35.772Z"
   },
   {
+    "id": "2d9b25d8160843368c3263723ea9e1fc",
+    "source": "vendorpanel",
+    "reference": "VP523375",
+    "title": "CQURFQ-26-39-DFM - MKY TTC Car Park - Construction",
+    "description": "CQUniversity Australia (CQU) invites submissions from suitably qualified and experienced Contractors to undertake the construction of a proposed extension to an existing carpark, including all documented associated works, at the CQU Mackay Ooralea Campus – Trades Training Centre, located at 171 Boundary Road, Ooralea.\n\nThe Trades Training Centre offers a range of vocational education and training programs across various trade disciplines, including automotive, engineering, construction, etc., with this section of the campus being constructed in the early 2010’s. The existing carpark is located to the north of this Centre and adjacent to Boundary Road. Due to growth, including new facilities, additional trade programs and increased block training numbers, additional parking for staff and students is now required.",
+    "buyer": "Central Queensland University",
+    "buyerType": "university",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T06:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-31T02:24:00.000Z",
+    "contact": null,
+    "documentCount": 19,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2d9b25d8160843368c3263723ea9e1fcs523375s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Bruce Hwy\nRockhampton, Queensland\nAustralia",
+      "buyerWebsite": "https://www.cqu.edu.au/",
+      "buyerDescription": "CQUniversity is one of Australia’s largest regional universities, with a presence in every mainland state and a strong reputation for excellence in education, real-world graduate outcomes, and industry collaboration.\n\nWith over 30,000 students studying online and on campus across the country, we offer real choices through a comprehensive range of more than 250 qualifications, from short courses and trades to undergraduate, postgraduate and research higher degrees.\n\nAs Queensland’s only dual-sector university, we provide flexible study pathways, industry-aligned training, and personalised support to help our students succeed, wherever they are.\n\nOur strong regional focus, inclusive approach, and leadership in online learning ensure our students receive a quality education, no matter their location or background.",
+      "buyerReference": "CQURFQ-26-39-DFM",
+      "opensAt": "2026-08-30T14:00:00.000Z",
+      "opensAtRaw": "Monday 31 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-25T06:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 25 September 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Far North\n3: Fitzroy\n4: Mackay\n5: Northern\n6: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-01T06:10:00.000Z",
+          "question": "1. Could you please confirm the tender closing date and time. In the RFT document the tender closing date is also mentioned as 25/09/2026 at 1400hours. Please confirm.",
+          "answeredAt": "2026-09-23T22:48:00.000Z",
+          "answer": "Responded by Addendum 01 on 2 September 2026."
+        },
+        {
+          "askedAt": "2026-09-21T04:48:00.000Z",
+          "question": "BOQ item 16.01 - Please provide Energex standard drawing 6229-A4 sheet 1. We are unable to locate this drawing in the Energex portal.\n\nThanks",
+          "answeredAt": "2026-09-23T22:49:00.000Z",
+          "answer": "Responded by Addendum 05 on 23 September 2026."
+        },
+        {
+          "askedAt": "2026-09-21T23:58:00.000Z",
+          "question": "1. Could you please provide the pavement joint details from proposed new carpark to existing carpark.\n\nThanks",
+          "answeredAt": "2026-09-23T22:49:00.000Z",
+          "answer": "Responded by Addendum 05 on 23 September 2026."
+        },
+        {
+          "askedAt": "2026-09-23T02:38:00.000Z",
+          "question": "Hi there,\n\nCould you please confirm the quantities provided for BOQ Items 9.01 and 9.02? We have identified some discrepancies in the quantities when compared against our detailed cross-section take-off calculations.\n\nThank you.",
+          "answeredAt": "2026-09-23T22:50:00.000Z",
+          "answer": "Responded by Addendum 05 on 23 September 2026."
+        },
+        {
+          "askedAt": "2026-09-23T11:17:00.000Z",
+          "question": "Could you please advise whether an extension of time can be granted due to the recent information received under NTT05?\n\nThank you.",
+          "answeredAt": "2026-09-23T22:50:00.000Z",
+          "answer": "Responded by Addendum 06 on 24 September 2026."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-01T23:08:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Tender Addendum 01.zip\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-02T03:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Tender Addendum 02.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-08T00:06:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Tender Addendum 03.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-15T23:28:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CQU TTC Carpark - BOQ_150926.xlsm\n\n2. Added: \t (Addendum) Tender Addendum 04.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-23T06:34:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Energex Standard Drawing.pdf\n\n2. Added: \t (Addendum) Tender Addendum 05.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-23T22:36:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Tender Addendum 06.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-23T22:40:00.000Z",
+          "description": "Please refer to Addendum 06 issued 24 September 2026."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "14",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "16",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "18",
+        "at": "2026-09-23T22:32:07.942Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-25T04:00:00.000Z",
+        "to": "2026-09-28T06:00:00.000Z",
+        "at": "2026-09-24T22:48:30.626Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "25/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "28/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-24T22:48:30.626Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "18",
+        "to": "19",
+        "at": "2026-09-24T22:48:30.626Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "2dc2dd20a17f47edb78f13ca3e80e007",
     "source": "vendorpanel",
     "reference": "VP522084",
@@ -8771,6 +9091,89 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "4195f4c5c37b4c81b8a6a657df02ee11",
+    "source": "vendorpanel",
+    "reference": "VP523201",
+    "title": "Request for Quotation: Waste Management Services for New Year’s Eve 2026-27",
+    "description": "Carry out waste management and cleaning services within Woollahra Council parks and adjoining areas on New Year’s Eve 2026 and New Year’s Day 2027 ensuring that the Parks are kept to a high standard over the New Year Period.\n\nCarry out waste management and cleaning services within the parks (refer below) on New Year’s Eve 2026 and New Year’s Day 2027.\n\nCouncil requires most of these services to be carried out on New Year’s Eve in order to reduce the workload on the following day.\n\nAll cleaning work will need to cease no later than 2.00am New Year’s Day and not commence again prior to 6.00am on New Year’s Day.\n\nParks will be open to the public for general use on New Year’s Day and must be clean of all litter, bottle tops, broken glass etc. as early as practicable to ensure they are safe for public use.",
+    "buyer": "Woollahra Municipal Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-28T12:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-28T03:02:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=4195f4c5c37b4c81b8a6a657df02ee11s523201se8fec92d55d7442e83a58602a4243b67s1610",
+    "vendorPanelDetails": {
+      "buyerAddress": "536 New South Head Rd\nDouble Bay, New South Wales 2028\nAustralia",
+      "buyerWebsite": "https://www.woollahra.nsw.gov.au/",
+      "buyerDescription": "Woollahra will continue be a great place to live, work and visit where places and spaces are safe, clean and well-maintained.\n\nOur community will offer a unique mix of urban villages with a good range of shops, services and facilities.\n\nWe will make the most of the natural beauty, leafy streetscapes, open spaces, views and proximity to the water and the city.\n\nWe will be a harmonious, engaged and connected community that looks out for each other.",
+      "buyerReference": "SCY21-13",
+      "opensAt": "2026-08-27T14:00:00.000Z",
+      "opensAtRaw": "Friday 28 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-28T12:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 10:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": "The quote should include separate costings for the individual parks and for each service provided for that park, including\n\n1.\tCleaning of specified parks including removal of all rubbish, litter, bottle tops, cigarette butts etc. Councils park bins are to be emptied by the waste contractor on the night.\n\n2.\tCleaning services of permanent park toilets and 45 x Portable Toilets. Check all portable toilets – at least once per hour. Clean toilets and floors where necessary. Advise Council representative immediately of any issues with the functioning of the toilets which can’t be solved by the cleaning team. 42 x regular portable toilets and 3 x accessible toilets will be in place. Numbers and locations as per the attached site maps.\n\n3.\tPark and Portable Toilets: Supply and replenishment of amenity items in permanent park toilets and portable toilets (i.e. toilet paper etc.). Ensure sufficient suitable supplies available to ensure toilet paper does not run out. Council to advise portable toilet models, and toilet paper specs.\n\n4.\tProvision of cleaning services throughout the night to reduce workload on New Year’s Day.\n\n5.\tProvision of waste bins (number of bins as per specification).\n\n6.\tProvision of collection vehicles to remove waste.\n\nNB: Tipping costs will be paid by Council.\n\nWorks/Specifications\n\n1.\n\nParks & anticipated crowd numbers over the course of the day and evening\n\n1.\tYarranabbe Park – max 10,000 (gated, alcohol free)\n\n2.\tMcKell Park – 1,000 (gated, alcohol free)\n\n3.\tDumaresq Reserve – 250 (gated, alcohol free)\n\n4.\tRose Bay Foreshore - 2,500 (gated, alcohol free)\n\n5.\tDuff Reserve - 100 (gated, alcohol free)\n\n6.\tRedleaf grounds and Murray Rose Pool – 1,000 (gated, alcohol free)\n\n7.\tQueens Ave Vaucluse - 200 (not gated, alcohol free)",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Outline your experience with similar projects (give examples).",
+        "What is your approach/methodology?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-31T04:02:00.000Z",
+          "question": "In the request for quotation form the closing date is 16/9/26 - should this be 18/9/26 as indicated in vendorpanel?",
+          "answeredAt": "2026-08-31T04:38:00.000Z",
+          "answer": "Yes Jenna, You are correct.\n\nThe closing date is 18/09/26 at 19:00\n\nApolgies for the error."
+        },
+        {
+          "askedAt": "2026-09-06T22:54:00.000Z",
+          "question": "Good morning,\n\nCan you confirm there is no schedule for methodology for this year's tender?\n\nI noticed that differed to last years so wanted to check.\n\nThank you",
+          "answeredAt": "2026-09-17T07:40:00.000Z",
+          "answer": "Good afternoon,\n\nCouncil will not be adding a new response document with a methodology schedule. Instead, after the close of the RFQ, we will ask the preferred contractor to prepare a project plan and methodology."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-17T05:41:00.000Z",
+          "description": "The closing date of this RFQ has been extended to Monday 28 September 2026.\n\nAll existing queries will be answered by Monday 21 September 2026.\n\nFor further queries please contact Roger Faulkner on Roger.Faulkner@woollahra.nsw.gov.au"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Carry out waste management and cleaning services within Woollahra Council parks and adjoining areas on New Year’s Eve 2026 and New Year’s Day 2027 ensuring that the Parks are kept to a high standard over the New Year Period. \n\nCarry out waste management and cleaning services within the parks (refer below) on New Year’s Eve 2026 and New Year’s Day 2027. \n\nCouncil requires most of these services to be carried out on New Year’s Eve in order to reduce the workload on the following day. \n\nAll cleaning work will need to cease no later than 2.00am New Year’s Day and not commence again prior to 6.00am on New Year’s Day. \n\nParks will be open to the public for general use on New Year’s Day and must be clean of all litter, bottle tops, broken glass etc. as early as practicable to ensure they are safe for public use.",
+        "to": "Carry out waste management and cleaning services within Woollahra Council parks and adjoining areas on New Year’s Eve 2026 and New Year’s Day 2027 ensuring that the Parks are kept to a high standard over the New Year Period.\n\nCarry out waste management and cleaning services within the parks (refer below) on New Year’s Eve 2026 and New Year’s Day 2027.\n\nCouncil requires most of these services to be carried out on New Year’s Eve in order to reduce the workload on the following day.\n\nAll cleaning work will need to cease no later than 2.00am New Year’s Day and not commence again prior to 6.00am on New Year’s Day.\n\nParks will be open to the public for general use on New Year’s Day and must be clean of all litter, bottle tops, broken glass etc. as early as practicable to ensure they are safe for public use.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-18T07:00:00.000Z",
+        "to": "2026-09-28T12:00:00.000Z",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18/Sep/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-17T22:30:54.401Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "4315e73cbd554dd3a8ca650c5b52b680",
     "source": "vendorpanel",
     "reference": "VP520497",
@@ -8924,6 +9327,56 @@
       }
     ],
     "archivedAt": "2026-09-18T22:00:51.010Z"
+  },
+  {
+    "id": "437b53538c974c81b52ff7e0f3b05698",
+    "source": "vendorpanel",
+    "reference": "VP523905",
+    "title": "7.6m RHIB New Vessel Build ‘SAXON’ Vessel, Outboards and Trailer",
+    "description": "The Department of Primary Industries, Qld Boating and Fisheries Patrol is seeking supply and delivery of a 7.6m RHIB, trailer, 2 x 150hp outboard motor package for Cairns.\n\nThe vessel is operated in hazardous offshore waters from Double Island in the north to the Barnard Islands, to ensure service delivery to the public and compliance.\n\nFurther details relating to this Request for Quote opportunity can be found by downloading the 3 key supporting documents provided. These documents include the Request for Quote, Contract Details and Attachment 1 Specification.",
+    "buyer": "Department of Primary Industries",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Marine Transp. Products & Services"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-28T04:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T07:42:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=437b53538c974c81b52ff7e0f3b05698s523905s6845ca88bf954fec83be2c7b557fe55fs1584",
+    "vendorPanelDetails": {
+      "buyerAddress": "275 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.dpi.qld.gov.au/",
+      "buyerDescription": "The Department of Primary Industries are dedicated to ensuring the production and protection of Queensland’s rich natural resources. This work is of critical importance to us, Australia and the planet. Operating within diverse environments and industries, each of our four business groups plays a vital role in this mission.",
+      "buyerReference": "DPI27031",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-28T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-25T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 26 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Far North\n3: Gold Coast\n4: Northern\n5: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Department of Primary Industries, Qld Boating and Fisheries Patrol is seeking supply and delivery of a 7.6m RHIB, trailer, 2 x 150hp outboard motor package for Cairns. \n\nThe vessel is operated in hazardous offshore waters from Double Island in the north to the Barnard Islands, to ensure service delivery to the public and compliance.\n\nFurther details relating to this Request for Quote opportunity can be found by downloading the 3 key supporting documents provided. These documents include the Request for Quote, Contract Details and Attachment 1 Specification.",
+        "to": "The Department of Primary Industries, Qld Boating and Fisheries Patrol is seeking supply and delivery of a 7.6m RHIB, trailer, 2 x 150hp outboard motor package for Cairns.\n\nThe vessel is operated in hazardous offshore waters from Double Island in the north to the Barnard Islands, to ensure service delivery to the public and compliance.\n\nFurther details relating to this Request for Quote opportunity can be found by downloading the 3 key supporting documents provided. These documents include the Request for Quote, Contract Details and Attachment 1 Specification.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "43e4ac48780f40bd8a445e0eef9e0169",
@@ -10442,6 +10895,91 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "5f1c1ad2c46e4450a4039fb8a1af076c",
+    "source": "vendorpanel",
+    "reference": "VP523808",
+    "title": "Rubber Softfall Renewal - Emerald Botanical Gardens and Rotary Park Blackwater",
+    "description": "Council requires the supply and installation of certified impact-attenuating rubber softfall surfacing in the form of a modular individual tile system at existing playgrounds including approximately 300m2 at the Emerald Regional Botanic Gardens and approximately 400m2 at Rotary Park, Blackwater.\n\nThe installed softfall system must be certified to comply with the relevant Australian Standards for impact attenuation and playground safety, including the required Critical Fall Height for the playground equipment. The finished motif is to be a like for like pattern using the existing colour palette. The surface is to be uniform, free from trip hazards and constructed to the required levels and drainage requirements.\n\nThe contractor is to provide all labour, plant, equipment, materials, testing, certification and associated works necessary to deliver a fully compliant and completed installation. Temporary construction fencing to fully isolate the project area from public access is to be supplied by contractor.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T02:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-03T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=5f1c1ad2c46e4450a4039fb8a1af076cs523808sbfe2d966aa884191b5a30f84da5d0f3fs1604",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ 260167",
+      "opensAt": "2026-09-03T14:00:00.000Z",
+      "opensAtRaw": "Friday 04 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-25T02:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 25 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-04T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 05 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Conformance to Requirements\nDetail how you will meet the requirements specified in Section 1 and Attachment A (if applicable).",
+        "Capability and Experience\nProvide detail of the capability and experience of your organisation and of any Key Personnel/subcontractors (if applicable) in delivering goods/services of this type?",
+        "Ability to meet Timeframes\nPlease provide details of the resources available to support this project and indicate the anticipated timeframe for delivery, including the proposed commencement date and estimated completion date.",
+        "Cost and Value for Money\nProvide your pricing at Section 6 below. In this section, please provide detail of:\n•\tthe warranty provided on the goods\n•\tsupport, maintenance, or servicing included\n•\tany additional costs or specific exclusions"
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-09T00:30:00.000Z",
+          "question": "1. Could you please add a copy of the Impact testing for both Emerald Botanic Gardens and Rotary Park Black Water, this will be useful for quoting\n\n2. See-Saw current soft pour diagram looks to be incomplete, would this be able to be updated with the finished layout?\n\n3. Barrel & Swing current soft pour diagram looks to be incomplete, would this be able to be updated with the finished layout?\n\n4. Rope Bridge and Slide current soft pour diagram looks to be incomplete, would this be able to be updated with the finished layout?",
+          "answeredAt": "2026-09-11T03:27:00.000Z",
+          "answer": "Hello\n\nIn answer to questions 2 - 4 please review Appendix 1 which has been uploaded. In absence of the OEM layout or drone image, measurements have been taken around each playground item, with a total outside measurement of approximately 107 meters.\n\nThank you."
+        },
+        {
+          "askedAt": "2026-09-11T03:32:00.000Z",
+          "question": "Would you be able to provide confirmation as to what height the impact test was completed from, specifically around the Hamster / Mouse Wheel",
+          "answeredAt": "2026-09-14T02:29:00.000Z",
+          "answer": "Hello\n\nI have reached out to the company who conducted the impact test last year for us, however, as yet I have not received a response. To aid in the completion of your quote, please quote on the data available in the report. Thank you."
+        },
+        {
+          "askedAt": "2026-09-16T05:50:00.000Z",
+          "question": "Can you please provide manufacturer Critical fall height requirements for each piece?\n\nOr Product compliance plate numbers for each item so I can contact manufacturers directly?",
+          "answeredAt": "2026-09-18T03:11:00.000Z",
+          "answer": "Good afternoon\n\nUpon inspection there were no ID plates on any of the play items. There was a handprint on a couple of the structures, which we understand are manufactured by Landscape Structures, who are represented in Australia by Austek Play. I hope that this helps. Thank you."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-09T22:22:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) West Playground Audt Finding Wet Pour.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Council requires the supply and installation of certified impact-attenuating rubber softfall surfacing in the form of a modular individual tile system at existing playgrounds including approximately 300m2 at the Emerald Regional Botanic Gardens and approximately 400m2 at Rotary Park, Blackwater. \n\nThe installed softfall system must be certified to comply with the relevant Australian Standards for impact attenuation and playground safety, including the required Critical Fall Height for the playground equipment. The finished motif is to be a like for like pattern using the existing colour palette. The surface is to be uniform, free from trip hazards and constructed to the required levels and drainage requirements.\n\nThe contractor is to provide all labour, plant, equipment, materials, testing, certification and associated works necessary to deliver a fully compliant and completed installation. Temporary construction fencing to fully isolate the project area from public access is to be supplie...",
+        "to": "Council requires the supply and installation of certified impact-attenuating rubber softfall surfacing in the form of a modular individual tile system at existing playgrounds including approximately 300m2 at the Emerald Regional Botanic Gardens and approximately 400m2 at Rotary Park, Blackwater.\n\nThe installed softfall system must be certified to comply with the relevant Australian Standards for impact attenuation and playground safety, including the required Critical Fall Height for the playground equipment. The finished motif is to be a like for like pattern using the existing colour palette. The surface is to be uniform, free from trip hazards and constructed to the required levels and drainage requirements.\n\nThe contractor is to provide all labour, plant, equipment, materials, testing, certification and associated works necessary to deliver a fully compliant and completed installation. Temporary construction fencing to fully isolate the project area from public access is to be supplied by contractor.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-10T07:06:28.027Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "603c6fe8638342ab8ef5c3b6f95c495c",
     "source": "vendorpanel",
     "reference": "VP524232",
@@ -10899,6 +11437,123 @@
     "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
+    "id": "68d1e830c3274ab8aeda38b20d35222e",
+    "source": "vendorpanel",
+    "reference": "VP523286",
+    "title": "Request for Quotation: Security Services for New Year’s Eve 2026-27",
+    "description": "Security services provided across seven fenced NYE vantage sites, supported by NSW Police, from various times on 31 December 2026 to 1am on 1 January 2027.\n\nServices includes pre-event planning meetings with event stakeholders including Woollahra Council staff and NSW Police, and a post event review.\n\nParks & anticipated (maximum) crowd numbers:\n\n1.\tYarranabbe Park – max 10,000 (gated, alcohol free)\n\n2.\tMcKell Park – 1,000 (gated, alcohol free)\n\n3.\tDumaresq Reserve – 250 (gated, alcohol free)\n\n4.\tRose Bay Foreshore - 2,500 (gated, alcohol free)\n\n5.\tDuff Reserve - 100 (gated, alcohol free)\n\n6.\tRedleaf grounds and Murray Rose Pool – 1,000 (gated, alcohol free)\n\n7.\tQueens Ave Vaucluse - 200 (gated, alcohol free)\n\nDetailed specifications, with site maps are provided in attached documents.",
+    "buyer": "Woollahra Municipal Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Security Services & Equipment"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-28T12:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-28T08:42:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=68d1e830c3274ab8aeda38b20d35222es523286sac80c4bf18ad42cca3c5c7ad41e6ef8bs1601",
+    "vendorPanelDetails": {
+      "buyerAddress": "536 New South Head Rd\nDouble Bay, New South Wales 2028\nAustralia",
+      "buyerWebsite": "https://www.woollahra.nsw.gov.au/",
+      "buyerDescription": "Woollahra will continue be a great place to live, work and visit where places and spaces are safe, clean and well-maintained.\n\nOur community will offer a unique mix of urban villages with a good range of shops, services and facilities.\n\nWe will make the most of the natural beauty, leafy streetscapes, open spaces, views and proximity to the water and the city.\n\nWe will be a harmonious, engaged and connected community that looks out for each other.",
+      "buyerReference": "CY21-13",
+      "opensAt": "2026-08-27T14:00:00.000Z",
+      "opensAtRaw": "Friday 28 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-24T12:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 10:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Outline your experience with similar projects (give examples).",
+        "What is your approach/methodology?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-02T14:58:00.000Z",
+          "question": "Thank you for the opportunity to respond. To ensure our quotation is compliant and priced on consistent assumptions, could Council please clarify the following:\n\n1. Security licence subclasses\n\nSection 3 requires a combination of personnel holding minimum Class 1A and Class 1C security officer licences. Please confirm whether the reference to Class 1C is intentional under the current NSW licence structure, or whether Council intends current Class 1A Security Officer licence holders authorised for unarmed guarding and crowd-control functions.\n\n2. Dumaresq Reserve and Queens Avenue staffing\n\nThe staffing schedule contains two rows labelled “Dumaresq Reserve”, requiring two staff and four staff respectively, while Queens Avenue is not separately identified. Please confirm the required personnel numbers and service times for Dumaresq Reserve and Queens Avenue, Vaucluse.\n\n3. Site supervisors and minimum staffing\n\nPlease confirm whether the supervising staff member required at each vantage site is included within the stated personnel numbers or is additional.\n\nPlease also confirm whether the stated personnel figures are minimum concurrent on-duty numbers that must be maintained while meal and rest breaks are taken.\n\n4. Redleaf/Murray Rose Pool finish time and final sweep\n\nRedleaf/Murray Rose Pool is shown as requiring four staff from 3:00 pm to 1:00 am, while the task description requires completion at 1:30 am and refers to sweeping “Rose Bay foreshore” by 1:00 am.\n\nPlease confirm the correct final sweep area and required service finish time for Redleaf/Murray Rose Pool.\n\n5. Site capacities, maps and Rose Bay operating area\n\nPlease confirm the authoritative 2026 capacity and final operational layout for each site.\n\nThe supplied documents show:\n\n• Rose Bay Foreshore as 2,500 in the RFQ/VendorPanel summary and 1,500 on the map;\n\n• Redleaf/Murray Rose Pool as 1,000 in the RFQ and 500 on the map; and\n\n• Queens Avenue as 200 in the VendorPanel summary and 100 on the map.\n\nPlease also confirm which Rose Bay Foreshore precincts form part of the security scope, as the map pack separately depicts Fernleigh Avenue, Caledonia Road/Collins Avenue, Percival Park and Tingira Memorial Reserve.\n\n6. Staff access, muster points, parking and vehicle permits\n\nPlease provide the intended event-day staff access, muster and parking arrangements, including access for personnel commencing after road closures are in force and post-event staff egress.\n\nWhere vehicle access to public open space is required, please confirm who is responsible for obtaining the relevant permit and paying any applicable permit fee or bond.\n\n7. Equipment and Council-provided property\n\nPlease confirm which party will supply the following:\n\n• tables and entrance infrastructure;\n\n• two-way radios;\n\n• attendee-counting devices;\n\n• torches;\n\n• access keys; and\n\n• padlocks.\n\nPlease also confirm the collection and return arrangements for Council-provided corflute signs and any other property required to be returned to Council Chambers.\n\n8. Pricing, additional services and event changes\n\nSchedule 1 provides for a total quotation price. Please confirm whether Council requires one all-inclusive lump-sum price only or also wishes respondents to provide rates for:\n\n• additional personnel requested by Council;\n\n• Council-directed extensions beyond the specified finish times; and\n\n• other material variations to the stated scope.\n\nPlease also confirm the applicable commercial treatment if the event is cancelled, postponed or materially reduced after personnel have been rostered and committed.\n\n9. Professional indemnity insurance\n\nSchedule 6 states that Professional Indemnity Insurance of $5 million to $10 million is required “where applicable”.\n\nPlease confirm:\n\n• whether Professional Indemnity Insurance is mandatory for this security guarding scope;\n\n• the required limit of cover; and\n\n• whether evidence of cover must be held and submitted at quotation close or may be provided before commencement of the services.\n\n10. Post-event reporting\n\nPlease confirm the required format and submission deadline for the written post-event report and the anticipated timing of the post-event review meeting.\n\nThank you for your assistance.",
+          "answeredAt": "2026-09-22T12:00:00.000Z",
+          "answer": "Thank you for the opportunity to respond. To ensure our quotation is compliant and priced on consistent assumptions, could Council please clarify the following:\n\n1. Security licence subclasses\n\nCouncil response: Council would accept any combination of Class 1A and Class 1C security officer licences at each site.\n\n2. Dumaresq Reserve and Queens Avenue staffing\n\nCouncil response: The staffing schedule has been corrected. The second row that was labelled “Dumaresq Reserve” has been corrected to say Queens Avenue.\n\n3. Site supervisors and minimum staffing\n\nCouncil response: The supervising staff member at each site is included in the total staff numbers provided for each site. The numbers at each site may be below the required numbers from time to time to allow for meal and rest breaks.\n\n4. Redleaf/Murray Rose Pool finish time and final sweep\n\nCouncil response: The specification for Redleaf grounds and Murray Rose Pool site has been corrected to say sweep site by 1:00 am.\n\n5. Site capacities, maps and Rose Bay operating area\n\nPlease confirm the authoritative 2026 capacity and final operational layout for each site.\n\nCouncil response: The correct numbers are as follows:\n\n• Rose Bay Foreshore 2,500.\n\n• Redleaf/Murray Rose Pool 1,000.\n\n• Queens Avenue 250.\n\nPlease also confirm which Rose Bay Foreshore precincts form part of the security scope, as the map pack separately depicts Fernleigh Avenue, Caledonia Road/Collins Avenue, Percival Park and Tingira Memorial Reserve.\n\nCouncil response: The correct security scope is Caledonia Road/Collins Avenue and Percival Park.\n\n6. Staff access, muster points, parking and vehicle permits\n\nPlease provide the intended event-day staff access, muster and parking arrangements, including access for personnel commencing after road closures are in force and post-event staff egress.\n\nCouncil response: Security staff have full access throughout the Council area and are provided with vehicle permits to all vehicles to pass through all road closures.\n\nWhere vehicle access to public open space is required, please confirm who is responsible for obtaining the relevant permit and paying any applicable permit fee or bond.\n\nCouncil response: No fees are applicable. Security staff have full access throughout the Council area and are provided with vehicle permits to all vehicles to pass through all road closures.\n\n7. Equipment and Council-provided property\n\nPlease confirm which party will supply the following:\n\n• tables and entrance infrastructure;\n\n• two-way radios;\n\n• attendee-counting devices;\n\n• torches;\n\n• access keys; and\n\n• padlocks.\n\nCouncil response: The contractor is required to supply all of the equipment listed above, other than access keys, which are provided by Council to the contractor.\n\nPlease also confirm the collection and return arrangements for Council-provided corflute signs and any other property required to be returned to Council Chambers.\n\nCouncil response: These items are to be collected at the end of the NYE event and returned to Council on the next business day or as soon as practicable.\n\n8. Pricing, additional services and event changes\n\nSchedule 1 provides for a total quotation price. Please confirm whether Council requires one all-inclusive lump-sum price only or also wishes respondents to provide rates for:\n\n• additional personnel requested by Council;\n\n• Council-directed extensions beyond the specified finish times; and\n\n• other material variations to the stated scope.\n\nCouncil response: Please provided both a lump sum price and rates for Council-directed variations to the stated scope.\n\nPlease also confirm the applicable commercial treatment if the event is cancelled, postponed or materially reduced after personnel have been rostered and committed.\n\nCouncil response: There is no payment due by Council and no liability on Council if the event is cancelled, postponed or materially reduced.\n\n9. Professional indemnity insurance\n\nSchedule 6 states that Professional Indemnity Insurance of $5 million to $10 million is required “where applicable”.\n\nPlease confirm:\n\n• whether Professional Indemnity Insurance is mandatory for this security guarding scope;\n\n• the required limit of cover; and\n\n• whether evidence of cover must be held and submitted at quotation close or may be provided before commencement of the services.\n\nCouncil response: PI Insurance of at least $5 million is required, as stated in RFQ. Evidence must be provided by the successful tenderer, but is not required at quotation close.\n\n10. Post-event reporting\n\nPlease confirm the required format and submission deadline for the written post-event report and the anticipated timing of the post-event review meeting.\n\nCouncil response: There is no specific format required. This will be discussed with the successful tenderer.\n\nThank you for your assistance."
+        },
+        {
+          "askedAt": "2026-09-07T05:55:00.000Z",
+          "question": "Hi Team,\n\nCould you please confirm correct Submission Time.\n\nVendorPanel states 7:00PM and Request for Quotation form states 5:00 PM (AUS Eastern Daylight Time).\n\nMuch appreciated.",
+          "answeredAt": "2026-09-17T08:17:00.000Z",
+          "answer": "Hi\n\nThe time stated on VendorPanel is the correct time."
+        },
+        {
+          "askedAt": "2026-09-08T04:32:00.000Z",
+          "question": "Hi there,\n\nCould you please provide clarification on the following items:\n\nQueens Avenue, Vaucluse – There is limited information regarding gate opening times, required duties and staffing levels. Could you please confirm the requirements for this site?\n\nDumaresq Reserve – There appears to be a discrepancy in the required staffing levels, with references to both 2 and 4 staff. Could you please confirm the correct number required?\n\nPricing Schedule – Could you please confirm whether a pricing schedule will be provided, or if tenderers are expected to submit pricing in their own format?\n\nThanks",
+          "answeredAt": "2026-09-17T08:21:00.000Z",
+          "answer": "Thank you for pointing out these discrepancies. The closing date has been extended to 28 September and an updated RFQ document will be uploaded by Monday 21 September. Tenderers are expected to submit pricing in their own format and also in Schedule 1."
+        },
+        {
+          "askedAt": "2026-09-21T23:08:00.000Z",
+          "question": "Hi Team,\n\nPlease see below clarifications:\n\n1. Supervisors: Can Council confirm whether the nominated supervising staff member required at each vantage site is included within the estimated personnel numbers specified in the RFQ, or whether the supervisor is required in addition to those numbers?\n\n2. Professional Indemnity: Schedule 6 refers to Professional Indemnity Insurance of $5–10 million “where applicable”. Can Council confirm whether PI insurance is mandatory for this particular security-services engagement and, if so, whether the required limit is $5 million or $10 million?\n\n3. Equipment/Logistics: Can Council confirm whether all tables, signage, keys/padlocks and other event infrastructure referred to in the scope will be supplied by Council, together with the collection and return arrangements?\n\nMuch appreciated.",
+          "answeredAt": "2026-09-24T08:28:00.000Z",
+          "answer": "Hi\n\n1. The nominated supervising staff member required at each vantage site is included within the personnel numbers specified in the RFQ.\n\n2. PI Insurance is mandatory. Minimum PI insurance is $5 million.\n\n3. Signage is supplied by Council and needs to we returned to Council as soon as practicable in the days after the event. All tables and other event equipment referred to in the scope are to be supplied by the contractor and removed by the contractor at the end of the event.\n\nThank you."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-17T05:21:00.000Z",
+          "description": "The closing date of this RFQ has been extended to Monday 28 September 10:00pm\n\nDocumentation will be updaed to refelect this new date, and answers to queries will be posted wihtin 24 hours.\n\nFurther queries can be sent to Roger Faulkner at Roger.Faulkner@woollahra.nsw.gov.au"
+        },
+        {
+          "at": "2026-09-24T08:44:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) NYE 2026 Security Services Request for Quotation Form - final.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Security services provided across seven fenced NYE vantage sites, supported by NSW Police, from various times on 31 December 2026 to 1am on 1 January 2027. \n\nServices includes pre-event planning meetings with event stakeholders including Woollahra Council staff and NSW Police, and a post event review.\n\nParks & anticipated (maximum) crowd numbers:\n\n1.\tYarranabbe Park – max 10,000 (gated, alcohol free)\n\n2.\tMcKell Park – 1,000 (gated, alcohol free)\n\n3.\tDumaresq Reserve – 250 (gated, alcohol free)\n\n4.\tRose Bay Foreshore - 2,500 (gated, alcohol free)\n\n5.\tDuff Reserve - 100 (gated, alcohol free)\n\n6.\tRedleaf grounds and Murray Rose Pool – 1,000 (gated, alcohol free)\n\n7.\tQueens Ave Vaucluse - 200 (gated, alcohol free)\n\nDetailed specifications, with site maps are provided in attached documents.",
+        "to": "Security services provided across seven fenced NYE vantage sites, supported by NSW Police, from various times on 31 December 2026 to 1am on 1 January 2027.\n\nServices includes pre-event planning meetings with event stakeholders including Woollahra Council staff and NSW Police, and a post event review.\n\nParks & anticipated (maximum) crowd numbers:\n\n1.\tYarranabbe Park – max 10,000 (gated, alcohol free)\n\n2.\tMcKell Park – 1,000 (gated, alcohol free)\n\n3.\tDumaresq Reserve – 250 (gated, alcohol free)\n\n4.\tRose Bay Foreshore - 2,500 (gated, alcohol free)\n\n5.\tDuff Reserve - 100 (gated, alcohol free)\n\n6.\tRedleaf grounds and Murray Rose Pool – 1,000 (gated, alcohol free)\n\n7.\tQueens Ave Vaucluse - 200 (gated, alcohol free)\n\nDetailed specifications, with site maps are provided in attached documents.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Shannon Rooney Email: shannon.rooney@woollahra.nsw.gov.au Tel: +61293917034\",\"name\":\"Shannon Rooney\",\"email\":\"shannon.rooney@woollahra.nsw.gov.au\",\"phone\":\"+61293917034\"}",
+        "to": "{\"raw\":\"Roger Faulkner Email: roger.faulkner@woollahra.nsw.gov.au Tel: 93917180\",\"name\":\"Roger Faulkner\",\"email\":\"roger.faulkner@woollahra.nsw.gov.au\",\"phone\":\"93917180\"}",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-18T09:00:00.000Z",
+        "to": "2026-09-28T12:00:00.000Z",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18/Sep/2026 07:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Roger Faulkner Email: roger.faulkner@woollahra.nsw.gov.au Tel: 93917180\",\"name\":\"Roger Faulkner\",\"email\":\"roger.faulkner@woollahra.nsw.gov.au\",\"phone\":\"93917180\"}",
+        "to": "null",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-24T22:48:30.626Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "6966e96c791e4ca4a61ebe05b238ddc1",
     "source": "vendorpanel",
     "reference": "VP515253",
@@ -11273,6 +11928,67 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "70280f8f5f2b4089bce459448fde3166",
+    "source": "vendorpanel",
+    "reference": "VP523717",
+    "title": "BSC 26/27 – T16 - 26/27 TIDS/RTR Supply & Deliver Gravel – Jakelwar Goodooga Road (South)",
+    "description": "Balonne Shire Council invites tenders from suitably qualified tenderers for the 2026/27 TIDS/RTR Supply & Deliver Gravel – Jakelwar Goodooga Road (South).\n\nPlease put all queries and requests for information through the Vendor Panel forum portal. We request this to ensure everyone is receiving the same information at the same time.",
+    "buyer": "Balonne Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-29T00:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T05:41:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=70280f8f5f2b4089bce459448fde3166s523717sd71226c69feb45098deb3f863569b540s1546",
+    "vendorPanelDetails": {
+      "buyerAddress": "112-118 Victoria St\nSt George, Queensland 4487\nAustralia",
+      "buyerWebsite": "http://www.balonne.qld.gov.au",
+      "buyerDescription": "The Balonne Shire is located in Queensland on the New South Wales border some 500 kilometres\nfrom the east coast of Australia and has an area of over 31,000km2. A region of surprising diversity and unique attractions, the Balonne Shire is rich in native bird and animal life, wide open spaces, beautiful\nwaterways, and many historic buildings.",
+      "buyerReference": null,
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-28T00:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs\n2: South West"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-25T04:29:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t BSC Gravel Supply & Deliver Price Schedule - Jakelwar Goodooga Rd Rev2 Addendum.xlsx\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-23T04:00:00.000Z",
+        "to": "2026-09-29T00:00:00.000Z",
+        "at": "2026-09-25T22:55:03.789Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "23/Sep/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "29/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+        "at": "2026-09-25T22:55:03.789Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "702a17ef6d564489abd86625764f501a",
@@ -13498,6 +14214,61 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "8f849507e3644d0a87e94636867eaa16",
+    "source": "vendorpanel",
+    "reference": "VP523752",
+    "title": "Online Timesheet & Rostering (CWT202600628)",
+    "description": "The City of West Torrens is looking to move its rostering and timesheets to an online centralised system that also incorporates an award interpreter. The aim is to streamline payroll, enhance data quality, remove manual processes and create an improved user experience. A new system must work in conjunction with Chris21 which will remain as our core payroll system.\n\nRefer to RFQ documents for additional information.",
+    "buyer": "City of West Torrens",
+    "buyerType": "council",
+    "state": "SA",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-28T04:30:00.000Z",
+    "closingAtRaw": "28/Sep/2026 02:00 PM (UTC+09:30) Adelaide time",
+    "publishedAt": "2026-09-02T19:30:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8f849507e3644d0a87e94636867eaa16s523752se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "West St\nTorrensville, South Australia 5031\nAustralia",
+      "buyerWebsite": "http://www.westtorrens.sa.gov.au/",
+      "buyerDescription": "The City of West Torrens is a local government area in the western suburbs of Adelaide, South Australia.",
+      "buyerReference": "CWT202600628",
+      "opensAt": "2026-09-02T14:00:00.000Z",
+      "opensAtRaw": "Thursday 03 September 2026 (Cen. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-23T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 23 September 2026 02:00 PM (Cen. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 27 November 2026 (Cen. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "South Australia\n1: Adelaide"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-08T05:54:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t CWT202600628 - Tender Addendum 01 - 8-9-26.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-09-08T10:14:35.772Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "90a4a972115a44bc9184c491948702be",
     "source": "vendorpanel",
     "reference": "VP522407",
@@ -14465,6 +15236,118 @@
       }
     ],
     "archivedAt": "2026-09-22T22:28:49.427Z"
+  },
+  {
+    "id": "9c19a6a2f3c84c80b5fed38729043dee",
+    "source": "vendorpanel",
+    "reference": "VP523433",
+    "title": "Supply of Low Voltage Diesel Generators at TPCH",
+    "description": "Metro North Hospital and Health Service invites Suppliers (including local suppliers, small and medium enterprises and regional Queensland suppliers) to submit a quote to supply three (3) low voltage generators",
+    "buyer": "Metro North Hospital and Health Service",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T05:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-31T06:15:00.000Z",
+    "contact": {
+      "raw": "Hassan Morshed Email: hassan.morshed@health.qld.gov.au Tel: +61 7 3542 3446",
+      "name": "Hassan Morshed",
+      "email": "hassan.morshed@health.qld.gov.au",
+      "phone": "+61 7 3542 3446"
+    },
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9c19a6a2f3c84c80b5fed38729043dees523433s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "330 Herston Rd\nHerston, Queensland 4006\nAustralia",
+      "buyerWebsite": "https://www.metronorth.health.qld.gov.au/",
+      "buyerDescription": "Metro North Health enables people to deliver excellent patient-centred care and high quality health services. We focus on collaboration with healthcare partners and an investment in systems, engagement and culture, we connect people to deliver services to a population approaching 900,000, from north of the Brisbane River to north of Kilcoy.",
+      "buyerReference": "MNPS76063",
+      "opensAt": "2026-08-30T14:00:00.000Z",
+      "opensAtRaw": "Monday 31 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-25T05:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 25 September 2026 03:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (E. Australia Standard Time)",
+      "background": "See released documents",
+      "desiredOutcomes": "See released documents",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-08-31T06:19:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Att 3 - Specification - Q250202-SPC-EL-001 [B].pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-09-08T01:49:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum -01_08-09-2026.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-11T00:16:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum -02_11-09-2026.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-15T23:40:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum -03_16-09-2026.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-18T00:09:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum -04_18-09-2026.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-16T05:00:00.000Z",
+        "to": "2026-09-28T05:00:00.000Z",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "16/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "to": "28/Sep/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-09-08T04:25:30.028Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "6",
+        "at": "2026-09-11T22:04:43.234Z"
+      },
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Hassan Morshed Email: hassan.morshed@health.qld.gov.au Tel: 07 3564 0318\",\"name\":\"Hassan Morshed\",\"email\":\"hassan.morshed@health.qld.gov.au\",\"phone\":\"07 3564 0318\"}",
+        "to": "{\"raw\":\"Hassan Morshed Email: hassan.morshed@health.qld.gov.au Tel: +61 7 3542 3446\",\"name\":\"Hassan Morshed\",\"email\":\"hassan.morshed@health.qld.gov.au\",\"phone\":\"+61 7 3542 3446\"}",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "8",
+        "at": "2026-09-18T22:00:51.010Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "9c69b6adad0e40fa9c10200cd4ef60cc",
@@ -17063,6 +17946,90 @@
     "archivedAt": "2026-09-08T04:25:30.028Z"
   },
   {
+    "id": "b40d3ae395724c059e2391971251bf25",
+    "source": "vendorpanel",
+    "reference": "VP523218",
+    "title": "Request for Quotation: Temporary Infrastructure for New Year’s Eve 2026-27",
+    "description": "Provide infrastructure for New Year’s Eve 2026-27 at six harbour-side vantage points in the Woollahra Council LGA.\n\nSuppliers may quote for any or all of the following service categories:\n\n1.\tPortable Toilets – Hire, delivery, installation, servicing and collection\n\n42 x standard units, 3 x accessible units.\n\n2.\tLighting Towers and Generator – Hire, delivery, installation and collection\n\n13 x lighting towers\n\n3.\tTemporary Fencing – Supply, installation, dismantling and collection\n\nApprox 1,200 metres\n\nPlease indicate clearly on your response which category(ies) above you are quoting for.\n\nFull specifications are provided in the attached Request For Quote document and detailed site maps.",
+    "buyer": "Woollahra Municipal Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Event Management & Services",
+      "Plant & Equipment - Hire"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-09-28T12:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-28T04:26:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=b40d3ae395724c059e2391971251bf25s523218",
+    "vendorPanelDetails": {
+      "buyerAddress": "536 New South Head Rd\nDouble Bay, New South Wales 2028\nAustralia",
+      "buyerWebsite": "https://www.woollahra.nsw.gov.au/",
+      "buyerDescription": "Woollahra will continue be a great place to live, work and visit where places and spaces are safe, clean and well-maintained.\n\nOur community will offer a unique mix of urban villages with a good range of shops, services and facilities.\n\nWe will make the most of the natural beauty, leafy streetscapes, open spaces, views and proximity to the water and the city.\n\nWe will be a harmonious, engaged and connected community that looks out for each other.",
+      "buyerReference": "SCY21-13",
+      "opensAt": "2026-08-27T14:00:00.000Z",
+      "opensAtRaw": "Friday 28 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-28T12:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 10:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": "Overview of NYE Vantage points:\n\n1.\tYarranabbe Park – max 10,000 (gated, alcohol free)\n\n2.\tMcKell Park – 1,000 (gated, alcohol free)\n\n3.\tDumaresq Reserve – 250 (gated, alcohol free)\n\n4.\tRose Bay Foreshore - 2,500 (gated, alcohol free)\n\n5.\tDuff Reserve - 100 (gated, alcohol free)\n\n6.\tRedleaf grounds and Murray Rose Pool – 1,000 (gated, alcohol free)\n\n7.\tQueens Ave Vaucluse - 200 (gated, alcohol free) - [Not advertised]",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Outline your experience with similar projects (give examples).",
+        "What is your approach/methodology?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T06:05:00.000Z",
+          "question": "Hi,\n\nI see on your request you have bump in as 30st or 31st and bump out as 1st or 2nd.\n\nAre these dates the only ones allowed for bump in and out? or are we able to begin on 28th or even 29th and remove our equipment on 3rd also?\n\nThis is more so for the fencing as it may take time to complete, just looking for that clarification in order to quote accurately, thank you",
+          "answeredAt": "2026-09-17T07:44:00.000Z",
+          "answer": "Council will not allow bump in on 28 December as it is a public holiday, and Council staff will be unavailable. Council will allow bump in on 29 December.\n\nCouncil will allow bump out on 3 January, but no later."
+        },
+        {
+          "askedAt": "2026-09-16T05:45:00.000Z",
+          "question": "Hi,\n\nRegarding the section \"contractor must account for approximate attendee numbers as provided by council. If extra toilet paper is required to meet needs; this will be supplied to council\"\n\nJust confirming you wish to supply you with extra rolls of toilet paper that we believe may be required on the night?\n\nThis will most likely be a several boxes of toilet paper due to the number of attendees so I wanted to be certain, thank you",
+          "answeredAt": "2026-09-22T11:18:00.000Z",
+          "answer": "Hello,\n\nYes, that is correct. Council requires the contractor to have enough spare rolls of toilet paper on hand to ensure that none of the portable toilets run out of toilet paper during the event.\n\nThank you.\n\nWoollahra Council"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-17T05:39:00.000Z",
+          "description": "The closing date of this RFQ has been extended to Monday 28 September 2026.\n\nAll existing queries will be answered by Monday 21 September 2026.\n\nFor further queries please contact Roger Faulkner on Roger.Faulkner@woollahra.nsw.gov.au"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Provide infrastructure for New Year’s Eve 2026-27 at six harbour-side vantage points in the Woollahra Council LGA. \n\nSuppliers may quote for any or all of the following service categories:\n\n1.\tPortable Toilets – Hire, delivery, installation, servicing and collection\n\n42 x standard units, 3 x accessible units.\n\n2.\tLighting Towers and Generator – Hire, delivery, installation and collection\n\n13 x lighting towers\n\n3.\tTemporary Fencing – Supply, installation, dismantling and collection\n\nApprox 1,200 metres\n\nPlease indicate clearly on your response which category(ies) above you are quoting for.\n\nFull specifications are provided in the attached Request For Quote document and detailed site maps.",
+        "to": "Provide infrastructure for New Year’s Eve 2026-27 at six harbour-side vantage points in the Woollahra Council LGA.\n\nSuppliers may quote for any or all of the following service categories:\n\n1.\tPortable Toilets – Hire, delivery, installation, servicing and collection\n\n42 x standard units, 3 x accessible units.\n\n2.\tLighting Towers and Generator – Hire, delivery, installation and collection\n\n13 x lighting towers\n\n3.\tTemporary Fencing – Supply, installation, dismantling and collection\n\nApprox 1,200 metres\n\nPlease indicate clearly on your response which category(ies) above you are quoting for.\n\nFull specifications are provided in the attached Request For Quote document and detailed site maps.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-18T05:00:00.000Z",
+        "to": "2026-09-28T12:00:00.000Z",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18/Sep/2026 03:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "28/Sep/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-17T22:30:54.401Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "b7cf4c74b494487e9810f2a6bd48f9eb",
     "source": "vendorpanel",
     "reference": "VP521164",
@@ -19506,6 +20473,330 @@
     "archivedAt": "2026-09-22T02:22:22.858Z"
   },
   {
+    "id": "d361967b71ea4ad7a2c29ffae81e24f8",
+    "source": "vendorpanel",
+    "reference": "VP523584",
+    "title": "Provision of Assessment Services in South Asia",
+    "description": "Provision of Assessment Services in South Asia\n\nQueensland University of Technology (QUT) invites Offers from suitably qualified and experienced suppliers for the provision of admissions assessment services in South Asia, initially focused on India.\n\nQUT is seeking a supplier to establish and operate an independent admissions assessment capability, including workforce, facilities and operational support, to assist with the assessment of international student applications.\n\nServices are expected to include Genuine Student assessments, applicant interviews, document verification and authentication, assessment of supporting documentation, reporting, quality assurance and market insights. QUT will retain ownership of admissions policy, governance and final admissions decision-making.\n\nThe initial contract term will be two (2) years, with options for extension at QUT's discretion.\n\nFurther details are available in the Request for Offer (RFO) documentation. A Supplier Briefing will be held on 11 September. Details on how to register are included in the RFO.\n\nAll queries relating to this tender must be received by15 September 2026. Please ensure all queries relating to this tender indicate the tender name and number in the subject.",
+    "buyer": "Queensland University of Technology",
+    "buyerType": "university",
+    "state": "QLD",
+    "categories": [
+      "HR Services & Recruitment"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T00:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-01T02:16:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=d361967b71ea4ad7a2c29ffae81e24f8s523584s9d9be4c6449d4871a89198c3b1b655b3s1575",
+    "vendorPanelDetails": {
+      "buyerAddress": "2 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.qut.edu.au/",
+      "buyerDescription": "We're well known as 'the university for the real world' because of our close links with industry and our relevant teaching and applied research. Industry representatives and professionals contribute to our course development, adding a practical perspective to theoretical education.\n\nOur academic staff consult in industry and work on industry projects which often involve students. Staff and students have access to the latest teaching technology.",
+      "buyerReference": "13596",
+      "opensAt": "2026-08-31T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 01 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-22T00:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 22 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-25T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 26 January 2027 (E. Australia Standard Time)",
+      "background": "Further information is available in the attached Tender Documents",
+      "desiredOutcomes": "Further information is available in the attached Tender Documents",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-04T05:43:00.000Z",
+          "question": "Hi Team, Our participants were registered for the industrial briefing using the new link provided in the Addendum. However, they do not appear to have received the invitation. Could you please confirm whether the invitations have been issued?\n\nRegards\n\nQLDGov",
+          "answeredAt": "2026-09-08T04:09:00.000Z",
+          "answer": "Good afternoon,\n\nA calendar invitation for the supplier briefing will be distributed to all registered respondents closer to the scheduled date and will include all relevant meeting details.\n\nKind Regards,\n\nStrategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-07T06:11:00.000Z",
+          "question": "AI / Technology Solution: Will QUT accept an optional supplier-owned AI solution to support application assessment and/or related assessment activities, subject to QUT’s prior approval and agreed licensing, privacy, data protection, information security, governance and human-oversight arrangements, with QUT retaining control of assessment criteria and final admissions decisions?",
+          "answeredAt": "2026-09-10T23:23:00.000Z",
+          "answer": "Good morning Rebecca,\n\nThank you for your clarification submission.\n\nThe response to this query has been provided in Addendum Clarification 02, which is now available on VendorPanel for your review.\n\nKind regards,\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-10T11:00:00.000Z",
+          "question": "AI / Technology Solution: Will QUT accept an optional supplier-owned AI solution to support application assessment and/or related assessment activities, subject to QUT’s prior approval and agreed licensing, privacy, data protection, information security, governance and human-oversight arrangements, with QUT retaining control of assessment criteria and final admissions decisions?",
+          "answeredAt": "2026-09-10T23:30:00.000Z",
+          "answer": "Good morning,\n\nThank you for your request for clarification.\n\nQUT considers this matter to be addressed by Clarification 02, Question 4 – Use of AI, issued today. Suppliers should refer to that clarification when preparing their response.\n\nNo further clarification will be issued in relation to this matter at this time.\n\nKind regards,\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-11T11:20:00.000Z",
+          "question": "Clarification – Invoicing Terms\n\nClause 11.9 and Item 3 of Schedule A of the Agreement provide for invoicing in arrears. Could QUT please confirm whether it would be agreeable to the supplier invoicing on a quarterly or bi-annual basis in advance, in line with the supplier's standard commercial terms?",
+          "answeredAt": "2026-09-16T00:18:00.000Z",
+          "answer": "Good morning,\n\nThank you for your clarification request regarding invoicing terms.\n\nQUT's response has been issued via the following addendum:\n\n00013596 RFO Tender Clarification 04.pdf\n\nPlease review this addendum and take it into account when preparing your response.\n\nKind regards,"
+        },
+        {
+          "askedAt": "2026-09-11T11:23:00.000Z",
+          "question": "Would QUT be agreeable to the Supplier proposing two alternative operating models, each with a different commercial/pricing structure? If so, could QUT please confirm how the alternatives should be presented in the Pricing Schedule — as separate columns within the same spreadsheet/tab, or as separate tabs for each operating model?",
+          "answeredAt": "2026-09-16T00:18:00.000Z",
+          "answer": "Good morning,\n\nThank you for your clarification request regarding Operating Models.\n\nQUT's response has been issued via the following addendum:\n\n00013596 RFO Tender Clarification 04.pdf\n\nPlease review this addendum and take it into account when preparing your response.\n\nKind regards,"
+        },
+        {
+          "askedAt": "2026-09-14T04:11:00.000Z",
+          "question": "StudyLink integration: To upload assessment/interview results back into StudyLink, integration with StudyLink APIs will be required. StudyLink will require QUT to formally introduce the supplier as their vendor and authorise them to perform API integration work on QUT’s StudyLink instance. Please confirm QUT will provide the supplier with necessary assistance on this process.",
+          "answeredAt": "2026-09-16T00:19:00.000Z",
+          "answer": "Good morning,\n\nThank you for your clarification request regarding StudyLink integration.\n\nQUT's response has been issued via the following addendum:\n\n00013596 RFO Tender Clarification 04.pdf\n\nPlease review this addendum and take it into account when preparing your response.\n\nKind regards,"
+        },
+        {
+          "askedAt": "2026-09-14T19:40:00.000Z",
+          "question": "While reviewing the IP License Agreement provided in the tender documents, we noted a requirement for The Supplier(the Licensee) to pay a licence fee to QUT for the right to use its marks, systems, and software. Please clarify on:\n\n1.\tLicence Fee Structure: As the fee amount is currently left blank, could you please confirm the intended commercial arrangement? In our standard engagements, access to client systems, software, and brand assets is provided without a separate licensing fee, as the use is strictly limited to delivering the requested services.\n\n2.\tAgreement Structure: In similar service engagements, IP licensing terms are typically integrated directly into the Master Services Agreement (MSA) rather than executed as a standalone agreement. Could you confirm if executing a separate IP Licence Agreement is a mandatory requirement for QUT? If a standalone agreement is required, we are happy to finalize our tracked-changes review and submit it for your consideration.",
+          "answeredAt": "2026-09-16T00:19:00.000Z",
+          "answer": "Good morning,\n\nThank you for your clarification request regarding Licence Fee and Agreement Structures.\n\nQUT's response has been issued via the following addendum:\n\n00013596 RFO Tender Clarification 04.pdf\n\nPlease review this addendum and take it into account when preparing your response.\n\nKind regards,"
+        },
+        {
+          "askedAt": "2026-09-16T01:44:00.000Z",
+          "question": "Please see below some questions from our end:\n\n1.\tNoting the briefing was held last Friday and the RFO requires a substantial amount of detailed information, we would appreciate consideration of a one-week extension to the submission deadline, to 29 September, to allow sufficient time to prepare a comprehensive and high-quality response.\n\n2.\tCould QUT provide its current average handling time by assessment type?\n\n3.\tWhat is the average duration of applicant interviews across each assessment stream?\n\n4.\tWhat is the average number of documents reviewed as part of a typical assessment?\n\n5.\tCould QUT clarify the intended applicant submission process? Specifically, will applications and supporting documentation continue to be submitted through QUT's existing application portal, or is QUT expecting a supplier-provided portal solution?\n\n6.\tCould QUT confirm its preferred contracting model? Specifically, does QUT require the contract to be executed with an Indian legal entity, or would it be acceptable to contract with an Australian-based entity providing governance and oversight while leveraging an offshore delivery team for operational services?\n\n7.\tCould QUT please clarify its expectations regarding applicant verification requirements, including:\n\na.\tStandard verification: Does QUT expect document authentication, attestation, and cross-document consistency checks as part of the assessment process?\n\nb.\tAdvanced verification: Does QUT expect suppliers to utilise Indian government-enabled verification services, such as:\n\ni.\tDigiLocker for verification of government-issued digital documents; and/or\n\nii.\tAadhaar e-KYC for electronic identity verification?\n\nc.\tApplication of advanced verification: Should these enhanced verification measures be applied to all applicants, or only to higher-risk, exception-based, or escalated cases?\n\ni.\tNoting that advanced verification activities may have implications for processing time, cost, and applicant experience, guidance on QUT's expectations would assist suppliers in developing an accurate response and pricing model.\n\n8.\tWhat information exchanges will be required between the supplier and QUT systems, and what integration capabilities (other than StudyLink), system access arrangements, APIs, or data interfaces will QUT make available to support service delivery?",
+          "answeredAt": "2026-09-17T09:30:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 05, which was uploaded to VendorPanel on 16 September 2026, for QUT's response.\n\nKind regards"
+        },
+        {
+          "askedAt": "2026-09-16T05:01:00.000Z",
+          "question": "Can QUT please outline the current application process flow? Are you able to provide sequence diagrams, that outline the various stages?",
+          "answeredAt": "2026-09-21T00:18:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:02:00.000Z",
+          "question": "Is this service replacing an existing operating model, augmenting an existing team, or establishing a completely new capability?",
+          "answeredAt": "2026-09-21T00:35:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:02:00.000Z",
+          "question": "What proportion of applications currently require:\n\n•\tGenuine Student interviews?\n\n•\tDocument verification?\n\n•\tEscalation to QUT?",
+          "answeredAt": "2026-09-21T00:35:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:02:00.000Z",
+          "question": "What are the most common reasons for application rejection, escalation or delay?",
+          "answeredAt": "2026-09-21T00:35:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:02:00.000Z",
+          "question": "Can QUT provide monthly application volumes for the last two years, including peak and low periods?",
+          "answeredAt": "2026-09-21T00:35:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:03:00.000Z",
+          "question": "What is the average interview duration and expected preparation/document review time per applicant?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:03:00.000Z",
+          "question": "What percentage of applications require additional verification or follow-up investigation?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:03:00.000Z",
+          "question": "Are there any forecast growth targets that would materially increase annual assessment volumes?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:03:00.000Z",
+          "question": "What turnaround times does QUT currently achieve for:\n\n•\tInitial assessment\n\n•\tInterview completion\n\n•\tDocument verification\n\n•\tEscalations\n\n•\tFinal decision?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:03:00.000Z",
+          "question": "What turnaround times would QUT regard as acceptable, good and exceptional performance?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:04:00.000Z",
+          "question": "How does QUT currently measure quality and assessor accuracy?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:04:00.000Z",
+          "question": "What access to StudyLink would be available to the supplier? Does QUT have any ideas what a system integration might look like?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:04:00.000Z",
+          "question": "Would the supplier have direct access to applicant records, documents and workflow status within StudyLink?",
+          "answeredAt": "2026-09-21T00:34:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:05:00.000Z",
+          "question": "Does QUT have existing APIs or integration services available for suppliers?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:05:00.000Z",
+          "question": "Is QUT seeking:\n\n•\tDirect system integration,\n\n•\tBatch file transfer,\n\n•\tPortal-based processing,\n\n•\tOr another model?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:05:00.000Z",
+          "question": "Can QUT provide an indicative future-state architecture or preferred technology principles?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:05:00.000Z",
+          "question": "What reporting, dashboards and operational visibility does QUT expect?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:06:00.000Z",
+          "question": "What assessment framework, scoring criteria or decision framework does QUT currently use for Genuine Student assessments?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:06:00.000Z",
+          "question": "What training materials currently exist, and will they be provided to the successful supplier?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:06:00.000Z",
+          "question": "Can QUT provide examples of typical escalation scenarios?",
+          "answeredAt": "2026-09-21T00:33:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:06:00.000Z",
+          "question": "Is there a transition period where QUT and the supplier will operate in parallel?",
+          "answeredAt": "2026-09-21T00:19:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:07:00.000Z",
+          "question": "What implementation activities does QUT expect the supplier to complete within the first 30, 60 and 90 days?",
+          "answeredAt": "2026-09-21T00:19:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:07:00.000Z",
+          "question": "What assumptions has QUT made regarding supplier-provided systems versus QUT-provided systems?",
+          "answeredAt": "2026-09-21T00:19:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:07:00.000Z",
+          "question": "Can QUT provide the current end-to-end admissions assessment workflow and process maps?",
+          "answeredAt": "2026-09-21T00:19:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        },
+        {
+          "askedAt": "2026-09-16T05:07:00.000Z",
+          "question": "Can QUT clarify which data privacy laws would apply to ACER’s access to applicants’ personal information, including whether the relevant requirements are governed by Australian law, Indian law, or both?",
+          "answeredAt": "2026-09-21T00:19:00.000Z",
+          "answer": "Dear Supplier,\n\nThank you for your questions.\n\nPlease refer to Addendum 06, which was uploaded to VendorPanel on 17 September 2026, for QUT's response.\n\nKind regards\n\nQUT Strategic Procurement"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-03T01:49:00.000Z",
+          "description": "Please note: The following addendum has been recently added which contains the link to the Supplier Briefing Registration.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 01.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-10T23:04:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 02.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-11T06:43:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 03 Supplier Briefing.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-15T00:23:00.000Z",
+          "description": "Please note that the Clarification Closing Time has been extended from 12:00 PM AEST on 15 September 2026 to 4:00 PM AEST on 16 September 2026.\n\nThe Offer Closing Time has also been extended from 12:00 PM AEST on 22 September 2026 to 4:00 PM AEST on 22 September 2026.\n\nPlease ensure all clarification requests and submissions are lodged by the revised deadlines.\n\nKind regards\n\nQUT Procurement"
+        },
+        {
+          "at": "2026-09-16T00:15:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 04.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-16T07:37:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 05.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-17T09:49:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 00013596 RFO Tender Clarification 06.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-21T00:52:00.000Z",
+          "description": "Further to Addendum 05 uploaded to Vendor Panel on 16 September 2026, please be advised that the Offer Closing Time has been extended from 4:00 pm AEST on Tuesday 22 September 2026 to 10:00 am AEST on Monday 28 September 2026.\n\nSuppliers are requested to note the revised deadline and plan their submissions accordingly.\n\nKind regards\n\nQUT Strategic Procurement"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Provision of Assessment Services in South Asia \n\nQueensland University of Technology (QUT) invites Offers from suitably qualified and experienced suppliers for the provision of admissions assessment services in South Asia, initially focused on India.\n\nQUT is seeking a supplier to establish and operate an independent admissions assessment capability, including workforce, facilities and operational support, to assist with the assessment of international student applications.\n\nServices are expected to include Genuine Student assessments, applicant interviews, document verification and authentication, assessment of supporting documentation, reporting, quality assurance and market insights. QUT will retain ownership of admissions policy, governance and final admissions decision-making.\n\nThe initial contract term will be two (2) years, with options for extension at QUT's discretion.\n\nFurther details are available in the Request for Offer (RFO) documentation. A Suppl...",
+        "to": "Provision of Assessment Services in South Asia\n\nQueensland University of Technology (QUT) invites Offers from suitably qualified and experienced suppliers for the provision of admissions assessment services in South Asia, initially focused on India.\n\nQUT is seeking a supplier to establish and operate an independent admissions assessment capability, including workforce, facilities and operational support, to assist with the assessment of international student applications.\n\nServices are expected to include Genuine Student assessments, applicant interviews, document verification and authentication, assessment of supporting documentation, reporting, quality assurance and market insights. QUT will retain ownership of admissions policy, governance and final admissions decision-making.\n\nThe initial contract term will be two (2) years, with options for extension at QUT's discretion.\n\nFurther details are available in the Request for Offer (RFO) documentation. A Supplier Briefing will be held on 11 September. Details on how to register are included in the RFO.\n\nAll queries relating to this tender must be received by15 September 2026. Please ensure all queries relating to this tender indicate the tender name and number in the subject.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "9",
+        "at": "2026-09-11T22:04:43.234Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-22T02:00:00.000Z",
+        "to": "2026-09-22T06:00:00.000Z",
+        "at": "2026-09-15T22:30:52.819Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "22/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "to": "22/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-15T22:30:52.819Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "11",
+        "at": "2026-09-16T22:27:38.012Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "11",
+        "to": "12",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-22T06:00:00.000Z",
+        "to": "2026-09-28T00:00:00.000Z",
+        "at": "2026-09-21T22:54:50.025Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "22/Sep/2026 04:00 PM (UTC+10:00) Brisbane time",
+        "to": "28/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+        "at": "2026-09-21T22:54:50.025Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "d3be1daf8633443dae4a959105370d82",
     "source": "vendorpanel",
     "reference": "VP520759",
@@ -19608,6 +20899,58 @@
       }
     ],
     "archivedAt": "2026-09-09T05:00:09.608Z"
+  },
+  {
+    "id": "d41c83645d2744e9a5084ebaf3adb959",
+    "source": "vendorpanel",
+    "reference": "VP524164",
+    "title": "Register of Prequalified Suppliers for Supply of Quarry Materials",
+    "description": "Cassowary Coast Regional Council invites Tenders from suitably qualified Tenderers for appointment as a pre-qualified supplier of the Register of Prequalified Suppliers for Supply of Quarry Materials as described in more detail in Part 5 – Scope.\n\nSelection as a pre-qualified supplier does not guarantee that the Tenderer will be engaged to provide services, nor does it guarantee any minimum quantity or value of work. Engagement will be at the Principal’s sole discretion and will be based on the Principal’s operational requirements.",
+    "buyer": "Cassowary Coast Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Mining & Quarrying & Oil & Gas"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-09-29T00:00:00.000Z",
+    "closingAtRaw": "29/Sep/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-04T03:56:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d41c83645d2744e9a5084ebaf3adb959s524164",
+    "vendorPanelDetails": {
+      "buyerAddress": "70 Rankin St\nInnisfail, Queensland 4860\nAustralia",
+      "buyerWebsite": "https://www.cassowarycoast.qld.gov.au/",
+      "buyerDescription": "The Cassowary Coast Region is a local government area in the Far North Queensland region of Queensland, Australia, south of Cairns and centred on the towns of Innisfail, Cardwell and Tully. It was created in 2008 from a merger of the Shire of Cardwell and the Shire of Johnstone.",
+      "buyerReference": "COW000231",
+      "opensAt": "2026-09-03T14:00:00.000Z",
+      "opensAtRaw": "Friday 04 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-24T00:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-27T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 28 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Cassowary Coast Regional Council invites Tenders from suitably qualified Tenderers for appointment as a pre-qualified supplier of the Register of Prequalified Suppliers for Supply of Quarry Materials as described in more detail in Part 5 – Scope. \n\nSelection as a pre-qualified supplier does not guarantee that the Tenderer will be engaged to provide services, nor does it guarantee any minimum quantity or value of work. Engagement will be at the Principal’s sole discretion and will be based on the Principal’s operational requirements.",
+        "to": "Cassowary Coast Regional Council invites Tenders from suitably qualified Tenderers for appointment as a pre-qualified supplier of the Register of Prequalified Suppliers for Supply of Quarry Materials as described in more detail in Part 5 – Scope.\n\nSelection as a pre-qualified supplier does not guarantee that the Tenderer will be engaged to provide services, nor does it guarantee any minimum quantity or value of work. Engagement will be at the Principal’s sole discretion and will be based on the Principal’s operational requirements.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "d42cf0c062764dc7939c772063aa5856",
@@ -21549,6 +22892,103 @@
     "archivedAt": "2026-09-17T22:30:54.401Z"
   },
   {
+    "id": "e4f265b09ecd41eebdd0f9f79e8d769f",
+    "source": "vendorpanel",
+    "reference": "VP523909",
+    "title": "Events Panel for Infrastructure, AV, Staging & structures, Lighting, Crew, Production",
+    "description": "South Bank Corporation is seeking to establish a panel of qualified and experienced suppliers to support the delivery of its annual events, activations and public programming across the South Bank precinct.\n\nSouth Bank is one of Queensland's most visited destinations and delivers a diverse calendar of events ranging from small community activations and wellness programs to large-scale public festivals, outdoor concerts, cultural celebrations and strategic partnerships.\n\nTo support these activities, the Customer intends to appoint suppliers to a supply panel consisting of six categories of goods and/or service:\n\n•\tCategory A – Temporary Event Infrastructure Requirements\n\n•\tCategory B – Staging, Structures and Rigging\n\n•\tCategory C – Audio Production and Sound Services Requirements\n\n•\tCategory D – Lighting, Vision and Special Effects Requirements\n\n•\tCategory E – Event Production and Technical Management Requirements\n\n•\tCategory F – Event Crew and Technical Personnel\n\nSuppliers may respond to one or more categories and must demonstrate the capability, experience and capacity to deliver goods and/or services for the categories for which they are applying.\n\nAppointment to the Panel does not guarantee a minimum volume of work. Services will be engaged on an event-by-event basis throughout the Contract Term.",
+    "buyer": "South Bank Corporation",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Audio Visual Photo Equip & Supp.",
+      "Electronic Components & Supplies",
+      "Event Management & Services",
+      "Furniture & Furnishings",
+      "Plant & Equipment - Hire"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T02:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-02T08:15:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=e4f265b09ecd41eebdd0f9f79e8d769fs523909",
+    "vendorPanelDetails": {
+      "buyerAddress": "2 Little Stanley St\nSouth Brisbane, Queensland 4101\nAustralia",
+      "buyerWebsite": "https://www.southbankcorporation.com.au/",
+      "buyerDescription": "Continuing to transform the South Bank precinct as a cultural destination and economic driver for Queensland by welcoming new businesses and creating new jobs. We are committed to creating a sustainable, inclusive and accessible South Bank for all Queenslanders and visitors.",
+      "buyerReference": "Pro-017",
+      "opensAt": "2026-09-01T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 02 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-25T02:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 25 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 27 November 2026 (E. Australia Standard Time)",
+      "background": "This panel presents an opportunity to work with one of Queensland's most recognised public precincts and contribute to the delivery of a diverse and high-profile events program. Successful suppliers will be considered for engagement across a wide range of event types and may have opportunities to support:\n\n•\tMajor public festivals\n\n•\tOutdoor concerts\n\n•\tCommunity events\n\n•\tSporting events and activations\n\n•\tCorporate functions\n\n•\tGovernment and civic events\n\n•\tSeasonal programs and celebrations\n\n•\tCultural and arts events.\n\nThe panel arrangement is intended to establish long-term supplier relationships that support South Bank's future events and activation program.",
+      "desiredOutcomes": "The objectives of this Panel are to:\n\n•\tEstablish a pool of pre-qualified suppliers capable of supporting South Bank Corporation's event delivery requirements;\n\n•\tProvide access to experienced, reliable and responsive event service providers;\n\n•\tEnsure safe, compliant and professional delivery of event services;\n\n•\tSupport events of varying size, complexity and duration;\n\n•\tImprove efficiency and flexibility in the procurement of event services;\n\n•\tEncourage innovation, sustainability and continuous improvement;\n\n•\tEnable both planned and short-notice event delivery requirements;\n\n•\tDeliver value for money throughout the term of the Panel.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-06T02:32:00.000Z",
+          "question": "I cannot find a number indicating the page limit we must adhere in part 2 of the response. Please advise.",
+          "answeredAt": "2026-09-09T23:23:00.000Z",
+          "answer": "The page limit for Common Evaluation Criteria is on Page 6 of Part 2 - Supplier Response Form: The total response to the Common Evaluation Criteria must not exceed 2,000 words (approximately 4-6 pages).\n\nThe page limit for each Category Specific Response should not exceed 1,000 words (approximately 2-3 pages)."
+        },
+        {
+          "askedAt": "2026-09-07T02:34:00.000Z",
+          "question": "Hi there,\n\nSpecific to Category F - Event Crew and Technical Personnel, please can you provide details regarding estimated / forecasted volumes:\n\nHow many events per 12 month period does South Bank Corporation hold?\n\nHow many personnel on average are required per event?\n\nPlease provide an overview of personnel type required for each event (eg forklift drivers, labourers)\n\nFor this category is South Bank Corporation looking to appoint a panel of providers or a single supplier, and if a panel is being appointed please can you provide an overview of how many suppliers will be on the panel.\n\nThank you",
+          "answeredAt": "2026-09-15T03:47:00.000Z",
+          "answer": "South Bank Corporation delivers a diverse annual events program, ranging from small community activations through to large-scale festivals and major public events. Due to the varying scale, complexity, duration, and operational requirements of these events, it is not possible to provide a fixed forecast of event numbers or crew volumes over a 12-month period. However, last financial year we reported the following:\n\nTier 1\t27\n\nTier 2\t32\n\nTier 3\t27\n\n86 total\n\nPersonnel Types\n\nWe are unable to specific the exact type and make up of the Event Crew and Technical Personnel for each of these events, however roles supporting event setup, delivery and pack-down included:\n\n•\tGeneral crew (including stagehands, bump-in/bump-out crew and site crew)\n\n•\tSkilled staging and site crew\n\n•\tProduction assistants\n\n•\tWardrobe and costume support staff\n\n•\tAudio-visual, lighting, audio and vision/video technicians\n\n•\tPower and generator crew\n\n•\tLicensed plant operators (e.g. forklift and elevated work platform operators)\n\n•\tRiggers and other personnel requiring high-risk work licences\n\n•\tTechnical supervisors\n\n•\tStage managers\n\n•\tProduction managers.\n\nIndicative Staffing Volumes\n\nStaffing requirements are determined on an event-by-event basis. Indicatively:\n\n•\tTier 1 (small-scale events) may require approximately 1 to 5 personnel across multiple role categories\n\n•\tTier 2 (Medium-scale events) may require approximately 5 to 10 personnel across multiple role categories.\n\n•\tTier 3 (Large-scale events and festivals) may require 10 or more personnel across multiple role categories.\n\nSuppliers should be capable of:\n\n•\tProviding both small and large volumes of personnel.\n\n•\tSupplying individual specialist roles or multidisciplinary crews.\n\n•\tScaling resources up or down at short notice to meet operational requirements.\n\n•\tSupporting multiple concurrent events where required.\n\nPanel Arrangements\n\nThe final number of suppliers appointed will depend on the capabilities, capacity and role coverage offered by respondents."
+        },
+        {
+          "askedAt": "2026-09-08T01:45:00.000Z",
+          "question": "HI there,\n\nPart 2 - Supplier Response Form - Section 2 Conforming Tender Assessment: Please confirm that your organisation has completed and returned all required tender response documents, including Part B and Part C of the Request for Tender, and has complied with all submission requirements, including page limits, completion of schedules, contract mark-ups (where required), and submission using the prescribed templates and formats.\n\nPlease can you direct me to Part B and Part C of the Request for Tender mentioned in the above? I cant see Part B and Part C in any of the tender documents.\n\nThanks",
+          "answeredAt": "2026-09-09T23:57:00.000Z",
+          "answer": "Hi - apologies - Part B and Part C should refer to Part 2 and Part 3, which is the Tender Response Document (Part 2) and the Draft Contract (Part 3)."
+        },
+        {
+          "askedAt": "2026-09-09T02:13:00.000Z",
+          "question": "Hi,\n\nThis tender appears to be limited to Infrastructure, AV, Staging & Structures, Lighting, Crew, and Production. Will South Bank Corporation be procuring event design or management services separately under another tender? If so, could you please provide an indication of when this is likely to be released.\n\nThanks",
+          "answeredAt": "2026-09-15T03:40:00.000Z",
+          "answer": "Creative event design, styling and management services are considered in scope under this procurement. While these services are often delivered as part of a broader event production or event management offering, suppliers may also respond where their primary capability is the provision of creative event design, styling, theming, concept development, and related event management services as a standalone offering."
+        },
+        {
+          "askedAt": "2026-09-09T23:35:00.000Z",
+          "question": "Could you clarify the evaluation and panel appointment time period? The previous iteration of this process was extended over many months to no outcome. Aligned to this is there a directive to assign ongoing works across all panel providers equally on either a rotation basis or based on supplier capabilities within each service stream matched to event requirements. The ability to provide opportunities within this program to more suppliers both big and small will no doubt go towards building overall local industry capacity and capability as we head towards 2032.",
+          "answeredAt": "2026-09-10T05:06:00.000Z",
+          "answer": "We apologise that the previous process was extended over many months without an outcome. We are committed to improving our procurement practices and providing greater certainty and transparency for suppliers participating in South Bank Corporation's (SBC) procurement processes. This procurement process will result in panel appointments, and we intend to have contracts in place by November 2026, ahead of the Christmas and summer events program.\n\nOngoing work will be assigned based on the requirements of each event. This may occur through direct engagement where only one panel supplier has the specific capability, capacity, or specialist expertise required to deliver the goods or services. Alternatively, work may be allocated through a Work Order process, whereby multiple panel suppliers within the relevant category are invited to submit a quotation for the specific requirement.\n\nWork allocation will not be based on a mandatory rotation or equal distribution model. Rather, engagement decisions will be made having regard to the nature of the requirement, supplier capability, capacity, availability, value for money, and other relevant considerations.\n\nSBC recognises the importance of supporting a diverse supplier base and building local industry capability in the lead up to 2032. Based on the response from the market, we hope to establish a panel with a range of suppliers will provide opportunities for both large and small businesses to participate in our events program while ensuring the most suitable supplier is engaged for each requirement."
+        },
+        {
+          "askedAt": "2026-09-12T17:43:00.000Z",
+          "question": "If you want to supply only part of a Category ie: only provide all the lighting, or only provide all the video is this accepted?",
+          "answeredAt": "2026-09-15T05:24:00.000Z",
+          "answer": "Hi - yes, part proposals will be considered."
+        },
+        {
+          "askedAt": "2026-09-15T02:25:00.000Z",
+          "question": "For Category A, would South Bank Corporation consider appointing specialist suppliers who provide only part of the listed infrastructure scope, specifically large scale temporary marquee structures or are respondents expected to demonstrate capability across the majority or full range of infrastructure listed in the hypothetical scenario?",
+          "answeredAt": "2026-09-15T05:32:00.000Z",
+          "answer": "Yes. For Category A (and all categories) SBC seeking to appoint both full-scale providers and specialist providers. Respondents are not required to demonstrate capability across the entire range of infrastructure outlined in the hypothetical scenario. Suppliers that specialise in specific infrastructure elements, such as large-scale temporary marquee structures, are encouraged to respond and should clearly outline the scope of services they are able to provide."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "South Bank Corporation is seeking to establish a panel of qualified and experienced suppliers to support the delivery of its annual events, activations and public programming across the South Bank precinct.\n\nSouth Bank is one of Queensland's most visited destinations and delivers a diverse calendar of events ranging from small community activations and wellness programs to large-scale public festivals, outdoor concerts, cultural celebrations and strategic partnerships.\n\nTo support these activities, the Customer intends to appoint suppliers to a supply panel consisting of six categories of goods and/or service:\n\n•\tCategory A – Temporary Event Infrastructure Requirements\n\n•\tCategory B – Staging, Structures and Rigging\n\n•\tCategory C – Audio Production and Sound Services Requirements\n\n•\tCategory D – Lighting, Vision and Special Effects Requirements\n\n•\tCategory E – Event Production and Technical Management Requirements\n\n•\tCategory F – ...",
+        "to": "South Bank Corporation is seeking to establish a panel of qualified and experienced suppliers to support the delivery of its annual events, activations and public programming across the South Bank precinct.\n\nSouth Bank is one of Queensland's most visited destinations and delivers a diverse calendar of events ranging from small community activations and wellness programs to large-scale public festivals, outdoor concerts, cultural celebrations and strategic partnerships.\n\nTo support these activities, the Customer intends to appoint suppliers to a supply panel consisting of six categories of goods and/or service:\n\n•\tCategory A – Temporary Event Infrastructure Requirements\n\n•\tCategory B – Staging, Structures and Rigging\n\n•\tCategory C – Audio Production and Sound Services Requirements\n\n•\tCategory D – Lighting, Vision and Special Effects Requirements\n\n•\tCategory E – Event Production and Technical Management Requirements\n\n•\tCategory F – Event Crew and Technical Personnel\n\nSuppliers may respond to one or more categories and must demonstrate the capability, experience and capacity to deliver goods and/or services for the categories for which they are applying.\n\nAppointment to the Panel does not guarantee a minimum volume of work. Services will be engaged on an event-by-event basis throughout the Contract Term.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "e599a1615d84425f9a7638ad2d2b729e",
     "source": "vendorpanel",
     "reference": "VP520777",
@@ -22815,6 +24255,50 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "f6ae1de4b9854edf995d8a7706a92545",
+    "source": "vendorpanel",
+    "reference": "VP526377",
+    "title": "North Queensland Region - Far North - Market Sounding and Information Share for QTRIP",
+    "description": "Department of Transport and Main Roads (TMR) prequalified contractors, consultants for engineering projects and industry partners are invited to attend a Market Sounding and Information Share for the Queensland Transport and Roads Investment Program (QTRIP) for projects within Far North district (FND).\n\nFND is home to approximately 280,000+ people and covers an area of about 273,158 square kilometres, or around 15% of Queensland. Centred around the city of Cairns, extending from the Torres Strait Islands in the north to the top of the Cardwell Range in the south, and from Cairns in the east to Croydon in the west.\n\nOur district is home to World Heritage Sites including the Great Barrier Reef and the Wet Tropics of Queensland and is home to the two oldest continuous cultures on the planet, the Aboriginal Australians and the Torres Strait Islanders and as such, is the only district in Queensland to work within both the Aboriginal Cultural Heritage Act (2003) and the Torres Strait Islander Cultural Heritage Act (2003).\n\nFar North Queensland supports a significant cultural sector, flourishing tourism industry, regional mining precincts, renewable energy developments as well as many national park areas.\n\nThis industry briefing will provide industry with a broad understanding of the challenges and scope for our future QTRIP program of works, the type of skills required, procurement delivery strategies, the likely budgets available and the timing of the work entering the market, of interest to both contractors, consultants and our supply chain partners.\n\nFND QTRIP includes projects such as the Bruce Highway Targeted Safety Program, Kuranda Range Safety & Resilience Upgrade, Cairns Western Arterial Road Duplication and Cape York Region Package together with key investment in project planning.\n\nThe FND industry briefing is being held on Tuesday, 29 September 2026, between 10:00am to 11:00am via Teams.\n\nFor a teams invitation email FN_District_Director@tmr.qld.gov.au by 12noon Monday 28th September 2026 and interested parties will receive invite to attend.\n\nA limit of two invites per company may attend the event. Registrations must include the names of those attending the briefing.\n\nRegistrations for this event close on Monday 28th September 2026 at 12:00 noon.\n\nNO RESPONSE IS REQUIRED VIA VENDOR PANEL - THIS IS A NOTIFICATION ONLY",
+    "buyer": "Department of Transport and Main Roads - North Qld",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-09-28T02:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-20T23:44:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=f6ae1de4b9854edf995d8a7706a92545s526377",
+    "vendorPanelDetails": {
+      "buyerAddress": "Ramsay St\nCloncurry, Queensland 4824\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's Program Delivery & Operations branch - North Queensland Region.",
+      "buyerReference": "NQR-FND-MSIS",
+      "opensAt": "2026-09-20T14:00:00.000Z",
+      "opensAtRaw": "Monday 21 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-28T02:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-08T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 09 November 2026 (E. Australia Standard Time)",
+      "background": "The FND industry briefing is being held on Tuesday, 29 September 2026, between 10:00am to 11:00am via Teams.\n\nFor a teams invitation email FN_District_Director@tmr.qld.gov.au by 12noon Monday 28th September 2026 and interested parties will receive invite to attend.\n\nA limit of two invites per company may attend the event. Registrations must include the names of those attending the briefing.\n\nRegistrations for this event close on Monday 28th September 2026 at 12:00 noon.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-21T22:54:50.025Z",
+    "changes": [],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
+  },
+  {
     "id": "f7eb565527b547a9b39ab0af2aa9989d",
     "source": "vendorpanel",
     "reference": "VP523896",
@@ -23408,6 +24892,119 @@
       }
     ],
     "archivedAt": "2026-09-22T22:28:49.427Z"
+  },
+  {
+    "id": "fe204159baf548159756bd16ed142ba9",
+    "source": "vendorpanel",
+    "reference": "VP520053",
+    "title": "Provision of Gym Equipment Maintenance Services",
+    "description": "Fire Rescue Victoria (FRV) operates a broad network of operational, training and administrative facilities across metropolitan and regional Victoria. Maintaining safe and compliant gym equipment is essential to support firefighters readiness and meet occupational health, safety and environmental standards.\n\nGym equipment maintenance activities are currently arranged on an ad hoc basis without a long-term contract. Establishing a single, strategically sourced agreement will provide consistent service delivery, improved scheduling and record keeping, and stronger value for money while reducing administrative effort.",
+    "buyer": "Fire Rescue Victoria",
+    "buyerType": "state-agency",
+    "state": "VIC",
+    "categories": [
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-09-28T04:00:00.000Z",
+    "closingAtRaw": "28/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-08-25T23:41:00.000Z",
+    "contact": null,
+    "documentCount": 18,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fe204159baf548159756bd16ed142ba9s520053sbfe2d966aa884191b5a30f84da5d0f3fs1604",
+    "vendorPanelDetails": {
+      "buyerAddress": "4/215 Spring St\nMelbourne, Victoria 3004\nAustralia",
+      "buyerWebsite": "https://www.frv.vic.gov.au/",
+      "buyerDescription": "Fire Rescue Victoria",
+      "buyerReference": "2026-4",
+      "opensAt": "2026-08-25T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 26 August 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-24T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 24 September 2026 02:00 PM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": "Please ensure all Pre Qualification documentation is fully completed and returned as the first priority and sent to tenders@frv.vic.gov.au. Failure to complete these steps will disqualify you from participation in this Request for Tender.\n\nFair Jobs Code Pre-Assessment Certificates:\n\nAs the time qualify and Pre-Assessment Certificates may take up to 30 days to process, this application should begin at your earliest convenience.. Pre-Assessment Certificates are issued by the FJC Unit in accordance with the FJC Guidelines.\n\nFailure to provide either of the above may not be considered for this procurement.\n\nThe FJC Unit provides information to assist tenderers with Pre-Assessment Certificates.\n\nFor further information or assistance, tenderers can contact the FJC Unit:\n\nPhone: 13 22 15\n\nWeb: https://buyingfor.vic.gov.au/fair-jobs-supplier-and-business\n\nEmail: fairjobscode@ecodev.vic.gov.au",
+      "buyerQuestions": [
+        "Invitation and Conditions of Participation\n\nAbout this Tender - Please confirm that you have read understood the attached information document titled- Request for Tender No. 2006-4",
+        "Invitation and Conditions of Participation\n\nCode of Conduct-\nAttached is the Code Of Conduct for Victorian Public Sector Employees. All of our staff are bound by its content and we expect that our contractors are also committed to these behaviours. Accordingly we request your confirmation of observation of the Code of Conduct.",
+        "Technical and Professional Competence\n\nPlease describe your compliance with the specifications schedule in Schedule 2 of the contract, when you indicate \"Non-Compliance\" or \"Partial Compliance\", please provide the details of variation in the attached schedule and reattach the form to your response. Complete provided sheet with your response(s).",
+        "Technical and Professional Competence (continued).\n\nPast Performance and current work:\nDetail previous work, including work with the public sector, related to meeting the requirements of this procurement. Also where applicable include the scope and value of the work undertaken.",
+        "Technical and Professional Competence (continued)\n\nCapabilities:\n* Attach a diagram of your business structure\n* Provide details of your business structure and the business units relevant to the delivery of the procurement\n* Detail the experience and expertise of each key staff member and their role in the delivery of the procurement",
+        "Technical and Professional Competence\n\nWhat is your approach/methodology?\n\nPreventative Maintenance Methodology\nDescribe your approach to developing and implementing a preventative maintenance plan for gym equipment across a multi-site portfolio, including:\n\na) development of maintenance schedules, task lists and frequencies;\nb) inspection and testing procedures aligned to applicable standards;\nc) equipment condition assessment and reporting;\nd) identification and treatment of minor corrective items within planned maintenance; and\ne) integration with client asset registers and maintenance systems.",
+        "Technical and Professional Competence (continued)\n\nCorrective and Fault Maintenance Approach\n\nDescribe how you will identify, prioritise and rectify corrective maintenance and fault issues, including:\na) defect identification processes and root-cause analysis;\nb) fault response, make-safe and rectification methodology;\nc) management of temporary vs permanent repairs; and\nd) strategies to reduce recurrence of faults through preventative regimes",
+        "Technical and Professional Competence\n\nResponse and Service Level Compliance\nDemonstrate how you will meet the required response times and service levels stated in the contract schedule, including:\n\na) 24/7 callout capability and communication systems;\nb) resourcing and dispatch processes to achieve 2- and 4-hour attendance;\nc) emergency response procedures; and\nd) completion notification and task closure processes.",
+        "Technical and Professional Competence\n\nReplacement Parts and Asset Reliability\n\nDescribe your approach to sourcing and managing replacement and spare parts, including:\na) manufacturer selection and quality assurance;\nb) availability and lifecycle support;\nc) compatibility and maintainability considerations; and\nd) warranty management.",
+        "Management & Capabilty\n\nBusiness continuity\n\nIt is important that providers to FRV are able to secure the provision of goods and services to us. You are required to describe what steps and process you have in place to ensure that goods and services are capable of being delivered to FRV in the event of any business interruption you may experience. If you have business continuity plan provide a copy and describe briefly the last time it was validated and what the outcome of such validation was.",
+        "Customer Service Plan\n\nProvide details of the Customer Service Plan you intend to implement for the provision of this procurement. Include methodology, timing of feedback and scope of reports",
+        "Bench-marking:\n\nProvide details of what you consider to be appropriate performance measures and benchmarks.",
+        "Risk Management:\n\nProvide details of your project delivery risk management strategies and practices that would be applicable in the context of this procurement.",
+        "Innovation and value adding:\n\nProvide details of any innovative solutions, systems or processes that may add value to the delivery of the procurement outcomes.",
+        "Provide details of external resources (other businesses/suppliers/sub contractors) to be engaged in connection with the provision of the procurement. Detail the relationship and the period of time in which the relationship has been established.\n\nBusiness/supplier/sub-contractor\nName:\nContact details:\nScope of extent of services to be provided:",
+        "Mobilisation Plan\n\nProvide a mobilisation plan describing how you will implement the Contract, including:\n\na) transition from current arrangements;\nb) site onboarding and asset verification;\nc) system integration and data setup;\nd) induction and compliance requirements; and\ne) mobilisation timeframe and milestones",
+        "Asset Management\n\na) Describe your approach to managing gym equipment throughout its lifecycle.\nb) What factors most commonly impact equipment lifespan, and how are these mitigated?\nc) Provide examples of asset lifecycle plans used for similar clients.\nd) What asset information will be provided at handover (e.g., serial numbers, asset IDs, warranty information, manuals)?\ne) What asset management reporting will be provided throughout the contract?\nf) Can you provide annual asset condition and lifecycle reports?\ng) How do you support strategic asset planning and decision-making?",
+        "Quality Management:\n\na) Describe your Quality Management System (QMS) and provide details of any certifications held (e.g., ISO 9001).\nb) What quality control procedures are undertaken before equipment is dispatched?\nc) Have you experienced any major product defects, recalls, or quality incidents within the last five years? If yes, describe the issue and corrective actions implemented.\nd) How do you monitor and address recurring equipment performance issues?\ne) What pre-installation and post-installation inspections are undertaken?\nf) What procedures are used to ensure maintenance work is completed correctly and consistently?\ng) What quality checks are completed after preventative maintenance visits?",
+        "Occupational Health and Safety\n\na) Describe your Occupational Health & Safety Management System.\nb) Provide details of any relevant certifications (e.g. ISO 45001).\nc) How do you ensure compliance with applicable Work Health and Safety legislation?\nd) Describe how OH&S responsibilities are communicated throughout your organisation.\ne) Provide details of any regulatory notices, prosecutions, or significant OH&S breaches within the last five years.",
+        "Environmentally Sustainable Business Practices\n\nPlease download the attached document, complete and re-attach here as part of your response.",
+        "Social Procurement Framework\n\nTenderers are to refer to the attached questionnaire that relates to the Victorian Social Procurement Framework. The Questionnaire is to be completed, signed, dated and re attached here as part of the tender response.",
+        "Local Jobs First\n\nTenderers are required to submit their Local Industry Development Plan (LIDP) to https://icnvic.force.com by the nominated closing date for this tender.\nTenderers are to confer with the Industry Capability Network - Victoria (ICN) for assistance in compiling their LIDPs. Contact details are as follows:\nIndustry Capability Network (Victoria)\nLevel 11\n10 Queens Road\nMelbourne Vic. 3004\n03 9864 6700\nhttps://icnvic.force.com\n\nPIN Number for access is 32221\n\nThis tender has been registered with the Industry Capability Network (ICN).\nIt is imperative tenderers seek assistance from the ICN prior to lodgement of their submission to ensure that they meet the necessary requirements.\n\nThe Local Jobs First Policy Supplier Guidelines and the template for Local Industry Development Plan are attached for reference.\n\nThe Jobs Outcome will be assessed in relation to the Local Industry Development Plan, including, if applicable, the Major Project Skills Guarantee (MPSG).",
+        "Commercial I Financial Viability\n\na) Have there been any bankruptcy and /or de-registration actions or insolvency proceedings , including voluntary administration, application to wind up or other like action, either actual or threatened, or any other significant events which have arisen in the past 2 years that affect the operations of the tenderer.\n\nIf so, what remedial action, if any, has been taken?\nHave there been any legal or ASIC proceedings against the tenderer or adverse findings against the respondent?\n\nb) Is the tenderer currently in default of any agreement, contract, order or award or any other factor that adversely affect the financial capacity of the tenderer to successfully perform the obligations contemplated by this tender?\n\nc) In addition to the information requested above, Tenderers are required to provide the last two (2) years audited financial statements, comprising profit and loss account and balance sheet.\n\nIf not required by law to report Financial Statements to ASIC.",
+        "Commercial | Legal\n\nCompliance with Part C- Proposed contract.\nIf the tenderer complies with all the requirements of Part C - Proposed contract, the tenderer is to provide a statement affirming that they understand and comply with Part C Proposed Contract in full. Otherwise, the tenderer must provide a tabulated statement showing clearly, and in order of the relevant clauses, where it \"will not comply\" or \"will comply subject to conditions\" with their response to Part C- Proposed contract.\nThe tenderer must provide their response relating to the reason for partial or non compliance in the following format:\nClause No.\nCompliance Statement\nExplanation/Comment.\nPlease complete and re-attach here, the form Compliance with Conditions of Contract",
+        "Commercial I Probity\n\na) Please confirm that your organisation, its directors or any other person who has powers of representation, decision or control, has not been convicted of any of the following offences or has any current proceedings against them.\nIf yes to any of the following, please provide details.\n- Conspiracy within the meaning of Section 1 of the Crimes Act 1958 (Vic.)\n- Corruption within the meaning of Section 1 of the Public Bodies Corrupt Practices Act 1989\n- Bribery\n- Fraud\n- Money Laundering\n\nb) Please confirm the relevance of any of the following to your organisation.\nIf yes, please provide details.\n- Bankruptcy\n- Insolvency\n- Any criminal offence relating to the conduct of a business or profession.\n- Grave misconduct within a business or profession\n- Non-fulfilment of obligations relating to taxation contributions",
+        "Costing Submitted prices/Rates\n\nPlease download and complete the attached Schedule of Prices Form/s. Costs to be exclusive of GST.",
+        "Alternative Offer & Response Check\n\na) Please confirm that you have reviewed and checked your response for completeness. Any attachments are to be provided in Excel, Word, Powerpoint or PDF formats and while they may be zipped are NOT to be embedded within documents. Confirm that the response is complete here.\nPlease refer to the attached Instructions for Suppliers as a guide to submitting a valid response on the On-Line Form.\n\nb) FRV will assess your responses to each question by reviewing the answers you have provided directly for each question. If you wish to provide additional information, you can do so at this question, with comments and refer to any additional attachment. You should note however, that where any inconsistency exists between this information and the direct response, the direct response will be applied.",
+        "Alternative Offer\n\nWhere a Tenderer also submits an alternative offer, it must include any supplementary material which demonstrates how the alternative offer will fully achieve and/or exceed all the specified outputs or functional and performance requirements. Tenderers should also detail why the additional features are beneficial and cross reference to the appropriate clause number in Part A.2 Specification."
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Barwon\n2: Central Highlands\n3: East Gippsland\n4: Gippsland\n5: Goulburn\n6: Loddon\n7: Mallee\n8: Melbourne\n9: Ovens-Murray\n10: Western District\n11: Wimmera"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-08T03:59:00.000Z",
+          "question": "We have a question regarding how FRV expects tenderers to price individual equipment items in Annexure A Part E - FRV Approved Equipment List, Items to Supply, Price Listing Response Template.\n\nThe template asks for a single unit price per item (inclusive of delivery, installation, commissioning and off-site rubbish removal) for Metro and Regional, across Years 1–5. In practice, freight cost varies significantly depending on:\n\nWhether the item is delivered as a standalone order or as part of a larger multi-item \"fitout\" order to the same site (freight cost per unit drops substantially when items are consolidated); and\n\nThe specific postcode within Victoria the item is delivered to, given the size of the \"Regional\" category and the range of freight cost across it.\n\nTo be clear on what we're asking: should freight be priced on the assumption the item is sent individually, or on the assumption it's sent as part of a larger multi-item fitout order - and separately, how should the unit price account for the postcode it's delivered to, given \"Regional\" covers a wide range of freight costs across Victoria?\n\nWe want to make sure our pricing is genuinely comparable to other tenderers' and reflects realistic costs, rather than either overstating (if we price for worst-case standalone regional delivery) or understating (if we assume fitout-scale consolidation and metro-adjacent postcodes that may not always apply.",
+          "answeredAt": "2026-09-08T07:37:00.000Z",
+          "answer": "Freight is to be priced on the assumption the item is sent individually.\n\nThis reflects the expectation of the ordering.\n\nThank you for your question."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-17T04:53:00.000Z",
+          "description": "Dear Respondent,\n\nPlease be advised that the closing date for 2026-4 - Provision of Gym Equipment Maintenance Services has been extended.\n\nPrevious closing date: 18th September, 2026 2pm\n\nNew closing date: 25th September, 2026 2pm\n\nAll other tender requirements remain unchanged unless advised otherwise through the VendorPanel portal.\n\nPlease ensure your submission is lodged through VendorPanel prior to the revised closing date and time.\n\nKind regards,\n\nDarren Bath\n\nFire Rescue Victoria"
+        },
+        {
+          "at": "2026-09-23T05:58:00.000Z",
+          "description": "Extension of Closing Date\n\nPlease be advised that the closing date for this Request for Tender has been extended.\n\nOriginal closing date: 25.09.2026 2pm\n\nRevised closing date: 28.09.2026 2pm\n\nThe extension is being provided to allow additional time for suppliers to prepare and submit responses.\n\nAll other requirements of the Request for Tender remain unchanged."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-09-18T04:00:00.000Z",
+        "to": "2026-09-25T04:00:00.000Z",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "25/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-25T04:00:00.000Z",
+        "to": "2026-09-28T04:00:00.000Z",
+        "at": "2026-09-23T22:32:07.942Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "25/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "28/Sep/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-23T22:32:07.942Z"
+      }
+    ],
+    "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
     "id": "fe3c0a4b3d3d4fe3b83e8973550eaa60",
