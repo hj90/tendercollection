@@ -32494,6 +32494,69 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "fca8b16eb02c45448dffe30486236858",
+    "source": "vendorpanel",
+    "reference": "VP525349",
+    "title": "Provision of Boring and Trenching Services",
+    "description": "As per RFT",
+    "buyer": "Townsville City Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-10-04T07:00:00.000Z",
+    "closingAtRaw": "04/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-11T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=fca8b16eb02c45448dffe30486236858s525349",
+    "vendorPanelDetails": {
+      "buyerAddress": "103 Walker St\nTownsville City, Queensland 4810\nAustralia",
+      "buyerWebsite": "https://www.townsville.qld.gov.au/",
+      "buyerDescription": "The City of Townsville is an Australian local government area (LGA) located in North Queensland, Australia. It encompasses the city of Townsville, together with the surrounding rural areas, to the south are the communities of Alligator Creek, Woodstock and Reid River, and to the north are Northern Beaches and Paluma, and also included is Magnetic Island. Townsville is considered to be the capital of North Queensland.",
+      "buyerReference": "RPS00213",
+      "opensAt": "2026-09-11T14:00:00.000Z",
+      "opensAtRaw": "Saturday 12 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-27T07:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 27 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 15 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-16T06:33:00.000Z",
+          "question": "Question: Schedule 2. Could Council please confirm whether the Contract will require the Tenderer's Public and Products Liability insurance policy to include a Waiver of Subrogation in favour of Townsville City Council?",
+          "answeredAt": "2026-09-17T03:24:00.000Z",
+          "answer": "Townsville City Council's preference is for Public and Products Liability insurance policies to include a Waiver of Subrogation in favour of Townsville City Council"
+        },
+        {
+          "askedAt": "2026-09-17T05:26:00.000Z",
+          "question": "We are a specialist microtunnelling contractor with a strong track record delivering complex trenchless infrastructure projects, including previous capital works for Townsville City Council.\n\nWe note that the Schedule of Rates requests fixed unit rates based on pipe diameter. As our pricing is highly dependent on project-specific factors such as ground conditions, installation length, depth, location, access constraints, and overall complexity, we are unable to provide meaningful rates on this basis. Each project is individually assessed and priced accordingly.\n\nCould you please confirm whether the panel is intended to include specialist trenchless contractors who price works on a project-by-project basis? If so, would Council accept a submission with the non-price deliverables completed without the Schedule of Rates, with pricing to be provided for individual opportunities as they arise?\n\nWe are keen to participate in the panel and would appreciate your feedback.\n\nKind regards,",
+          "answeredAt": "2026-09-23T22:34:00.000Z",
+          "answer": "The Scope of Works and Pricing Mechanism requested remain unchanged.\n\nProject specific tenders are released separately to this panel.\n\nTownsville City Council cannot guarantee future works."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-14T04:50:00.000Z",
+          "description": "Prospective respondents are required to submit a complete tender application to ensure compliance with all tender requirements."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-11T22:04:43.234Z",
+    "changes": [],
+    "archivedAt": "2026-10-04T22:03:59.629Z"
+  },
+  {
     "id": "fdf341ce713d473c8899d800a24aa10d",
     "source": "vendorpanel",
     "reference": "VP521162",
