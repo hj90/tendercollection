@@ -623,6 +623,61 @@
     "archivedAt": "2026-10-02T23:23:48.386Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/8d2463af-68b9-4cb3-89cd-3842a9f15cf6",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/8d2463af-68b9-4cb3-89cd-3842a9f15cf6",
+    "reference": "Margaret River EOI",
+    "title": "Agent Services Margaret River",
+    "description": "Agent services – Margaret River\nThe Australian Government agency Services Australia is seeking Expressions of Interest from organisations to provide agent services for 37.5 hours per week in Margaret River.\nWe contract agents to deliver services and programs on our behalf. We provide training and equipment.\nAgents help people in rural and remote Australia to access government services.\nAgents provide a face to face information service and free self-help facilities. These include an internet enabled computer, Wi-Fi, phone and scanner/photocopier/printer to help people do their business with us.\nWe’ll pay the successful applicant in accordance with our fee structure. Each year we review the number of hours per week we need you to provide face to face customer service. The payment will change accordingly.\nGo to servicesaustralia.gov.au/agentaccesspointhosts to view:\n• the selection criteria\n• general information on agent services\n• how to obtain the terms and conditions for this opportunity.\nFor more information, please call 02 8440 2814 to speak with one of our agent coordinators.\nExpressions of Interest close at 5 pm, Monday 5th October 2026\nEmail your Expression of Interest to: Agent Coordinator,\nNAAPT.SERVICE.DELIVERY@servicesaustralia.gov.au with subject header: : WAUS – Margaret River EOI.",
+    "publishedAt": "2026-09-10T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Services Australia",
+    "buyerType": "other",
+    "state": "WA",
+    "categories": [
+      "93151505 - Administrative agencies services"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-05T06:00:00.000Z",
+    "closingAtRaw": "5-Oct-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "NAAP Service Delivery\nPhone:\n02 8440 2814\nEmail Address:\nNAAPT.SERVICE.DELIVERY@servicesaustralia.gov.au",
+      "name": "NAAP Service Delivery",
+      "email": "NAAPT.SERVICE.DELIVERY@servicesaustralia.gov.au",
+      "phone": "02 8440 2814"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-10T22:02:21.264Z",
+    "changes": [],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/8daeb3c8-8323-4fbd-86d1-0a7adbf18d63",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/8daeb3c8-8323-4fbd-86d1-0a7adbf18d63",
+    "reference": "6212-2025-26",
+    "title": "ISO 9001 Certification Services – Tsunami Warning Services",
+    "description": "Refer to Statement of Requirements",
+    "publishedAt": "2026-09-24T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Bureau of Meteorology",
+    "buyerType": "other",
+    "state": "VIC",
+    "categories": [
+      "80100000 - Management advisory services"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-10-05T01:00:00.000Z",
+    "closingAtRaw": "5-Oct-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Procurement Officer - Julie\nEmail Address:\ntenders@bom.gov.au",
+      "name": "Procurement Officer - Julie",
+      "email": "tenders@bom.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-24T22:48:30.626Z",
+    "changes": [],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
     "reference": "DFAT-1110",
@@ -954,6 +1009,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-10-01T23:32:33.983Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/bcd79820-adc0-4f22-b8ad-6c9058cc1f68",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/bcd79820-adc0-4f22-b8ad-6c9058cc1f68",
+    "reference": "ATM_2026_7057",
+    "title": "Review of Minimum Energy Performance Standards (MEPS) for Air Conditioners",
+    "description": "The Department intends to review MEPS for air conditioners to identify how best to calculate MEPS, what MEPS are appropriate, whether determinations can be consolidated, and any other considerations to update air conditioner determinations and NZ Energy Efficient Regulations.\nThis will include consultation with key stakeholders about options, cost benefit analyses of options for both Australia and New Zealand, and preparation of reports to support preparing a consultation regulation impact statement.",
+    "publishedAt": "2026-09-10T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Climate Change, Energy, the Environment and Water",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80100000 - Management advisory services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-10-05T03:00:00.000Z",
+    "closingAtRaw": "5-Oct-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "GEMS Product Review\nEmail Address:\nGEMSProductReview@dcceew.gov.au\nWeb Address:\nhttps://www.energyrating.gov.au/industry-information/understand-requirements/minimum-energy-performance-standards",
+      "name": "GEMS Product Review",
+      "email": "GEMSProductReview@dcceew.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-10T22:02:21.264Z",
+    "changes": [],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/be854c37-9b82-4a4a-b9b5-785e24b8987c",
@@ -14171,6 +14253,93 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "584d2a89c76946c081a2aec7a9b21790",
+    "source": "vendorpanel",
+    "reference": "VP524082",
+    "title": "Angiography/Fluoroscopy Imaging Unit",
+    "description": "Suppliers are invited by the Customer to submit an offer for Invitation to Offer No. THHS-2026-1073 for the provision of supply, delivery, installation, commissioning, testing, training, warranty support, maintenance support and associated services for a Angiography/Fluoroscopy Imaging Unit.",
+    "buyer": "Townsville Hospital and Health Service QLD",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Healthcare Services",
+      "Medical Equipment. & Supplies"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-05T07:00:00.000Z",
+    "closingAtRaw": "05/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-03T05:45:00.000Z",
+    "contact": null,
+    "documentCount": 16,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=584d2a89c76946c081a2aec7a9b21790s524082",
+    "vendorPanelDetails": {
+      "buyerAddress": "100 Angus Smith Dr\nDouglas, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.townsville.health.qld.gov.au/",
+      "buyerDescription": "Delivering exceptional healthcare to our communities. We strive to be a leader in health care, research and education for regional Australia, and, as one of the region’s largest employers, we are also proud to be a part of the community that we serve.",
+      "buyerReference": "THHS-2026-1073",
+      "opensAt": "2026-09-02T14:00:00.000Z",
+      "opensAtRaw": "Thursday 03 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-01T07:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 01 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "background": "The Medical Imaging Department at TUH seeks the replacement of its existing fluoroscopy system with a contemporary digital fluoroscopy unit capable of supporting the full range of “Tier A” fluoroscopic procedures across paediatric, adult and bariatric patient populations.\n\nThe replacement system must provide enhanced patient and staff safety, contemporary radiation management technology, improved workflow, expanded clinical functionality, and support future service growth whilst maintaining a room footprint comparable to, or smaller than, the existing installation.\n\nThe fluoroscopy suite will form part of a redesigned clinical space to improve patient flow, accessibility, staff movement, infection control practices, and integration with ancillary clinical equipment.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-10T01:02:00.000Z",
+          "question": "Could you please provide clarification, is the \"Appendix_3_Privacy_Impact_Assessment.docx\" document required to be completed and returned with the tender response? We note that this appears to be an agency level document, rather than a document for equipment vendors.",
+          "answeredAt": "2026-09-14T01:00:00.000Z",
+          "answer": "Hi,\n\nPlease refer to addendum 3 when released.\n\nCheers\n\nJulie"
+        },
+        {
+          "askedAt": "2026-09-22T04:46:00.000Z",
+          "question": "For a separate tender (THHS-2026-1055 CT), we were advised that the document Appendix_3_Privacy_Impact_Assessment.docx was no longer required as part of the submission.\n\nCould you please confirm whether the same applies to this tender, and whether submission of the Appendix_3_Privacy_Impact_Assessment.docx is not required?",
+          "answeredAt": "2026-09-24T21:40:00.000Z",
+          "answer": "Hi\n\nYes this is correct. The PIA is not required."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-04T02:05:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) THHS-2026-1073 Addendum 1.pdf\n\n2. Added: \t (Addendum) THHS-2026-1073 Part C Attachment 1 Supplier Response v2.xlsx\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-10T22:15:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) THHS-2026-1073 Addendum 2.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-15T02:30:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Addendum 3 Attachment 1 TUH_Medical Imaging Ground Floor (003).pdf\n\n2. Added: \t (Addendum) THHS-2026-1073 Addendum 3.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-15T02:57:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) THHS-2026-1073 Addendum 4.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "13",
+        "at": "2026-09-11T22:04:43.234Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "16",
+        "at": "2026-09-15T22:30:52.819Z"
+      }
+    ],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
+  },
+  {
     "id": "5ac75bc441b94c21aa6807710c0d565a",
     "source": "vendorpanel",
     "reference": "VP521375",
@@ -22588,6 +22757,99 @@
       }
     ],
     "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "ad9ffee79b0e4a82975b71119751f376",
+    "source": "vendorpanel",
+    "reference": "VP525176",
+    "title": "T27014 - Building Asset Condition Audit 26-27",
+    "description": "Contract No. T27014 - Building Asset Condition Audit 26-27\n\nThe City of Stonnington seeks to engage a suitably qualified and experienced contractor to undertake an inventory and condition assessment of all Council buildings and other associated Optional Services.\n\nThe condition assessment program will provide planned/scheduled and unplanned/reactive maintenance and asset renewal and upgrade programs in line with budgetary constraints. It will help inform the development of Council’s long-term financial plan and annual capital works programs. The Contractor shall carry out the Services, including any approved tendered Optional Services in accordance with this Specification and the accompanying General Conditions of Contract to the satisfaction of the nominated Supervisor.\n\nNOTE: The Vendor Panel online forum closes five business days prior to the abovementioned tender closing date. Council reserves the right not to accept the lowest or any Tender, or part thereof. Tenders received after the closing time will not be considered.",
+    "buyer": "City of Stonnington",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Financial & Insurance Services",
+      "Real Estate & Property Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-05T02:00:00.000Z",
+    "closingAtRaw": "05/Oct/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-11T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ad9ffee79b0e4a82975b71119751f376s525176",
+    "vendorPanelDetails": {
+      "buyerAddress": "311 Glenferrie Rd\nMalvern, Victoria 3143\nAustralia",
+      "buyerWebsite": "https://www.stonnington.vic.gov.au/Home",
+      "buyerDescription": "The City of Stonnington is a local government area located within the metropolitan area of Melbourne, Australia. It comprises the inner south-eastern suburbs, between 3 and 13 km (2 and 8 mi), from the Melbourne CBD. The city covers an area of 25.7 km2 (9.9 sq mi).\n\nWithin twenty years of the settlement of Melbourne in 1835, the Prahran Municipality (later City of Prahran) was formed in 1855, followed by the Gardiner Road Board (later City of Malvern) in 1856.\n\nThe late 19th century saw substantial residential and commercial development such that by 1891 Prahran had a population of almost 40,000 and Malvern 11,000. Following the election of the Kennett government in the Spring of 1992, as part of a comprehensive reorganisation of local government in Victoria, the Cities of Malvern and Prahran were amalgamated to form the City of Stonnington.",
+      "buyerReference": "T27014",
+      "opensAt": "2026-09-11T14:00:00.000Z",
+      "opensAtRaw": "Saturday 12 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-09-28T01:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 28 September 2026 11:00 AM (AUS Eastern Standard Time)",
+      "expectedDecisionAt": "2026-10-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 12 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed and attached the following tender submission schedule?\n- T27014 - Part E - RFT Response Schedules"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-14T04:44:00.000Z",
+          "question": "Programme / contractual commencement - Part A indicates contract execution on 13 November 2026 and intended commencement on 17 November 2026, while Part B schedules the kick-off from 19 October, document review from 26 October and fieldwork from 2 November 2026. Please confirm the contractual commencement date and the baseline milestone dates tenderers are to price and resource against, including whether any mobilisation is expected before contract execution.\n\nPilot audit quantity - Part E prices “Pilot Case Studies … of 3 Pre-selected Sites”, whereas Part B KPI 7.1 refers to Council review of three standard buildings and one complex building. Please confirm whether the pilot comprises three sites or four sites (3 standard + 1 complex) and, if available, identify the intended pilot building types/assets.\n\nFinal in-scope asset register and size data - Appendix A lists 139 asset records but does not provide addresses, gross floor areas/footprints, storeys, heritage status, complexity or access constraints. Please confirm the final in-scope asset list and advise whether Council will provide a current register/GIS export containing addresses/coordinates, floor area, building type, year built, ownership/lease status and other available attributes for tender pricing and mobilisation.\n\nPhase 1 building-services audit versus Phase 2 specialist assessment - Appendix C states structural elements and mechanical/electrical services must be audited by appropriately qualified engineers, while Part B 4.4 describes specialist building-services and critical-system assessments as Phase 2 at the Supervisor’s direction. Please clarify the minimum Phase 1 inspection requirement for mechanical, electrical, hydraulic, fire, security/BMS and vertical-transport components at every building, and what additional depth/testing is intended only under Phase 2.\n\nPhase 2 quantities and pricing basis - Please confirm whether the Critical Asset Audit, Functional Effectiveness, Climate Change Vulnerability, compliance/current-day-standards assessment and Disability Accessibility Assessment are optional/conditional Phase 2 services. If so, please advise the expected number/type of buildings for each service and whether tenderers should price these as fixed lump sums, provisional allowances or unit rates. Part E also does not provide a separate fee line for the current-day standards/compliance assessment; please confirm where this should be priced.\n\nFinancial asset valuation requirements - Please confirm whether the AASB 13 revaluation must be completed/signed by an independent registered property valuer, quantity surveyor or other specified qualification. Please also confirm the valuation date, required Level 2/Level 3 input classification, Council’s preferred replacement-cost/unit-rate source, treatment of specialised/heritage assets and market valuation adjustments, depreciation/RUL conventions, and the required approach to insurance values.\n\nAssetMaster / AMIS / IntraMaps data interface - Part B refers to recording relevant data in AssetMaster, while Appendix C refers to upload to Council’s AMIS and GIS/IntraMaps. Please confirm the authoritative target system(s) and provide, if available, the import templates/data dictionary, current asset register export, GIS schema/coordinate system, mandatory fields, accepted response codes and photograph naming/linking requirements.\n\nExisting defect and maintenance information - Part B requires review of UMS defect reports and cross-checking against site findings. Please confirm what UMS defect, work-order, maintenance, previous condition-audit and renewal data will be supplied, in what format, and whether the contractor is expected to close/reconcile historic and duplicate defects in the final dataset.\n\nBuilding records and access provisions - Please confirm the extent of available floor plans/as-built drawings, O&M manuals, service schematics, essential-safety-measure records and previous reports. Please also clarify which facilities require police checks/WWCC, escorts, out-of-hours access, roof/ceiling/subfloor/plant-room access or special permits, and whether Council will coordinate keys/swipe cards/occupant notifications as stated in the Specification.\n\nInspection access, intrusive work and testing - Please confirm the base audit is visual and non-intrusive from safely accessible areas unless specifically instructed. Please identify any mandatory allowance required for EWP/scaffold/roof access, confined-space entry, opening-up, asbestos/hazardous-materials investigation, electrical/mechanical testing, destructive investigation or laboratory testing, and advise whether such items are to be separately authorised.\n\nCost-estimate basis and accuracy - Please confirm the expected accuracy/class of maintenance and renewal cost estimates, base date and escalation convention, contingency/overheads assumptions, preferred schedule-of-rates/cost database and whether costs are required at individual component/defect level as well as portfolio programme level.\n\nBuilding criticality and risk framework - Appendix C notes Council has not yet assessed criticality for individual buildings/off-street carparks. Please confirm whether development of a building criticality framework/rating is required as a deliverable under T27014, or whether the contractor is only required to provide defect/intervention risk priorities in accordance with the CAF.\n\nFinal reporting and acceptance format - Please confirm the required final reporting structure (one portfolio report, individual building summary sheets/reports, dashboards/maps and/or other formats), the expected level of photographic evidence per component/defect, and whether Council can issue an example accepted building audit/data output before Hold Point 2.\n\nPart C – Precedent Contract - Part A identifies Part C – Precedent Contract as part of the tender pack. Please confirm that the current Part C is available in VendorPanel and, if it is not currently visible to tenderers, please issue it so legal/commercial departures can be reviewed and finalised before tender close.\n\nBackground intellectual property - Part A states Council owns proprietary rights in documents, processes, formulae, software, data and applications produced in performing the Services. Please confirm that pre-existing contractor background IP (including proprietary audit tools, templates, methods, scripts and know-how developed independently of this contract) remains the contractor’s property, with Council receiving the project-specific deliverables/data and any licence reasonably required to use those deliverables.\n\nCyber insurance requirement - Part A identifies Cyber insurance as an additional mandatory requirement where embedded/requested, but no minimum coverage amount is stated in the documents supplied. Please confirm whether Cyber insurance is mandatory for T27014 and, if so, the required limit and any specific policy conditions.\n\nPhase 2 completion timing / extension option\t- Please confirm whether all directed Phase 2 specialist/high-priority assessments must be completed within the 31 March 2027 completion date, or whether Phase 2 may be instructed and delivered under the stated six-month extension option.\n\nFinancial hierarchy crosswalk\t- Please confirm Council will provide a current crosswalk between Appendix A Asset IDs and Appendix D Finance IDs/financial hierarchy records (including current area, year built, existing valuation input/classification and componentisation) so the physical and financial datasets can be reconciled without duplicating Council-held information.",
+          "answeredAt": "2026-09-18T02:47:00.000Z",
+          "answer": "Q Programme / contractual commencement - Part A indicates contract execution on 13 November 2026 and intended commencement on 17 November 2026, while Part B schedules the kick-off from 19 October, document review from 26 October and fieldwork from 2 November 2026. Please confirm the contractual commencement date and the baseline milestone dates tenderers are to price and resource against, including whether any mobilisation is expected before contract execution.\n\nA Contract execution will be on 13 November and intended Contract commencement 17 November. Mobilisation is not expected before contract execution. Part B schedules have been modified to reflect November commencement dates\n\nQ- Pilot audit quantity - Part E prices “Pilot Case Studies … of 3 Pre-selected Sites”, whereas Part B KPI 7.1 refers to Council review of three standard buildings and one complex building. Please confirm whether the pilot comprises three sites or four sites (3 standard + 1 complex) and, if available, identify the intended pilot building types/assets.\n\nA - Part E Pilot Case studies 3 pre-selected sites is accurate, Part B KPI 7.1 adjusted to standard buildings and 1 complex\n\nQ- Final in-scope asset register and size data - Appendix A lists 139 asset records but does not provide addresses, gross floor areas/footprints, storeys, heritage status, complexity or access constraints. Please confirm the final in-scope asset list and advise whether Council will provide a current register/GIS export containing addresses/coordinates, floor area, building type, year built, ownership/lease status and other available attributes for tender pricing and mobilisation.\n\nA - Council will provide GIS and asset register exports which will contain addresses, floor areas, building type, year built, ownership/lease status and other available attributes\n\nQ- Phase 1 building-services audit versus Phase 2 specialist assessment - Appendix C states structural elements and mechanical/electrical services must be audited by appropriately qualified engineers, while Part B 4.4 describes specialist building-services and critical-system assessments as Phase 2 at the Supervisor’s direction. Please clarify the minimum Phase 1 inspection requirement for mechanical, electrical, hydraulic, fire, security/BMS and vertical-transport components at every building, and what additional depth/testing is intended only under Phase 2.\n\nA- The expected minimum Phase 1 inspection requirements for mechanical, electrical, hydraulic, fire, security/BMS and vertical-transport components at every building requires a visual, non-destructive inspection of the core physical assets to determine remaining useful life, deferred maintenance, and immediate capital expenditure needs that impact property value. The additional depth for testing intended for Phase 2 is to be provided in a return brief in discussion with Council officers to determine how asset criticality, functional effectiveness, climate vulnerability, current day compliance and disability access would all impact on the long term renewal programs.\n\nQ- Phase 2 quantities and pricing basis - Please confirm whether the Critical Asset Audit, Functional Effectiveness, Climate Change Vulnerability, compliance/current-day-standards assessment and Disability Accessibility Assessment are optional/conditional Phase 2 services. If so, please advise the expected number/type of buildings for each service and whether tenderers should price these as fixed lump sums, provisional allowances or unit rates. Part E also does not provide a separate fee line for the current-day standards/compliance assessment; please confirm where this should be priced.\n\nA - The Critical Asset Audit, Functional Effectiveness, Climate Change Vulnerability, compliance/current-day-standards assessment and Disability Accessibility Assessment are conditional Phase 2 services that will be determined through return brief and in discussion with Council officers. Tenderers should provide unit rates and a separate fee line for current-day compliance assessments and this will be added to Part E.\n\nQ - Financial asset valuation requirements - Please confirm whether the AASB 13 revaluation must be completed/signed by an independent registered property valuer, quantity surveyor or other specified qualification. Please also confirm the valuation date, required Level 2/Level 3 input classification, Council’s preferred replacement-cost/unit-rate source, treatment of specialised/heritage assets and market valuation adjustments, depreciation/RUL conventions, and the required approach to insurance values.\n\nA -For the financial valuation, the final report is to be signed by a suitably qualified valuer with experience in AASB 13 and AASB 116 building valuations, preferably in local government. A quantity surveyor can support the replacement costs and unit rates, but the person signing the report should be able to take responsibility for the overall valuation methodology and Level 2/Level 3 classification.\n\nFor the effective date, the last day of the month in which the on-site inspections are completed. Projects completed on or before that date will be included in the pre-revaluation data, while projects completed after that date can be capitalised separately after the revaluation.\n\nSpecialised buildings will generally be valued using Current Replacement Cost and classified as Level 3. Buildings valued using market evidence will need to be assessed separately to determine whether they fall within Level 2 or Level 3. The valuation should also cover Council’s six building components, condition, useful life, remaining useful life, unit rates, and any relevant brownfield and heritage adjustments.\n\nInsurance values should be provided separately from the financial valuation, with the main differences explained.\n\nQ - AssetMaster / AMIS / IntraMaps data interface - Part B refers to recording relevant data in AssetMaster, while Appendix C refers to upload to Council’s AMIS and GIS/IntraMaps. Please confirm the authoritative target system(s) and provide, if available, the import templates/data dictionary, current asset register export, GIS schema/coordinate system, mandatory fields, accepted response codes and photograph naming/linking requirements.\n\nA - Council will provide the import template and data dictionary with existing asset register export and GIS schema details. Other details to be coordinated by Council with Asset system vendor before finalising reporting requirements\n\nQ- Existing defect and maintenance information - Part B requires review of UMS defect reports and cross-checking against site findings. Please confirm what UMS defect, work-order, maintenance, previous condition-audit and renewal data will be supplied, in what format, and whether the contractor is expected to close/reconcile historic and duplicate defects in the final dataset.\n\nA- Council will provide spreadsheets of previous defect data and condition audits, with any available renewal data. No reconciliation of data required, final data set to be stand-alone point-in-time report as of this inspection\n\nQ- Building records and access provisions - Please confirm the extent of available floor plans/as-built drawings, O&M manuals, service schematics, essential-safety-measure records and previous reports. Please also clarify which facilities require police checks/WWCC, escorts, out-of-hours access, roof/ceiling/subfloor/plant-room access or special permits, and whether Council will coordinate keys/swipe cards/occupant notifications as stated in the Specification.\n\nA- Council has limited floor plans and as-builts, O&M manuals, it has ESM records for all properties. Police checks/WWCC will be required for all Kinder, MCH, Childcare, Youth Services facilities. Out of hours access will be provided on an as-needs basis if required. Council will coordinate keys/swipe cards/occupant notifications.\n\nQ- Inspection access, intrusive work and testing - Please confirm the base audit is visual and non-intrusive from safely accessible areas unless specifically instructed. Please identify any mandatory allowance required for EWP/scaffold/roof access, confined-space entry, opening-up, asbestos/hazardous-materials investigation, electrical/mechanical testing, destructive investigation or laboratory testing, and advise whether such items are to be separately authorised.\n\nA - The base audit is a visual and non-intrusive assessment. Council will determine with the successful tenderer whether site specific access and testing is required based on projected proposed renewal programming\n\nQ - Cost-estimate basis and accuracy - Please confirm the expected accuracy/class of maintenance and renewal cost estimates, base date and escalation convention, contingency/overheads assumptions, preferred schedule-of-rates/cost database and whether costs are required at individual component/defect level as well as portfolio programme level.\n\nA- Council expect the renewal cost estimates to be based on estimated replacement costs and will make assumptions regarding upgrading assets to modern equivalents. The previous cost database can be provided to the successful tenderer to assist with cost estimations at a portfolio programme level.\n\nQ- Building criticality and risk framework - Appendix C notes Council has not yet assessed criticality for individual buildings/off-street carparks. Please confirm whether development of a building criticality framework/rating is required as a deliverable under T27014, or whether the contractor is only required to provide defect/intervention risk priorities in accordance with the CAF.\n\nA- Council only require contractor to provide intervention risk priorities in accordance with the Condition Assessment Framework\n\nQ- Final reporting and acceptance format - Please confirm the required final reporting structure (one portfolio report, individual building summary sheets/reports, dashboards/maps and/or other formats), the expected level of photographic evidence per component/defect, and whether Council can issue an example accepted building audit/data output before Hold Point 2.\n\nA- Council require one overall portfolio report, which contains appendices of individual building summaries. Council will issue an example of an accepted building audit for Hold Point 2.\n\nQ- Part C – Precedent Contract - Part A identifies Part C – Precedent Contract as part of the tender pack. Please confirm that the current Part C is available in VendorPanel and, if it is not currently visible to tenderers, please issue it so legal/commercial departures can be reviewed and finalised before tender close.\n\nA - Part C is the Services General Conditions (Long Form) included in the tender pack\n\nQ- Background intellectual property - Part A states Council owns proprietary rights in documents, processes, formulae, software, data and applications produced in performing the Services. Please confirm that pre-existing contractor background IP (including proprietary audit tools, templates, methods, scripts and know-how developed independently of this contract) remains the contractor’s property, with Council receiving the project-specific deliverables/data and any licence reasonably required to use those deliverables.\n\nA- Council confirm that pre-existing contractor background IP including proprietary audit tools, templates, methods, scripts and know-how developed independently of this contract remains the contractors property. The project specific deliverables and data required for the delivery of the deliverables are what Council owns at the end of the project.\n\nQ- Cyber insurance requirement - Part A identifies Cyber insurance as an additional mandatory requirement where embedded/requested, but no minimum coverage amount is stated in the documents supplied. Please confirm whether Cyber insurance is mandatory for T27014 and, if so, the required limit and any specific policy conditions.\n\nA- $10Million per occurence\n\nQ- Phase 2 completion timing / extension option - Please confirm whether all directed Phase 2 specialist/high-priority assessments must be completed within the 31 March 2027 completion date, or whether Phase 2 may be instructed and delivered under the stated six-month extension option.\n\nA- Council will direct Phase 2 assessments within the 31 March 2027 completion date if it is determined possible during the return brief detailing with the successful tenderer, and retains the right to have Phase 2 delivered under the six month extension option.\n\nQ- Financial hierarchy crosswalk - Please confirm Council will provide a current crosswalk between Appendix A Asset IDs and Appendix D Finance IDs/financial hierarchy records (including current area, year built, existing valuation input/classification and componentisation) so the physical and financial datasets can be reconciled without duplicating Council-held information.\n\nA- Council will provide the links between Appendix A – Asset IDs and Appendix D – Finance IDs to reconcile the asset register with the finance register, so as not to duplicate the Council held information."
+        },
+        {
+          "askedAt": "2026-09-17T05:28:00.000Z",
+          "question": "Could Council provide \"Attachment F,\" the Excel pricing template referenced in Part C? Part C's per-building cost breakdown tables (General Building Condition Assessment, Climate Change Vulnerability, Functional Effectiveness, Disability Access, Financial Asset Valuation) all reference \"Attachment F\" as the spreadsheet template to use — five times — but no such file was included anywhere in the tender pack. Please confirm whether it will be issued, or whether the breakdown can be provided directly in Part E's tables instead.",
+          "answeredAt": "2026-09-18T04:52:00.000Z",
+          "answer": "See addendum 1"
+        },
+        {
+          "askedAt": "2026-09-22T05:28:00.000Z",
+          "question": "Hi,\n\nCould council please confirm if a report is required for each asset or if a singular report is required covering all assets? Could this be confirmed for both the condition audit portion and the valuation portion?\n\nThanks,",
+          "answeredAt": "2026-09-30T04:41:00.000Z",
+          "answer": "Hi,\n\nThank you for your question. Please see addendum no.2 for your answer."
+        },
+        {
+          "askedAt": "2026-09-24T04:09:00.000Z",
+          "question": "Good afternoon,\n\nCould Council please confirm whether the notes, minutes, recording and/or any Q&A summary from the non-mandatory tender briefing held on 23 September 2026 will be made available to tenderers?\n\nThank you.",
+          "answeredAt": "2026-09-30T04:41:00.000Z",
+          "answer": "Hi,\n\nThank you for your question. Please see addendum no.2 for your answer."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-18T04:53:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Addendum 1 T27014 180926.doc\n\n2. Added: \t (Addendum) Attachment F - Building List - Price Breakdown.xlsx\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-30T04:41:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) T27014 - Addendum No.2.zip\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-14T22:50:02.192Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "1",
+        "to": "3",
+        "at": "2026-09-18T22:00:51.010Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-09-30T23:18:46.499Z"
+      }
+    ],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
   },
   {
     "id": "ada358306665485b93e4b2e867ef3fae",
@@ -32555,6 +32817,160 @@
     "firstSeenAt": "2026-09-11T22:04:43.234Z",
     "changes": [],
     "archivedAt": "2026-10-04T22:03:59.629Z"
+  },
+  {
+    "id": "fcc34edc6c654343b04e74eb6097d535",
+    "source": "vendorpanel",
+    "reference": "VP523043",
+    "title": "001388_HV Blue-Red Feeder",
+    "description": "James Cook University (JCU) is seeking suitably qualified contractors to deliver high voltage (HV) infrastructure\n\nupgrades at the Townsville campus as part of a broader program to improve network reliability, safety and\n\nfuture capacity.\n\nThe works comprise the supply, installation, testing and commissioning of HV electrical infrastructure, including\n\nassociated civil works and modifying and reconfiguring portions of the existing 11kV reticulation network.",
+    "buyer": "James Cook University",
+    "buyerType": "university",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "ELEC, Lighting, Equip & Services",
+      "Electronic Components & Supplies",
+      "IT & Telecomms",
+      "Utilities"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-05T07:00:00.000Z",
+    "closingAtRaw": "05/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-27T03:46:00.000Z",
+    "contact": null,
+    "documentCount": 28,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=fcc34edc6c654343b04e74eb6097d535s523043",
+    "vendorPanelDetails": {
+      "buyerAddress": "James Cook Dr\nDouglas, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.jcu.edu.au/",
+      "buyerDescription": "James Cook University",
+      "buyerReference": "001388",
+      "opensAt": "2026-08-26T14:00:00.000Z",
+      "opensAtRaw": "Thursday 27 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-09-27T07:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 27 September 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "background": "The scope includes two primary components:\n\n• Townsville HV Modification – Blue and Red Feeder: Intent is to underground portions of the blue\n\nfeeder and red feeder along Jospeh Banks Drive and James Cook Drive. This includes, but is not limited to\n\ninstallation of new HV cabling, conduits, pits, reconfiguration of feeder arrangements, installation of new\n\nGMSs, RMUs and substations, reconnection of existing assets, extension of the site-wide global earthing\n\nsystem, and removal of redundant overhead lines and poles along key campus routes. Integration is\n\nrequired with contractor delivering footpath and earthworks on Jospeh banks drive to ensure minimum\n\ndesign cover achieved.\n\n• Townsville HV Modification – GMS Install: Delivery, installation and integration of Gas-insulated ring\n\nmain unit switching infrastructure at the front of campus as part of HV fault level mitigation works. The\n\nintent is to cater for the increased prospective HV fault levels and provide switching capabilities for\n\nreconfiguring the network. This includes, but is not limited to GMSs Installation with associated earth grid\n\nprovisions.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-08-30T22:32:00.000Z",
+          "question": "Good Morning\n\nMay we please register Bernie Travers and Kris Williams for the Tender briefing on Thursday 3rd September at 9am.\n\nThank you,",
+          "answeredAt": "2026-08-31T01:39:00.000Z",
+          "answer": "Good morning,\n\nThank you for letting us know.\n\nThanks,\n\nHayley."
+        },
+        {
+          "askedAt": "2026-08-31T01:54:00.000Z",
+          "question": "Milspec Energy Solutions would like to formally notify that we would like to attend the site brief and tender walk through on the 3rd of September 2026.\n\nBen Campbell\n\nDirector",
+          "answeredAt": "2026-08-31T01:58:00.000Z",
+          "answer": "Good morning,\n\nThank you for letting us know.\n\nThanks,\n\nHayley."
+        },
+        {
+          "askedAt": "2026-09-02T00:45:00.000Z",
+          "question": "Hi,\n\nWill high vis / long sleeve clothing with steel cap boots (possibly helmet & safety glasses etc) be required for the tender walk through on the 3rd Sept? OR will general office wear and enclosed shoes be satisfactory?",
+          "answeredAt": "2026-09-02T01:39:00.000Z",
+          "answer": "Good morning,\n\nHi-viz or steel caps are not required for the site visit.\n\nThank you,\n\nHayley"
+        },
+        {
+          "askedAt": "2026-09-03T04:46:00.000Z",
+          "question": "Good afternoon\n\nin the scope of work documents - section 14- Timeline it states the below:\n\n14. Timeline A detailed program is to be submitted with tenders to demonstrate the contractor’s ability to complete the works on time\n\n• Refer indicative timetable under Schedule 1 and required milestones.\n\nCan you please confirm where the schedule 1 is located.\n\nthank you",
+          "answeredAt": "2026-09-07T00:39:00.000Z",
+          "answer": "Good morning,\n\nSchedule 1 is the \"Request for Tender\" Document in the document suite attached to this tender request.\n\nThank you,\n\nHayley."
+        },
+        {
+          "askedAt": "2026-09-08T03:32:00.000Z",
+          "question": "Please confirm whether existing LV distribution drawings and maximum demand data for the affected substations and switchboards will be issued as an addendum.\n\nEnfra require this information to determine the extent of LV loads requiring temporary supply and to accurately size and price temporary generation during the proposed outage and changeover works",
+          "answeredAt": "2026-09-09T23:05:00.000Z",
+          "answer": "Contractor is to refer to single line diagrams for substation sizes i.e. Drawing E400 from ‘001388_Attachment 2_STP25-1431 Electrical_Blue Feeder HV Upgrade_IFT Drawings_Rev A_25.08.2026’.\n\nContractor is to allow to cover existing substation downtimes accordingly based on their own staging plans. Further specific information can be provided to the successful tenderer once they have been engaged and have finalised their outage and staging plans which may or may not require the use of temporary generators, depending on network configurations and proposed downtimes."
+        },
+        {
+          "askedAt": "2026-09-17T02:45:00.000Z",
+          "question": "Commercial offers have been received for the specified ABB SafePlus switchgear, with current supplier lead times advised at approximately 28 weeks from approved drawings.\n\nIt is understood that the intended project programme may require the works to be completed earlier than the current lead time would allow.\n\nCan JCU please confirm whether the advised 28-week lead time is acceptable for the project?\n\nAlternatively, would JCU consider alternative switchgear options where equivalent technical requirements can be achieved with improved lead times, subject to JCU review and approval?",
+          "answeredAt": "2026-09-17T03:05:00.000Z",
+          "answer": "Good afternoon,\n\nPlease be advised that JCU requires the ABB switchgear to be quoted. Please advise the required lead time in your program.\n\nNo alternatives will be accepted for the switchgear.\n\nThank you,\n\nHayley."
+        },
+        {
+          "askedAt": "2026-09-17T02:51:00.000Z",
+          "question": "We request that JCU consider a one-week extension to the current tender closing date.\n\nGiven the nature of the project, the proposed methodology and sequencing of the works will be critical to developing a practical and achievable delivery approach. The additional time would allow for these requirements to be more thoroughly considered and for a more detailed and well-developed tender response to be provided.\n\nAdditional time would also allow key subcontractors and suppliers to properly review and refine their offers and pricing, particularly given the specialist nature of several components of the works.",
+          "answeredAt": "2026-09-17T02:59:00.000Z",
+          "answer": "Good afternoon,\n\nPlease be advised that JCU can extend the closing date for submissions until Monday 5th October 2026. This will be amended on VendorPanel accordingly.\n\nThanks,\n\nHayley."
+        },
+        {
+          "askedAt": "2026-09-22T02:32:00.000Z",
+          "question": "Hi,\n\nFollowing up on previpous request for site Loads of the campus in the affected areas",
+          "answeredAt": "2026-10-02T03:52:00.000Z",
+          "answer": "Dear Tenderer\n\nQ2 – Site loads for the campus in the affected areas\n\nResponse:\n\nSite load information for individual locations will not be provided as part of the tender. Tenderers are to refer to the single line diagram for the relevant ratings and plan accordingly for outages required during cutovers in accordance with the tender documentation. The successful contractor may request further specific load information, if required, following award."
+        },
+        {
+          "askedAt": "2026-09-22T02:39:00.000Z",
+          "question": "Afternoon Hayley,\n\nRegarding the proposed civil works along Joeph banks avenue, can you advise the following\n\n* expected time frame?\n\n* the existing bank near US48 will be removed during this process can you advise if the existing comms piuts/ conduits and cables in this area will be part of the civiol works package by others?\" as well as Poe U11 is in this area and needs to remaion until tyhe HV cutovers how id this pole being temporary supported with the surrouinding area being dropped by 1.5m? As part of this tender do we need to allolwe for a tempooary support structure as in order to trench we need to below the expected level?",
+          "answeredAt": "2026-10-02T03:51:00.000Z",
+          "answer": "Dear Tenderer\n\nQ1 – Proposed civil works along Joseph Banks Avenue\n\nResponse:\n\nThe civil works form part of the Principal Contractor's scope and were issued as part of Addendum 1. Tenderers are to make appropriate allowance for the civil works required to undertake their scope, having regard to the information provided in Addendum 1. Tenderers are to provide their proposed program as part of their tender submission."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-08-31T05:47:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Addendum 1_Attachment 5_Fortisem_T02A-26302 _Civil footpath Joseph Banks_IFC Drawings_revB_27.08.2026.pdf\n\n2. Added: \t (Addendum) Addendum 1_Attachment 6_Fortisem_T02A-26302 _Civil footpath Joseph Banks_transmittal_revB_dated 27.08.2026.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-09T00:15:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Addendum 2.1_SP200970_JCU easement AA.pdf\n\n2. Added: \t (Addendum) Addendum 2.2_TSS23010-007 - SW As-Constructed Survey_Tropical Solutions_20.07.2023.pdf\n\n3. Added: \t (Addendum) Addendum 2.3_Proposed_FINAL JBA Extension Works_STP_02.03.2023.pdf\n\n4. Added: \t (Addendum) Addendum 2.4_Proposed_Stage 1 JBA Intersection Layouts_STP_02.03.2023.pdf\n\n5. Added: \t (Addendum) Addendum 2.5_STP22-0962_E1100 [3]_construction issue for reference.pdf\n\n6. Added: \t (Addendum) Addendum 2.6_STP22-0962_E1101 [2]_construction issue for reference.pdf\n\n7. Added: \t (Addendum) 001388_Addendum 2.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-11T05:17:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 001388_Addendum 3.pdf\n\n2. Added: \t (Addendum) Addendum 3.1_Photos of existing electrical infrastructure for contract interface_Rev2.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-09-17T03:00:00.000Z",
+          "description": "Revised closing date for Tenders: Monday 5th October 2026 at 5pm AEST."
+        },
+        {
+          "at": "2026-09-18T03:00:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 001388_Addendum 4.pdf\n\n2. Added: \t (Addendum) Addendum 4.1_12675445 JCU Substations Earth Grid Design_Combined drawing set_GHD_IFT_RevA_dated 17.09.2026.pdf\n\n3. Added: \t (Addendum) Addendum 4.2_12675445-REP_JCU Substations US48 & U14 Earthing Report & Spec_GHD_revA_dated 17.09.2026.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "23",
+        "at": "2026-09-09T04:26:33.566Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "23",
+        "to": "25",
+        "at": "2026-09-11T22:04:43.234Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-09-25T07:00:00.000Z",
+        "to": "2026-10-05T07:00:00.000Z",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "25/Sep/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "05/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-09-17T22:30:54.401Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "25",
+        "to": "28",
+        "at": "2026-09-18T22:00:51.010Z"
+      }
+    ],
+    "archivedAt": "2026-10-06T00:27:25.014Z"
   },
   {
     "id": "fdf341ce713d473c8899d800a24aa10d",

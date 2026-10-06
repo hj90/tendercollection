@@ -1,13 +1,13 @@
 {
   "vendorpanel": {
     "status": "ok",
-    "snapshotAt": "2026-10-04T22:03:59.629Z",
+    "snapshotAt": "2026-10-06T00:27:25.014Z",
     "message": null
   },
   "austender": {
-    "status": "unavailable",
-    "snapshotAt": "2026-10-02T23:23:48.386Z",
-    "message": "Feed unavailable; previous snapshot retained. Check the source for current information."
+    "status": "ok",
+    "snapshotAt": "2026-10-06T00:27:25.014Z",
+    "message": null
   },
   "nsw": {
     "status": "ok",
