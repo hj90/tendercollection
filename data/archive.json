@@ -1005,6 +1005,33 @@
     "archivedAt": "2026-10-06T00:27:25.014Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/a2675333-e59b-42e9-9ae8-c83ecfdeed08",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/a2675333-e59b-42e9-9ae8-c83ecfdeed08",
+    "reference": "RFI/2026/ASCQ",
+    "title": "Market sounding for the establishment of logistics facilities in the Alice Springs and Central Queensland regions.",
+    "description": "Defence is seeking information on land, existing facilities and alternative financing and delivery solutions capable of supporting a scalable logistics node within the Alice Springs region and Central Queensland region. The capability is intended to support varying operational demands, with periods of high activity followed by periods of lower utilisation and may require access to approximately 250 hectares of developable land and associated logistics infrastructure. Defence is interested in flexible, cost-effective and operationally ready solutions that provide capacity for future expansion and Defence-specific operational requirements. Defence will consider separate parcels of land to meet the logistics need. This includes land in proximity to transport infrastructure e.g. ports, rail, airports, major roads, or of sufficient size and design that would support logistics activities.",
+    "publishedAt": "2026-09-18T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "80131500 - Lease and rental of property or building"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13-Oct-2026 3:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "A/ Assistant Director Strategic Contracts and Airfields\nEmail Address:\ncommercial.planning@defence.gov.au",
+      "name": "A/ Assistant Director Strategic Contracts and Airfields",
+      "email": "commercial.planning@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-18T22:00:51.010Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/a64467be-bb82-4228-85e7-5009fe1f162c",
     "reference": "DFAT-1110",
@@ -11801,6 +11828,50 @@
     "archivedAt": "2026-10-01T23:32:33.983Z"
   },
   {
+    "id": "23e5e28fd15c4cd69dc2abb6d5e3fe1c",
+    "source": "vendorpanel",
+    "reference": "VP526427",
+    "title": "TC26096- MI187339- Hammond Island Smoke Alarm Replacement Program",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nPrice Schedule attachment must be executed and submitted with RFQ.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-21T02:08:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=23e5e28fd15c4cd69dc2abb6d5e3fe1cs526427",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26096",
+      "opensAt": "2026-09-20T14:00:00.000Z",
+      "opensAtRaw": "Monday 21 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 09 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-23T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 24 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-21T22:54:50.025Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "2413146c20414d599d40119b2f740074",
     "source": "vendorpanel",
     "reference": "VP523959",
@@ -12914,6 +12985,50 @@
     "archivedAt": "2026-10-02T23:23:48.386Z"
   },
   {
+    "id": "2a4fecaf1ffb437fb34c34bf1172e8cb",
+    "source": "vendorpanel",
+    "reference": "VP526264",
+    "title": "TEN/3115 Traffic Signal & Intersection Upgrade - Bundaberg High School Pedestrian Crossing",
+    "description": "Please refer to Invitation to Offer",
+    "buyer": "Bundaberg Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "ELEC, Lighting, Equip & Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-18T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2a4fecaf1ffb437fb34c34bf1172e8cbs526264",
+    "vendorPanelDetails": {
+      "buyerAddress": "190 Bourbong St\nBundaberg Central, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.bundaberg.qld.gov.au/business/doing-business",
+      "buyerDescription": "Bundaberg Regional Council was formed in 2008 as a result of the merging of Bundaberg City Council, Burnett Shire, Isis Shire and Kolan Shire Councils. Situated at the southern end of the Great Barrier Reef and stretching from the Burrum River to Baffle Creek, is comprised of 6,451 sq km and is home to more than 102,000 people, with our population expected to grow to over 141,000 people within twenty-five years. Collectively, we are renowned for the friendliness of our residents, superb climate, affordable cost of living, first-class facilities, and relaxed lifestyle. The Bundaberg Region is rapidly progressing to be a destination of choice - for residents, visitors, and investors.",
+      "buyerReference": "TEN/3115",
+      "opensAt": "2026-09-18T14:00:00.000Z",
+      "opensAtRaw": "Saturday 19 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-06T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 06 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-02T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 03 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-18T22:00:51.010Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "2a89ebddf6c048a6abfb6fb8c3cf783b",
     "source": "vendorpanel",
     "reference": "VP523727",
@@ -12963,6 +13078,49 @@
       }
     ],
     "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
+    "id": "2afcc67200634249a2e65e18ea242640",
+    "source": "vendorpanel",
+    "reference": "VP527529",
+    "title": "Forward Procurement Notice - The Wave Stage 3 (Metro)/MRI - CIP Independent Verifier",
+    "description": "The Department of Transport and Main Roads (TMR) intends to release an Expression of Interest (EOI) in October 2026, for the provision of Independent Verifier services for the Civil Infrastructure Package (CIP) of The Wave 3 (Metro) and Mooloolah River Interchange Upgrade (MRI).\n\nThis Forward Procurement Notice provides advance notice of the upcoming procurement and outlines preliminary information on the Independent Verifier (IV) services, including prequalification requirements. It is intended to assist interested proponents in assessing their capability, capacity, and potential interest in participating in the procurement process.\n\nRefer to the attached document for further information.\n\nNo response is required to this Forward Procurement Notice.\n\nQuestions are to be withheld until the forthcoming Expression of Interest (EOI) phase. Any questions asked on this advertisement will not be answered.",
+    "buyer": "Department of Transport and Main Roads",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Engineer, Research, Tech services"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-10-13T07:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-29T23:25:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2afcc67200634249a2e65e18ea242640s527529s187d3a05decd404191ffe66fba693c4fs1559",
+    "vendorPanelDetails": {
+      "buyerAddress": "313 Adelaide St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone",
+      "buyerReference": null,
+      "opensAt": "2026-09-29T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 30 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-13T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 13 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 27 October 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-30T23:18:46.499Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
   },
   {
     "id": "2b5a0a9796bf46188e24ec92e9de6488",
@@ -14512,6 +14670,66 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-09T04:26:33.566Z"
+  },
+  {
+    "id": "361f6a075db240c29d048b0aed4ee643",
+    "source": "vendorpanel",
+    "reference": "VP520882",
+    "title": "Call for Submissions: System Restart Service – North Metro Sub-network of the SWIS",
+    "description": "AEMO is calling for submissions from Market Participants to provide a System Restart Service (SRS) for the North Metro sub-network of the South West Interconnected System (SWIS) in Western Australia.\n\nThis is to address contract expiry in the sub-network and to ensure continuity of System Restart Services.\n\nA System Restart Service is a service from a Registered Facility, with an energy producing system, that can start without requiring energy to be supplied from a Network to assist in the re-energisation of the SWIS in the event of a system shut down or major supply disruption.\n\nTender approach: Open to Market Participants capable of providing SRS in the North Metro sub-network.\n\nService commencement: 1 April 2027\n\nContract term: 5 years from the service commencement date, although shorter durations can be considered by AEMO.\n\nTechnical requirements: Service capability must meet the requirements set out in the WEM System Restart Standard and the North Metro SRS Specification.\n\nStandard-form contract: Contract terms are provided as part of the tender documentation.\n\nThe tender process is conducted in accordance with the Electricity System and Market Rules (ESM Rules 3.7).",
+    "buyer": "Australian Energy Market Operator (AEMO)",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "Utilities"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T09:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 05:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-08-17T04:17:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=361f6a075db240c29d048b0aed4ee643s520882sc7f4c031498943fbb1aef808c6fbc4das2921",
+    "vendorPanelDetails": {
+      "buyerAddress": "152 St Georges Terrace\nPerth, Western Australia 6000\nAustralia",
+      "buyerWebsite": "https://www.aemo.com.au/",
+      "buyerDescription": "The Australian Energy Market Operator (AEMO) is responsible for operating Australia’s largest gas and electricity markets and power systems, including the:\n\n- National Electricity Market (NEM), the interconnected power system in Australia’s eastern and south-eastern seaboard.\n\n- Wholesale Electricity Market (WEM) and power system in Western Australia.\n\nWe also operate the:\n\n- Victorian Declared Wholesale Gas Market (DWGM) and the Victorian gas transmission system.\n\n- Wholesale gas Short Term Trading Market hubs in Adelaide, Sydney and Brisbane.\n\n- Retail Gas Markets in Victoria, Queensland, South Australia, Western Australia and New South Wales and Australia Capital Territory.\n\n- Wallumbilla and Moomba Gas Supply Hub in Queensland and South Australia.\n\n- Natural Gas Services Bulletin Board.\n\n- Western Australia Gas Bulletin Board.\n\nAs Australia’s independent energy markets and power systems operator, AEMO provides critical planning, forecasting and power systems information, security advice, and services to our stakeholders.",
+      "buyerReference": null,
+      "opensAt": "2026-08-16T16:00:00.000Z",
+      "opensAtRaw": "Monday 17 August 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-13T09:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 13 October 2026 05:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-10T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 11 January 2027 (W. Australia Standard Time)",
+      "background": "Further background information on the tender, service and specifications can be found on the following AEMO websites:\n\n1. Call for Submissions: System Restart Service for North Metro Sub-network of SWIS, link below:\n\nhttps://www.aemo.com.au/consultations/tenders/call-for-submissions-system-restart-service-nm-swis-sub-network\n\n2. AEMO | System Restart (Service Specifications & SRS Standard), link below:\n\nhttps://www.aemo.com.au/energy-systems/electricity/wholesale-electricity-market-wem/system-operations/essential-system-services/system-restart\n\n3.WEM Procedure - System Restart Service\n\nhttps://www.aemo.com.au/-/media/files/electricity/wem/procedures/wem-procedure---system-restart.pdf?la=en&rev=ecb295dc61cb45a6a10f356103fa7d99&sc_lang=en&hash=88424645507B575BE567735774A1A63C",
+      "desiredOutcomes": "Applicants to review relevant Tender documents:\n\n•\tTender Guideline – SRS North Metro\n\n•\tSystem Restart Service Specification (2026) North Metro Electrical Sub-Network\n\n•\tStandard-form System Restart Service Contract\n\nTo apply you must submit the following documents:\n\n•\tTender Form\n\n•\tAcknowledgement Notice\n\n•\tStandard-form System Restart Service Contract with tracked changes, if amendments to the contract are proposed.",
+      "buyerQuestions": [
+        "Have you submitted the compulsory Tender Form?",
+        "Have you submitted the compulsory Acknowledgement Notice?",
+        "Are you proposing to amend the Standard Form contract? (If so you must submit a Standard Form contact template, with tracked changes)",
+        "Will you be submitting your application via Vendor Panel (compulsory)?"
+      ],
+      "serviceRegions": [
+        "Western Australia\n1: Central\n2: Lower Great Southern\n3: Midlands\n4: Perth\n5: South Eastern\n6: South West\n7: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-08-17T03:55:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t 2026 SRS Standard Form Contract Word.docx\n\n2. Added: \t Acknowledgement Notice North Metro SRS.docx\n\n3. Added: \t Tender Form.docx\n\n4. Added: \t External - north-metro-srs-tender-guideline.pdf\n\n5. Added: \t External - system-restart-service-specification-north-metro.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "AEMO is calling for submissions from Market Participants to provide a System Restart Service (SRS) for the North Metro sub-network of the South West Interconnected System (SWIS) in Western Australia. \n\nThis is to address contract expiry in the sub-network and to ensure continuity of System Restart Services.\n\nA System Restart Service is a service from a Registered Facility, with an energy producing system, that can start without requiring energy to be supplied from a Network to assist in the re-energisation of the SWIS in the event of a system shut down or major supply disruption.\n\nTender approach: Open to Market Participants capable of providing SRS in the North Metro sub-network.\n\nService commencement: 1 April 2027\n\nContract term: 5 years from the service commencement date, although shorter durations can be considered by AEMO.\n\nTechnical requirements: Service capability must meet the requirements set out in the WEM System Restart Standard and the No...",
+        "to": "AEMO is calling for submissions from Market Participants to provide a System Restart Service (SRS) for the North Metro sub-network of the South West Interconnected System (SWIS) in Western Australia.\n\nThis is to address contract expiry in the sub-network and to ensure continuity of System Restart Services.\n\nA System Restart Service is a service from a Registered Facility, with an energy producing system, that can start without requiring energy to be supplied from a Network to assist in the re-energisation of the SWIS in the event of a system shut down or major supply disruption.\n\nTender approach: Open to Market Participants capable of providing SRS in the North Metro sub-network.\n\nService commencement: 1 April 2027\n\nContract term: 5 years from the service commencement date, although shorter durations can be considered by AEMO.\n\nTechnical requirements: Service capability must meet the requirements set out in the WEM System Restart Standard and the North Metro SRS Specification.\n\nStandard-form contract: Contract terms are provided as part of the tender documentation.\n\nThe tender process is conducted in accordance with the Electricity System and Market Rules (ESM Rules 3.7).",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
   },
   {
     "id": "369b0f3716914abca1f84930af043307",
@@ -26514,6 +26732,49 @@
     "archivedAt": "2026-09-22T22:28:49.427Z"
   },
   {
+    "id": "983906aa2bae48b2a2a3f9602c8c010a",
+    "source": "vendorpanel",
+    "reference": "VP525769",
+    "title": "QED 6261A 2026 - HomeHill State High School - GFG Health & Physical Fitness Centre",
+    "description": "The Department of Education (DoE) is inviting tenders for GFG Health & Physical Fitness Centre located at Home Hill SHS,\n\nTender documentation is available for collection from RPS AAP Consulting Pty Ltd, 135 Abbot Street, Cairns Qld 4870 from Tuesday 15th September 2026 or by contacting\n\nSandra Troughton Project Manager on telephone 0417 709 994 or email Sandra.Troughton@rpsconsulting.com for further information.\n\nElectronic tenders are to be submitted by Tuesday 13th October 2026 at 2:00 pm to https://filetransfer.rpsgroup.com.au/filedrop/qedtenders@rpsgroup.com.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-15T21:48:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=983906aa2bae48b2a2a3f9602c8c010as525769s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "34-165411",
+      "opensAt": "2026-09-15T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 16 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 10 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-15T22:30:52.819Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "98654a88755643fabac6788d5c99ed70",
     "source": "vendorpanel",
     "reference": "VP523833",
@@ -30322,6 +30583,49 @@
     "archivedAt": "2026-10-02T23:23:48.386Z"
   },
   {
+    "id": "abc12e64273d4c919cfa23daad5e5859",
+    "source": "vendorpanel",
+    "reference": "VP525342",
+    "title": "QBNQ442 Carry out Bathroom Upgrades at SPINIFEX RESIDENTIAL COLLEGE, TRANSMISSION STREET, MOUNT ISA",
+    "description": "QBNQ442BLD1 – Carry out Bathroom Upgrades - SPINIFEX RESIDENTIAL COLLEGE, TRANSMISSION STREET, MOUNT ISA QLD 4825\n\nPricing: 70 points\n\nNon Price Criteria: 30 points (Local Benefits, Support of Social Enterprises, Program & Methodology)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: 05/12/2026\n\nDate for Practical Completion: 27/01/2027\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/ under reference number QBNQ442BLD1",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-11T05:16:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=abc12e64273d4c919cfa23daad5e5859s525342s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "9-15 Langton St\nGarbutt, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "QBNQ442BLD1",
+      "opensAt": "2026-09-10T14:00:00.000Z",
+      "opensAtRaw": "Friday 11 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-08T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 08 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-11T22:04:43.234Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "acfdbe6627034507b7ab1c1172d010f2",
     "source": "vendorpanel",
     "reference": "VP521736",
@@ -32197,6 +32501,99 @@
     "archivedAt": "2026-09-29T00:01:53.504Z"
   },
   {
+    "id": "b49102ea0e324b5ea192d2b541d1ab7a",
+    "source": "vendorpanel",
+    "reference": "VP522653",
+    "title": "Supply, Delivery and Roll-out of Food Organics & Garden Organics (FOGO) Mobile Garbage Bins",
+    "description": "Swan Hill Rural City Council (Council) is seeking suppliers for the supply, delivery and roll-out of mobile FOGO garbage bins, kitchen caddies and biodegradable liners to eligible households across the municipality, with services commencing by April 2027 or earlier.\n\nCouncil invites suitably qualified suppliers to propose practical, cost-effective solutions that enable a coordinated municipal roll-out, including dependable supply, timely delivery, household distribution and implementation support.",
+    "buyer": "Swan Hill Rural City Council",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Waste Management & Landfill"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-08T04:07:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b49102ea0e324b5ea192d2b541d1ab7as522653se8fec92d55d7442e83a58602a4243b67s1610",
+    "vendorPanelDetails": {
+      "buyerAddress": "45 Splatt St\nSwan Hill, Victoria 3585\nAustralia",
+      "buyerWebsite": "https://www.swanhill.vic.gov.au/",
+      "buyerDescription": "Swan Hill Rural City Council, \"The Heart of the Murray\" is a bustling provincial centre just three and a half hours from Melbourne and five and a half hours from Adelaide.The region is renowned for its world class produce, spectacular landscapes and close proximity to the Murray River. Our region runs adjacent to the Murray River for nearly 200 kilometres and encompasses 6,000 square kilometres and home to 20,000 people.",
+      "buyerReference": "27 05 2302",
+      "opensAt": "2026-09-07T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 08 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-10-06T03:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 06 October 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 10 November 2026 (AUS Eastern Standard Time)",
+      "background": "The Victorian State Government is standardising household waste and recycling services across the state to increase resource recovery and reduce waste to landfill. Victoria’s Circular Economy policy requires councils to deliver the standardised four waste stream services, with regulations prescribing service provision to commence no later than 1 July 2027.\n\nIn response to these requirements, Swan Hill Rural City Council resolved to implement a weekly 240 litre FOGO service by 30 April 2027.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you demonstrated in your submission that OHS and risk management systems will be in place during the Contract term, to ensure safe systems of work are maintained?",
+        "Does your organisation hold and maintain the minimum insurance covers required under this Contract? (Refer to the General Conditions of Contract and ensure you have included your insurance certificates of currency."
+      ],
+      "serviceRegions": [
+        "Victoria\n1: Loddon\n2: Mallee\n3: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-21T08:26:00.000Z",
+          "question": "Can Council confirm whether a tenderer may submit a conforming offer under SP1 for the certified compostable kitchen-caddy liners only, without supplying the bins or kitchen caddies?",
+          "answeredAt": "2026-09-30T01:37:00.000Z",
+          "answer": "Council has provided updated schedules for this Tender, and the specification has been amended accordingly.\n\nSeparable Portion 1 (SP1) now only relates to waste bin supply. Separable portion 2 (SP2) has been amended so that it pertains solely to the supply of caddies and caddy liners.\n\nTo be considered a \"complying tender\", each item within a particular schedule must be priced. Tenderers can complete any or all schedules as they deem appropriate.\n\nIndividual items within a Separable Portion Schedule will not be evaluated and awarded separately."
+        },
+        {
+          "askedAt": "2026-09-22T23:04:00.000Z",
+          "question": "Good morning,\n\nFollowing on from the briefing session, could Council please confirm that tenders will be accepted for individual items within Separable Part 1?\n\nFor example, can a tenderer submit for kitchen caddies only, compostable liners only, or both items without tendering for the mobile garbage bins?\n\nCould Council also confirm that these items may be evaluated and awarded separately?\n\nKind regards,",
+          "answeredAt": "2026-09-30T01:42:00.000Z",
+          "answer": "Council has provided updated schedules for this Tender, and the specification has been amended accordingly.\n\nSeparable Portion 1 (SP1) now only relates to waste bin supply. Separable portion 2 (SP2) has been amended so that it pertains solely to the supply of caddies and caddy liners.\n\nTo be considered a \"complying tender\", each item within a particular schedule must be priced. Tenderers can complete any or all schedules as they deem appropriate.\n\nIndividual items within a Separable Portion Schedule will not be evaluated and awarded separately."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-10T05:16:00.000Z",
+          "description": "Briefing Session\n\nLocation:\n\nOnline – Microsoft Teams\n\nDate:\n\nThursday, 17 September 2026\n\nTime:\n\n11:30am AEST\n\nAttendance:\n\nOptional\n\nTenderers wishing to attend the briefing session are requested to register their attendance by COB Wednesday, 16 September 2026 by emailing:\n\ntenders@swanhill.vic.gov.au\n\nA Microsoft Teams meeting invitation will be provided to registered attendees prior to the briefing session."
+        },
+        {
+          "at": "2026-09-29T02:33:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Part B_Specification_V2.1 (Revised).docx\n\n2. Added: \t Price Schedule V2.1 (Revised).xlsx\n\n3. Added: \t Tender Addendum_1.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-08T04:25:30.028Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "8",
+        "at": "2026-09-10T07:06:28.027Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-06T04:00:00.000Z",
+        "to": "2026-10-13T04:00:00.000Z",
+        "at": "2026-09-29T23:15:43.191Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "06/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "13/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-09-29T23:15:43.191Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-09-29T23:15:43.191Z"
+      }
+    ],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "b7314fbe372a408caab32346eeab933d",
     "source": "vendorpanel",
     "reference": "VP525809",
@@ -32253,6 +32650,49 @@
       }
     ],
     "archivedAt": "2026-10-01T23:32:33.983Z"
+  },
+  {
+    "id": "b7511ce10b7347caa990fdaccf12d996",
+    "source": "vendorpanel",
+    "reference": "VP526781",
+    "title": "RFQ2027.14 Low to Mid-Range Dual Cab 4x4 with Standard Tub",
+    "description": "Cootamundra-Gundagai Regional Council is seeking quotations for the supply and delivery of a Low to Mid-Range Dual Cab 4x4 with Standard Tub as described in the attached specification.",
+    "buyer": "Cootamundra-Gundagai Regional Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Vehicles"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-22T23:23:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b7511ce10b7347caa990fdaccf12d996s526781s5fc61fbc72584241939919f75e3ed2cas1608",
+    "vendorPanelDetails": {
+      "buyerAddress": "81 Wallendoon St\nCootamundra, New South Wales 2590\nAustralia",
+      "buyerWebsite": "https://www.cgrc.nsw.gov.au/",
+      "buyerDescription": "Cootamundra-Gundagai Regional Council was formed by Proclamation of the NSW Government on 12 May 2016.\n\nCootamundra-Gundagai Regional Council provides services and support to a community of approximately 11,500 people, including residents of Cootamundra and Gundagai, as well as the villages of Adjungbilly, Coolac, Muttama, Nangus, Stockinbingal, Tumblong and Wallendbeen.\n\nCouncil is focused on ensuring that the community benefits from this amalgamation, with our highest priority being to continue delivering quality local services that our communities value and rely on. It is the aim of the administration to build a united team and a united community that is inclusive, forward-thinking and lays the foundations for a strong and effective local government.",
+      "buyerReference": "RFQ2027.14",
+      "opensAt": "2026-09-22T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 23 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-10-12T03:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 12 October 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-10-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 27 October 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Murrumbidgee"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-23T22:32:07.942Z",
+    "changes": [],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
   },
   {
     "id": "b7cf4c74b494487e9810f2a6bd48f9eb",
@@ -36080,6 +36520,80 @@
       }
     ],
     "archivedAt": "2026-09-23T22:32:07.942Z"
+  },
+  {
+    "id": "d1b8f9ad0eed4289b68adba5ab808c9f",
+    "source": "vendorpanel",
+    "reference": "VP526686",
+    "title": "ICT - EOI - Process Mapping Solution",
+    "description": "Ipswich City Council is Requesting Expressions of Interest (ROEI) for a Process Mapping Solution.\n\nCouncil is seeking to better understand contemporary solutions available in the market that enable the creation, management, publication and maintenance of business process documentation while promoting user engagement and organisational consistency.\n\nPlease see the attached ROEI documentation for further information.",
+    "buyer": "City of Ipswich",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Business & Administrative Services",
+      "IT & Telecomms"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-13T07:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-22T06:17:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d1b8f9ad0eed4289b68adba5ab808c9fs526686",
+    "vendorPanelDetails": {
+      "buyerAddress": "Nicholas St\nIpswich, Queensland 4305\nAustralia",
+      "buyerWebsite": "http://www.ipswich.qld.gov.au/",
+      "buyerDescription": "Ipswich is centrally located in the booming south east Queensland region of Australia. To the east is the capital city Brisbane, and to the west are the rural and agricultural areas of the Brisbane, Lockyer and Fassifern Valleys. The city is ideally positioned on the national road network - 40 minutes drive from Brisbane, an hours drive from the Gold Coast and 60 minutes drive from domestic and international air and sea ports.\nIpswich comprises an area of 1090 square kms and has a population of 180,000 people. Ipswich enjoys a subtropical climate and is a safe, friendly and multicultural city. Residents come from 115 different ethnic backgrounds, speaking 84 languages.\nAs Queensland's oldest provincial city, Ipswich has a rich history. It is renowned for its architectural, natural and cultural heritage. Ipswich proudly preserves and still operates from many of its historical buildings and homes, with more than 6000 heritage-listed sites. Ipswich also has a range of charming townships within the western rural areas of the city, each with its own legitimate claims of historical significance.",
+      "buyerReference": "260908-000054",
+      "opensAt": "2026-09-21T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 22 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-06T07:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 06 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 11 January 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Please acknowledge your understanding that lodgement of the REOI response must be via VendorPanel prior to the closing date and time.",
+        "Do you hold the relevant and minimum insurance levels as per the Response Schedule?",
+        "Is data hosted onshore, or have the ability to be hosed onshore (in Australia) only?"
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-01T02:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 260908-000054 - REOI - Clarifications.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-01T21:11:00.000Z",
+          "description": "Please note: The following addendum has been recently added - question 21.\n\n1. Added: \t (Addendum) 260908-000054 - REOI - Clarifications2.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-06T21:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 260908-000054 - REOI - Clarifications3.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-22T22:28:49.427Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "4",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-10-06T22:50:00.661Z"
+      }
+    ],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
   },
   {
     "id": "d25ca411cfe04ceb967e6ed6585f4820",
@@ -41315,6 +41829,120 @@
     "archivedAt": "2026-09-11T22:04:43.234Z"
   },
   {
+    "id": "edce2ee62292413687f74432fad89284",
+    "source": "vendorpanel",
+    "reference": "VP525117",
+    "title": "Inglewood SPS1 Renewal - Design and Construction",
+    "description": "Goondiwindi Regional Council invites Tenders from suitably qualified, experienced and resourced Contractors for the design, supply and construction of a sewerage pump station and associated infrastructure to replace the existing sewerage pump station number 1 in Inglewood",
+    "buyer": "Goondiwindi Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-13T06:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-10T04:30:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=edce2ee62292413687f74432fad89284s525117s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "McLean St\nGoondiwindi, Queensland 4390\nAustralia",
+      "buyerWebsite": "https://www.grc.qld.gov.au/",
+      "buyerDescription": "Council provides residents with a wide range of services including road maintenance and construction; town planning and development controls; water and sewerage; waste collection and disposal; community cultural and recreational activities; library services; cemeteries; maintenance of parks and public areas.\n\nOUR VISION To strengthen our thriving regional lifestyle and prosperous economy.\n\nOUR MISSION To provide leadership in making locally-responsive and informed decisions, delivering quality services and facilities to the communities of the Goondiwindi region.",
+      "buyerReference": "RFT2627-16A",
+      "opensAt": "2026-09-09T14:00:00.000Z",
+      "opensAtRaw": "Thursday 10 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-13T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 13 October 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 12 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-11T02:36:00.000Z",
+          "question": "Can GRC facilitate a site visit for this project Tuesday 15th September.\n\nKind Regards",
+          "answeredAt": "2026-09-11T03:45:00.000Z",
+          "answer": "A tender site meeting will be held at 9am on Tuesday 15th September at Inglewood SPS1, Frey St, Inglewood.\n\nAll interested tenderers are welcome to attend.\n\nAny information or clarification provided during the site meeting that may affect the scope or requirements of the RFT will be documented and issued to all tenderers via VendorPanel."
+        },
+        {
+          "askedAt": "2026-09-11T03:49:00.000Z",
+          "question": "Hi,\n\nIs the site meeting mandatory/non-mandatory?\n\nThanks",
+          "answeredAt": "2026-09-11T03:51:00.000Z",
+          "answer": "Non Mandatory"
+        },
+        {
+          "askedAt": "2026-09-11T04:43:00.000Z",
+          "question": "Good Afternoon,\n\nCould council please advise if there is a requirement to RSVP for the site visit? If so, please advise contact to email.\n\nThank you.",
+          "answeredAt": "2026-09-11T04:48:00.000Z",
+          "answer": "Hi,\n\nNo RSVP is required for the site visit.\n\nInterested tenderers are welcome to attend at the nominated date and time.\n\nCouncil will record the names and organisations of tenderers in attendance on the day."
+        },
+        {
+          "askedAt": "2026-09-13T22:19:00.000Z",
+          "question": "Good morning,\n\nCould you please confirm what type of data radio (JR900 or SR+) is used at Inglewood?\n\nKind Regards,",
+          "answeredAt": "2026-09-13T23:21:00.000Z",
+          "answer": "Hi,\n\nThe JR900 is in use at Inglewood SPS1."
+        },
+        {
+          "askedAt": "2026-09-17T04:56:00.000Z",
+          "question": "Good Afternoon,\n\nCan you please advise the approved SCADA contractor, or the contractor who has previously carried out SCADA works for Council?\n\nThank you.",
+          "answeredAt": "2026-09-17T05:08:00.000Z",
+          "answer": "Council has previously used the following contractors for SCADA related works;\n\nSCADA Engineering\n\nSafegroup\n\n360Engineering"
+        },
+        {
+          "askedAt": "2026-09-17T05:56:00.000Z",
+          "question": "As an alternative to the Pre-Cast Concrete Pump Station nominated, would Council give consideration to an FRP Station which will withstand all ground pressure, has WSAA Appraisal Certificate and is provided with an RPEQ Composite Engineer Design Verification Statement?",
+          "answeredAt": "2026-09-22T23:52:00.000Z",
+          "answer": "Council requires a concrete precast well for this pump station project in compliance with the specification. An FRP station will not be accepted as a conforming offer for this pump station."
+        },
+        {
+          "askedAt": "2026-09-22T02:37:00.000Z",
+          "question": "Hi GRC,\n\nCan you please confirm that you will accept a Beck Water design Pre-Cast Concrete Pumpstation?\n\nThanks",
+          "answeredAt": "2026-09-22T23:50:00.000Z",
+          "answer": "Council will consider all precast concrete pump station designs, provided the proposed design meets all requirements of the Contract Documents, Technical Specification, relevant Australian Standards and is suitable for purpose.\n\nThe relevant technical specifications and supporting information for the proposed precast pump station are to be included with the tender submission to demonstrate compliance with the specified requirements."
+        },
+        {
+          "askedAt": "2026-09-22T05:24:00.000Z",
+          "question": "As an alternative to the Pre-Cast Concrete Pump Station nominated, would Council give consideration to an FRP Station which will withstand all ground pressure, has WSAA Appraisal Certificate and is provided with an RPEQ Composite Engineer Design Verification Statement?",
+          "answeredAt": "2026-09-22T23:43:00.000Z",
+          "answer": "Council requires a concrete precast well for this pump station project in compliance with the specification. An FRP station will not be accepted as a conforming offer for this pump station."
+        },
+        {
+          "askedAt": "2026-10-05T03:47:00.000Z",
+          "question": "Hi,\n\nCould the Council please consider granting a two-week extension to the current tender closing date to allow sufficient time for us to finalise our tender submission and obtain the necessary supplier quotations.\n\nWe would appreciate your consideration of this request.\n\nThank You.",
+          "answeredAt": "2026-10-05T22:56:00.000Z",
+          "answer": "Council has considered the request for an extension to the tender closing date.\n\nUnfortunately, the extension cannot be accommodated due to the timing of the tender evaluation and Council’s procurement and award processes.\n\nThe tender will therefore close as scheduled on 13th October 2026.\n\nThank you for your understanding."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-15T03:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\nnon mandatory site meeting notes\n\n1. Added: \t (Addendum) RFQ2627-16A - Iwd SPS1 site meeting.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-23T03:50:00.000Z",
+          "description": "Addendum 2\n\nPrevious advice issued during the tender process indicated that Council would undertake the spray seal works at a later date.\n\nThis advice is superseded by this Addendum.\n\nThe Contractor is to design and construct the site access in accordance with the Technical Specification and approved design, including a hot two-coat chip spray sealed bitumen surface.\n\nThe Contractor is now required to include the complete site access works in their tender submission and pricing.\n\nNo works by Council are to be assumed for the site access or spray seal component."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-10T07:06:28.027Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "9",
+        "to": "10",
+        "at": "2026-09-15T22:30:52.819Z"
+      }
+    ],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
+  },
+  {
     "id": "edd1f8aebfb44f4596379ac1a455c2fb",
     "source": "vendorpanel",
     "reference": "VP523080",
@@ -43532,6 +44160,65 @@
     "firstSeenAt": "2026-09-17T22:30:54.401Z",
     "changes": [],
     "archivedAt": "2026-10-08T23:35:46.725Z"
+  },
+  {
+    "id": "fc487f560ba64bc183c3ceb3944a8152",
+    "source": "vendorpanel",
+    "reference": "VP525934",
+    "title": "CN26171 - Stormwater Bio-Basin Renewal - Cooyar Street",
+    "description": "Noosa Shire Council invites tenders from suitably capable and experienced respondents for the renewal of the stormwater bio-basin at Cooyar Street, Noosa Heads, as described in more detail in Part 5 – Scope.\n\nThis is a lump sum contract, with Practical Completion required by 30 April 2027.\n\nA site inspection is scheduled, please refer to Part 2 of the Request for Tender.",
+    "buyer": "Noosa Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-10-13T04:00:00.000Z",
+    "closingAtRaw": "13/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-16T07:10:00.000Z",
+    "contact": null,
+    "documentCount": 17,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=fc487f560ba64bc183c3ceb3944a8152s525934s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Council & Boat Ramp Carpark, 9 Pelican St\nTewantin, Queensland 4565\nAustralia",
+      "buyerWebsite": "http://www.noosa.qld.gov.au/",
+      "buyerDescription": "Noosa Council",
+      "buyerReference": "CN26171",
+      "opensAt": "2026-09-15T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 16 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-08T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 08 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-02T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 03 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-24T02:10:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CN26171 - Addendum - Pre Response Closing Time - Notice to Respondents No.1.pdf\n\n2. Added: \t (Addendum) CN26171 - Full Drawing Set - Cooyar Street.pdf\n\n3. Added: \t (Addendum) CN26171 - Site Meeting - Minutes.pdf\n\nPlease consider these addenda when responding. Regards, Noosa Council."
+        },
+        {
+          "at": "2026-10-08T04:23:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CN26171 - Part 5 - Scope.pdf - grammar correction only in item 11.7, no change to content in document\n\n2. Added: \t (Addendum) CN26171 - Part 6 - Response Schedule.docx - accessibility provided to complete form, no change to content\n\n3. Added: \t (Addendum) CN26171 - Part 6J1 - Schedule of Pricing.xlsx - correction of line total formulas only, no change to content\n\nPlease consider these addenda when responding. Regards, Noosa Council."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-16T22:27:38.012Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "17",
+        "at": "2026-09-24T22:48:30.626Z"
+      }
+    ],
+    "archivedAt": "2026-10-13T23:09:32.279Z"
   },
   {
     "id": "fca8b16eb02c45448dffe30486236858",
