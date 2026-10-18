@@ -7050,6 +7050,149 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "08b06828435a4bf88f31fcc25290c622",
+    "source": "vendorpanel",
+    "reference": "VP525865",
+    "title": "New Reservoir at Bamaga",
+    "description": "Northern Peninsular Area Council is looking to expand the amount of storage available at their Bamaga Reservoir site.\n\nAt present there are 2 x 1.6ML concrete tanks that receive water via the Clear Water Pump Station at our Water Treatment Plant.\n\nWe would like to increase supply by at least another 1.6ML in size.\n\nThe top water level would need to be the same as the existing reservoirs.\n\nThis will be a design/ construct project, with the design needing to be approved by Council before proceeding to the construction phase.\n\nWe are expecting the design and planning work to happen during the upcoming wet season, with construction starting in May/ June 2027.\n\nLevel Sensors and Outlet Flow Meter will be provided as part of this contract. Council will ensure these are integrated into our SCADA system.",
+    "buyer": "Northern Peninsula Area Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-18T07:00:00.000Z",
+    "closingAtRaw": "18/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-16T04:44:00.000Z",
+    "contact": {
+      "raw": "Steve Martin Email: steve.martin@nparc.qld.gov.au Tel: 0486 318 882",
+      "name": "Steve Martin",
+      "email": "steve.martin@nparc.qld.gov.au",
+      "phone": "0486 318 882"
+    },
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=08b06828435a4bf88f31fcc25290c622s525865s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "6 Charlie St\nUmagico, Queensland 4876\nAustralia",
+      "buyerWebsite": "None Provided",
+      "buyerDescription": "To be updated",
+      "buyerReference": "NPARC004",
+      "opensAt": "2026-09-15T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 16 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-14T07:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 14 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 25 October 2026 (E. Australia Standard Time)",
+      "background": "Lined reservoirs will not be considered.\n\nThe inlet will be teed off the 150mm common inlet line for the other 2 reservoirs.\n\nThe outlet will feed into the 250mm common outlet line from the other 2 reservoirs.\n\nThe design, construction and commissioning of the reservoir will be in accordance with the Unity Water Specification Pr9821.\n\nThe location of the site is Lot 107 on SP284242. Latitude: -10.899929, Longitude: 142.38935.\n\nCouncil will provide a laydown area close to the construction site for storage of materials. There is limited internal storage for sensitive items so containers may be considered to keep some items out of the weather.\n\nCouncil can provide a donga as a site office. There is power to the site that can be utilised. Council can also provide some portable toilets for the site.\n\nCouncil will provide accommodation for the duration of the project.\n\nThere is limited plant and equipment available for hire for this project, but there may be opportunity for short term hire of items such as tippers, excavators, skid steers and s grader. Council does not own a crane or a manitou.",
+      "desiredOutcomes": "This project will provide additional storage for the 5 NPA communities. At present we the daily usage across the NPA is around 5.5ML/day but we only have 3.2ML of storage at Bamaga which supplies the whole area. There are a further 4 x 1.6ML tanks at Umagico, Injinoo, New Mapoon and Seisia, which are all gravity fed from Bamaga.\n\nTenders will be assessed on Price, Guaranteed serviceable life of the structure, experience in construction work in remote locations, employment and or training opportunities for local people.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney",
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett",
+        "Victoria\n1: Melbourne"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-18T03:06:00.000Z",
+          "question": "Hello and greetings!\n\nWe would like to request for the tender booklet documents stating all the requirements for the tender submission of the project, response schedules, mandatory and non-mandatory criteria, and other commercial requirements, apart from the technical specifications and layout already provided in the portal. Kindly advise. Thank you!\n\nWarm regards,",
+          "answeredAt": "2026-09-20T21:25:00.000Z",
+          "answer": "Unfortunately NPARC does not have a team of Engineers that can supply all the information that you are seeking.\n\nThat's why this has gone out as a Design, Construct Tender.\n\nThe contract will be based on AS4000:2025."
+        },
+        {
+          "askedAt": "2026-09-24T06:48:00.000Z",
+          "question": "General Comment\n\n•\tOnly the general Reservoir Design Specification has been provided; we are missing the document containing the Project Specific Requirements for Bamaga.\n\n•\tThe Specification does not appear to include tailoring to the Bamaga-specific/NPA context.\n\n3.0 Planning Information\n\n1.\tSite RP description and site location.\n\n2.\tLand tenure is assumed to be DOGIT, despite the Specification requiring land to be Unity Water owned (Sect 3.2).\n\n3.\tSurvey data, including levels.\n\n4.\tPreliminary site geotechnical information.\n\n5.\tReservoir operating parameters to AHD (e.g. BWL, MOL, Overflow Level).\n\n6.\tAvailable planning or engineering reporting.\n\n7.\tTreated water quality information prior to detailed design.\n\n8.\tMinimum HGL at the interconnection points for HL and sizing of interconnecting pipework.\n\n9.\tCurrent status of power supply to site.\n\n10.\tAccess road requirements – minimum 4 m width, chainage and extent.\n\nIf any of the above information cannot be provided to a satisfactory level of detail, it should form the basis of a scope clarification.\n\n4.0 General Design\n\n•\tStakeholder requirements – clarify whether Unity Water/NPARC are responsible for stakeholder negotiations.\n\n•\tLandscaping – confirm whether this is required in the NPA context.\n\n•\tPrecast concrete columns – confirm acceptability.\n\n•\tGalvanised steel beams based on Draper Road – confirm acceptability.\n\n•\tTo allow for minimisation of columns as requested, confirm purlins and aluminium roof sheeting as per Specification can be adopted to achieve the specified 50-year design life.\n\n10.0 Water Quality\n\nIn the absence of treated water quality information, there is no confirmed requirement for pH correction or supplemental chlorine dosing. Water treatment/dosing is therefore not included in the tender but could be provided, if required, as a cost variation.\n\n1.\tCFD modelling – confirm whether required by the Client to determine the reservoir mixing rate in accordance with Appendix D. Approximate cost $50,000.\n\n2.\tPassive mixing (preferred option) may be provided with an inlet nozzle, should a low-level inlet be acceptable for water transfer requirements.\n\n3.\tConsider provision of a 100 mm suction and discharge point in the reservoir wall and space for future recirculation pumping and Cl dosing.\n\n4.\tWater quality testing will not be available in NPA; sampling, preservation and transport to Cairns, including associated costs, will need to be considered.\n\n12.0 Electrical\n\n•\tConfirm whether power augmentation is required and, if so, the location of the upgrade connection point.\n\n•\tSuggest excluding power supply augmentation until the scope is known.\n\n•\tRequirements for integration with existing NPARC SCADA have not been identified.\n\n•\tUnity Water-approved supplier requirements may be an issue in NPA (e.g. Sect 12.5 Radio Path Survey).\n\nMandatory Meeting\n\n•\tConfirm mandatory meeting requirements, including timing and required attendees.",
+          "answeredAt": "2026-09-25T05:03:00.000Z",
+          "answer": "G1 and G2: NPARC does not have an Engineering Team that can provide local specifications for jobs such as this. I picked the Unity Water Specifications because they were the best ones that were freely available. We will adjust these to suit the Bamaga requirements.\n\nP1: The site is located on Lot 107 on SP284242. Latitude: -10.899929, Longitude: 142.38935\n\nP2: The land is administered by NPARC under DOGIT Legislation.\n\nP3: I have included the latest survey data that I have for that site in the files area. I cannot locate a contours survey for the site. That will have to be included in the design planning phase.\n\nP4: There has been no geotechnical tests conducted at the site. That will need to be included in the design investigations as well.\n\nP5: These have been provided in the text.\n\nP6: There are no planning or engineering reports for this site.\n\nP7: Water Quality results from the drinking water quality management plan have been added to the files.\n\nP8: Pipe sizes should be matched to the existing pipework - 150mm inlet and 250mm outlet and overflow.\n\nP9: There is sufficient power to the site.\n\nP10: There is a steep but adequate access road to the site. NPARC will maintain the road to ensure that it is accessible for trucks and machinery to access the site.\n\nG1: NPARC will be responsible for all Stakeholder requirements.\n\nG2: There are no specific landscaping requirements. The site is to be left clean, level and accessible for plant and vehicles.\n\nG3: Precast concrete columns are acceptable.\n\nG4: Galvanised beams would not be preferred because of the salt air in this region.\n\nG5: Purlins and aluminium roof sheeting will be allowed.\n\nW1: CFD Modelling will not be required.\n\nW2: Passive mixing is preferred.\n\nW3: There is no requirement for 100 mm suction and discharge points.\n\nW4: Veolia will be able to assist with water quality testing. They have an on-site lab and conduct their own tests at the WTP.\n\nE1: There will Be no requirement for power augmentation.\n\nE2: Excluded.\n\nE3: Integration with SCADA is excluded. Contractor will have to assist our SCADA Techs with access to level sensors, valves, instruments, etc.\n\nE4: Ignore the Unity Water approved supplier requirements.\n\nM1: There will be no Mandatory Meeting. It is too hard to get everyone up to Bamaga, especially at this time of the year. I prefer to use Vendor Panel for communication."
+        },
+        {
+          "askedAt": "2026-09-18T02:30:00.000Z",
+          "question": "Based on the Unity Water specification the it appears as though the top storage level is only 60% of the capacity, therefore the total volume of the tank should be 2.24ML, is this correct?\n\nIt also suggests that the top water level should be the same as the existing, what is this level?",
+          "answeredAt": "2026-09-20T21:17:00.000Z",
+          "answer": "(edited on 25/Sep/2026 02:41 PM)\n\nThe top water level of the current reservoirs is 77.12mAHD and the bottom water level is 73.68mAHD.\n\nI was unaware of the 60% of capacity requirement in the Unity Water specifications. I will discuss this with them and get back to you.\n\nI have reviewed this requirement and will allow a top water level of 80% because all feed to the tanks is controlled by the high lift pumps.\n\nThe AHD levels given above must be maintained."
+        },
+        {
+          "askedAt": "2026-09-28T00:01:00.000Z",
+          "question": "We have formwork to allow us to construct an effective capacity of 1.561ML based on the RLs provided, will this be acceptable?",
+          "answeredAt": "2026-09-28T02:20:00.000Z",
+          "answer": "Yes, we will accept that size."
+        },
+        {
+          "askedAt": "2026-10-05T05:45:00.000Z",
+          "question": "Hi,\n\nCould you please provide clarification on the following items regarding the proposed Bamaga Reservoir works:\n\n1. Could Council please confirm whether a Stainless Steel (SS) reservoir would be acceptable as an alternative reservoir construction material, subject to meeting the specified capacity, design life and applicable technical requirements?\n\n2. Could Council please confirm whether the concrete required for construction of the reservoir and associated works will be supplied by Council?\n\nYour clarification would be greatly appreciated.",
+          "answeredAt": "2026-10-08T01:29:00.000Z",
+          "answer": "1. Yes, a stainless steel reservoir would be acceptable to Council.\n\n2. Yes, Council will supply the concrete for this project. In your responses, please indicate the volume and strength requirements for concrete and your rate for laying the concrete. All reinforcing and formwork materials must be supplied by the contractor."
+        },
+        {
+          "askedAt": "2026-10-05T06:44:00.000Z",
+          "question": "Hi,\n\nWith reference to the Unitywater specifications, the links provided within the specification are currently inaccessible. Could Council please provide the applicable referenced Unitywater specifications/documents or updated accessible links?",
+          "answeredAt": "2026-10-08T01:30:00.000Z",
+          "answer": "Can you please clarify which links you are trying to access."
+        },
+        {
+          "askedAt": "2026-10-08T01:24:00.000Z",
+          "question": "Can Council please confirm whether the head contractor is required to hold a QBCC licence for this contract, and if so, the licence class and financial category Council expects?\n\nOur understanding is that construction of a water supply reservoir and its connections to the existing mains may fall under Schedule 1, s11 of the QBCC Regulation 2018 (work for water reticulation systems) and therefore not constitute building work. We’d appreciate Council’s position on this, including whether a QBCC licence is a contract requirement regardless of the statutory position.",
+          "answeredAt": "2026-10-08T01:36:00.000Z",
+          "answer": "You are correct, construction of the reservoir and connects to the existing main, does not require a QBCC Licence."
+        },
+        {
+          "askedAt": "2026-10-08T05:20:00.000Z",
+          "question": "Hi,\n\nCould Council please consider granting a two-week extension to the tender submission deadline for the Bamaga Reservoir Project?\n\nWe would appreciate your consideration and look forward to your response.",
+          "answeredAt": "2026-10-08T23:32:00.000Z",
+          "answer": "This tender has been open since 16th September and some respondents have already submitted their tenders.\n\nTherefore I will not be able to extend the closing date."
+        },
+        {
+          "askedAt": "2026-10-08T22:15:00.000Z",
+          "question": "To allow the scope to be priced correctly, could you please confirm the following:\n\n1. Chemical dosing\n\nIs chemical dosing (e.g. chlorine boosting or pH correction) at the new reservoir part of the contract scope? If so, please advise the chemical type and dosing point, and whether a dosing shed, chemical storage and dosing equipment are to be supplied.\n\n2. Site security and temporary fencing\n\nAre there any known security concerns at the reservoir site? Is temporary fencing required around the works area for the duration of construction?\n\n3. Electrical works\n\nAre there any electrical works in the contract? If so, please describe what they include.\n\n4. Flowmeter and flowmeter pit\n\nPlease confirm that the flowmeter and flowmeter pit will be supplied by Council.\n\n5. Wiring and switchboard\n\nWill all wiring and the electrical switchboard be completed by Council, or should these be included in the tender price? If they are to be included, please provide any switchboard requirements or Council standards to be allowed for.\n\nWe note from the earlier Q&A that the existing power supply is sufficient and SCADA integration is excluded. These questions are to confirm where the boundary sits between Council's electrical scope and the contractor's.",
+          "answeredAt": "2026-10-08T23:28:00.000Z",
+          "answer": "1. There is no requirement for Chemical Dosing or dosing points for this reservoir.\n\n2. There is no security concerns at the site. I would advise placing temp fencing or gates to the access roads up to the site designating the site as a construction zone and restricting access to the site. Veolia have to access the site for maintenance of the other two reservoirs and to take water samples, so you will need to delineate the construction zone in some form.\n\n3. There is no requirement for electrical or SCADA works for this contract, other than assisting our contractors to access the site when required.\n\n4. There is no requirement for a flow meter or pit.\n\n5. All wiring and switchboard work will be carried out by a separate contractor."
+        },
+        {
+          "askedAt": "2026-10-10T04:05:00.000Z",
+          "question": "Hi,\n\nCould you please provide clarification on the following items regarding the proposed Bamaga Reservoir Project?\n\n1. Unitywater Specifications\n\nThe links to the following referenced Unitywater specifications are currently inaccessible. Could Council please provide copies of these documents or updated accessible links?\n\na. Drawings- Pr8843,Pr9083\n\nb. Pr9902 – Civil and Earthworks\n\nc. Pr9903 – Building and Structural Works\n\nd. Pr9380 – Electrical Installations at Network Sites\n\n2. Quarry Materials Supply\n\nCould Council please confirm whether quarry materials, including road base, select fill, drainage aggregate, sand, crushed rock and gravel, will be supplied by Council or are to be included in the Contractor's scope?",
+          "answeredAt": "2026-10-10T22:40:00.000Z",
+          "answer": "1. I have placed 4 more Specification Documents into the Flies area. i couldn't find Pr8843 or Pr9903. If you feel that you need those documents to be able to prepare your tender response, you will have to contact Unity Water and request them.\n\n2. I can confirm that Council will supply all quarry materials that we have available to us in the NPA. Specialist materials that are not available up here will need to be transported from Archer River Quarry. Of items that you have listed, only crushed rock is not available from Council. You will need to source that from Archer River.\n\nWhen ordering materials from Archer River, they will deliver to a laydown area just south of the Jardine River. You will then be responsible for transporting that material from there (including using the ferry to cross the Jardine River) to site.\n\nFor all Council supplied materials, the contractor will need to give Council at least 1 months' notice of the type, amount and quality requirements of the materials required. For Concrete supplies we need at least 2 months' notice of quantities and quality requirements because all the raw materials for our concrete have to come from Archer River or Cairns. No delay claims will be allowed if these notice periods are not given."
+        },
+        {
+          "askedAt": "2026-10-12T01:24:00.000Z",
+          "question": "Good afternoon,\n\nWill there be construction water available at the site?\n\nWhat size excavator does the council have access to?",
+          "answeredAt": "2026-10-12T03:22:00.000Z",
+          "answer": "There is no construction water available at the site.\n\nThere is a standpipe at the bottom of the hill for you to fill tank or tankers, but nothing other than sample taps at the top of the hill.\n\nCouncil has a 30Tonne excavator.\n\nAs I have said many times, access to Council plant and vehicles can be unreliable and will only be considered on a short term basis. If plant or equipment is critical to your construction schedule, you should consider bringing your own to site. Non availability of Council Plant or vehicles will not be considered a reasonable basis for delay claims."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-25T00:51:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Res Survey.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-25T01:02:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Water Quality Results.pdf\n\nPlease consider this addendum when responding.\n\nI couldn't add the whole DWQMP as the file was too large. Just the water quality results from that plan are attached."
+        },
+        {
+          "at": "2026-10-10T22:42:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) F11439 - Drinking Water Reservoir Accepted Products and Materials List A9013559.xlsx\n\n2. Added: \t (Addendum) Pr8843 - Specification for Drawing Document and Equipment Tag Numbering.pdf\n\n3. Added: \t (Addendum) Pr9380 - Electrical Installations at Network Sites.pdf\n\n4. Added: \t (Addendum) Pr9902 - Specification for Civil and Earthworks.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-16T22:27:38.012Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "4",
+        "at": "2026-09-25T22:55:03.789Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "8",
+        "at": "2026-10-11T22:34:03.290Z"
+      }
+    ],
+    "archivedAt": "2026-10-18T21:09:15.614Z"
+  },
+  {
     "id": "08d3a2bed6214bf391464623afb8dac8",
     "source": "vendorpanel",
     "reference": "VP521761",
@@ -37249,6 +37392,115 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-17T22:30:54.401Z"
+  },
+  {
+    "id": "bdab56226f4a4452af94e2e2337c8cf3",
+    "source": "vendorpanel",
+    "reference": "VP524971",
+    "title": "EOI: NS2703 Underground Civil Construction (UCC)",
+    "description": "This EOI seeks to identify suppliers with the capability, capacity, resources and operational presence required to deliver underground civil construction services supporting Energy Queensland’s electricity networks across Queensland.\n\nServices may include trenching, conduit installation, cable hauling and placement, construction of pits, joint holes and bays, and specialist activities such as Horizontal Directional Drilling where integrated into a broader Underground Civil Construction work package.\n\nThis open EOI covers the following proposed delivery tiers:\n\n•\tTier 1: Suppliers with an established or substantively committed operational presence in South East Queensland and the capability to deliver higher-value, higher-risk and more complex Transmission and Distribution civil construction works statewide. Tier 1 suppliers will be appointed as Principal Contractor for all work undertaken through this tier. Where electrical supervision is required, it must be provided through electrical workers directly employed by the appointed contractor.\n\n•\tTier 2: Suppliers with an established or substantively committed operational presence in major regional centres capable of delivering moderate to higher-value Distribution civil construction works across areas in which the supplier demonstrates an operational presence and delivery capability. Tier 2 suppliers will be appointed as Principal Contractor for all work undertaken through this tier. Where electrical supervision is required, it may be provided through directly employed, labour hire, subcontracted or related-entity personnel, provided the appointed contractor retains responsibility and effective control over the safe planning, supervision, management and delivery of the work.\n\nSubject to the outcomes of the EOI and subsequent tender process, Energy Queensland may also appoint up to one Tier 2 supplier to support Distribution works in South East Queensland.\n\nThis EOI is the first stage of a multi-stage procurement process comprising EOI evaluation and shortlisting, a selective tender process, and capability assessment before any appointment to the future UCC framework.\n\nEnergy Queensland will determine the number and mix of suppliers required to support its operational delivery program. Appointment decisions will consider anticipated work demand, demonstrated capability and capacity, geographic coverage, competition and value for money, and Energy Queensland’s capacity to onboard, assure and manage contractors.\n\nEnergy Queensland may appoint fewer suppliers than the number assessed as capable of meeting the relevant tier requirements. Satisfying the evaluation criteria does not create an entitlement to shortlisting or appointment.\n\nAppointment to the framework will not guarantee:\n\n•\tany minimum volume or value of work;\n\n•\tan invitation to quote for every work package relevant to the contractor’s appointed tier; or\n\nEnergy Queensland will determine which contractors are invited to quote for each work package. Tier and operational location will inform that decision but won’t create an automatic entitlement to participate or receive work. Energy Queensland will also consider the contractor’s capability, capacity, availability and mobilisation arrangements, the risk and requirements of the work package, competitive pricing and overall value for money.\n\nOut of Scope:\n\nTier 3 does not form part of this open EOI. Tier 3 is intended to provide a separate participation pathway for regional Queensland small and medium enterprises currently delivering relevant activities through Energy Queensland’s 1628 Minor Works arrangement\n\nTier classification and EQL discretion:\n\nProponents may nominate Tier 1, Tier 2 or both tiers when responding to the open EOI.\n\nEnergy Queensland will determine whether a Proponent is suitable to progress for the nominated tier, or another tier where appropriate, based on the EOI and subsequent tender assessments. This may include consideration of demonstrated capability, experience, workforce and supervision model, operational presence, geographic coverage, capacity and applicable safety requirements. Nomination of a tier does not guarantee shortlisting, progression or appointment to that tier.\n\nRefer to Section 2 Scope to review the full Scope of Works.",
+    "buyer": "Energy Queensland Limited",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-18T12:00:00.000Z",
+    "closingAtRaw": "18/Oct/2026 10:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-23T04:17:00.000Z",
+    "contact": {
+      "raw": "Belinda Crawford Email: belinda.crawford@energyq.com.au Tel: 0413 661 118",
+      "name": "Belinda Crawford",
+      "email": "belinda.crawford@energyq.com.au",
+      "phone": "0413 661 118"
+    },
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=bdab56226f4a4452af94e2e2337c8cf3s524971s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "157 Bunda St\nParramatta Park, Queensland 4870\nAustralia",
+      "buyerWebsite": "https://www.energyq.com.au/",
+      "buyerDescription": "Energy Queensland is Australia's largest, wholly government-owned electricity company.\n\nWe service customers and communities through our distribution businesses Energex and Ergon Energy Network, our regional Queensland retailer Ergon Energy Retail, and our integrated energy solutions provider Yurika.",
+      "buyerReference": "NS2703",
+      "opensAt": "2026-09-22T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 23 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-13T12:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 13 October 2026 10:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-07T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 08 November 2026 (E. Australia Standard Time)",
+      "background": "Energy Queensland is seeking Expressions of Interest from suitably qualified contractors for appointment to a future panel arrangement for the provision of Underground Civil Construction services supporting its electricity distribution and transmission networks.\n\nThe future UCC framework will replace the existing PCP125 Underground Distribution Civil arrangement and provide an appropriate contractual pathway for applicable underground civil Core Work activities currently delivered through the 1628 Minor Works arrangement.\n\nThis procurement is intended to test and refresh the market and align contractor capability with the proposed tiered delivery model. Energy Queensland isn’t forecasting a material increase in UCC work as a result of this procurement and is subject to limitations in visibility of the detailed forward program because demand is influenced by customer, operational, maintenance and capital delivery requirements.\n\nEnergy Queensland does not intend to grow the supplier panel beyond what is required to support its delivery program. The number and mix of suppliers appointed will be determined by Energy Queensland based on anticipated work demand, required capability and geographic coverage, competitive tension, and its capacity to onboard, assure and manage contractors.",
+      "desiredOutcomes": "Refer Section 1 - Invitation for Expression of Interest.",
+      "buyerQuestions": [
+        "Refer Section 1 - Invitation for Expression of Interest"
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-25T01:19:00.000Z",
+          "question": "Dear Energy QLD,\n\nWe respectfully request that Energy Queensland consider extending the closing date for the Underground Civil Construction (UCC) Panel EOI by one week.\n\nThe EOI documents were released on 24 September 2026 and is currently due on 8 October 2026, providing a relatively short timeframe for respondents to review requirements, engage key partners, and prepare a comprehensive submission. In addition, there is a public holiday on Monday 5th October, while many contractors are currently committing resources to the concurrent Energy Queensland Substation Panel procurement process.\n\nWe believe a one-week extension would allow respondents to provide more detailed and robust submissions, assisting Energy Queensland in achieving the best possible outcome from the market.\n\nThank you for considering this request.",
+          "answeredAt": "2026-09-28T00:08:00.000Z",
+          "answer": "Good morning\n\nThank you for your request to extend the closing date for the NS2703 Underground Civil Construction EOI.\n\nEnergy Queensland has considered the request. At this stage, the closing date will remain Thursday, 8 October 2026 at 2.00 pm.\n\nThis EOI is the first stage of a multi-stage procurement process. It is focused primarily on respondents demonstrating their existing capability, capacity, experience, operational presence and delivery model for Tier 1, Tier 2 or both tiers.\n\nPricing, detailed contractual responses and subcontractor quotations aren’t required at the EOI stage. These requirements will be addressed through the subsequent selective tender process for shortlisted proponents.\n\nWhere subcontractors, labour hire personnel or related-entity resources form part of a respondent’s current or proposed delivery model, the EOI only requires the respondent to describe those arrangements and how access to the resources will be maintained. Respondents aren’t required to obtain firm subcontractor pricing for this stage.\n\nEnergy Queensland considers the current response period proportionate to the information requested. Any change to the closing date will only be made through a formal notice issued through QTenders.\n\nKind regards\n\nBelinda"
+        },
+        {
+          "askedAt": "2026-09-28T01:08:00.000Z",
+          "question": "Good morning,\n\nI’ve just read the clarification regarding the tender deadline and wanted to be 100% certain of the closing date.\n\nThe VendorPanel portal and tender documents indicate Monday, 12 October 2026 at 2:00 pm, rather than Thursday, 8 October 2026 as indicated in the clarification.\n\nCould you please confirm that Monday, 12 October 2026 at 2:00 pm is the correct tender closing date and time?\n\nMany thanks,",
+          "answeredAt": "2026-09-28T02:11:00.000Z",
+          "answer": "Good afternoon,\n\nEnergy Queensland advises that the closing date for the NS2703 Underground Civil Construction Expression of Interest remains:\n\nMonday, 12 October 2026 at 2.00 pm\n\nThe dates in the previous clarification response is incorrect.\n\nRespondents should continue to prepare and lodge their EOI responses through VendorPanel by 2.00 pm on Monday, 12 October 2026, unless a different date or time is formally notified through QTenders.\n\nEnergy Queensland apologises for any confusion caused."
+        },
+        {
+          "askedAt": "2026-10-07T00:37:00.000Z",
+          "question": "Hi,\n\nWe acknowledge Energy Queensland’s previous consideration and decision not to extend the closing date for EOI. However, given the competing demands on key personnel over the current submission period, we respectfully request that Energy Queensland reconsider granting an extension to Friday, 16 October 2026.\n\nThe response period has coincided with a particularly high volume of concurrent tender activity across the market. This has placed significant demands on the key operational, technical and management personnel required to contribute to and review our submission.\n\nWe appreciate Energy Queensland has previously considered this request; however, we would be grateful if the closing date could be reconsidered in light of the current market conditions and competing tender commitments.\n\nThank you for your consideration.",
+          "answeredAt": "2026-10-08T03:42:00.000Z",
+          "answer": "The closing date has been extended to 10.00 pm Sunday, 18 October 2026\n\nThis replaces the previous closing date of 2.00 pm Monday, 12 October 2026.\n\nThis is the final extension for this EOI."
+        },
+        {
+          "askedAt": "2026-10-07T03:01:00.000Z",
+          "question": "Can this get an Extension of time",
+          "answeredAt": "2026-10-08T03:42:00.000Z",
+          "answer": "The closing date has been extended to 10.00 pm Sunday, 18 October 2026\n\nThis replaces the previous closing date of 2.00 pm Monday, 12 October 2026.\n\nThis is the final extension for this EOI."
+        },
+        {
+          "askedAt": "2026-10-09T07:30:00.000Z",
+          "question": "Good afternoon\n\nWith reference to the Schedule 5 Tier 1 requirement to provide three completed comparable projects undertaken within the past five years, could EQL please clarify whether proponents may nominate a project that is substantially progressed but remains under construction, where the relevant underground civil construction activities have been completed?\n\nSpecifically, would EQL accept such a project as one of the three nominated examples, provided the proponent can demonstrate the completed scope of relevant works, Principal Contractor responsibilities, project value, construction methodology and performance outcomes achieved to date?\n\nAlternatively, must all three nominated projects have achieved Practical Completion at the time of EOI submission?",
+          "answeredAt": "2026-10-12T03:42:00.000Z",
+          "answer": "Good afternoon\n\nThank you for your enquiry.\n\nThe Tier 1 and Tier 2 criteria require three comparable projects completed within the past five years. Projects that remain under construction won’t be accepted as one of the three required examples, even where the relevant underground civil construction activities are complete.\n\nOngoing projects may be included as additional supporting information but won’t replace any of the three required completed project examples. The applicable project-value requirements for each tier remain as stated in the EOI documents."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-23T04:20:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t UCC EOI Pack.zip\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-10-08T03:16:00.000Z",
+          "description": "The closing date for NS2703 Underground Civil Construction EOI has been extended to:\n\n10.00 pm Sunday, 18 October 2026\n\nThis replaces the previous closing date of 2.00 pm Monday, 12 October 2026.\n\nThis is the final extension for this EOI. Proponents should submit the information and supporting evidence available to them by the revised closing date. No further extensions will be granted.\n\nResponses must be lodged through VendorPanel by the revised closing date and time."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-23T22:32:07.942Z",
+    "changes": [
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Belinda Crawford Email: belinda.crawford@energyq.com.au Tel: 07 4080 4594\",\"name\":\"Belinda Crawford\",\"email\":\"belinda.crawford@energyq.com.au\",\"phone\":\"07 4080 4594\"}",
+        "to": "{\"raw\":\"Belinda Crawford Email: belinda.crawford@energyq.com.au Tel: 0413 661 118\",\"name\":\"Belinda Crawford\",\"email\":\"belinda.crawford@energyq.com.au\",\"phone\":\"0413 661 118\"}",
+        "at": "2026-09-29T00:01:53.504Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-12T04:00:00.000Z",
+        "to": "2026-10-18T12:00:00.000Z",
+        "at": "2026-10-08T23:35:46.725Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "12/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "18/Oct/2026 10:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-08T23:35:46.725Z"
+      }
+    ],
+    "archivedAt": "2026-10-18T21:09:15.614Z"
   },
   {
     "id": "be07466a45344a7f925ba3bee871df98",
