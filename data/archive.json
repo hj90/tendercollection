@@ -414,6 +414,58 @@
     "archivedAt": "2026-10-16T21:48:57.937Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/284574a4-fb3c-459c-a7af-b9a0e9b6722a",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/284574a4-fb3c-459c-a7af-b9a0e9b6722a",
+    "reference": "S-EST11265",
+    "title": "Lavarack Barracks Building works, QLD",
+    "description": "This project involves the establishment of a new interim (semi-permanent) modular facility at Lavarack Barracks, including associated building services connections and supporting site works. The project will deliver this facility through architectural, civil, structural, mechanical, electrical, hydraulic and environmental disciplines.",
+    "publishedAt": "2026-09-10T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": "QLD",
+    "categories": [
+      "72100000 - Building construction and support and maintenance and repair services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-10-26T01:00:00.000Z",
+    "closingAtRaw": "26-Oct-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Administrator - Aurecon - S-EST11265\nEmail Address:\nQldTenders.PDS@aurecongroup.com",
+      "name": "Tender Administrator - Aurecon - S-EST11265",
+      "email": "QldTenders.PDS@aurecongroup.com"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-10T22:02:21.264Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-15T01:00:00.000Z",
+        "to": "2026-10-22T01:00:00.000Z",
+        "at": "2026-10-06T00:27:25.014Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "15-Oct-2026 12:00 pm (ACT Local Time)",
+        "to": "22-Oct-2026 12:00 pm (ACT Local Time)",
+        "at": "2026-10-06T00:27:25.014Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-22T01:00:00.000Z",
+        "to": "2026-10-26T01:00:00.000Z",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "22-Oct-2026 12:00 pm (ACT Local Time)",
+        "to": "26-Oct-2026 12:00 pm (ACT Local Time)",
+        "at": "2026-10-19T22:41:08.884Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/322a364d-bc3a-49bb-96a9-f4c1fa3c7a3c",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/322a364d-bc3a-49bb-96a9-f4c1fa3c7a3c",
     "reference": "DFAT-1106",
@@ -596,6 +648,33 @@
     "archivedAt": "2026-10-13T01:01:06.071Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/3f8c7e54-2161-4b82-88d3-42e04e0c3b21",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/3f8c7e54-2161-4b82-88d3-42e04e0c3b21",
+    "reference": "5950a-2025-26",
+    "title": "Upgrade of the Automatic Weather Station (AWS) network in the Republic of Kiribati",
+    "description": "Reissue of 5950-2025-26 with amended closing date for upgrade of the automatic Weather Station network in the Republic of Kiribati.",
+    "publishedAt": "2026-10-20T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Bureau of Meteorology",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "41110000 - Measuring and observing and testing instruments"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-10-25T23:00:00.000Z",
+    "closingAtRaw": "26-Oct-2026 10:00 am (ACT Local Time)",
+    "contact": {
+      "raw": "Jacqui Cahn\nEmail Address:\ntenders@bom.gov.au",
+      "name": "Jacqui Cahn",
+      "email": "tenders@bom.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-20T21:59:13.572Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/43311a1b-cefd-4ab1-b7d4-930b2ef349ec",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/43311a1b-cefd-4ab1-b7d4-930b2ef349ec",
     "reference": "AZ6635",
@@ -755,6 +834,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-10-09T22:57:41.458Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/4c18f80a-0ed8-4035-8a95-ed44bd26efac",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/4c18f80a-0ed8-4035-8a95-ed44bd26efac",
+    "reference": "102967",
+    "title": "Composite Materials Capability",
+    "description": "DSTG on behalf of GWEO is seeking to explore current domestic capability in making carbon fiber/resin systems to feed into applications such as composite rocket motor cases. DSTG is seeking to begin to understand the potential performance and cost of these systems in filament wound setting through a process of deliberate small-scale demonstrations in partnering with Australian industry.",
+    "publishedAt": "2026-09-24T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "92111700 - Military science and research"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-10-26T01:00:00.000Z",
+    "closingAtRaw": "26-Oct-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Aleksandra.wojcik\nEmail Address:\ncomplexprocurement.edinburgh@defence.gov.au",
+      "name": "Aleksandra.wojcik",
+      "email": "complexprocurement.edinburgh@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-24T22:48:30.626Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/4d4d17bf-1aba-4c99-adaa-0750ff23c43b",
@@ -978,6 +1084,33 @@
     "firstSeenAt": "2026-09-14T22:50:02.192Z",
     "changes": [],
     "archivedAt": "2026-10-21T22:01:57.159Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/6735c232-fc01-43e7-a6e3-10a7819257ac",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/6735c232-fc01-43e7-a6e3-10a7819257ac",
+    "reference": "Health/E26-312716",
+    "title": "Provision of Australian Prescriber Online Journal and Podcast Services",
+    "description": "Australian Prescriber provides expert, balanced, impartial and up-to-date information about medicines, therapeutics and diagnostics to health care professionals and other interested readers. The successful tenderer will be required to publish six online issues each year, maintain and operate a dedicated, secure and accessible website, manage the journal’s archive and subscriber services, support the independent editorial process, promote readership and engagement, and provide associated podcast services where agreed. The services must preserve the journal’s editorial independence, national reach and free public access, support informed clinical decision-making and contribute to improved quality use of medicines outcomes. A transition-in phase is expected to commence in March 2027, with full services and the first edition under the new contract to be delivered in April 2027.",
+    "publishedAt": "2026-10-07T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Health, Disability and Ageing",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "93131700 - Health programs"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-13T03:00:00.000Z",
+    "closingAtRaw": "13-Nov-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Linda Langford\nEmail Address:\nQUM@health.gov.au",
+      "name": "Linda Langford",
+      "email": "QUM@health.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-07T23:22:52.819Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/6922d891-b3ba-4f77-88b1-c8590f2c7762",
@@ -2831,6 +2964,46 @@
     "archivedAt": "2026-09-29T23:15:43.191Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/ea95abf5-a4c7-4bad-a6db-0a4a301da392",
+    "reference": "MTS RFI",
+    "title": "Request for Information for Modern Transport Services",
+    "description": "The Department of Veterans’ Affairs (DVA) seeks market information to inform how to modernise the existing transport services for DVA clients who need to travel to attend compensable treatment. It is envisaged this would include transport booking and payment systems that support the delivery of transport services (the Service).\nDVA is aiming to develop a modern transport service that eligible clients can access, simplifies booking and payment processes to enhance veteran autonomy, facilitates greater choice and flexibility, with no out-of-pocket expenses to support the delivery of an efficient, safe, and reliable service for DVA clients requiring transport assistance to access compensable treatment. DVA is not proposing to share clients’ personal medical information.\nDVA seeks to assess the industry's capability and capacity to coordinate and deliver such travel services on its behalf.\nDVA has not determined a preferred delivery model, technological solution, commercial arrangement or implementation approach and is seeking information to inform future procurement planning.",
+    "publishedAt": "2026-09-11T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Veterans' Affairs",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "78110000 - Passenger transport"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-26T06:00:00.000Z",
+    "closingAtRaw": "26-Oct-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Project Manager\nEmail Address:\nMTS@dva.gov.au",
+      "name": "Project Manager",
+      "email": "MTS@dva.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-09-11T22:04:43.234Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-19T06:00:00.000Z",
+        "to": "2026-10-26T06:00:00.000Z",
+        "at": "2026-10-13T01:01:06.071Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "19-Oct-2026 5:00 pm (ACT Local Time)",
+        "to": "26-Oct-2026 5:00 pm (ACT Local Time)",
+        "at": "2026-10-13T01:01:06.071Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/f03b0702-37c3-47c1-b6f1-9c9aa379a3c4",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/f03b0702-37c3-47c1-b6f1-9c9aa379a3c4",
     "reference": "DPS26000961",
@@ -3059,6 +3232,33 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-09-25T22:55:03.789Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/fdc3f4e1-4852-46b9-be17-4696cda14825",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/fdc3f4e1-4852-46b9-be17-4696cda14825",
+    "reference": "PSC002924-01",
+    "title": "RTG Analytical Equipment Renewal",
+    "description": "As part of NST Health RTG's Analytical Fleet Renewal Project, obsolete chromatography systems are being replaced with modern, vendor-supported instrumentation to reduce operational, maintenance, safety and cybersecurity risks, while improving reliability, supportability and long-term capability.\nPurpose\nThe purpose of this Expression of Interest (EOI) is to assist ANSTO in understanding current market capability to supply, deliver, install, commission, train and support modern liquid chromatography systems and associated software for use within NST Health RTG.\nThrough this EOI, ANSTO seeks to identify suppliers with demonstrated experience in delivering specialised liquid chromatography solutions, integrating third-party instrumentation, providing ongoing lifecycle support, and supporting customers within the Australian market.",
+    "publishedAt": "2026-10-09T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Nuclear Science and Technology Organisation",
+    "buyerType": "other",
+    "state": "NSW",
+    "categories": [
+      "41100000 - Laboratory and scientific equipment"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-10-26T03:00:00.000Z",
+    "closingAtRaw": "26-Oct-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Daniel Kuan Huang\nEmail Address:\nhuangd@ansto.gov.au\nWeb Address:\nhttp://www.tenders.gov.au",
+      "name": "Daniel Kuan Huang",
+      "email": "huangd@ansto.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-09T22:57:41.458Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/ffbdfe30-300d-4e6a-8af5-6a4d8a2af2f7",
@@ -13462,6 +13662,103 @@
     "archivedAt": "2026-09-22T22:28:49.427Z"
   },
   {
+    "id": "1e394f39b5094f9989ccf6bef9d5a970",
+    "source": "vendorpanel",
+    "reference": "VP525715",
+    "title": "Ports North The Company One Hatchery - HVAC Renewal",
+    "description": "Far North Queensland Ports Corporation Limited, trading as Ports North (PN) is a Government-owned Corporation established under the Government Owned Corporations Act 1993 (Qld) that develops and manages port facilities. PN operates the Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown.\n\nPorts North invites Tenders from suitably experienced Suppliers undertake a full replacement of the HVAC system at The Company Once Hatchery 9/15 Aumuller Street, Cairns. The contract encompasses the works detailed in the provided Mechanical and Electrical design and specifications and associated contract documentation.",
+    "buyer": "Far North Queensland Ports Corporation Ltd",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Mechanical Plant, Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-26T05:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-15T06:13:00.000Z",
+    "contact": null,
+    "documentCount": 37,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=1e394f39b5094f9989ccf6bef9d5a970s525715saf6be4dd37634301a99f64fdc3ea3e79s1587",
+    "vendorPanelDetails": {
+      "buyerAddress": "Hartley St\nCairns City, Queensland 4870\nAustralia",
+      "buyerWebsite": "https://www.portsnorth.com.au/",
+      "buyerDescription": "Ports North is responsible for the development and management of the declared Ports of Cairns, Cape Flattery, Karumba, Mourilyan, Skardon River, Quintell Beach, Thursday Island, Burketown and Cooktown. We are committed to supporting economic growth of Far North Queensland, through the movement of cargo bound for domestic and international markets. We believe Ports North not only connects the communities of Far North Queensland to each other, but we also connect Far North Queensland to the world.",
+      "buyerReference": "CNS 25-17",
+      "opensAt": "2026-09-14T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 15 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-22T05:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 22 October 2026 03:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-15T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 16 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-09-22T05:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CNS 25-17 Addendum No. 01.pdf\n\nUpdated Time for Site Inspections / RFT Briefing\n\nPlease note that the time for both scheduled site inspections on Friday 25th September and Wednesday 30th September has changed from 9:00am to 9:30am."
+        },
+        {
+          "at": "2026-10-13T03:32:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CNS 25-17 - Addendum No. 02.pdf\n\nThe tender period will be extended by one (1) week, with the closing date revised from 3pm 19 October 2026 to 3pm 26 October 2026.\n\nAn additional mandatory site walkthrough will also be offered to tenderers and their subcontractors this Friday 16 October at 9:30am to provide a final opportunity to inspect the site."
+        },
+        {
+          "at": "2026-10-15T04:51:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CNS 25-17 - Addendum No. 03.pdf\n\n2. Added: \t (Addendum) 4777-E02 (T2).pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-10-20T06:10:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CNS 25-17 - Addendum No. 04.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-15T22:30:52.819Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "32",
+        "to": "33",
+        "at": "2026-09-22T22:28:49.427Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-19T05:00:00.000Z",
+        "to": "2026-10-26T05:00:00.000Z",
+        "at": "2026-10-13T23:09:32.279Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "19/Oct/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "to": "26/Oct/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-13T23:09:32.279Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "33",
+        "to": "34",
+        "at": "2026-10-13T23:09:32.279Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "34",
+        "to": "36",
+        "at": "2026-10-15T21:52:02.816Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "36",
+        "to": "37",
+        "at": "2026-10-20T21:59:13.572Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "1e48346b4bd84f4ab375e56e06b48e3b",
     "source": "vendorpanel",
     "reference": "VP523627",
@@ -19556,6 +19853,218 @@
     "archivedAt": "2026-10-22T21:59:00.631Z"
   },
   {
+    "id": "3ee29104ddbd4a0692548d2378f07f43",
+    "source": "vendorpanel",
+    "reference": "VP527585",
+    "title": "Cleaning Services: Category C - Community, Cultural & Sporting Venues & Events",
+    "description": "Libraries:\n\n•\tWendouree Library: Stockland Wendouree Shopping Centre - Gillies St N, Wendouree VIC 3355\n\n•\tBallarat Library: 178 Doveton Street North, Ballarat\n\n•\tSebastopol Library: 181 Albert Street, Sebastopol 3356\n\nCommunity Centres & Community Hubs:\n\n•\tGirrabanya: 11B Steinfeld St N, Ballarat Central VIC 3350\n\n•\tParents Place: 39 Sturt Street, Ballarat 3350\n\n•\tWendouree Early Learning Centre & Maternal & Child Health Centre: 1118 Norman Street Wendouree 3355\n\n•\tRowan View Kindergarten: 402 Forest St Wendouree 3355\n\n•\tLucas Community Hub / Maternal & Child Health Centre: 17 Coltman Plaza, Lucas 3350\n\n•\tDjila-tjarriu Community Hub: 18 Donegal Dr, Alfredton VIC 3350\n\n•\tVickers Street Community Hub / Maternal & Child Health Centre: 254 Vickers St, Sebastopol VIC 3356\n\n•\tBonshaw Maternal & Child Health Centre: 234 Morgan Street, Sebastopol 3356\n\n•\tBuninyong Maternal & Child Health Centre: 208 Learmonth Street, Buninyong 3357\n\nCultural Centres:\n\n•\tEureka Centre: 102 Stawell Street South, Ballarat, 3350\n\n•\tArt Gallery: 40 Lydiard St Nth Ballarat Central VIC 3350\n\n•\tHer Majesty's Theatre: 7 Lydiard St S, Ballarat Central VIC 3350\n\n•\tBallarat Mining Exchange 16 Lydiard St N, 12 Lydiard St N, Ballarat Central VIC 3350\n\n•\tCivic Hall Ballarat 300-304 Mair Street, Ballarat Central VIC 3350\n\nSporting Venues:\n\n•\tBallarat Regional Soccer Facility: 910 Pleasant St, Redan VIC 3350\n\n•\tMars Stadium: 725 Creswick Rd, Wendouree VIC 3355\n\nEvents:\n\n•\tLocations within the City of Ballarat will vary depending on the Event that is being held\n\nGeneral Cleaning Services (Public and staff areas, Staff and Community Kitchens, Meeting Rooms, Building Entrances/Foyers, Corridors/Walkways, and External areas, Stairwells, External areas.\n\nScheduled Cleaning\n\nEureka Centre: General Cleaning Services and Scheduled Cleaning, including for example; Retail Space, Café areas, Theatre Auditorium and Education Room and other areas provided\n\nThe City of Ballarat may request the Contractor to conduct scheduled cleaning services in the morning (before opening hours) if an evening event occurs.\n\nCleaning Services for Events/Bookings in City of Ballarat managed facilities or outdoor venues\n\nCultural Events",
+    "buyer": "City of Ballarat",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Cleaning Services, Equip, Supplies"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-26T04:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-29T12:13:00.000Z",
+    "contact": null,
+    "documentCount": 24,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=3ee29104ddbd4a0692548d2378f07f43s527585s1be3b358b92a46719b11b51c8e9ad2c7s1551",
+    "vendorPanelDetails": {
+      "buyerAddress": "25 Armstrong St S\nBallarat Central, Victoria 3350\nAustralia",
+      "buyerWebsite": "http://www.ballarat.vic.gov.au/",
+      "buyerDescription": "Ballarat Council",
+      "buyerReference": "26/27-79",
+      "opensAt": "2026-09-28T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 29 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-10-21T03:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 21 October 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-15T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 16 November 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Victoria\n1: Central Highlands"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-30T01:51:00.000Z",
+          "question": "Dear Sir / Madam,\n\nCould you please advise when will be site visit for the quote?\n\nThank you",
+          "answeredAt": "2026-09-30T22:48:00.000Z",
+          "answer": "Please review specification document for these details."
+        },
+        {
+          "askedAt": "2026-09-30T12:43:00.000Z",
+          "question": "To assist tenderers in accurately pricing the consumables component of Category A, B and C could Council please provide the historical annual consumption quantities, or alternatively the historical annual expenditure, for consumables currently supplied across the Category A facilities?\n\nThis would include, where available, toilet paper, paper hand towels, hand soap, bin liners, waterless urinal consumables and other regularly replenished washroom consumables.\n\nIf this information is not available, could Council please clarify the basis or assumptions tenderers should use when calculating the total consumables cost required in the Pricing Schedule?\n\nThank you.",
+          "answeredAt": "2026-09-30T23:55:00.000Z",
+          "answer": "This should be based on individual facilities and the amenities within those facilities - as per the floorplans provided."
+        },
+        {
+          "askedAt": "2026-09-30T22:25:00.000Z",
+          "question": "Good morning,\n\nIs there going to be a briefing session and are site inspections to be scheduled?\n\nIf so, may you please publish dates, times and locations?\n\nThank you in anticipation.",
+          "answeredAt": "2026-09-30T22:50:00.000Z",
+          "answer": "Please review specification document for these details."
+        },
+        {
+          "askedAt": "2026-09-30T22:55:00.000Z",
+          "question": "Are site visit mandatory?",
+          "answeredAt": "2026-09-30T23:55:00.000Z",
+          "answer": "optional"
+        },
+        {
+          "askedAt": "2026-09-30T23:14:00.000Z",
+          "question": "Hello,\n\nSection 2.3 of the Specification lists separate escorted inspections for Category C between Monday 5 and Monday 12 October 2026, covering the libraries, community centres and hubs, cultural centres, Her Majesty's Theatre, the Mining Exchange and Civic Hall, MARS Stadium and the Ballarat Regional Soccer Facility. Part A.1 of the Invitation refers to the Specification for inspection details, but neither document says whether attendance is mandatory.\n\nCould Council please confirm:\n\nIs attendance at the Category C inspections mandatory, or optional?\n\nIf it is mandatory, must a bidder attend every inspection, or only those for the facilities they are pricing? Will a bidder who misses one be excluded?\n\nThe MARS Stadium inspection (9.15am) and the Mining Exchange and Civic Hall inspection (9.45am) on Monday 5 October overlap, as do the Libraries and Art Gallery inspections (both 8.45am) on Wednesday 7 October. How does Council expect bidders to attend both?\n\nIf attendance is optional, will a bidder's evaluation be affected by whether or not they attended?\n\nThank you,\n\nJen\n\nPioneer Services",
+          "answeredAt": "2026-10-01T00:49:00.000Z",
+          "answer": "Site inspection attendance will not affect evaluation as it is optional. Multiple resources from each prospective bidder are invited to separate site inspections if required."
+        },
+        {
+          "askedAt": "2026-09-30T23:15:00.000Z",
+          "question": "Hi, do you sqm for the buildings?",
+          "answeredAt": "2026-10-14T06:44:00.000Z",
+          "answer": "Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender."
+        },
+        {
+          "askedAt": "2026-10-02T04:51:00.000Z",
+          "question": "Hi there, errors on the price file as follows:\n\nCategory C Lump Sum: The summary at the bottom pulls from the wrong rows for the last four groups. Once prices are in, the totals would be wrong:\n\nBallarat Mining Exchange (F60) points at a blank heading row (F33), not its subtotal in F38.\n\nCivic Hall (F61) points at F34, which is a Mining Exchange line, not its subtotal in F44.\n\nSporting Venues (F62) points at F35, another Mining Exchange line, not its subtotal in F50.\n\nCity of Ballarat Events (F63) points at F36, a third Mining Exchange line, not its subtotal in F53.\n\nSchedule of Rates (identical in all three workbooks)\n\nErrors on screen: The Min. Call Out Charge rows (items 2, 5, 8, 11 and 14) have \"[##]\" in the Qty column. That produces #VALUE! errors, which flow into those subtotals, the summary, the Total and the GST. The sheet can't calculate until someone enters a number. Council hasn't said what the minimum call-out hours are, so I wouldn't guess.\n\nSunday and \"Other\" rates left out of the total: Total Excluding GST (F56) adds only the first four summary lines. The Sunday and the two \"Other\" lines are left out.\n\n\"Other\" subtotals miss rows: The \"Other\" business-hours subtotal (F37) skips items 22 and 23. The after-hours one (F47) skips items 30 and 31.\n\nTheatre chairs line: Items 20 and 28 (deep clean of Her Majesty's Theatre chairs) appear in the A and B workbooks, although the theatre is a Category C venue.\n\nPart-hourly rate: Items 3, 6, 9, 12 and 15 have a quantity of 0.5 hour and a rate \"per 30m\". If a bidder enters the price for a 30-minute block, the amount comes out at half of it. It needs clarifying how that rate should be entered.",
+          "answeredAt": "2026-10-06T02:10:00.000Z",
+          "answer": "Adjusted pricing schedule added as addendum"
+        },
+        {
+          "askedAt": "2026-10-05T03:11:00.000Z",
+          "question": "Pricing Schedule 26 27 79 Cat C — clarification request regarding apparent formula issues\n\nWe have identified several apparent formula issues in the supplied pricing workbook and would appreciate Council’s clarification.\n\nIn the “Lump Sum Category C” sheet, summary cells F60:F63 for Ballarat Mining Exchange, Civic Hall, Sporting Venues and City of Ballarat Events use a shared formula resolving to F33:F36, rather than the corresponding subtotals at F38, F44, F50 and F53. As a result, the summary values and Total Excluding GST at F64 do not correctly capture those four sections.\n\nIn the “Schedule of Rates” sheet:\n\n- F56 sums F49:F52 only, excluding Sunday (F53) and the two “Other” subtotals (F54:F55);\n\n- subtotals F37 and F47 exclude rows 35–36 and 45–46 respectively; and\n\n- the Min. Call Out Charge quantity cells C5, C10, C15, C20 and C25 currently contain the placeholder text “[##]”, which causes the associated formulas to return #VALUE! until replaced with a numeric value.\n\nCould Council please issue a corrected workbook, or alternatively confirm:\n\n1. whether bidders are permitted to correct the affected formulas in their submission;\n\n2. whether the [##] quantity placeholders are intended to be replaced by bidders; and\n\n3. that tender evaluation will be based on the submitted line-item values and correctly calculated totals.\n\nThank you.",
+          "answeredAt": "2026-10-06T02:13:00.000Z",
+          "answer": "Adjusted pricing schedule added as addendum\n\nWhere # is listed under Qty it is to included minimum call out period e.g 30 minutes = 0.5"
+        },
+        {
+          "askedAt": "2026-10-09T01:13:00.000Z",
+          "question": "Hi Team,\n\nFor Mars Stadium, the scope of work refers to cleaning upon events, while the pricing schedule requests a lump-sum price covering all sporting venues.\n\nCould you please clarify the estimated number of cleaning days required per week for Mars Stadium to assist us with preparing an accurate price?",
+          "answeredAt": "2026-10-14T07:04:00.000Z",
+          "answer": "Tenderers are required to include costs for the Quarterly and Annual Cleaning requirements as per the Cleaning Schedule. Bidders are also required to submit Schedule of Rates details which will be used for Events at MARS stadium."
+        },
+        {
+          "askedAt": "2026-10-09T06:11:00.000Z",
+          "question": "Do you have any sqm for the Ballarat Package C please.",
+          "answeredAt": "2026-10-14T07:05:00.000Z",
+          "answer": "Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender."
+        },
+        {
+          "askedAt": "2026-10-12T00:09:00.000Z",
+          "question": "Can we please get the SQM of the assets.",
+          "answeredAt": "2026-10-14T06:45:00.000Z",
+          "answer": "Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender."
+        },
+        {
+          "askedAt": "2026-10-16T00:14:00.000Z",
+          "question": "Hi Team,\n\nThank you for your response. Could you please clarify whether Mars Stadium event cleaning should be included in the annual lump-sum price or priced separately based on the Schedule of Rates? Additionally, could you please advise the estimated number of events per year to assist us in preparing an accurate price?\n\nThank you for your clarification.",
+          "answeredAt": "2026-10-16T01:37:00.000Z",
+          "answer": "Tenderers are required to include costs for the Quarterly and Annual Cleaning requirements as per the Cleaning Schedule. Bidders are also required to submit Schedule of Rates details which will be used for Events at MARS stadium."
+        },
+        {
+          "askedAt": "2026-10-16T01:08:00.000Z",
+          "question": "Hello,\n\nAre you able to indicate the number of days per week the Community Centre's & Hubs are cleaned, and are they cleaned on Public Holidays?\n\nThank you.",
+          "answeredAt": "2026-10-19T04:39:00.000Z",
+          "answer": "Community Centres and Community Hubs are only to have scheduled/routine cleaning undertaken from Monday to Friday.\n\nNo scheduled/routine cleaning is required on a Public Holiday. Cleaning at Community Hubs may on occasion be required on a weekend or Public Holiday post an Event.\n\nCosts for this additional work will be based on the Schedule of Rates within the Pricing Schedule. Costs for any additional Community Hub cleaning should not be included in the Lump Sum Category C Cleaning Pricing Schedule.\n\nNote: The three Libraries have scheduled/routine cleaning requirements on Saturdays and/or Sundays (No Public Holidays)."
+        },
+        {
+          "askedAt": "2026-10-18T21:57:00.000Z",
+          "question": "Category C — Her Majesty’s Theatre, Ballarat Mining Exchange and Civic Hall. (1) Should the pre- and post-event cleaning shown in the “Event” column of these cleaning schedules be included in the monthly lump sum (items 17, 21 and 25), or charged per event at the Schedule of Rates? If included in the lump sum, please advise the expected number of events per venue per year. (2) The full deep clean of all theatre chairs at Her Majesty’s Theatre is listed in the cleaning schedule for January and July, and also as Schedule of Rates items 20 and 28 (unit: each). Should it be priced in the bi-annual lump sum (item 19) or at the Schedule of Rates only?",
+          "answeredAt": "2026-10-19T04:40:00.000Z",
+          "answer": "Pre and post Event Cleaning costs are not to be included in the Lump sum Category C tab of the 26 27 79 Cleaning Pricing Schedule. Costs for these Cleans will be based on the Schedule of Rates as required. Costs for the Full deep clean of all theatre chairs must be included in the bi-annual costs within the Pricing Schedule. Costs for the Full deep clean of all theatre chairs should also be included in the Schedule of Ratese should the City of Ballarat require an additional clean to be undertaken."
+        },
+        {
+          "askedAt": "2026-10-08T01:23:00.000Z",
+          "question": "Hello,\n\nCan you please provide clarifications on the following questions?\n\n•\tThe Category C floor plans don't state areas. Most aren't scaled or dimensioned. Some are evacuation diagrams or hand-marked scans (Her Majesty's Theatre, Sebastopol Library, the community centres), and several are too low-resolution to read. As a result, we're unable to perform an accurate take-off of cleanable areas or washroom fixtures.\n\nCould Council please confirm if the following can be provided, for each Category C facility:\n\n1.\tCleanable floor area (m²), split by carpet, hard floor, and wet areas where possible.\n\n2.\tScaled high resolution floor plans (PDF or CAD)\n\n3.\tWashroom fixture counts (toilets, urinals, basins, showers).\n\n•\tCould Council please confirm:\n\n1.\tFixture counts for Norwich Plaza, Brown Hill Splash Park restroom, Winterfield Park and Ballarat Airport toilets, which are not included in the Addendum 1 audit but are in the schedule\n\n2.\tNumber of hotplates at each scheduled BBQ.\n\n3.\tCleaning extent at Brown Hill Splash Park (restroom only, or also the splash pad).\n\n•\tITS Part D states the Schedule of Rates is not subject to rise and fall, whereas General Conditions cl 4.7 and Annexure Item 23 provide for annual PPI adjustment (A2314262V). Please confirm the annual PPI adjustment applies to both the Lump Sum and Schedule of Rates\n\n•\tThe Her Majesty's Theatre, Ballarat Mining Exchange and Civic Hall schedules mark tasks under an 'Event' column. Please confirm whether event-related cleans at these venues are to be included in the lump sum or if these are covered in the SOR’s\n\n•\tNoting that Council has suggested consumables are inclusive can you please provide 12 months of historical consumption or spend for consumables (toilet paper, paper hand towel, hand soap, bin liners, urinal cubes/tablets), and confirm whether sanitary and nappy disposal units at all sites are supplied and serviced under a separate Council contract or are they in scope?\n\n•\tCould Council please confirm which facilities must be serviced on Victorian public holidays?\n\n•\tThe Vickers Street Kindergarten schedule marks some tasks on Saturday and Sunday although the kindergarten operates Monday to Friday. Please confirm if weekend cleaning is correct\n\n•\tIs council able to provide the current service delivery arrangement for each category (e.g. current scheduled hours or staffing levels) and whether the scope differs materially from the current contract.\n\n•\tWhere the schedules require rubbish and BBQ fat to be removed from site, please confirm whether Council provides a disposal point (e.g. depot bins) at no cost to the contractor, or whether disposal and tipping costs are to be included.",
+          "answeredAt": "2026-10-14T07:03:00.000Z",
+          "answer": "(edited on 19/Oct/2026 09:24 AM)\n\nQ 1, 2 & 3\n\nA. Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender.\n\nQ 1. Fixture counts for Norwich Plaza, Brown Hill Splash Park restroom, Winterfield Park and Ballarat Airport toilets, which are not included in the Addendum 1 audit but are in the schedule\n\nA. Unfortunately, fixture counts for these locations are not available.\n\nQ. 2. Number of hotplates at each scheduled BBQ.\n\nA. Approximately 31 locations several have multiple BBQ's per locations. 2 plates per BBQ we estimate 80 BBQ plates\n\nQ ITS Part D states the Schedule of Rates is not subject to rise and fall, whereas General Conditions cl 4.7 and Annexure Item 23 provide for annual PPI adjustment (A2314262V). Please confirm the annual PPI adjustment applies to both the Lump Sum and Schedule of Rates\n\nA Annual CPI adjustments apply\n\nQ The Her Majesty's Theatre, Ballarat Mining Exchange and Civic Hall schedules mark tasks under an 'Event' column. Please confirm whether event-related cleans at these venues are to be included in the lump sum or if these are covered in the SOR’s\n\nA .Costs for Event related cleans at these venues are to be included in the Schedule of Rates, not in the lump sum costs.\n\nQ. The Vickers Street Kindergarten schedule marks some tasks on Saturday and Sunday although the kindergarten operates Monday to Friday. Please confirm if weekend cleaning is correct\n\nA. Vickers Street Kindergarten does not require weekend cleaning. Some locations eg Vickers Street Community Hub will require occasional weekend cleaning. Costs for weekend cleaning are to be included in the Scheduled of Rates Pricing Schedule.\n\nQ Is council able to provide the current service delivery arrangement for each category (e.g. current scheduled hours or staffing levels) and whether the scope differs materially from the current contract.\n\nA Council is unable to provide current scheduled hours or staffing levels. Tenderers are expected to determine the resources required to deliver the services described in the specification and schedules. The scope outlined in the tender documentation reflects Council's current ongoing service requirements.\n\nQ Where the schedules require rubbish and BBQ fat to be removed from site, please confirm whether Council provides a disposal point (e.g. depot bins) at no cost to the contractor, or whether disposal and tipping costs are to be included.\n\nA Council does not provide a separate disposal arrangement for these waste streams. Any associated collection, transport and disposal costs should be included within the tendered rates\n\n1. Noting that Council has suggested consumables are inclusive can you please provide 12 months of historical consumption or spend for consumables (toilet paper, paper hand towel, hand soap, bin liners, urinal cubes/tablets), and confirm whether sanitary and nappy disposal units at all sites are supplied and serviced under a separate Council contract or are they in scope?:\n\nA: We don’t have 12 months of historical consumption or spend data available for consumables such as toilet paper, paper hand towels, hand soap, bin liners and urinal cubes/tablets.Tenderers should make their own assessment and estimate consumable usage based on the information provided and their industry experience. Consumables are included within the scope of this contract.Sanitary and nappy disposal units are not included within this contract scope and are managed separately by Council.\n\nQ; Cleaning extent at Brown Hill Splash Park (restroom only, or also the splash pad).\n\nA - Restroom only\n\nOutstanding\n\n2 Could Council please confirm which facilities must be serviced on Victorian public holidays?"
+        },
+        {
+          "askedAt": "2026-10-18T23:42:00.000Z",
+          "question": "Dear Council,\n\nIn Category C pricing document, it lists ‘Sporting Venues’ (plural) in line 45 of the ‘Lump Sum Category C’ tab. The scope for MARS says, ‘Upon Request per event’. It seems the only sporting venue to include in this part of the pricing document is the BRSF, as MARS notes ‘Upon Request per event’. Can you please clarify if there are other sporting venues besides BRSF to include in the pricing document?\n\nKind Regards,",
+          "answeredAt": "2026-10-19T04:40:00.000Z",
+          "answer": "Ballarat Regional Soccer Facility is the only Sporting Venue to be included under Line 45 (Sporting Venues) in the Lump sum Category C tab of the 26 27 79 Cleaning Pricing Schedule."
+        },
+        {
+          "askedAt": "2026-10-19T03:26:00.000Z",
+          "question": "In regard to the MARS stadium canopy, this has to be cleaned annually. Is this for the top of the canopy, underneath the canopy or both?",
+          "answeredAt": "2026-10-21T03:43:00.000Z",
+          "answer": "It is the top of the canopies. Noting that this is a specialist job that requires a scissor lift and a spotter."
+        },
+        {
+          "askedAt": "2026-10-20T00:37:00.000Z",
+          "question": "Hi Team,\n\nCould you please confirm whether an addendum has been issued to extend the closing date to 26 October 2026?\n\nThnx",
+          "answeredAt": "2026-10-20T23:27:00.000Z",
+          "answer": "yes"
+        },
+        {
+          "askedAt": "2026-10-21T00:35:00.000Z",
+          "question": "Clarification questions for JLL\n\n1.\tPlease provide facade elevations, marked-up plans or a window schedule showing all glass and facade areas included at each building.\n\n2.\tDoes “high glass cleaned as a minimum quarterly” apply to all upper-level external glazing, or only high glass associated with ground-level external glazing and glazed awnings?\n\n3.\tPlease confirm the required cleaning frequency for the complete external facade and all external windows above 4 metres.\n\n4.\tWhat access systems are available at each site, including roof anchors, davits, building maintenance units and elevated work platform access?\n\n5.\tAre current anchor inspection and certification records available?\n\n6.\tAre rope access, elevated work platform hire, traffic management, permits, exclusion zones and security escorts to be included in the fixed contract fee?\n\n7.\tAre facade materials other than glazing included, such as stone, metal cladding, louvres, fins, signage and external architectural features?\n\n8.\tAre internal high-level glass, atriums, skylights, glass roofs and difficult-access glazing included?\n\n9.\tAre water and power available for specialist works, and are there any restrictions on runoff or chemical use?\n\n10.\tCan bidders complete a specialist access inspection before finalising their pricing?",
+          "answeredAt": "2026-10-21T04:37:00.000Z",
+          "answer": "(edited on 21/Oct/2026 02:41 PM)\n\n1. All available documentation has been provided as part of the tender package.\n\n2. Refer to ALL Excel Cleaning Schedules, including for 26 27 77 (Cat A Offices Cleaning) and 26 27 79. High-level glass cleaning is scheduled twice annually (January and July). From a housekeeping perspective, visible spider webs/ graffiti are to be removed from windows, lights and eaves around doorways as required.\n\n3 Refer to ALL Excel Cleaning Schedules, including for 26 27 77 (Cat A Offices Cleaning) and 26 27 79. Visible graffiti/ spider webs are to be removed from windows, lights and eaves around doorways as required. External high-level glass cleaning is scheduled in accordance with the nominated frequencies within the specification.\n\n4. Access arrangements vary between sites. Tenderers should make their own assessment of the access requirements for each location.\n\n5. This information is not held by the Contract Manager. Inspection and certification records are usually held by the Safety Team.\n\n6. All arrangements are to be made by the Tenderer, including rope access, elevated work platform hire, traffic management, permits, exclusion zones, security escorts, and any associated requirements necessary to undertake the services.\n\n7. Yes, where cleaning of these elements forms part of the specified scope. Tenderers should refer to the site-specific requirements. No separate cleaning contractor is engaged for these items where they are included within the scope of works.\n\n8 . Yes.\n\n9. Water and power are generally available on site. Contractors are responsible for providing Safety Data Sheets (SDS) for all chemicals used and must comply with all relevant environmental, safety and site requirements. No specific restrictions are currently known.\n\n10. No - pricing must be finalised pre tender submission. Site inspection were available to enable bidders to assess access requirements and finalise their pricing."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-30T23:36:00.000Z",
+          "description": "Closing date error - amended to 21/10/2026 2pm"
+        },
+        {
+          "at": "2026-10-06T01:53:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 79 Cat C Cleaning Pricing Schedules Addendum.xlsx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-19T23:10:00.000Z",
+          "description": "Allowing an additional period of time for tender completion."
+        },
+        {
+          "at": "2026-10-20T03:13:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 76 77 78 Date extension.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-29T23:15:43.191Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-15T04:00:00.000Z",
+        "to": "2026-10-21T04:00:00.000Z",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "15/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "22",
+        "to": "23",
+        "at": "2026-10-06T22:50:00.661Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-21T04:00:00.000Z",
+        "to": "2026-10-26T04:00:00.000Z",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "23",
+        "to": "24",
+        "at": "2026-10-20T21:59:13.572Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "3f5d5bf070f740aab84df33025b89785",
     "source": "vendorpanel",
     "reference": "VP524335",
@@ -20902,6 +21411,50 @@
       }
     ],
     "archivedAt": "2026-10-22T21:59:00.631Z"
+  },
+  {
+    "id": "465b3a7fccfe47efad9941847978dae7",
+    "source": "vendorpanel",
+    "reference": "VP528087",
+    "title": "TC26104- MI187583- Lot 140 Levi Street, St Pauls (Bathroom Upgrade)",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-10-26T04:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-02T03:03:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=465b3a7fccfe47efad9941847978dae7s528087",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26104",
+      "opensAt": "2026-10-01T14:00:00.000Z",
+      "opensAtRaw": "Friday 02 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-23T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 23 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-23T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 24 January 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-02T23:23:48.386Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "466872b1e1fc4b819c9fe401f9c6e6fd",
@@ -23154,6 +23707,264 @@
       }
     ],
     "archivedAt": "2026-10-20T21:59:13.572Z"
+  },
+  {
+    "id": "5313d6a5506a40499aae19bea275c17d",
+    "source": "vendorpanel",
+    "reference": "VP527583",
+    "title": "Cleaning Services: Category A - Council Offices, Operational Buildings and Public Facilities",
+    "description": "General Cleaning Services (Office, Administration, Kitchen, Passageway, Stairwells, Meeting, Civic and Reception Rooms Toilets, Public Access, Amenities areas)\n\nScheduled Cleaning\n\nSplashparks\n\nIncludes Multiple Cleans Per Day, Daily Cleans, Periodical Cleans, Full Cleans and Spot Cleans\n\nCleaning of BBQ’s\n\nFacilities include:\n\nPhoenix - Municipal Offices\n\nBallarat Town Hall - Civic & Reception (Visitor Information Centre & Business Ballarat)\n\nBallarat Town Hall - Municipal Offices\n\nGordon Offices\n\nRing Road Depot\n\nGillies St Sth Compliance Depot\n\nBallarat Botanical Gardens\n\nBallarat Botanical Gardens\n\nAnimal Shelter\n\nPublic Facilities across the City of Ballarat",
+    "buyer": "City of Ballarat",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Cleaning Services, Equip, Supplies"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-26T04:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-29T11:52:00.000Z",
+    "contact": null,
+    "documentCount": 19,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=5313d6a5506a40499aae19bea275c17ds527583s1be3b358b92a46719b11b51c8e9ad2c7s1551",
+    "vendorPanelDetails": {
+      "buyerAddress": "25 Armstrong St S\nBallarat Central, Victoria 3350\nAustralia",
+      "buyerWebsite": "http://www.ballarat.vic.gov.au/",
+      "buyerDescription": "Ballarat Council",
+      "buyerReference": "26/27-77",
+      "opensAt": "2026-09-28T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 29 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-10-21T03:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 21 October 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-15T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 16 November 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Victoria\n1: Central Highlands"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-30T01:02:00.000Z",
+          "question": "Hi.\n\nWith the scheduled site walkthroughs taking place next week, would Council please consider extending the tender closing date by one week?\n\nGiven the number and variety of facilities included within the tender, the additional time following the walkthroughs would allow tenderers to properly assess the sites, finalise resourcing requirements and prepare accurate and considered pricing based on the conditions observed.\n\nWe appreciate Council’s consideration of this request.\n\nKind regards",
+          "answeredAt": "2026-09-30T23:30:00.000Z",
+          "answer": "Apologies the closing date error - amended to 21/10/2026 2pm"
+        },
+        {
+          "askedAt": "2026-09-30T01:51:00.000Z",
+          "question": "Dear Sir/Madam,\n\nCould you please advise when will be the site visit for the quote?\n\nThank you",
+          "answeredAt": "2026-09-30T22:48:00.000Z",
+          "answer": "Please review specification document for these details."
+        },
+        {
+          "askedAt": "2026-09-30T23:15:00.000Z",
+          "question": "Hello,\n\nSection 2.3 of the Specification lists the escorted inspection for Category A on Tuesday 6 October 2026, meeting at 9.15am at Phoenix, 25 Armstrong St S. Part A.1 of the Invitation refers to the Specification for inspection details, but neither document says whether attendance is mandatory.\n\nCould Council please confirm:\n\nIs attendance at the Category A inspection mandatory, or optional?\n\nIf it is mandatory, will a bidder who does not attend be excluded from the process?\n\nIf it is optional, will a bidder's evaluation be affected by whether or not they attended?\n\nThank you,\n\nJen\n\nPioneer Services",
+          "answeredAt": "2026-09-30T23:49:00.000Z",
+          "answer": "Optional"
+        },
+        {
+          "askedAt": "2026-09-30T23:50:00.000Z",
+          "question": "Good morning Team,\n\nIf our company would like to submit a tender for all three packages, do we need to complete and submit each package separately, or can we submit all three packages together as one submission?\n\nCould you please confirm the submission requirements?\n\nThank you for your assistance.",
+          "answeredAt": "2026-10-01T00:07:00.000Z",
+          "answer": "All three will be assessed individually - please submit individually."
+        },
+        {
+          "askedAt": "2026-10-01T00:32:00.000Z",
+          "question": "1) Hi, is square metreage available for all of the council offices and operation buildings facilities?\n\n1) is it possible to receive numbers on how many bbq plates per location and also pan, urinal and basin numbers for each public toilet?",
+          "answeredAt": "2026-10-06T02:01:00.000Z",
+          "answer": "Addendum added with additional drawings which Include Sq M detail\n\nBBQ details are available in the Specification document - approximately 31 locations. Two plates per BBQ - roughly 80 BBQ plates"
+        },
+        {
+          "askedAt": "2026-10-01T02:29:00.000Z",
+          "question": "Hi,\n\n Just checking whether the strikethrough text in Category A, Schedule 6 is intentional, or if it has been included in error.",
+          "answeredAt": "2026-10-06T02:45:00.000Z",
+          "answer": "It is intentional. An optional walk through is listed all other information required is included in tender documentation"
+        },
+        {
+          "askedAt": "2026-10-01T02:50:00.000Z",
+          "question": "Hi\n\n Anu SM available at this stage",
+          "answeredAt": "2026-10-06T02:05:00.000Z",
+          "answer": "Please review Addendum documents"
+        },
+        {
+          "askedAt": "2026-10-02T01:57:00.000Z",
+          "question": "1) hi, will walk throughs be held for every council office and operational building site on tuesday?",
+          "answeredAt": "2026-10-02T06:28:00.000Z",
+          "answer": "Site inspections are as per schedule in the Specification Document"
+        },
+        {
+          "askedAt": "2026-10-02T04:53:00.000Z",
+          "question": "Hi there, errors on price file\n\nSchedule of Rates (identical in all three workbooks)\n\nErrors on screen: The Min. Call Out Charge rows (items 2, 5, 8, 11 and 14) have \"[##]\" in the Qty column. That produces #VALUE! errors, which flow into those subtotals, the summary, the Total and the GST. The sheet can't calculate until someone enters a number. Council hasn't said what the minimum call-out hours are, so I wouldn't guess.\n\nSunday and \"Other\" rates left out of the total: Total Excluding GST (F56) adds only the first four summary lines. The Sunday and the two \"Other\" lines are left out.\n\n\"Other\" subtotals miss rows: The \"Other\" business-hours subtotal (F37) skips items 22 and 23. The after-hours one (F47) skips items 30 and 31.\n\nTheatre chairs line: Items 20 and 28 (deep clean of Her Majesty's Theatre chairs) appear in the A and B workbooks, although the theatre is a Category C venue.\n\nPart-hourly rate: Items 3, 6, 9, 12 and 15 have a quantity of 0.5 hour and a rate \"per 30m\". If a bidder enters the price for a 30-minute block, the amount comes out at half of it. It needs clarifying how that rate should be entered.",
+          "answeredAt": "2026-10-06T02:08:00.000Z",
+          "answer": "Please see adjusted Pricing Schedule added as addendum\n\nNote where there is a # under Qty it is to indicate your minimum call out time. eg. 30 minutes = .5"
+        },
+        {
+          "askedAt": "2026-10-06T05:28:00.000Z",
+          "question": "In Category A there are a few different categories i.e. Council Offices, Public Facilities that you can quote on. Are you able to quote on just the one that you wish to do, and not all the categories?",
+          "answeredAt": "2026-10-07T01:17:00.000Z",
+          "answer": "City of Ballarat's preference is that bidders submit complete pricing for all elements of the category, submissions containing individual subsets of Category A will still be considered"
+        },
+        {
+          "askedAt": "2026-10-07T01:13:00.000Z",
+          "question": "In Category A there are the following facilities - Public Toilets, Council Offices and Operational Buildings. My questions is - are you able to provide a price on just the one area i.e. Operational Buildings or must you provide a price for the whole of Category A?",
+          "answeredAt": "2026-10-09T00:20:00.000Z",
+          "answer": "City of Ballarat's preference is that bidders submit complete pricing for all elements of the category, submissions containing individual subsets of Category A will still be considered"
+        },
+        {
+          "askedAt": "2026-10-07T01:25:00.000Z",
+          "question": "The specification states that the contractor is required to “unlock each site and complete a full clean before 7:00am,” with facilities subsequently locked by security at dusk.\n\nCould Council please clarify whether the full clean must be undertaken in the morning immediately prior to unlocking, or whether the full clean may be completed during the preceding evening/night?",
+          "answeredAt": "2026-10-12T03:38:00.000Z",
+          "answer": "The toilets which are to be unlocked are cleaned prior to unlocking. Refer to the 26 27 77 Cat A Public Toilets Cleaning Sep26"
+        },
+        {
+          "askedAt": "2026-10-07T03:41:00.000Z",
+          "question": "Dear Team,\n\nAs per the pricing schedule, we are required to provide pricing for Monthly, Quarterly, Bi-Annual and Annual tasks.\n\nHowever, we have identified that some sites do not have any Quarterly tasks specified and only include Bi-Annual and Annual tasks.\n\nCould you please confirm whether we should enter $0.00 for the Quarterly task where no Quarterly service is required?\n\nThank you for your clarification and assistance.",
+          "answeredAt": "2026-10-12T03:39:00.000Z",
+          "answer": "Yes, where a site does not have any Quarterly tasks specified and only includes Bi-Annual and Annual services, please enter $0.00 for the Quarterly task item. This will indicate that no Quarterly service is required for that site. All applicable Monthly, Bi-Annual and Annual service pricing should still be completed as requested in the 26 27 77 Cat A Cleaning Pricing Schedules."
+        },
+        {
+          "askedAt": "2026-10-07T03:47:00.000Z",
+          "question": "Could Council please confirm the approximate gross/cleanable floor area (m²) applicable to the cleaning services at the Gillies St Sth Compliance Depot, 5 Gillingham Place, Alfredton?\n\nAlso please confirm whether the Pet Feed Store, Battery Charge Room, Workshop, Store and Server Room shown on the supplied floor plan are included within the routine cleaning scope, or whether any of these areas are excluded?",
+          "answeredAt": "2026-10-12T03:41:00.000Z",
+          "answer": "The Pet Feed Store, Battery Charge Room, Workshop, Store and Server Room were accessible during the site inspection. Tenderers should allow for cleaning of these areas where cleaning is required in accordance with the service requirements and the condition of the spaces at the time of service delivery."
+        },
+        {
+          "askedAt": "2026-10-07T04:37:00.000Z",
+          "question": "Category A - The previous time these buildings were up for tender there was a separate part that related to facilities at the Airport and a list of duties. In this tender there is only the toilet cleaning at the airport which is listed under the Public Facilities, is this correct, no other duties required?",
+          "answeredAt": "2026-10-12T03:42:00.000Z",
+          "answer": "The airport cleaning scope includes the Airport Terminal Building, which is to be cleaned twice per week (as of now), and the Public Toilets (adjacent Field-Air Buildings) on Friday."
+        },
+        {
+          "askedAt": "2026-10-07T23:20:00.000Z",
+          "question": "Category A - Council Offices - Civic and Public Areas - Under the list of duties it states 'Clean any rooms / foyers that are required for special functions pre-arranged via Hall Keepers'.\n\nFor pricing, can you give an indicative amount of Saturdays and Sundays that we should price for? i.e. one a month/two a fortnight etc",
+          "answeredAt": "2026-10-12T03:42:00.000Z",
+          "answer": "The requirement to clean any rooms/foyers required for special functions pre-arranged via Hall Keepers is event-driven and therefore Council is unable to provide a specific quantity or indicative frequency of weekend functions for pricing purposes.\n\nTo accommodate this uncertainty, tenderers are requested to provide the applicable rates within the Schedule of Rates. These rates may be used where additional cleaning services are required in connection with special functions or events outside the routine cleaning program"
+        },
+        {
+          "askedAt": "2026-10-08T07:09:00.000Z",
+          "question": "Hi Team,\n\nRegarding Public Facilities Groups 1 and 2, there is no mention of periodical works in the requirements. The schedule only specifies daily cleaning and monthly tasks.\n\nCould you please confirm whether periodical works are not required for Groups 1 and 2, and whether periodical works are only required for the sites listed under Group 3?\n\nThank you for your clarification and assistance.",
+          "answeredAt": "2026-10-14T06:41:00.000Z",
+          "answer": "Cleaning requirements, locations, frequencies and times are listed under each of the Public Facilities Groups within the Public Toilets Cleaning Schedule. Please provide costs based on the information provided."
+        },
+        {
+          "askedAt": "2026-10-12T00:09:00.000Z",
+          "question": "Can we please get the SQM of the assets.",
+          "answeredAt": "2026-10-14T06:41:00.000Z",
+          "answer": "Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender."
+        },
+        {
+          "askedAt": "2026-10-12T05:01:00.000Z",
+          "question": "Hi,\n\nplease Advise service days for the below BBQs\n\nBrown Hill Reserve BBQ\n\nCardigan Village BBQ\n\nBallymanus / Djila-tjarriu Reserve BBQ",
+          "answeredAt": "2026-10-14T06:42:00.000Z",
+          "answer": "These should be cleaned once a week (on a Thursday)"
+        },
+        {
+          "askedAt": "2026-10-12T06:05:00.000Z",
+          "question": "We noted in the recent clarifications shared that there is a requirement to clean the Airport Terminal Building as part of Category A – Council Buildings.\n\nCould you please provide the scope of services and the building area (sqm) for this facility?",
+          "answeredAt": "2026-10-19T04:43:00.000Z",
+          "answer": "Cleaning of the Airport Terminal Building is not included under this contract"
+        },
+        {
+          "askedAt": "2026-10-15T03:58:00.000Z",
+          "question": "Could Council please confirm whether the additional daily cleaning visits specified for public toilet facilities are intended to be spot cleans, with one full clean completed each day, or whether a full clean is required at every scheduled visit?\n\nWe note that the specification refers to both full cleans and spot cleans and would appreciate clarification to ensure our pricing accurately reflects the required scope.",
+          "answeredAt": "2026-10-19T04:42:00.000Z",
+          "answer": "No Routine Cleaning* is required on Public Holidays except for the following services/locations:\n\nNote: *Routine Cleaning = Regular Daily/Weekly Cleaning outlined in the Cleaning Schedule\n\nCategory A: Public Facilities Group 1 - Cleaning Every day of the Year\n\nCategory A: Public Facilities Group 2 - Cleaning Every day of the Year\n\nCategory B: BALC Cleaning Services - Cleaning Every day of the Year except for Christmas Day and Good Friday\n\nCategory B: Eureka Swimming Pool - Cleaning Every day of the Opening Season except for Christmas Day and Good Friday\n\nCategory C: Eureka Centre- Cleaning Every day of the Year except for Christmas Day and Boxing Day"
+        },
+        {
+          "askedAt": "2026-10-20T00:33:00.000Z",
+          "question": "Hi Team,\n\nCould you please confirm whether an addendum has been issued to extend the closing date to 26 October 2026?\n\nThnx",
+          "answeredAt": "2026-10-20T23:26:00.000Z",
+          "answer": "yes"
+        },
+        {
+          "askedAt": "2026-10-20T02:45:00.000Z",
+          "question": "Could Council please confirm whether the additional daily cleaning visits specified for public toilet facilities are intended to be spot cleans, with one full clean completed each day, or whether a full clean is required at every scheduled visit?\n\nWe note that the specification refers to both full cleans and spot cleans and would appreciate clarification to ensure our pricing accurately reflects the required scope.",
+          "answeredAt": "2026-10-21T03:41:00.000Z",
+          "answer": "Public Toilet Cleaning Frequency\n\nPlease refer to the Excel file \"26 27 77 Cat A Public Toilets Cleaning\", which clearly sets out the required service frequencies and cleaning types.\n\n•\tPublic Facility Groups 1 (Sites with 3 Cleans per Day, 7 days per Week): Complete Full Clean (AM) before opening, prior to 7:00am, with Spot Cleans at 11:00am and 3:00pm.\n\n•\tPublic Facility Group 1 (Sites with 4 Cleans per Day, 7 days per Week): Complete Full Clean (AM) before opening, prior to 7:00am, with Spot Cleans at 10:00am, 1:00pm and 4:00pm.\n\nBased on the information provided within the schedule, the City of Ballarat considers the cleaning requirements to be clearly defined and there is no ambiguity regarding which visits are Full Cleans and which are Spot Cleans."
+        },
+        {
+          "askedAt": "2026-10-20T03:03:00.000Z",
+          "question": "1) Do city of ballarat have a location where vehicles can be stored safetly for the public toilet & BBQ cleaning runs?",
+          "answeredAt": "2026-10-21T03:40:00.000Z",
+          "answer": "Most public toilet and BBQ facilities have access to public parking in the vicinity of the site.\n\nThe City of Ballarat does not currently provide or designate any specific location for contractor vehicles to be stored for public toilet and BBQ cleaning operations. Vehicle storage, security, and associated operational arrangements remain the responsibility of the Contractor."
+        },
+        {
+          "askedAt": "2026-10-20T04:59:00.000Z",
+          "question": "Hi,\n\nCould you please clarify the nominated cleaning times outlined in the public toilet and BBQ cleaning schedules?\n\nAre these times intended to be specific service windows during which cleaning must take place, or are they the latest times by which cleaning must be completed?\n\nFor example, where a second clean is nominated for 3:00 pm, would it be acceptable to complete this earlier in the afternoon, provided the required cleaning frequency and standards are maintained?\n\nAdditionally, for locations requiring cleaning to be completed by 7:00 am, could you please confirm the earliest permitted commencement time? Would cleaning be permitted to commence from 3:30 am or earlier if required?\n\nWe are looking to ensure our proposed vehicle runs align with Council's service requirements.\n\nThanks in advance for your clarification.",
+          "answeredAt": "2026-10-21T03:40:00.000Z",
+          "answer": "1.\tCleaning Times and Service Windows\n\nPlease refer to the Excel file \"26 27 77 Cat A Public Toilets Cleaning Sep26\", which clearly sets out the required service frequencies, cleaning times and cleaning types.\n\nThe schedule specifies:\n\n•\tPublic Facility Group 1: Complete Full Clean (AM) before opening, prior to 7:00am.\n\n•\tPublic Facility Group 2: Daily Full Clean and Unlock (before 8:00am), 7 days per week.\n\n•\tPublic Facility Group 3: Toilets are open 24 hours and may be cleaned at any time during the day, provided the required service frequencies are achieved.\n\n•\tWhere specific times are identified for additional cleans or spot cleans, these are intended to ensure facilities are inspected and maintained throughout the day, rather than relying solely on a single morning service.\n\n2.\tTiming of the Second Clean\n\nWhere a second clean is nominated for 3:00pm, the City of Ballarat would generally accept the clean being completed slightly earlier, provided the required service frequency, inspection requirements, cleanliness standards and customer outcomes are maintained.\n\nThe intent of the scheduled cleans is to ensure facilities remain hygienic, adequately serviced and fit for community use throughout the day, while minimising complaints and service issues.\n\n3.\tEarliest Permitted Commencement Time\n\nFor facilities requiring completion before opening, cleaning may generally commence up to one hour prior to the specified opening time, provided all activities are undertaken safely and in accordance with relevant operational requirements.\n\nThe facility opening, where applicable, is to occur at the times specified within the schedule.\n\n4.\tCommencement from 3:30am or Earlier\n\nCommencement times, including 3:30am or earlier, are a matter for the Contractor's operational arrangements and service delivery approach.\n\nThe City of Ballarat’s primary requirement is that cleaning activities are completed to the required standard and that facilities are opened, unlocked and made available to the public at the times specified within the schedule. Any proposed arrangements should also take into consideration noise, safety and legislative requirements applicable to the work."
+        },
+        {
+          "askedAt": "2026-10-21T00:35:00.000Z",
+          "question": "Clarification questions for JLL\n\n1.\tPlease provide facade elevations, marked-up plans or a window schedule showing all glass and facade areas included at each building.\n\n2.\tDoes “high glass cleaned as a minimum quarterly” apply to all upper-level external glazing, or only high glass associated with ground-level external glazing and glazed awnings?\n\n3.\tPlease confirm the required cleaning frequency for the complete external facade and all external windows above 4 metres.\n\n4.\tWhat access systems are available at each site, including roof anchors, davits, building maintenance units and elevated work platform access?\n\n5.\tAre current anchor inspection and certification records available?\n\n6.\tAre rope access, elevated work platform hire, traffic management, permits, exclusion zones and security escorts to be included in the fixed contract fee?\n\n7.\tAre facade materials other than glazing included, such as stone, metal cladding, louvres, fins, signage and external architectural features?\n\n8.\tAre internal high-level glass, atriums, skylights, glass roofs and difficult-access glazing included?\n\n9.\tAre water and power available for specialist works, and are there any restrictions on runoff or chemical use?\n\n10.\tCan bidders complete a specialist access inspection before finalising their pricing?",
+          "answeredAt": "2026-10-21T03:37:00.000Z",
+          "answer": "(edited on 21/Oct/2026 02:43 PM)\n\n1. All available documentation has been provided as part of the tender package.\n\n2. Refer to Excel Schedule 26 27 77 - Cat A Offices Cleaning. High-level glass cleaning is scheduled twice annually (January and July). From a housekeeping perspective, visible spider webs/ graffiti are to be removed from windows, lights and eaves around doorways as required.\n\n3. Refer to Excel Schedule 26 27 77 - Cat A Offices Cleaning. Visible graffiti/ spider webs are to be removed from windows, lights and eaves around doorways as required. External high-level glass cleaning is scheduled in accordance with the nominated frequencies within the specification.\n\n4. Access arrangements vary between sites. Tenderers should make their own assessment of the access requirements for each location.\n\n5. This information is not held by the Contract Manager. Inspection and certification records are usually held by the Safety Team.\n\n6. All arrangements are to be made by the Vendor, including rope access, elevated work platform hire, traffic management, permits, exclusion zones, security escorts, and any associated requirements necessary to undertake the services.\n\n7. Yes, where cleaning of these elements forms part of the specified scope. Tenderers should refer to the site-specific requirements. No separate cleaning contractor is engaged for these items where they are included within the scope of works.\n\n8. Yes.\n\n9. Water and power are generally available on site. Contractors are responsible for providing Safety Data Sheets (SDS) for all chemicals used and must comply with all relevant environmental, safety and site requirements. No specific restrictions are currently known.\n\n10. No - pricing must be finalised pre tender submission."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-30T23:39:00.000Z",
+          "description": "Closing date error - amended to 21/10/2026 2pm"
+        },
+        {
+          "at": "2026-10-06T01:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 77 Cat A Cleaning Pricing Schedules Addendum.xlsx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-06T02:05:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) Amenities Building Arb Shed - Ring Road Depot.pdf\n\n2. Added: \t (Addendum) Local Laws And Traffic Office.jpg\n\n3. Added: \t (Addendum) Operations_Administration_Building_Cnr_Rind_Rdv&_Trewin_St_Wendouree_Wendouree_VIC_3355_AU.pdf\n\n4. Added: \t (Addendum) Phoenix - Ground Floor.pdf\n\n5. Added: \t (Addendum) Phoenix - Level 1.pdf\n\n6. Added: \t (Addendum) Public Toilet Numbers.pdf\n\n7. Added: \t (Addendum) Robert Clark Horticultural Center.pdf\n\n8. Added: \t (Addendum) Statuary Pavillion - Ballarat Botanical Gardens.pdf\n\n9. Added: \t (Addendum) Town Hall - Ground Floor.pdf\n\n10. Added: \t (Addendum) Town Hall - Level 1.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-10-19T23:16:00.000Z",
+          "description": "Allowing an additional period of time for tender completion."
+        },
+        {
+          "at": "2026-10-20T03:15:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 76 77 78 Date extension.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-29T23:15:43.191Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-15T04:00:00.000Z",
+        "to": "2026-10-21T04:00:00.000Z",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "15/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "7",
+        "to": "18",
+        "at": "2026-10-06T22:50:00.661Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-21T04:00:00.000Z",
+        "to": "2026-10-26T04:00:00.000Z",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "18",
+        "to": "19",
+        "at": "2026-10-20T21:59:13.572Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "5340a8b8674d4f1bbe0c8ce7eb157aeb",
@@ -25576,6 +26387,164 @@
       }
     ],
     "archivedAt": "2026-09-25T22:55:03.789Z"
+  },
+  {
+    "id": "625b6a5fdd824c289083052ce9b65e38",
+    "source": "vendorpanel",
+    "reference": "VP527584",
+    "title": "Cleaning Services: Category B - Leisure & Lifestyle",
+    "description": "Ballarat Aquatic & Lifestyle Centre\n\nEureka Swimming Pool\n\nDoug Dean Stadium\n\nGeneral Cleaning Services associated with an Aquatic & Lifestyle Centre and Swimming Pool as detailed in the Cleaning schedule\n\nWindow and General Glass Cleaning\n\nStadium Cleaning\n\nScheduled Cleaning\n\nThe following areas are excluded from the scope of works:\n\n• Plant Rooms\n\n• The cleaning of Pools and Spa Waste trap and other water trap devices",
+    "buyer": "City of Ballarat",
+    "buyerType": "council",
+    "state": "VIC",
+    "categories": [
+      "Cleaning Services, Equip, Supplies"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-26T04:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-09-29T12:00:00.000Z",
+    "contact": null,
+    "documentCount": 12,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=625b6a5fdd824c289083052ce9b65e38s527584s1be3b358b92a46719b11b51c8e9ad2c7s1551",
+    "vendorPanelDetails": {
+      "buyerAddress": "25 Armstrong St S\nBallarat Central, Victoria 3350\nAustralia",
+      "buyerWebsite": "http://www.ballarat.vic.gov.au/",
+      "buyerDescription": "Ballarat Council",
+      "buyerReference": "26/27-78",
+      "opensAt": "2026-09-28T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 29 September 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-10-21T03:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 21 October 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-15T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 16 November 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Victoria\n1: Central Highlands"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-30T01:02:00.000Z",
+          "question": "Hi.\n\nWith the scheduled site walkthroughs taking place next week, would Council please consider extending the tender closing date by one week?\n\nGiven the number and variety of facilities included within the tender, the additional time following the walkthroughs would allow tenderers to properly assess the sites, finalise resourcing requirements and prepare accurate and considered pricing based on the conditions observed.\n\nWe appreciate Council’s consideration of this request.\n\nKind regards",
+          "answeredAt": "2026-09-30T23:31:00.000Z",
+          "answer": "Apologies the closing date error - amended to 21/10/2026 2pm"
+        },
+        {
+          "askedAt": "2026-09-30T01:50:00.000Z",
+          "question": "Dear Sir / Madam,\n\nCould you please advise when will be the site visit for the quotations?\n\nThank you",
+          "answeredAt": "2026-09-30T22:48:00.000Z",
+          "answer": "Please review specification document for these details."
+        },
+        {
+          "askedAt": "2026-09-30T23:15:00.000Z",
+          "question": "Hello,\n\nSection 2.3 of the Specification lists the escorted inspection for Category B on Tuesday 6 October 2026, meeting at 12.45pm at 1 Kunuwarra Place, Lake Gardens. Part A.1 of the Invitation refers to the Specification for inspection details, but neither document says whether attendance is mandatory.\n\nCould Council please confirm:\n\nIs attendance at the Category B inspection mandatory, or optional?\n\nIf it is mandatory, will a bidder who does not attend be excluded from the process?\n\nIf it is optional, will a bidder's evaluation be affected by whether or not they attended?\n\nThank you,\n\nJen\n\nPioneer Services",
+          "answeredAt": "2026-10-01T00:10:00.000Z",
+          "answer": "optional"
+        },
+        {
+          "askedAt": "2026-10-01T00:30:00.000Z",
+          "question": "1) Hi, is square metreage available for all of these facilities?",
+          "answeredAt": "2026-10-14T06:44:00.000Z",
+          "answer": "Site Inspections provided opportunity for Suppliers to determine the size of areas to be cleaned. No further information will be provided on the sqm per Council building listed as part of this tender."
+        },
+        {
+          "askedAt": "2026-10-02T04:52:00.000Z",
+          "question": "Hi There, errors in price file\n\nSchedule of Rates (identical in all three workbooks)\n\nErrors on screen: The Min. Call Out Charge rows (items 2, 5, 8, 11 and 14) have \"[##]\" in the Qty column. That produces #VALUE! errors, which flow into those subtotals, the summary, the Total and the GST. The sheet can't calculate until someone enters a number. Council hasn't said what the minimum call-out hours are, so I wouldn't guess.\n\nSunday and \"Other\" rates left out of the total: Total Excluding GST (F56) adds only the first four summary lines. The Sunday and the two \"Other\" lines are left out.\n\n\"Other\" subtotals miss rows: The \"Other\" business-hours subtotal (F37) skips items 22 and 23. The after-hours one (F47) skips items 30 and 31.\n\nTheatre chairs line: Items 20 and 28 (deep clean of Her Majesty's Theatre chairs) appear in the A and B workbooks, although the theatre is a Category C venue.\n\nPart-hourly rate: Items 3, 6, 9, 12 and 15 have a quantity of 0.5 hour and a rate \"per 30m\". If a bidder enters the price for a 30-minute block, the amount comes out at half of it. It needs clarifying how that rate should be entered.",
+          "answeredAt": "2026-10-06T02:09:00.000Z",
+          "answer": "adjusted pricing schedules added as addendum"
+        },
+        {
+          "askedAt": "2026-10-08T06:53:00.000Z",
+          "question": "Hi Team,\n\nRegarding the Aquatic Centre, could you please confirm whether it is compulsory to have daytime cleaners, evening cleaners and after-hours cleaners as specified?\n\nIf all three cleaning shifts are required, could you also please clarify whether the daytime and evening cleaners are required to remain on site for the entire duration of their allocated shifts, or whether they can leave once their scheduled cleaning tasks have been completed?\n\nThank you for your clarification and assistance.",
+          "answeredAt": "2026-10-14T06:43:00.000Z",
+          "answer": "Cleaning is required at various times during the day, as outlined in the Cleaning Schedule, to meet operational needs. For example, where a specific cleaning service is listed against After Hours, services must be provided outside Opening Hours of the facility."
+        },
+        {
+          "askedAt": "2026-10-12T03:39:00.000Z",
+          "question": "1) Hi, could you please confirm the day cleaning window for BALC? is a full time cleaner required",
+          "answeredAt": "2026-10-14T06:44:00.000Z",
+          "answer": "No full time Cleaner required. Tenderer to determine suitable solution to meet Council needs."
+        },
+        {
+          "askedAt": "2026-10-15T04:38:00.000Z",
+          "question": "Hi There,\n\nJust a clarification:\n\n3.3 List the plant and equipment that are intended to be used on this contract (if applicable) - do we need to provide the cleaning equipment details OR mention not applicable ?\n\nItem Category (ie Trucks, Loaders, Excavators, etc.)\n\nMake\n\nModel\n\nkW\n\nAge\n\nwill be greatly appreciated. thnx",
+          "answeredAt": "2026-10-16T01:42:00.000Z",
+          "answer": "Not applicable"
+        },
+        {
+          "askedAt": "2026-10-20T00:33:00.000Z",
+          "question": "Hi Team,\n\nCould you please confirm whether an addendum has been issued to extend the closing date to 26 October 2026?\n\nThnx",
+          "answeredAt": "2026-10-20T23:27:00.000Z",
+          "answer": "yes"
+        },
+        {
+          "askedAt": "2026-10-14T23:33:00.000Z",
+          "question": "1) Hi, what are the specified cleaning tasks required during daytime? is there a specific time window that day time cleaning coverage is required from?",
+          "answeredAt": "2026-10-21T04:39:00.000Z",
+          "answer": "(edited on 21/Oct/2026 03:23 PM)\n\nCleaning is required at various times during the day, as outlined in the Cleaning Schedule, to meet operational needs. For example, where a specific cleaning service is listed against After Hours, services must be provided outside Opening Hours of the facility.\n\nDay Cleaning is for Change Rooms listed in the Cleaning Schedule. Cleaning requirements for each of those day cleans are listed in the Cleaning Schedule. Day Cleaners will undertake cleaning from 9.00am to 10.30am and Afternoon from 1.30pm to 3.00pm."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-30T23:38:00.000Z",
+          "description": "Closing date error - amended to 21/10/2026 2pm"
+        },
+        {
+          "at": "2026-10-06T01:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 78 Cat B Cleaning Pricing Schedules Addendum.xlsx\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-19T23:14:00.000Z",
+          "description": "Allowing an additional period of time for tender completion."
+        },
+        {
+          "at": "2026-10-20T03:14:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 26 27 76 77 78 Date extension.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-29T23:15:43.191Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-15T04:00:00.000Z",
+        "to": "2026-10-21T04:00:00.000Z",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "15/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-01T23:32:33.983Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "11",
+        "at": "2026-10-06T22:50:00.661Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-21T04:00:00.000Z",
+        "to": "2026-10-26T04:00:00.000Z",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "21/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "26/Oct/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "11",
+        "to": "12",
+        "at": "2026-10-20T21:59:13.572Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "62eae3502b1b4be1a987d22d43a20a32",
@@ -32781,6 +33750,68 @@
       }
     ],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "88f2bde61b7f41aeb07a351585cfaffd",
+    "source": "vendorpanel",
+    "reference": "VP527939",
+    "title": "TC26103- Lot 45 Dadamud Village, Erub (Asbestos Removal & New Works)",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-10-26T04:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-01T03:08:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=88f2bde61b7f41aeb07a351585cfaffds527939",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26103",
+      "opensAt": "2026-09-30T14:00:00.000Z",
+      "opensAtRaw": "Thursday 01 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-22T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 22 October 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 07 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-14T03:11:00.000Z",
+          "description": "Extended Closing Date"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-01T23:32:33.983Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-16T04:00:00.000Z",
+        "to": "2026-10-26T04:00:00.000Z",
+        "at": "2026-10-14T21:59:10.357Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "16/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "26/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-14T21:59:10.357Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "89c2aef3d88a47948adf527a6f4b276c",
@@ -45725,6 +46756,66 @@
     "archivedAt": "2026-09-16T22:27:38.012Z"
   },
   {
+    "id": "c3db8763720f4f7dab819b6d4cfc546a",
+    "source": "vendorpanel",
+    "reference": "VP529005",
+    "title": "Identity Governance Administration (IGA) + Priveliged Access Management (PAM) Solutions and Services",
+    "description": "ADVANCE NOTICE OF PROCUREMENT ONLY – DO NOT RESPOND\n\nThe Department of Transport and Main Roads (TMR) advises the market of its intention to release an Invitation to Offer (ITO) for the provision of Identity Governance and Administration (IGA) and Privileged Access Management (PAM) technology products and associated vendor support services to support TMR's Identity and Access Management (IDAM) capability.\n\nThe proposed procurement is intended to establish access to a contemporary IGA and PAM capability that supports identity lifecycle management, governance, access reviews, auditability and enterprise visibility across the Department's identity environment. The procurement will focus on software / as a Service products and associated supplier support arrangements – implementation services (including configuration and integration of the solution) is out of scope.\n\nThe ITO is expected to be released through Vendor Panel in late-October 2026 and will be open to suppliers capable of providing suitable IGA solutions and associated support services AND/OR PAM solutions and associated support services.\n\nThis notice is provided for market awareness and procurement planning purposes only and does not constitute a commitment by TMR to proceed with any Invitation Process. Full details of the requirements and contractual arrangements will be provided in the formal ITO documentation to be published via Vendor Panel (future tender number TMRICT-ITO-26098).\n\nThis forward procurement notice will remain published until such time as the tender is released on Vendor Panel.\n\nSUPPLIERS ARE NOT REQUIRED TO RESPOND TO THIS FORWARD PROCUREMENT NOTICE.\n\nSuppliers should monitor Vendor Panel for further information regarding the release of the ITO.\n\nEnquiries: No enquiries are being sought in response to this Forward Procurement Notice.\n\nAll information relevant to the procurement process will be provided with the ITO documentation when published under TMRICT-ITO-26098.",
+    "buyer": "Department of Transport and Main Roads - ITB",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-10-26T07:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-11T23:40:00.000Z",
+    "contact": {
+      "raw": "Rebecca Meller Email: rebecca.h.meller@tmr.qld.gov.au Tel: +61730666991",
+      "name": "Rebecca Meller",
+      "email": "rebecca.h.meller@tmr.qld.gov.au",
+      "phone": "+61730666991"
+    },
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=c3db8763720f4f7dab819b6d4cfc546as529005se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "532 Beams Rd\nCarseldine, Queensland 4034\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's Information Technology branch (ITB).",
+      "buyerReference": "TMRICT-FPN-26098",
+      "opensAt": "2026-10-11T14:00:00.000Z",
+      "opensAtRaw": "Monday 12 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-26T07:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 26 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 27 October 2026 (E. Australia Standard Time)",
+      "background": "FAQs:\n\nQ1. Vendor Panel states to be eligible, a response must be submitted by the close date. Do I have to submit a response to this Forward Procurement Notice (FPN) in order to be considered for the tender when it is released?\n\nAnswer: No. Suppliers DO NOT NEED TO RESPOND to this FPN, reference VP29005 (TMRICT-FPN-26098). Any documents submitted in response to this FPN will not be opened or reviewed - and will be discarded.\n\n_____\n\nQ2. Can only the suppliers who submitted a response to the previous related Request for Information (TMRICT-RFI-26098) submit an Offer?\n\nAnswer: No. Any Supplier may submit an Offer in response to the tender when released. A Supplier need not have responded to the RFI to be considered for the tender.\n\n_____\n\nQ3. I submitted a response to the RFI (TMRICT-RFI-26098) but received an \"unsuccessful\" reply. Does this mean my organisation can't or shouldn't respond to the tender when it's released?\n\nAnswer: When the RFI was administratively closed in Vendor Panel, an automated \"unsuccessful\" message was sent to all suppliers who submitted a response to the RFI. This was an automated and system generated notice and has no bearing on the products or services suppliers provided information about as part of their RFI response. All suppliers who submitted information to the RFI are permitted to respond to the tender.\n\nShould suppliers have any further questions or concerns, please address them to ICT.Tenders@tmr.qld.gov.au.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-20T03:48:00.000Z",
+          "question": "We have a highly developed PAM practice but not an IGA practice, will we be able to respond to the ITO with just PAM?",
+          "answeredAt": "2026-10-21T01:44:00.000Z",
+          "answer": "Suppliers will be able to respond with either an IGA Solution, PAM Solution or both. Details and instructions will be included in the Invitation Documents when released.\n\nPlease be advised there is no need to respond to this Forward Procurement Notice - this is an advance notice of a future procurement only."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-21T02:14:00.000Z",
+          "description": "Frequently Asked Questions (FAQs) have now been added to the description of this Forward Procurement Notice."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-13T01:01:06.071Z",
+    "changes": [],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
+  },
+  {
     "id": "c446a0f5955742b9bebbd605a79a68d8",
     "source": "vendorpanel",
     "reference": "VP524584",
@@ -48006,6 +49097,80 @@
       }
     ],
     "archivedAt": "2026-10-07T23:22:52.819Z"
+  },
+  {
+    "id": "ce393ba357a543de9053964b74e153e0",
+    "source": "vendorpanel",
+    "reference": "VP526087",
+    "title": "Preferred Supplier Panel for Minor Building Construction, Repairs and Maintenance",
+    "description": "This document outlines the terms and conditions for suitably qualified and experienced Contractors for the “Provision of Minor Building Construction and Maintenance”.\n\nTownsville City Council (Principal) seeks to engage a panel of qualified and experienced contractors to deliver minor building construction, repairs, maintenance and associated specialist building services as defined in PSA00297.\n\nThe proposed contract term of this contract shall be for a period of three (3) years, commencing on the effective date. Upon mutual agreement, the contract may be extended for up to two (2) additional twelve (12) month periods.",
+    "buyer": "Townsville City Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-10-26T00:00:00.000Z",
+    "closingAtRaw": "26/Oct/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-20T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ce393ba357a543de9053964b74e153e0s526087",
+    "vendorPanelDetails": {
+      "buyerAddress": "103 Walker St\nTownsville City, Queensland 4810\nAustralia",
+      "buyerWebsite": "http://www.townsville.qld.gov.au",
+      "buyerDescription": "Townsville City Council",
+      "buyerReference": "PSA00297",
+      "opensAt": "2026-09-20T14:00:00.000Z",
+      "opensAtRaw": "Monday 21 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-23T00:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 23 October 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-06T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 07 December 2026 (E. Australia Standard Time)",
+      "background": "The services to be provided under this Contract include, but are not limited to, the following workstreams:\n\nWorkstream 1 – Minor Building Construction, Repairs and Maintenance\n\nCovers the delivery of general building and construction services across the Principals assets, including minor capital works, reactive maintenance, emergency response works, renovations, structural repairs, general handyman services and small-scale infrastructure projects.\n\nWorkstream 2 - Building Certification, Statutory Compliance and Specialist Building Services\n\nProvides specialist technical, advisory, inspection, compliance and certification services associated with Principal assets. Services may include building certification, statutory compliance inspections, building condition assessments, design review, drafting services, budget estimates, repair methodologies, engineering advice, technical reporting and specialist consultancy services relating to structural, hydraulic, mechanical, fire and aquatic infrastructure.\n\nWorkstream 3 – Floor Coverings\n\nCovers the supply, installation, maintenance and repair of commercial flooring systems, including vinyl, carpet, epoxy coatings, polishing, sanding, and associated flooring services.\n\nWorkstream 4 – Glass and Aluminium\n\nIncludes the supply, installation, maintenance and repair of glazing and aluminium systems including windows, doors, shopfronts and emergency glass replacement.\n\nWorkstream 5 – Window Coverings\n\nIncludes the supply, installation and maintenance of blinds, awnings, drapes, tinting, frosting and associated window covering systems.\n\nWorkstream 6 – Furniture, Fittings & Equipment (FFE) Removal and Relocation Services\n\nProvides furniture relocation, storage, internal moves, inter-site relocations and associated furniture handling services.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-13T04:38:00.000Z",
+          "description": "Closing date has been extended to 10.00am Monday 19th of October 2026."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-20T22:00:46.991Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-16T07:00:00.000Z",
+        "to": "2026-10-19T00:00:00.000Z",
+        "at": "2026-10-13T23:09:32.279Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "16/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "19/Oct/2026 10:00 AM (UTC+10:00) Brisbane time",
+        "at": "2026-10-13T23:09:32.279Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-19T00:00:00.000Z",
+        "to": "2026-10-26T00:00:00.000Z",
+        "at": "2026-10-19T22:41:08.884Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "19/Oct/2026 10:00 AM (UTC+10:00) Brisbane time",
+        "to": "26/Oct/2026 10:00 AM (UTC+10:00) Brisbane time",
+        "at": "2026-10-19T22:41:08.884Z"
+      }
+    ],
+    "archivedAt": "2026-10-26T22:55:59.516Z"
   },
   {
     "id": "cf2193ccd3704400af7f93860c0941ab",
