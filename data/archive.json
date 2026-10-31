@@ -17337,6 +17337,79 @@
     "archivedAt": "2026-09-14T22:50:02.192Z"
   },
   {
+    "id": "2952910f8a5940b18ef351c8488c7956",
+    "source": "vendorpanel",
+    "reference": "VP520903",
+    "title": "Tender for land within the Lansdown Eco-Industrial Precinct",
+    "description": "The Lansdown Eco-Industrial Precinct (LEIP or Precinct) is positioned as a major industrial precinct for environmentally responsible advanced manufacturing, technology and processing activities. The Precinct is located approximately 40 kilometres south of the Townsville central business district in the suburb of Calcium and comprises approximately 2,200 hectares extending east from the Mingela State Forest and Lansdown Creek towards the Flinders Highway. Townsville City Council (Council) acquired the land in 2001 after its previous use by the Commonwealth Scientific and Industrial Research Organisation as a pasture research site.\n\nLEIP is supported by strategic access to the Port of Townsville, major road and rail corridors, the North Queensland Gas Pipeline, the Woodstock Ergon Substation and planned industrial water infrastructure. Since 2019, Council has undertaken several open market processes for land within the Precinct. Those processes resulted in conditional land allocations across advanced manufacturing, energy, critical minerals, storage, chemical processing and related projects. This refreshed market land tender considers remaining available land with the LEIP.",
+    "buyer": "Townsville City Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Architecture, Design, Planning",
+      "Fuel & Oils",
+      "Indust. Production, Manufacturing",
+      "Power Generation, Trans & Distrib.",
+      "Railway, Tramway and Track",
+      "Utilities"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-10-31T07:00:00.000Z",
+    "closingAtRaw": "31/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-08-19T06:38:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=2952910f8a5940b18ef351c8488c7956s520903",
+    "vendorPanelDetails": {
+      "buyerAddress": "103 Walker St\nTownsville City, Queensland 4810\nAustralia",
+      "buyerWebsite": "https://www.townsville.qld.gov.au/",
+      "buyerDescription": "The City of Townsville is an Australian local government area (LGA) located in North Queensland, Australia. It encompasses the city of Townsville, together with the surrounding rural areas, to the south are the communities of Alligator Creek, Woodstock and Reid River, and to the north are Northern Beaches and Paluma, and also included is Magnetic Island. Townsville is considered to be the capital of North Queensland.",
+      "buyerReference": "TOW00734",
+      "opensAt": "2026-08-18T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 19 August 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-31T07:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 31 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Saturday 12 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: Canberra",
+        "New South Wales\n1: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Northern",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-13T05:29:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) TOW00734 - Tender Conditions v1.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "The Lansdown Eco-Industrial Precinct (LEIP or Precinct) is positioned as a major industrial precinct for environmentally responsible advanced manufacturing, technology and processing activities. The Precinct is located approximately 40 kilometres south of the Townsville central business district in the suburb of Calcium and comprises approximately 2,200 hectares extending east from the Mingela State Forest and Lansdown Creek towards the Flinders Highway. Townsville City Council (Council) acquired the land in 2001 after its previous use by the Commonwealth Scientific and Industrial Research Organisation as a pasture research site.\n\nLEIP is supported by strategic access to the Port of Townsville, major road and rail corridors, the North Queensland Gas Pipeline, the Woodstock Ergon Substation and planned industrial water infrastructure. Since 2019, Council has undertaken several open market processes for land within the Precinct. Those processes resulted in conditional land allocations across advanced ...",
+        "to": "The Lansdown Eco-Industrial Precinct (LEIP or Precinct) is positioned as a major industrial precinct for environmentally responsible advanced manufacturing, technology and processing activities. The Precinct is located approximately 40 kilometres south of the Townsville central business district in the suburb of Calcium and comprises approximately 2,200 hectares extending east from the Mingela State Forest and Lansdown Creek towards the Flinders Highway. Townsville City Council (Council) acquired the land in 2001 after its previous use by the Commonwealth Scientific and Industrial Research Organisation as a pasture research site.\n\nLEIP is supported by strategic access to the Port of Townsville, major road and rail corridors, the North Queensland Gas Pipeline, the Woodstock Ergon Substation and planned industrial water infrastructure. Since 2019, Council has undertaken several open market processes for land within the Precinct. Those processes resulted in conditional land allocations across advanced manufacturing, energy, critical minerals, storage, chemical processing and related projects. This refreshed market land tender considers remaining available land with the LEIP.",
+        "at": "2026-09-09T04:58:14.310Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-10-13T23:09:32.279Z"
+      }
+    ],
+    "archivedAt": "2026-10-31T22:00:52.796Z"
+  },
+  {
     "id": "29b9a583e8ea43d3a776f3de405ef062",
     "source": "vendorpanel",
     "reference": "VP522690",
@@ -34891,6 +34964,63 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-14T22:50:02.192Z"
+  },
+  {
+    "id": "7c153879e79242da90106e61e1ba0a75",
+    "source": "vendorpanel",
+    "reference": "VP524554",
+    "title": "ADVANCE TENDER NOTICE - Grounds Maintenance Services",
+    "description": "ADVANCED TENDER NOTICE\n\nGrounds Maintenance Services (Group 4) – Preferred Supplier Arrangement\n\nThe City of Moreton Bay (Council) provides prospective tenderers with an advance notice of its intent to invite Tenders to establish a Preferred Supplier Arrangement (PSA) for Grounds Maintenance Services. Moreton Bay City Council requires these Services, to support the operational needs of the city.\n\nThe PSA would consist of a primary provider for each portion to perform scheduled maintenance in central and eastern districts.\n\nThe purpose of this Vendor Panel (VP) event is an Advertisement only. There is no need to provide a response to this VP event or register your interest. For clarity a Close Date and Expected Decision Date are only listed due to being mandatory VP fields.\n\nTENDER DETAILS\n\nCouncil anticipates the Tender opportunity will be issued by a Request for Tender via VendorPanel in January 2027.\n\nCouncil will not accept any Tender submissions in response to this Advance Tender Notice.\n\nTo ensure regard to ethical behaviour and fair dealing, please refrain from approaching or discussing this opportunity directly with Councillors, Councillor nominees or Council employees.\n\nAll related communications will only be facilitated through VendorPanel Public Tenders forum within the Tender advertisement period.\n\nCouncil does not warrant or represent that all information contained in this Advance Tender Notice is accurate or complete.\n\nCouncil does not guarantee this Advance Tender Notice will result in a Request for Tender, and any changes remain at Council’s sole and absolute discretion.",
+    "buyer": "City of Moreton Bay",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Horticulture & Arboriculture"
+    ],
+    "requestType": "forward-notice",
+    "closingAt": "2026-10-31T07:00:00.000Z",
+    "closingAtRaw": "31/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-07T07:26:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=7c153879e79242da90106e61e1ba0a75s524554sd0ec39275abc414a892a71ca27442204s1574",
+    "vendorPanelDetails": {
+      "buyerAddress": "220 Gympie Rd\nStrathpine, Queensland 4500\nAustralia",
+      "buyerWebsite": "http://www.moretonbay.qld.gov.au/",
+      "buyerDescription": "The Moreton Bay Region is one of the fastest developing places in Australia. Our region is one of diverse communities and landscapes.\nCouncil plays an important role in our communities by providing many of the services and facilities used everyday.",
+      "buyerReference": "001281",
+      "opensAt": "2026-09-06T14:00:00.000Z",
+      "opensAtRaw": "Monday 07 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-10T07:00:00.000Z",
+      "queryCutoffAtRaw": "Saturday 10 October 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-10-31T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 01 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Gold Coast\n3: Sunshine Coast"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-09-07T23:49:00.000Z",
+          "question": "Good morning,\n\nThis Tender notice does not include a scope of works or specifications.",
+          "answeredAt": "2026-09-08T00:34:00.000Z",
+          "answer": "Good morning, please be advised this is an advertisement only. The request for tender will be released in January 2027."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-09-07T13:44:00.867Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "ADVANCED TENDER NOTICE\n\nGrounds Maintenance Services (Group 4) – Preferred Supplier Arrangement\n\nThe City of Moreton Bay (Council) provides prospective tenderers with an advance notice of its intent to invite Tenders to establish a Preferred Supplier Arrangement (PSA) for Grounds Maintenance Services. Moreton Bay City Council requires these Services, to support the operational needs of the city.\n\nThe PSA would consist of a primary provider for each portion to perform scheduled maintenance in central and eastern districts.\n\nThe purpose of this Vendor Panel (VP) event is an Advertisement only. There is no need to provide a response to this VP event or register your interest. For clarity a Close Date and Expected Decision Date are only listed due to being mandatory VP fields.\n\n\n\nTENDER DETAILS\n\nCouncil anticipates the Tender opportunity will be issued by a Request for Tender via VendorPanel in January 2027.\n\nCouncil will not accept a...",
+        "to": "ADVANCED TENDER NOTICE\n\nGrounds Maintenance Services (Group 4) – Preferred Supplier Arrangement\n\nThe City of Moreton Bay (Council) provides prospective tenderers with an advance notice of its intent to invite Tenders to establish a Preferred Supplier Arrangement (PSA) for Grounds Maintenance Services. Moreton Bay City Council requires these Services, to support the operational needs of the city.\n\nThe PSA would consist of a primary provider for each portion to perform scheduled maintenance in central and eastern districts.\n\nThe purpose of this Vendor Panel (VP) event is an Advertisement only. There is no need to provide a response to this VP event or register your interest. For clarity a Close Date and Expected Decision Date are only listed due to being mandatory VP fields.\n\nTENDER DETAILS\n\nCouncil anticipates the Tender opportunity will be issued by a Request for Tender via VendorPanel in January 2027.\n\nCouncil will not accept any Tender submissions in response to this Advance Tender Notice.\n\nTo ensure regard to ethical behaviour and fair dealing, please refrain from approaching or discussing this opportunity directly with Councillors, Councillor nominees or Council employees.\n\nAll related communications will only be facilitated through VendorPanel Public Tenders forum within the Tender advertisement period.\n\nCouncil does not warrant or represent that all information contained in this Advance Tender Notice is accurate or complete.\n\nCouncil does not guarantee this Advance Tender Notice will result in a Request for Tender, and any changes remain at Council’s sole and absolute discretion.",
+        "at": "2026-09-09T04:58:14.310Z"
+      }
+    ],
+    "archivedAt": "2026-10-31T22:00:52.796Z"
   },
   {
     "id": "7c45d71a7d2543528ae0c89a3c248c5e",
