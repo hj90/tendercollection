@@ -9338,6 +9338,76 @@
     "archivedAt": "2026-09-23T22:32:07.942Z"
   },
   {
+    "id": "09e644cdc55d4fb4bedfb1fcc4e9a730",
+    "source": "vendorpanel",
+    "reference": "VP528116",
+    "title": "TEN3163 Request for Quotation Childers Service Centre Ornate Fencing Refurbishment",
+    "description": "Childers Service Centre Heritage Fence Restoration and Repainting\n\nThe Contractor shall provide all labour, materials, plant, equipment, supervision, and incidentals necessary to complete the restoration and repainting of the existing heritage-listed masonry and ironwork fence at the Childers Service Centre.\n\nWork will need to be completed by the 31/05/2027\n\nCouncil will host a non-compulsory site inspection on Tuesday 20/10/2026 at 9.30am for 1hr at the Front of Childers Service Centre, 45 Churchill Street, CHILDERS QLD 4660. Attendance at the site inspection is optional. Contractors wishing to attend the site inspection, must confirm their attendance via Vendor Panel. Register your interest by Friday 16/10/2026 5.00 pm via Vendor Panel. All site visit enquiries and arrangements shall be managed through Vendor Panel only.\n\nPlease refer to the attached documents for more information.",
+    "buyer": "Bundaberg Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Environmental & Heritage Services"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-11-01T22:00:00.000Z",
+    "closingAtRaw": "02/Nov/2026 08:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-06T00:24:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=09e644cdc55d4fb4bedfb1fcc4e9a730s528116",
+    "vendorPanelDetails": {
+      "buyerAddress": "157 Bourbong St\nBundaberg Central, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.bundaberg.qld.gov.au/business/doing-business",
+      "buyerDescription": "Bundaberg Regional Council is situated at the southern end of the Great Barrier Reef stretching from the Burrum River to Baffle Creek, comprising of 6,451 sq km. Collectively, we are renowned for the friendliness of our residents, superb climate, affordable cost of living, first-class facilities, and relaxed lifestyle. The Bundaberg Region is rapidly progressing to be a destination of choice - for residents, visitors, and investors.",
+      "buyerReference": "TEN3163",
+      "opensAt": "2026-10-05T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-10-29T22:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 30 October 2026 08:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-08T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 09 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Hunter\n2: Mid-North Coast\n3: Richmond-Tweed\n4: Sydney",
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-22T02:12:00.000Z",
+          "question": "Will Council accept the painting, render repair and repointing work being carried out by QBCC-licensed subcontractors, and the heritage documentation by a heritage consultant engaged by the respondent, with names, licences and insurances provided before consent under clause 39 of the draft contract?",
+          "answeredAt": "2026-10-26T22:02:00.000Z",
+          "answer": "Good morning,\n\nPlease response to question below. Please note all three question are going to be answer in this reply.\n\nCould Council confirm the total length of fence in the scope (plinth wall and iron palisade, including the curved sections at the entry), and the number of piers and gates? No dimensions are given in the RFQ, so this would help all respondents price the same quantity.\n\nThere is about 36L/M of fence and there is 2 gate and 6 piers.\n\nHas Council or the heritage authority indicated whether a Heritage Impact Statement will be needed for these works, or only the Heritage Exemption Certificate application? If it is not yet known, should the HIS be priced as a separate item?\n\nPlease refer to TEN3163 Q and A - Site Visit - 20102026.pdf Addenda with information from Heritage.\n\nWill Council accept the painting, render repair and repointing work being carried out by QBCC-licensed subcontractors, and the heritage documentation by a heritage consultant engaged by the respondent, with names, licences and insurances provided before consent under clause 39 of the draft contract?\n\nYes, Council will accept a heritage consultant as a subcontractor. If your submission includes a subcontracted heritage consultant, please provide the subcontractor’s name, ABN, licences, insurances, and references. Pricing for the subcontractor must be listed as a separate line item in Returnable Schedule 2 – Pricing Schedule.\n\nIf you have any other questions, please direct them via vendor panel.\n\nKind regards\n\nBundaberg Regional Council"
+        },
+        {
+          "askedAt": "2026-10-29T00:23:00.000Z",
+          "question": "As asked at site meeting\n\nCan we put epoxy on the steel?\n\nCan we put membrane on the fence?",
+          "answeredAt": "2026-10-30T03:50:00.000Z",
+          "answer": "Good afternoon,\n\nPlease refer to the TEN3163 Q and A - Site Visit - 20102026.pdf Addenda for the response from heritage.\n\nIf you have other questions, please direct them via vendor panel.\n\nKind regards\n\nBundaberg Regional Council"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-26T02:26:00.000Z",
+          "description": "Good afternoon,\n\nPlease Q and A for the site visit on the 20/10/2026\n\n1. Added: \t (Addendum) TEN3163 Q and A - Site Visit - 20102026.pdf\n\nIF you have any questions, please direct them via Vendor panel.\n\nKind regards\n\nBundaberg Reginal Council"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-06T00:27:25.014Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-10-26T22:55:59.516Z"
+      }
+    ],
+    "archivedAt": "2026-11-01T22:32:06.656Z"
+  },
+  {
     "id": "0a7acad97d0243e5bbc7db8f1f9a8927",
     "source": "vendorpanel",
     "reference": "VP520226",
