@@ -175,6 +175,34 @@
     "archivedAt": "2026-11-03T23:45:51.315Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Advert/Show/73fe9a33-2c90-4d71-b20f-00bcee8f9d40",
+    "sourceUrl": "https://www.tenders.gov.au/Advert/Show/73fe9a33-2c90-4d71-b20f-00bcee8f9d40",
+    "reference": "PROC-9177488",
+    "title": "Understanding barriers and enablers to IPM adoption in Australian grains",
+    "description": "Australian grain growers are managing pests in an increasingly complex and constrained environment. Key challenges include increasing insecticide resistance, changing access to crop protection products, regulatory and market pressures, emerging and episodic pest threats, and the need to protect beneficial insects and biological control services while preserving the effectiveness of available chemistry.\nGRDC has previously invested in integrated pest management (IPM) adoption, extension and research into the factors that influence practice change across a range of grain-growing regions and pest systems. This provides an important foundation, but much of the earlier adoption work was undertaken before the current level of pressure from insecticide resistance and chemical access constraints, and before more recent changes in how growers and advisers access information and make pest-management decisions.\nGRDC is seeking a suitably qualified provider or multidisciplinary team to undertake an independent opportunity analysis examining the barriers, enablers and pathways influencing practical IPM adoption in Australian grain systems. The analysis will draw on existing evidence, current and previous GRDC and industry investments, available tools and resources, relevant experience from other agricultural industries and international cropping systems, and the perspectives of growers, advisers, researchers, extension and adoption practitioners, and other relevant stakeholders.\nThe work must consider the technical, behavioural, advisory, commercial and broader system-level factors influencing grower and adviser practice change. It must establish a contemporary understanding of current IPM adoption capability, barriers and enabling conditions; assess what has changed since previous IPM adoption and extension investments; and identify the audiences, circumstances and delivery approaches where future effort is most likely to improve practical adoption outcomes.\nGRDC requires practical, evidence-based and decision-ready recommendations to guide the design of future research, development, extension and adoption investments in IPM. The work is intended to focus on adoption and practice-change pathways rather than undertake a detailed technical review of individual pests or pest-management tactics. Where technical limitations are affecting adoption, these should be identified as matters that may require further research and development.",
+    "publishedAt": "2026-10-02T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Grains Research and Development Corporation",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "70140000 - Crop production and management and protection"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-11T06:00:00.000Z",
+    "closingAtRaw": "11-Nov-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Contract Officer\nPhone:\n(02) 6166 4500\nEmail Address:\ncpprocurements@grdc.com.au",
+      "name": "Contract Officer",
+      "email": "cpprocurements@grdc.com.au",
+      "phone": "(02) 6166 4500"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-02T23:23:48.386Z",
+    "changes": [],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Advert/Show/87d6582b-75a1-4dbd-a3fc-38abed249ad1",
     "sourceUrl": "https://www.tenders.gov.au/Advert/Show/87d6582b-75a1-4dbd-a3fc-38abed249ad1",
     "reference": "PROC-9177452",
@@ -931,6 +959,34 @@
       }
     ],
     "archivedAt": "2026-11-03T01:24:27.452Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/31263011-3a92-443e-9a96-78eac6635e70",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/31263011-3a92-443e-9a96-78eac6635e70",
+    "reference": "26AMSA086",
+    "title": "Fixed Wing Aerial Dispersant Capability",
+    "description": "Provision of Fixed Wing Aerial Dispersant Capability (FWADC), more information avaliable in files below.",
+    "publishedAt": "2026-10-13T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Maritime Safety Authority",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "25131800 - Specialty aircraft"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-11T03:00:00.000Z",
+    "closingAtRaw": "11-Nov-2026 2:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Chris Evans\nPhone:\n+61262795027\nEmail Address:\ncontracts-enquiries@amsa.gov.au",
+      "name": "Chris Evans",
+      "email": "contracts-enquiries@amsa.gov.au",
+      "phone": "+61262795027"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-13T23:09:32.279Z",
+    "changes": [],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/322a364d-bc3a-49bb-96a9-f4c1fa3c7a3c",
@@ -8630,6 +8686,78 @@
     "firstSeenAt": "2026-10-13T23:09:32.279Z",
     "changes": [],
     "archivedAt": "2026-10-21T22:01:57.159Z"
+  },
+  {
+    "id": "0332ba21e7664e06a09c3671eae67f56",
+    "source": "vendorpanel",
+    "reference": "VP530091",
+    "title": "Yarrabah ASC Capital Housing Program 3 - Construction",
+    "description": "Yarrabah Aboriginal Shire Council invites Tenders from suitably qualified contractors for the Capital Housing Program 3 which involves: The construction of eight (8) new 2 Bedroom extensions. The works shall be delivered in accordance with Remote Housing Standards and all applicable codes, standards and authority requirements, and shall result in dwellings that are fit for purpose and ready for occupation.",
+    "buyer": "Yarrabah Aboriginal Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T07:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-19T02:04:00.000Z",
+    "contact": null,
+    "documentCount": 32,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0332ba21e7664e06a09c3671eae67f56s530091s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "56 Sawmill Rd\nYarrabah, Queensland 4871\nAustralia",
+      "buyerWebsite": "https://www.yarrabah.qld.gov.au/",
+      "buyerDescription": "The Aboriginal Shire of Yarrabah is a special local government area in Far North Queensland, Queensland, Australia, east and southeast of Cairns on Cape Grafton. It is managed under a Deed of Grant in Trust under the Local Government (Community Government Areas) Act 2004.",
+      "buyerReference": "YASC-2026-023",
+      "opensAt": "2026-10-18T14:00:00.000Z",
+      "opensAtRaw": "Monday 19 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-06T07:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 06 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 25 November 2026 (E. Australia Standard Time)",
+      "background": "The Scope is described in the document(s) attached to or provided with this Request for Tender and identified as:\n\nScope of Works (Construct Only)\n\nThe Contractor shall undertake building approvals and complete the construction of Eight (8) new residential dwellings at the following locations as follows;\n\nCurrent Addresses Lot Number Proposed Housing Type\n\n119b Back Beach Road\n\nLot 373 SP265165\n\n2 Bedroom Extension Studio\n\n3b Stonewig Close\n\nLot 354 SP270846\n\n2 Bedroom Extension Studio\n\n28 Sawmill Road\n\nLot 82 SP265165\n\n2 Bedroom Extension Studio\n\n54B Workshop Road\n\nLot 117 SP265165\n\n2 Bedroom Extension Studio\n\n96 Workshop Road\n\nLot 196 SP265165\n\n2 Bedroom Extension Studio\n\n2 Hyde Street\n\nLot 344 SP270846\n\n2 Bedroom Extension Studio\n\n1A Stonewig\n\nLot 352 SP270846\n\n2 Bedroom Extension Studio\n\n34 Gribble Street\n\nLot 21 SP265165\n\n2 Bedroom Extension Studio\n\nThe Works include, but are not limited to, all labour, materials, plant, equipment, design, approvals and activities necessary to deliver a fully operational, compliant and complete housing development fit for purpose and ready for handover and occupation.\n\nReference Documents\n\n•\n\n2 Bedroom Extension Designs\n\n?\n\n8322_01_CD_Arch Binder_119B Back Beach Rd.pdf\n\n?\n\n8322_01_CD_Structural_119b Back Beach Rd.pdf\n\n?\n\n8322_01_Hydraulic_119b Back Beach Rd.pdf\n\n?\n\n8322_02_CD_Arch Binder_2 Hyde St.pdf\n\n?\n\n8322_02_CD_Structural_2 Hyde St.pdf\n\n?\n\n8322_02_Hydraulic_2 Hyde St.pdf\n\n?\n\n8322_03_CD_Arch Binder_1A Stonewig Cl.pdf\n\n?\n\n8322_03_CD_Structural_1A Stonewig Cl.pdf\n\n?\n\n8322_03_Hydraulic_1A Stonewig Cl.pdf\n\n?\n\n8322_04_CD_Arch Binder_3B Stonewig Cl.pdf\n\n?\n\n8322_04_CD_Structural_3B Stonewig Cl.pdf\n\n?\n\n8322_04_Hydraulic_3b Stonewig Cl.pdf\n\n?\n\n8322_05_CD_Arch Binder_28 Sawmill Rd.pdf\n\n?\n\n8322_05_CD_Structural_28 Sawmill Rd.pdf\n\n?\n\n8322_05_Hydraulic_28 Sawmill Rd.pdf\n\n?\n\n8322_06_CD_Arch Binder_96 Workshop Rd.pdf\n\n?\n\n8322_06_CD_Structural_96 Workshop Rd.pdf\n\n?\n\n8322_06_Hydraulic_96 Workshop Rd.pdf\n\n?\n\n8322_07_CD_Arch Binder_54B Workshop Rd.pdf\n\n?\n\n8322_07_CD_Structural 54B Workshop Rd.pdf\n\n?\n\n8322_07_Hydraulic_54b Workshop Rd.pdf\n\n?\n\n8322_08_CD_Arch Binder_34 Gribble St.pdf\n\n?\n\n8322_08_CD_Structural_34 Gribble.pdf\n\n?\n\n8322_08_Hydraulic_34 Gribble St.pdf\n\n.\n\nKey Requirements\n\nPage 4\n\n•\n\nThe Contractor shall ensure the Works comply with all applicable legislation, codes, standards and authority requirements.\n\n•\n\nThe Works shall be delivered as a complete and functional development, notwithstanding any omissions or discrepancies in the reference documentation.\n\n•\n\nA mandatory Indigenous Employment and Business Participation (IEBP) Plan shall be submitted with the Tender. Failure to submit an IEBP may result in the Tender being deemed non-conforming.\n\nBuilding Approval\n\n•\n\nContractor must obtain relevant building approvals for each property for this work.\n\nSite Establishment & Civil Works\n\n•\n\nSite establishment, access, temporary services and controls\n\n•\n\nDemolition and tree clearing will not form part of this scope.\n\n•\n\nBulk earthworks, cut and fill, trimming and compaction incl. testing if applicable\n\n•\n\nSet out of all works in accordance with approved design and issued FFLs\n\n•\n\nStormwater drainage, overland flow management and lawful discharge\n\nResidential Construction\n\n•\n\nConstruction of eight dwellings in accordance with the designs provided\n\n•\n\nAll works to be in accordance with Remote Housing Standards (RHS) or as otherwise nominated\n\n•\n\nComplete construction of each dwelling including all structural, architectural and building elements necessary to achieve a fully functional and compliant dwelling\n\n•\n\nSupply and installation of all fixtures, fittings and appliances\n\n•\n\nKitchens, bathrooms and laundries including joinery\n\nServices & Utilities\n\n•\n\nAll hydraulic services including water, sewer and drainage\n\n•\n\nElectrical reticulation, metering, switchboards and internal installations\n\n•\n\nCommunications and data provisions as typically required\n\n•\n\nCoordination and connection to mains\n\nExternal & Ancillary Works\n\n•\n\nDriveways, pathways, hardstand areas and access ways\n\n•\n\nFencing, gates and boundary treatments\n\n•\n\nLandscaping, reinstatement and making good of all disturbed areas\n\n•\n\nInstallation of external fixtures including T-Bar clotheslines, external sink and bins\n\nTesting, Commissioning & Handover\n\n•\n\nTesting and commissioning of all services and systems\n\n•\n\nRectification of defects and completion of outstanding works\n\n•\n\nProvision of as-constructed documentation, manuals and warranties\n\n•\n\nFinal certification and approvals for occupancy\n\n•\n\nHandover of a complete, operational and compliant development\n\nContractor Obligations\n\n•\n\nThe Contractor shall verify all site conditions, dimensions, levels and service locations prior to commencing Works.\n\n•\n\nThe Contractor shall be deemed to have allowed for all conditions that may reasonably be anticipated from available information and site inspection.\n\n•\n\nNo claim will be accepted for matters arising from failure to adequately investigate site conditions or coordinate the Works.\n\n•\n\nThe Contractor is responsible for all coordination, interfaces and integration of the Works, whether expressly stated or reasonably inferred.\n\nPage 5\n\nProject Specification\n\n•\n\nDesign and Construction Standards for Remote Housing – August 2025\n\n•\n\nNational Construction Code (NCC)\n\nAdditional Council Specifications\n\nMinimum specs in addition to the Remote Housing requirements; - 6mm FC sheets be nominated for soffit and patio ceiling\n\n•\n\nHinged doors for bedroom cupboards and linen cupboards be nominated in lieu of sliding doors\n\n•\n\nEnsure correct rates tiles for kitchen floor area, laundry floor area, toilet floor area and bathrooms\n\n•\n\nExhaust fans to bathrooms, toilets and 1 in kitchen NOT directly over the stove. Exhaust fans to be 250-300mm low maintenance type. Ducted to external soffits per RHG\n\n•\n\nFixed ridge vents to roof where possible\n\n•\n\nDoor hold back stops to be fixed to top of all doors - Adoored 75mm white cushion clip door stop or similar\n\n•\n\n32mm s/s grab rails to be used as towel rails fit as many towel rails to bathrooms as reasonably possible.\n\n•\n\nRheem Solar HL 300ltr 3.6kw for Solar Hot Water System.\n\nThe Contractor shall comply with the current edition of the National Construction Code (NCC), all applicable Australian Standards (AS/NZS), and all relevant statutory and regulatory requirements.\n\nIt shall be the Contractor’s responsibility to identify and comply with all standards applicable to the Works, whether they are specifically listed in this document.\n\nPART 6 – RESPONSE SCHEDULES The Tender must be submitted in the form provided in the response schedules attached",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-19T04:04:00.000Z",
+          "question": "Good Afternoon,\n\nWould Council please be able to provide the tender response schedule in Microsoft Word format, in addition to the PDF version currently provided?\n\nAn editable copy would assist us in preparing our response efficiently and accurately while maintaining the structure and requirements of Council's original document.\n\nThank you.",
+          "answeredAt": "2026-10-19T05:56:00.000Z",
+          "answer": "A copy of the response schedule in word format has been uploaded."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-19T05:53:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t YASC-2026-023 - Response Schedule - Works (RFT).docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-03T05:54:00.000Z",
+          "description": "Council have confirmed an extension to the closing date on this tender.\n\nThe new tender closing date is 5:00PM Wednesday 11th of November 2026."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-19T22:41:08.884Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-09T05:00:00.000Z",
+        "to": "2026-11-11T07:00:00.000Z",
+        "at": "2026-11-03T23:45:51.315Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "09/Nov/2026 03:00 PM (UTC+10:00) Brisbane time",
+        "to": "11/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-11-03T23:45:51.315Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "0390ee8ab3e14cf5afefaf75e066b7b4",
@@ -21650,6 +21778,116 @@
     "archivedAt": "2026-11-10T01:48:10.581Z"
   },
   {
+    "id": "2d3271b2aeae41faa5b9fdf8d13c82e6",
+    "source": "vendorpanel",
+    "reference": "VP530069",
+    "title": "2027-035 Daintree Bore Condition Assessment",
+    "description": "Douglas Shire Council (DSC) invites Quotations from suitably qualified Respondents for the staged condition assessment and investigation of RN148297, refurbishment (if ordered), replacement-bore construction (if ordered), and water quantity and quality testing of the reinstated or replacement bore (if ordered). Portion 1 is the only scope initially awarded. Portions 2, 3 and 4 are separately priced Provisional Work and shall proceed only to the extent directed in writing under the Contract. Permanent equipping is excluded.",
+    "buyer": "Douglas Shire Council",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Mining & Quarrying & Oil & Gas"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-19T01:29:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2d3271b2aeae41faa5b9fdf8d13c82e6s530069sd456a7c31da74648a82e328c2f05cd62s1589",
+    "vendorPanelDetails": {
+      "buyerAddress": "64-66 Front St\nMossman, Queensland 4873\nAustralia",
+      "buyerWebsite": "https://www.douglas.qld.gov.au/",
+      "buyerDescription": "The Douglas Shire covers an area of 2,445km from north of Ellis Beach in the south to the Bloomfield River in the north. The economy of the shire depends mainly on tourism, with 1.2 million visitors annually exploring our many natural wonders, and agriculture of sugar cane farming and processing.",
+      "buyerReference": "2027-035",
+      "opensAt": "2026-10-18T14:00:00.000Z",
+      "opensAtRaw": "Monday 19 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-01T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 02 December 2026 (E. Australia Standard Time)",
+      "background": "Online site visit via Teams\n\nDate: Thursday 5 November\n\nTime: 9:30am\n\nMandatory RSVP drfa.enquiries@douglas.qld.gov.au by 5pm Tuesday 2 November.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-21T01:38:00.000Z",
+          "question": "Hi DSC – Upon review of the RFQ, it appears that the DSC team have their own hydrogeologist on board to take on the risks associated with bore performance and interpretation of the data. It therefore appears that the scope is more akin to a bore “constructor” scope of work only as opposed to an integrated hydrogeologist / bore contractor approach. Would this be a fair assessment of the scope as it stands and would DSC see any benefit from an integrated approach from the market, i.e. consultant hydrogeologist included in the team?",
+          "answeredAt": "2026-10-21T21:31:00.000Z",
+          "answer": "Tenderers are required to submit a conforming offer based on the scope of services and requirements set out in the RFQ.\n\nIn addition to the conforming offer, Tenderers may submit an alternative offer incorporating an integrated hydrogeologist and bore contractor approach, where the Tenderer considers that this will provide additional technical or commercial benefit to Council.\n\nAny alternative offer shall clearly identify the proposed approach, scope, assumptions and any departures from the RFQ requirements. Pricing for the alternative offer shall clearly quantify any cost savings or additional costs relative to the conforming offer, with these adjustments attributed to the relevant scope items where applicable."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-26T00:09:00.000Z",
+          "description": "Site visit"
+        },
+        {
+          "at": "2026-10-29T03:27:00.000Z",
+          "description": "Site visit updated."
+        },
+        {
+          "at": "2026-10-29T03:30:00.000Z",
+          "description": "Please note there will be an online mandatory site visit via Teams on:-\n\nThursday 5th November at 9:30am\n\nPlease RSVP me at karen.french@douglas.qld.gov.au by 5pm Tuesday 3rd November should you wish to attend."
+        },
+        {
+          "at": "2026-11-02T01:08:00.000Z",
+          "description": "Online site visit updated to 5 November at 9:30am"
+        },
+        {
+          "at": "2026-11-02T01:11:00.000Z",
+          "description": "Mandatory RSVP"
+        },
+        {
+          "at": "2026-11-08T21:53:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CN2027~3.PDF\n\n2. Added: \t (Addendum) DAINTR~1.PDF\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-11-10T04:11:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CN2027~4.PDF\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-19T22:41:08.884Z",
+    "changes": [
+      {
+        "field": "contact",
+        "from": "null",
+        "to": "{\"raw\":\"Karen French Email: karen.french@douglas.qld.gov.au Tel: 0740999498\",\"name\":\"Karen French\",\"email\":\"karen.french@douglas.qld.gov.au\",\"phone\":\"0740999498\"}",
+        "at": "2026-10-29T23:02:11.469Z"
+      },
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Karen French Email: karen.french@douglas.qld.gov.au Tel: 0740999498\",\"name\":\"Karen French\",\"email\":\"karen.french@douglas.qld.gov.au\",\"phone\":\"0740999498\"}",
+        "to": "null",
+        "at": "2026-11-03T01:24:27.452Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "6",
+        "at": "2026-11-08T22:34:58.941Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-11-10T23:49:10.050Z"
+      },
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"64-66 Front St\\nMossman, Queensland 4873\\nAustralia\",\"buyerWebsite\":\"https://www.douglas.qld.gov.au/\",\"buyerDescription\":\"The Douglas Shire covers an area of 2,445km from north of Ellis Beach in the south to the Bloomfield River in the north. The economy of the shire depends mainly on tourism, with 1.2 million visitors annually exploring our many natural wonders, and agriculture of sugar cane farming and processing.\",\"buyerReference\":\"2027-035\",\"opensAt\":\"2026-10-18T14:00:00.000Z\",\"opensAtRaw\":\"Monday 19 October 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-11-09T04:00:00.000Z\",\"queryCutoffAtRaw\":\"Monday 09 November 2026 02:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-12-01T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 02 December 2026 (E. Australia Standard Time)\",\"background\":\"Online site visit via Teams\\n\\nDate: Thursday 5 November\\n\\nTime: 9:30am\\n\\nMandatory RSVP drfa.enquiries@douglas.qld.gov.au by 5pm Tuesday 2 November.\",\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Far North\\n2: Mackay\\n3: Northern\"],\"publicQuestions\":[{\"askedAt\":\"2026-10-21T01:38:00.000Z\",\"question\":\"Hi DSC – Upon review of the RFQ, it appears that the DSC team have their own hydrogeologist on board to take on the risks associated with bore performance and interpretation of the data. It therefore appears that the scope is more akin to a bore “constructor” scope of work only as opposed to an integrated hydrogeologist / bore contractor approach. Would this be a fair assessment of the scope as it stands and would DSC see any benefit from an integrated approach from the market, i.e. consultant hydrogeologist included in the team?\",\"answeredAt\":\"2026-10-21T21:31:00.000Z\",\"answer\":\"Tenderers are required to submit a conforming offer based on the scope of services and requirements set out in the RFQ.\\n\\nIn addition to the conforming offer, Tenderers may submit an alternative offer incorporating an integrated hydrogeologist and bore contractor approach, where the Tenderer considers that this will provide additional technical or commercial benefit to Council.\\n\\nAny alternative offer shall clearly identify the proposed approach, scope, assumptions and any departures from the RFQ requirements. Pricing for the alternative offer shall clearly quantify any cost savings or additional costs relative to the conforming offer, with these adjustments attributed to the relevant scope items where applicable.\"}],\"updates\":[{\"at\":\"2026-10-26T00:09:00.000Z\",\"description\":\"Site visit\"},{\"at\":\"2026-10-29T03:27:00.000Z\",\"description\":\"Site visit updated.\"},{\"at\":\"2026-10-29T03:30:00.000Z\",\"description\":\"Please note there will be an online mandatory site visit via Teams on:-\\n\\nThursday 5th November at 9:30am\\n\\nPlease RSVP me at karen.french@douglas.qld.gov.au by 5pm Tuesday 3rd November should you wish to attend.\"},{\"at\":\"2026-11-02T01:08:00.000Z\",\"description\":\"Online site visit updated to 5 November at 9:30am\"},{\"at\":\"2026-11-02T01:11:00.000Z\",\"description\":\"Mandatory RSVP\"},{\"at\":\"2026-11-08T21:53:00.000Z\",\"description\":\"Please note: The following addenda have been recently added.\\n\\n1. Added: \\t (Addendum) CN2027~3.PDF\\n\\n2. Added: \\t (Addendum) DAINTR~1.PDF\\n\\nPlease consider these addenda when responding.\"}]}",
+        "to": "{\"buyerAddress\":\"64-66 Front St\\nMossman, Queensland 4873\\nAustralia\",\"buyerWebsite\":\"https://www.douglas.qld.gov.au/\",\"buyerDescription\":\"The Douglas Shire covers an area of 2,445km from north of Ellis Beach in the south to the Bloomfield River in the north. The economy of the shire depends mainly on tourism, with 1.2 million visitors annually exploring our many natural wonders, and agriculture of sugar cane farming and processing.\",\"buyerReference\":\"2027-035\",\"opensAt\":\"2026-10-18T14:00:00.000Z\",\"opensAtRaw\":\"Monday 19 October 2026 (E. Australia Standard Time)\",\"queryCutoffAt\":\"2026-11-11T04:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 11 November 2026 02:00 PM (E. Australia Standard Time)\",\"expectedDecisionAt\":\"2026-12-01T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Wednesday 02 December 2026 (E. Australia Standard Time)\",\"background\":\"Online site visit via Teams\\n\\nDate: Thursday 5 November\\n\\nTime: 9:30am\\n\\nMandatory RSVP drfa.enquiries@douglas.qld.gov.au by 5pm Tuesday 2 November.\",\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"Queensland\\n1: Far North\\n2: Mackay\\n3: Northern\"],\"publicQuestions\":[{\"askedAt\":\"2026-10-21T01:38:00.000Z\",\"question\":\"Hi DSC – Upon review of the RFQ, it appears that the DSC team have their own hydrogeologist on board to take on the risks associated with bore performance and interpretation of the data. It therefore appears that the scope is more akin to a bore “constructor” scope of work only as opposed to an integrated hydrogeologist / bore contractor approach. Would this be a fair assessment of the scope as it stands and would DSC see any benefit from an integrated approach from the market, i.e. consultant hydrogeologist included in the team?\",\"answeredAt\":\"2026-10-21T21:31:00.000Z\",\"answer\":\"Tenderers are required to submit a conforming offer based on the scope of services and requirements set out in the RFQ.\\n\\nIn addition to the conforming offer, Tenderers may submit an alternative offer incorporating an integrated hydrogeologist and bore contractor approach, where the Tenderer considers that this will provide additional technical or commercial benefit to Council.\\n\\nAny alternative offer shall clearly identify the proposed approach, scope, assumptions and any departures from the RFQ requirements. Pricing for the alternative offer shall clearly quantify any cost savings or additional costs relative to the conforming offer, with these adjustments attributed to the relevant scope items where applicable.\"}],\"updates\":[{\"at\":\"2026-10-26T00:09:00.000Z\",\"description\":\"Site visit\"},{\"at\":\"2026-10-29T03:27:00.000Z\",\"description\":\"Site visit updated.\"},{\"at\":\"2026-10-29T03:30:00.000Z\",\"description\":\"Please note there will be an online mandatory site visit via Teams on:-\\n\\nThursday 5th November at 9:30am\\n\\nPlease RSVP me at karen.french@douglas.qld.gov.au by 5pm Tuesday 3rd November should you wish to attend.\"},{\"at\":\"2026-11-02T01:08:00.000Z\",\"description\":\"Online site visit updated to 5 November at 9:30am\"},{\"at\":\"2026-11-02T01:11:00.000Z\",\"description\":\"Mandatory RSVP\"},{\"at\":\"2026-11-08T21:53:00.000Z\",\"description\":\"Please note: The following addenda have been recently added.\\n\\n1. Added: \\t (Addendum) CN2027~3.PDF\\n\\n2. Added: \\t (Addendum) DAINTR~1.PDF\\n\\nPlease consider these addenda when responding.\"},{\"at\":\"2026-11-10T04:11:00.000Z\",\"description\":\"Please note: The following addendum has been recently added.\\n\\n1. Added: \\t (Addendum) CN2027~4.PDF\\n\\nPlease consider this addendum when responding.\"}]}",
+        "at": "2026-11-10T23:49:10.050Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "2d957666413d424db2d2318ff57c7bc1",
     "source": "vendorpanel",
     "reference": "VP525197",
@@ -23237,6 +23475,83 @@
       }
     ],
     "archivedAt": "2026-10-21T22:01:57.159Z"
+  },
+  {
+    "id": "325a978dd5454e6cadf83b510cbecae6",
+    "source": "vendorpanel",
+    "reference": "VP530644",
+    "title": "RFT 2627-024 - Floodlighting upgrades for George Griffin Oval, Bega",
+    "description": "Bega Valley Shire Council is seeking tenders from appropriately qualified and experienced organisations for the design and construct floodlighting upgrades for George Griffin Oval, Bega. 100 Lux to AS 2560.2.3-2007 Sports Lighting specific applications lighting for football (all codes). Infrastructure to install 300 LUX in the future.",
+    "buyer": "Bega Valley Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "ELEC, Lighting, Equip & Services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-12T02:00:00.000Z",
+    "closingAtRaw": "12/Nov/2026 12:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-23T02:08:00.000Z",
+    "contact": null,
+    "documentCount": 19,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=325a978dd5454e6cadf83b510cbecae6s530644seddc4f0a8cf346b8a6104f0011c41f23s1557",
+    "vendorPanelDetails": {
+      "buyerAddress": "Zingel Pl\nBega, New South Wales 2550\nAustralia",
+      "buyerWebsite": "http://www.begavalley.nsw.gov.au",
+      "buyerDescription": "** ABOUT THE BEGA VALLEY **\n\nThe Bega Valley Shire is located at the south-eastern corner of New South Wales, halfway between Australia’s two largest cities, Sydney and Melbourne and three hours’ drive from the nation’s capital, Canberra.\n\nOur coastal fringe extends from Wallaga Lake in the north to Cape Howe and the Victorian border in the south. Collectively this 225-kilometre section forms the beautiful Sapphire Coast, the heart of Australia’s Coastal Wilderness.\n\nOur community vision explains our collective aspiration that we are an inclusive and welcoming community that integrates quality of life, prosperity, sustainable development and conservation of the environment. Our connection to Country is guided by the culture and heritage of our Traditional Owners.\n\n** ABOUT COUNCIL **\n\nBega Valley Shire Council is responsible for providing all of the typical local government services across the Bega Valley Shire including maintaining a broad range of assets valued at over $1.7 billion that allow our visitors and community alike to live, work and play.\n\nThe Bega Valley Shire is governed by an elected Council comprising nine Councillors. Councillors provide leadership and establish policy and strategic direction for the organisation and the future of the shire.\n\nDelivering the day to day services for council is a professional and dynamic staff cohort of over 560 people including full time, contract and casual positions.\n\nContractors to council play an important and valued role, assisting us delivering services and projects to the highest of standards and value for money.\n\n** WHAT COUNCIL DOES **\n\nProvide and maintain community facilities such as:\n•\tParks and sportsgrounds\n•\tPlaygrounds and skate parks\n•\tSapphire Aquatic centre Pambula and swimming pools throughout the shire\n•\tSports and recreation facilities throughout the Shire\n•\tLocal libraries in Bega, Bermagui, Eden and Merimbula\n•\tPreschools and Childcare centres in Bega and Eden, and our Mobile service for Candelo and Bemboka\n•\tMerimbula Airport, Bega Saleyards and Cemeteries throughout the Shire\n\nWe care for the environment by:\n•\tManaging and enhancing bushland areas\n•\tProviding environmental and waste education and recycling services\n•\tResponding to pollution incidents and prosecuting polluters\n•\tMonitoring the water quality of the Shire’s estuaries\n•\tPlanting trees and controlling noxious weeds\n•\tBeneficially recycling and reusing treated effluent\n\nWe create a safer place to live by:\n•\tMaintaining and improving roads, footpaths and stormwater drains\n•\tWorking with emergency organisations such as the Rural Fire Service, State Emergency Service, NSW Police and NSW Surf Life Saving\n•\tManaging the keeping of companion animals\n•\tInspecting food premises\n•\tTreating and supplying drinking water to our community\n•\tTreating sewage to a high standard to protect human health\n\nWe enhance our community by:\n•\tListening to community views\n•\tHolding citizenship ceremonies, Australia Day Celebrations and the Seniors week luncheon known as the Golden Gig\n•\tOffering services for seniors, young people, new migrants and people with a disability\n•\tProviding grants to community organisations\n•\tSupporting local community groups such as sporting clubs, arts, migrant groups and charities\n•\tEncouraging and promoting volunteering in our communities\n\nWe plan for the future by:\n•\tPlanning and managing the urban environment\n•\tPreserving heritage sites\n•\tConsulting with the community about its needs\n•\tDeveloping long term strategic plans for Council and the Shire",
+      "buyerReference": "RFT 2627-024",
+      "opensAt": "2026-10-22T14:00:00.000Z",
+      "opensAtRaw": "Friday 23 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-09T01:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 12:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2027-01-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Monday 11 January 2027 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed the Tender Schedules?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: South Eastern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-30T02:07:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t RFT 2627-024 - Pre-tender Meeting - Minutes.pdf\n\n2. Added: \t RFT 2627-024 Addendum One.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-11-04T04:59:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t RFT 2627-024 - George Griffin Site Map REVISED.pdf\n\n2. Added: \t RFT 2627-024 Addendum two.pdf\n\n3. Added: \t RFT 2627-024 MW21 general conditions of contract - REVISED.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-11-09T04:10:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t George Griffin Oval Football Field Dimensions.PDF\n\n2. Added: \t RFT 2627-024 Addendum Three.pdf\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-23T21:44:44.471Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "14",
+        "at": "2026-10-30T22:43:00.194Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "14",
+        "to": "17",
+        "at": "2026-11-05T00:02:40.372Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "17",
+        "to": "19",
+        "at": "2026-11-10T01:48:10.581Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "33d96e904e8543b8be87b365cddd5ae8",
@@ -28104,6 +28419,88 @@
     "archivedAt": "2026-10-22T21:59:00.631Z"
   },
   {
+    "id": "45e7f82fcc0a4de791cac6098963afdb",
+    "source": "vendorpanel",
+    "reference": "VP529396",
+    "title": "Council Managed Caravan Park - Fire Safety Works - BEMM RIVER AND OMEO",
+    "description": "East Gippsland Shire Council requires fire safety upgrades at Omeo Holiday Park and Bemm River Caravan Park to bring the operational caravan parks into compliance with the 2024 CFA guidelines. The current park operations and fire protection arrangements are based on previous regulatory requirements and must be reviewed and upgraded to meet current fire safety expectations. The works require the design and construction of upgraded fire hydrant systems, supported by a site master plan that addresses internal road access, fire appliance access, hydrant coverage, emergency access, separation distances and adequate park spacing in accordance with the 2024 CFA guidelines. The ECM drawings are performance/reference information only; the Contractor is responsible for completing and certifying the detailed design under AS 4902.",
+    "buyer": "East Gippsland Shire Council",
+    "buyerType": null,
+    "state": null,
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Fire & Safety"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-14T04:41:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=45e7f82fcc0a4de791cac6098963afdbs529396",
+    "vendorPanelDetails": {
+      "buyerAddress": "273 Main St\nBairnsdale, Victoria 3875\nAustralia",
+      "buyerWebsite": "https://www.eastgippsland.vic.gov.au",
+      "buyerDescription": "Our Vision is to make East Gippsland an inclusive and innovative community that values its natural environment, puts community at the centre of Council decision-making and creates conditions in which communities can thrive.",
+      "buyerReference": "CON2027 1770",
+      "opensAt": "2026-10-13T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 14 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-04T03:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 04 November 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2027-01-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 10 January 2027 (AUS Eastern Standard Time)",
+      "background": "The Contractor is to complete the design of the fire protection systems at Omeo Holiday Park and Bemm River Caravan Park and construct the works so that each completed system satisfies the PPR (Appendix A), is certified compliant with AS 2419.1, CFA 2024 guideline, and AS 2441, achieves the nominated hydraulic performance and is fully operational at Practical Completion. The design is to also incorporate the concept road drawings and site master plan developed to satisfy the 2024 CFA guideline requirements, including adequate internal road access, fire appliance access, turning areas, separation distances, and site spacings within the parks. The Contractor is responsible for verifying, completing, and certifying all road access, fire appliance access, park layout spacing, and related interface requirements through the Design & Construct process.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you submitted Part 4 - Response Schedules.docx",
+        "Have you submitted Attachment 1 – HSW Questionnaire.docx",
+        "Have you submitted Attachment 2 – Pricing Schedule.xlsx",
+        "Have you submitted Insurance policies",
+        "Have you submitted Occupational Health and Safety Management System (if required)",
+        "Have you submitted Quality Management System (if required)",
+        "Have you submitted Environmental Management System (if required)",
+        "Have you submitted Business Continuity Plan (if required)",
+        "Have you submitted Construction Management Plan / Project Plan (if required)",
+        "Have you submitted Traffic Guidance Scheme (if required)",
+        "Have you Signed Tenderer Declaration"
+      ],
+      "serviceRegions": [
+        "Victoria\n1: East Gippsland"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-14T23:37:00.000Z",
+          "question": "Hello East Gippsland Shire Council,\n\nWill Fire Alarm Monitoring be forming part of this scope?\n\nThanks,",
+          "answeredAt": "2026-10-16T05:48:00.000Z",
+          "answer": "Council advise, No. Fire Alarm Monitoring will not form part of this scope, as it is specifically excluded from the scope of works."
+        },
+        {
+          "askedAt": "2026-10-19T02:30:00.000Z",
+          "question": "Having reviewed the information provided, we believe a gap analysis and engineering review should be completed first to ensure a clear and consistent tendering period. We also believe a civil engineer/consultant will be required as part of this process.\n\nWe can offer this service without the construction component. This would allow a clear, well-defined tender to be issued for the construction works.\n\nIs this revised scope something you would be interested in receiving a quote for?",
+          "answeredAt": "2026-10-20T01:42:00.000Z",
+          "answer": "Thank you for your suggestion. However, because this project is being delivered under a Design & Construct (D&C) framework, we require the civil engineering and gap analysis to be fully integrated into the main contract. We are looking for a single point of accountability for both the engineering design and the construction works, so we will not be separating the scope or requesting a standalone quote for the review phase at this time."
+        },
+        {
+          "askedAt": "2026-10-23T05:38:00.000Z",
+          "question": "On the Bemm River sheet, rows 23 to 82 don't add into the subtotals and the summary shows #REF!. Will a fixed schedule be issued?",
+          "answeredAt": "2026-10-23T06:14:00.000Z",
+          "answer": "The drop-down button in each subtotal cell allows you to select the SUM option, which will automatically calculate the total for rows.\n\nThis should also resolve the #REF! error in the summary.\n\nIf the error persists please let us know."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-14T21:59:10.357Z",
+    "changes": [
+      {
+        "field": "title",
+        "from": "CON2027 1770",
+        "to": "Council Managed Caravan Park - Fire Safety Works - BEMM RIVER AND OMEO",
+        "at": "2026-10-15T21:52:02.816Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "465b3a7fccfe47efad9941847978dae7",
     "source": "vendorpanel",
     "reference": "VP528087",
@@ -29164,6 +29561,86 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "4c1da1647aee4e4ebf8f82c4ae376bbd",
+    "source": "vendorpanel",
+    "reference": "VP530260",
+    "title": "RFT260108 Pre-qualified Register of Town Planning Consultants",
+    "description": "Council is seeking to establish a register of town planning consultants to:\n\nAssess development applications on council’s behalf when application loads are high or internal resourcing is limited. The consultant panel will also assist with the assessment of development applications where council has a real or perceived conflict of interest, for example, where council is the landowner or applicant for a development application.\n\nAssist in the task of duty planner function where required to assist the team with customer requests by phone and email.\n\nAssess applications for development incentives or grants under the Economic Stimulus Policy on council’s behalf when the application loads are high or internal resourcing is limited.\n\nAssist with the delivery of strategic planning projects when internal capacity is limited or during periods of leave.\n\nCouncil are seeking to create a shortlist register of preferred suppliers so that council can request detailed quotations from during the contract period. Town planning consultants may nominate to be part of the register for development assessment and/or strategic land use tasks.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Architecture, Design, Planning"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-11-11T02:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-20T00:16:00.000Z",
+    "contact": null,
+    "documentCount": 6,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=4c1da1647aee4e4ebf8f82c4ae376bbds530260s4d7945fe3b9f4b55a77b46e57c87863fs1544",
+    "vendorPanelDetails": {
+      "buyerAddress": "Batts St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260108",
+      "opensAt": "2026-10-19T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-10T02:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 10 November 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-17T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 18 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-22T01:03:00.000Z",
+          "question": "Can you confirm if duty planner functions are required if a tender response relates to the provision of strategic planning services only?",
+          "answeredAt": "2026-10-28T02:38:00.000Z",
+          "answer": "Hi,\n\nThank you for your query.\n\nThe duty planner function only relates to the Development Assessment Services.\n\nThank you"
+        },
+        {
+          "askedAt": "2026-10-28T03:57:00.000Z",
+          "question": "Professional Indemnity Insurance Minimum Cover Clarification\n\nDocument named 'RFT260108-Section_C-Specification_of_Services' requires minimum $5,000,000.00 professional indemnity insurance be maintained.\n\nDocument names 'RFT260108-Section_D-Conditions_of_Contract' requires minimum $2,000,000.00 professional indemnity insurance be maintained.\n\nPlease confirm if the minimum cover for professional indemnity insurance is $2,000,000.00.\n\nThank you.",
+          "answeredAt": "2026-11-02T00:36:00.000Z",
+          "answer": "Hi,\n\nThank you for your query - Council requires a minimum $5,000,000.00 professional indemnity to be maintained."
+        },
+        {
+          "askedAt": "2026-10-29T05:30:00.000Z",
+          "question": "Hi there,\n\nJust seeking some clarification for the Closing Date for Tender Submission.\n\nOn Vendor Panel it says Closing Date is 10 November 2026\n\nSection A - 3. THE PROCESS Timetable states that the Closing Time for Tenders will be the 30 October 2026 (tomorrow)\n\nCan you please confirm.",
+          "answeredAt": "2026-10-30T02:14:00.000Z",
+          "answer": "Good afternoon,\n\nThis is an administrative error, the tender will be closing on 10th November.\n\nThank you."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-10T00:27:00.000Z",
+          "description": "Hi all,\n\nPlease be advised that this has been extended an extra day.\n\nClosing date is now Wednesday, 11 November 2026, 12pm.\n\nThank you."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-20T21:59:13.572Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-10T02:00:00.000Z",
+        "to": "2026-11-11T02:00:00.000Z",
+        "at": "2026-11-10T01:48:10.581Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Nov/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "to": "11/Nov/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-11-10T01:48:10.581Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "4c9eea6ec33b4a3b8a2ec4ebd2f03f09",
     "source": "vendorpanel",
     "reference": "VP530292",
@@ -29809,6 +30286,67 @@
       }
     ],
     "archivedAt": "2026-10-06T22:50:00.661Z"
+  },
+  {
+    "id": "4e40dd289b0248c68e62a17495d8bd06",
+    "source": "vendorpanel",
+    "reference": "VP530513",
+    "title": "Registration of Interest - Princess Alexandra Hospital - Artist - Multiple Artwork Opportunities",
+    "description": "Health Infrastructure Queensland invites you to register your for HIQ1646 Princess Alexandra Hospital - Artist - Multiple Artwork Opportunities.\n\nPlease note an Artist information session via Teams is scheduled for Wednesday 4th November 2026.\n\nFurther background information and requirements are outlined in the Registration of Interest (ROI).",
+    "buyer": "Health Infrastructure Queensland",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Graphical, Photographic & Art"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-21T03:48:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=4e40dd289b0248c68e62a17495d8bd06s530513sc755a8448a524914b9952b1936eafcbbs1571",
+    "vendorPanelDetails": {
+      "buyerAddress": "275 George St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.health.qld.gov.au/system-governance/health-infrastructure",
+      "buyerDescription": "Health Infrastructure Queensland (HIQ) is the division within Queensland Health (QH) responsible for the planning, design, procurement and delivery of this program of work, the largest in the State’s history.\n\nOur mission is to streamline the delivery of healthcare infrastructure, ensuring it will serve our communities now and into the future.",
+      "buyerReference": "HIQ1646",
+      "opensAt": "2026-10-20T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-11T04:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-08T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 09 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-23T04:41:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\nThe new ROI Template has been updated and contains the new briefing date and RSVP closing date.\n\nLocation:\tvia Microsoft Teams\n\nTime/Date:\t4.00pm on Wednesday, 4th November 2026\n\nArtists are to email to the Contact Officer by 2.00pm on Friday, 30 October 2026 with your name or your representatives name and email address indicating your intention to attend the information session. A Microsoft Teams invite will be sent confirming your attendance.\n\n1. Added: \t (Addendum) HIQ1646 Arts ROI V2.docx\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-21T22:01:57.159Z",
+    "changes": [
+      {
+        "field": "description",
+        "from": "Health Infrastructure Queensland invites you to register your for HIQ1646 Princess Alexandra Hospital - Artist - Multiple Artwork Opportunities.\n\nPlease note an Artist information session via Teams is scheduled for Tuesday, 27 October 2026.\n\nFurther background information and requirements are outlined in the Registration of Interest (ROI).",
+        "to": "Health Infrastructure Queensland invites you to register your for HIQ1646 Princess Alexandra Hospital - Artist - Multiple Artwork Opportunities.\n\nPlease note an Artist information session via Teams is scheduled for Wednesday 4th November 2026.\n\nFurther background information and requirements are outlined in the Registration of Interest (ROI).",
+        "at": "2026-10-23T21:44:44.471Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "1",
+        "to": "2",
+        "at": "2026-10-23T21:44:44.471Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "4e50643bbf74445db96e8d40efd9e9c9",
@@ -35040,6 +35578,96 @@
     "firstSeenAt": "2026-10-16T21:48:57.937Z",
     "changes": [],
     "archivedAt": "2026-10-30T22:43:00.194Z"
+  },
+  {
+    "id": "61d04fc5a73e415b97b9f87059735c86",
+    "source": "vendorpanel",
+    "reference": "VP531322",
+    "title": "RFT2627-14 Adobe Software Renewal",
+    "description": "The Town of Port Hedland (Town) currently maintains Adobe software subscriptions under the Adobe Value Incentive Plan (VIP). The Town’s current VIP membership is at Discount Level 4 and Transaction Tier 1, and the existing licensing expires on 23 November 2026.\n\nThe Town is seeking an authorised Adobe reseller to provide an initial three-year renewal of its existing Adobe software subscriptions, with the option for two further one-year renewals at the sole discretion of the Town.\n\nThe objective of the procurement is to maintain uninterrupted access to the Town’s existing Adobe products while obtaining transparent pricing and efficient renewal administration.",
+    "buyer": "Town of Port Hedland",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T07:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 03:00 PM (UTC+08:00) Perth time",
+    "publishedAt": "2026-10-27T21:00:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=61d04fc5a73e415b97b9f87059735c86s531322se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "11A McGregor St\nPort Hedland, Western Australia 6721\nAustralia",
+      "buyerWebsite": "http://www.porthedland.wa.gov.au/",
+      "buyerDescription": "Port Hedland is transforming into a vibrant attractive regional city with a community that are proud to live, work and play in the heart of the Pilbara.",
+      "buyerReference": "RFT2627-14",
+      "opensAt": "2026-10-27T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 28 October 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T07:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 03:00 PM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-24T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 25 November 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Pilbara"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-28T22:22:00.000Z",
+          "question": "Hi,\n\nCould you please advise the contract/VIP number?\n\nthanks",
+          "answeredAt": "2026-10-29T03:41:00.000Z",
+          "answer": "Good afternoon,\n\nPlease see addendum 1.\n\nThank you"
+        },
+        {
+          "askedAt": "2026-10-29T11:58:00.000Z",
+          "question": "RFT2627-14 – Clarification of Licensing and Contract Requirements\n\nDear Procurement Team,\n\nCould you please clarify the following requirements regarding RFT2627-14 – Adobe Software Renewal?\n\nSupplier eligibility: Are Australian-registered companies based outside Western Australia, including Queensland, eligible to participate in this tender?\n\nAdobe licensing: The specified products are commercial (COM) licences. Must these exact licences be maintained, or would equivalent government (GOV) licences be considered?\n\nLicence quantities: Would the Town accept an Adobe three-year commitment requiring a minimum licence quantity, or must quantities remain fully adjustable, including reductions below the initial 146 licences?\n\nEarly termination: If the Town terminates the agreement before the initial three-year term expires, would it remain responsible for any non-cancellable Adobe licensing commitments and associated costs?\n\nInsurance: Given that this contract involves electronic software licensing and remote administration, could you clarify whether the $30 million motor vehicle and $50 million workers' compensation insurance requirements apply to suppliers who do not use vehicles or employ staff for contract delivery?\n\nContract commencement: The tender document indicates an anticipated award date of 17 November 2026, while VendorPanel indicates 25 November 2026. Could you confirm the expected award date, considering the required licence commencement date of 24 November 2026?\n\nThank you for your assistance and clarification.",
+          "answeredAt": "2026-11-03T01:04:00.000Z",
+          "answer": "Good morning,\n\nPlease see addendum 2.\n\nThank you"
+        },
+        {
+          "askedAt": "2026-10-30T11:10:00.000Z",
+          "question": "Hi,\n\nThanks for Addendum 1. A few questions so we can price accurately:\n\nThe current licences expire on 23 November 2026, and the expected decision date is 25 November 2026. How would the Town like any gap handled? For example, would the Town arrange a short extension with the current reseller, or should the new reseller process the renewal within Adobe’s late-renewal period after award?\n\nWould the Town consider Adobe’s 3-Year Commitment (3YC) pricing, which locks unit prices for the three-year term? Or is standard annual VIP pricing preferred?\n\nShould prices be shown inclusive or exclusive of GST, and invoiced annually in advance on the anniversary date?\n\nCan you confirm the Town will accept the transfer of its existing VIP membership to the successful reseller through the Adobe Admin Console?\n\nRegards,\n\nPalani",
+          "answeredAt": "2026-11-03T01:05:00.000Z",
+          "answer": "Good morning,\n\nPlease see addendum 3.\n\nThank you."
+        },
+        {
+          "askedAt": "2026-11-02T04:48:00.000Z",
+          "question": "Could you please provide the current anniversary date?",
+          "answeredAt": "2026-11-03T01:06:00.000Z",
+          "answer": "Good morning,\n\nPlease see addendum 4.\n\nThank you."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-29T03:40:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Addendum 1 RFT2627-14.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-03T01:04:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum 2 RFT2627-14.docx\n\n2. Added: \t Addendum 3 RFT2627-14.docx\n\n3. Added: \t Addendum 4 RFT2627-14.docx\n\nPlease consider these attachments when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-27T22:44:08.070Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "1",
+        "to": "2",
+        "at": "2026-10-29T23:02:11.469Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "5",
+        "at": "2026-11-03T23:45:51.315Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "625b6a5fdd824c289083052ce9b65e38",
@@ -41761,6 +42389,94 @@
     "archivedAt": "2026-10-30T22:43:00.194Z"
   },
   {
+    "id": "7c7e878dcb89493991463af912e5adfa",
+    "source": "vendorpanel",
+    "reference": "VP528577",
+    "title": "Footpath and Drainage Construction – Colches Street, Farley Street & Jersey Street, Casino",
+    "description": "This tender has been called to engage a suitably qualified and experienced contractor to complete all works outlined in the scope of works as per the attached detailed plans and bill of quantities for the footpath and drainage construction on Colches Street, Farley Street & Jersey Street, Casino.\n\nThe scope of works includes but is not limited to:\n\n•\tConsult with affected property owners two weeks in advance via a letter box drop and/or door knock.\n\n•\tDial Before You Dig – locate and pothole (if required) underground services\n\n•\tSurvey works to be located and protected prior to starting\n\n•\tHighlight overhead electrical wires\n\n•\tEstablish on site and install sediment controls.\n\n•\tImplement Pedestrian and Traffic Management Plan\n\n•\tLower water mains under location of new box culvert and existing stormwater pipe\n\n•\tRemove existing concrete as defined on plans in the vicinity of Dean Street\n\n•\tInstall flushing point on existing 150mm pipeline\n\n•\tExcavate for and pour 5 MPa sub bases and wing wall footings\n\n•\tConstruct box culvert bases\n\n•\tInstall box culverts and crown units\n\n•\tConstruct wing walls from box culverts\n\n•\tConstruct concrete footpath to Ch.27.5\n\n•\tExcavate for and pour 5 MPa subbase under channel extension and widenings\n\n•\tConstruct channel extension, widenings and concrete apron to Ch.14.70\n\n•\tExcavate for and pour 5 MPa subbase under concrete dish drain\n\n•\tExcavate for new 100mm thick footpath in Jersey Street\n\n•\tDemolish parts of the existing headwall structure in Farley Street\n\n•\tRecover the recoverable parts of the existing pit structure near Farley Street\n\n•\tInstall flushing point on existing 150mm pipeline\n\n•\tReplace sewer manhole Lids\n\n•\tPour concrete dish drain and footpath along Jersey Street\n\n•\tConstruct new headwall structure and join to dish drain\n\n•\tShape drain inlet to box culvert and sides of concrete drain\n\n•\tRestore and seed all disturbed areas in Jersey Street\n\n•\tSet up appropriate traffic management in Farley Street (consider a detour along Jersey Street and Cedar Street)\n\n•\tDig bed and lay stormwater lines\n\n•\tBackfill, compact and shape to finished surface over and adjacent to the new pipelines\n\n•\tExcavate for new 150mm thick footpath is stages in Farley Street\n\n•\tPour concrete footpath\n\n•\tProgressively restore and seed works ensuring appropriate compaction is achieved to prevent edge drops forming adjacent to new path works\n\n•\tInstall guide posts\n\n•\tArrange for completion of project walk through and attend to any minor outstanding works\n\n•\tDemobilise/handover to assets.\n\n•\tProvide Work as Executed (WAE) Plans and timestamped photos.\n\nThe works are to be undertaken in accordance with Richmond Valley Council Design Plans (R-C-0380-1005) and Part 3 Specifications document.",
+    "buyer": "Richmond Valley Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Building Products & Materials",
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-12T00:00:00.000Z",
+    "closingAtRaw": "12/Nov/2026 10:00 AM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-21T22:11:00.000Z",
+    "contact": null,
+    "documentCount": 14,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7c7e878dcb89493991463af912e5adfas528577",
+    "vendorPanelDetails": {
+      "buyerAddress": "10 Graham Pl\nCasino, New South Wales 2470\nAustralia",
+      "buyerWebsite": "http://www.richmondvalley.nsw.gov.au/",
+      "buyerDescription": "Richmond Valley Council (RVC) is a local government area on the Northern Rivers region of north-eastern New South Wales, Australia. RVC services an area of 3,051 square kilometres (1,178 sq mi) and draws its name from the Richmond River, which flows through most of the council area. The area under management is located adjacent to the Bruxner Highway, Pacific Highway, and the North Coast railway line.",
+      "buyerReference": null,
+      "opensAt": "2026-10-21T14:00:00.000Z",
+      "opensAtRaw": "Thursday 22 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-10T23:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 10:00 AM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-23T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 24 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Richmond-Tweed"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-23T05:39:00.000Z",
+          "question": "For lowering the water main (items 6.01.01 and 6.01.02), does Council's water crew do the isolations and live connections, or is that all on the contractor?",
+          "answeredAt": "2026-10-25T22:12:00.000Z",
+          "answer": "Council will be responsible for isolations and live connection."
+        },
+        {
+          "askedAt": "2026-10-26T02:42:00.000Z",
+          "question": "What is the earliest possible start date for this project",
+          "answeredAt": "2026-10-26T03:03:00.000Z",
+          "answer": "Tuesday January 5, 2027"
+        },
+        {
+          "askedAt": "2026-11-04T23:24:00.000Z",
+          "question": "Could you please advise if the headwalls for the 375mm pipes need to be exposure B2 or is B1 acceptable?\n\nThis also relates to the link slabs for the box culverts 1200mm?",
+          "answeredAt": "2026-11-05T01:27:00.000Z",
+          "answer": "B1 is acceptable."
+        },
+        {
+          "askedAt": "2026-11-10T00:52:00.000Z",
+          "question": "Good Morning,\n\nCould you please confirm the type and status of the water service located near the stormwater pipe in Jersey Street road reserve and whether the service is still required?\n\nThank you",
+          "answeredAt": "2026-11-11T00:04:00.000Z",
+          "answer": "Service is not required."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T04:43:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) VP528577 Footpath and Drainage Construction - Tender Attendance Sheet.pdf\n\n2. Added: \t (Addendum) VP528577 Footpath and Drainage Construction - Tender Meeting Minutes.pdf\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "14",
+        "at": "2026-11-03T23:45:51.315Z"
+      },
+      {
+        "field": "vendorPanelDetails",
+        "from": "{\"buyerAddress\":\"10 Graham Pl\\nCasino, New South Wales 2470\\nAustralia\",\"buyerWebsite\":\"http://www.richmondvalley.nsw.gov.au/\",\"buyerDescription\":\"Richmond Valley Council (RVC) is a local government area on the Northern Rivers region of north-eastern New South Wales, Australia. RVC services an area of 3,051 square kilometres (1,178 sq mi) and draws its name from the Richmond River, which flows through most of the council area. The area under management is located adjacent to the Bruxner Highway, Pacific Highway, and the North Coast railway line.\",\"buyerReference\":null,\"opensAt\":\"2026-10-21T14:00:00.000Z\",\"opensAtRaw\":\"Thursday 22 October 2026 (AUS Eastern Standard Time)\",\"queryCutoffAt\":\"2026-11-10T23:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 11 November 2026 10:00 AM (AUS Eastern Daylight Time)\",\"expectedDecisionAt\":\"2026-12-23T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Thursday 24 December 2026 (AUS Eastern Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"New South Wales\\n1: Richmond-Tweed\"],\"publicQuestions\":[{\"askedAt\":\"2026-10-23T05:39:00.000Z\",\"question\":\"For lowering the water main (items 6.01.01 and 6.01.02), does Council's water crew do the isolations and live connections, or is that all on the contractor?\",\"answeredAt\":\"2026-10-25T22:12:00.000Z\",\"answer\":\"Council will be responsible for isolations and live connection.\"},{\"askedAt\":\"2026-10-26T02:42:00.000Z\",\"question\":\"What is the earliest possible start date for this project\",\"answeredAt\":\"2026-10-26T03:03:00.000Z\",\"answer\":\"Tuesday January 5, 2027\"},{\"askedAt\":\"2026-11-04T23:24:00.000Z\",\"question\":\"Could you please advise if the headwalls for the 375mm pipes need to be exposure B2 or is B1 acceptable?\\n\\nThis also relates to the link slabs for the box culverts 1200mm?\",\"answeredAt\":\"2026-11-05T01:27:00.000Z\",\"answer\":\"B1 is acceptable.\"}],\"updates\":[{\"at\":\"2026-11-03T04:43:00.000Z\",\"description\":\"Please note: The following addenda have been recently added.\\n\\n1. Added: \\t (Addendum) VP528577 Footpath and Drainage Construction - Tender Attendance Sheet.pdf\\n\\n2. Added: \\t (Addendum) VP528577 Footpath and Drainage Construction - Tender Meeting Minutes.pdf\\n\\nPlease consider these addenda when responding.\"}]}",
+        "to": "{\"buyerAddress\":\"10 Graham Pl\\nCasino, New South Wales 2470\\nAustralia\",\"buyerWebsite\":\"http://www.richmondvalley.nsw.gov.au/\",\"buyerDescription\":\"Richmond Valley Council (RVC) is a local government area on the Northern Rivers region of north-eastern New South Wales, Australia. RVC services an area of 3,051 square kilometres (1,178 sq mi) and draws its name from the Richmond River, which flows through most of the council area. The area under management is located adjacent to the Bruxner Highway, Pacific Highway, and the North Coast railway line.\",\"buyerReference\":null,\"opensAt\":\"2026-10-21T14:00:00.000Z\",\"opensAtRaw\":\"Thursday 22 October 2026 (AUS Eastern Standard Time)\",\"queryCutoffAt\":\"2026-11-10T23:00:00.000Z\",\"queryCutoffAtRaw\":\"Wednesday 11 November 2026 10:00 AM (AUS Eastern Daylight Time)\",\"expectedDecisionAt\":\"2026-12-23T14:00:00.000Z\",\"expectedDecisionAtRaw\":\"Thursday 24 December 2026 (AUS Eastern Standard Time)\",\"background\":null,\"desiredOutcomes\":null,\"buyerQuestions\":[],\"serviceRegions\":[\"New South Wales\\n1: Richmond-Tweed\"],\"publicQuestions\":[{\"askedAt\":\"2026-10-23T05:39:00.000Z\",\"question\":\"For lowering the water main (items 6.01.01 and 6.01.02), does Council's water crew do the isolations and live connections, or is that all on the contractor?\",\"answeredAt\":\"2026-10-25T22:12:00.000Z\",\"answer\":\"Council will be responsible for isolations and live connection.\"},{\"askedAt\":\"2026-10-26T02:42:00.000Z\",\"question\":\"What is the earliest possible start date for this project\",\"answeredAt\":\"2026-10-26T03:03:00.000Z\",\"answer\":\"Tuesday January 5, 2027\"},{\"askedAt\":\"2026-11-04T23:24:00.000Z\",\"question\":\"Could you please advise if the headwalls for the 375mm pipes need to be exposure B2 or is B1 acceptable?\\n\\nThis also relates to the link slabs for the box culverts 1200mm?\",\"answeredAt\":\"2026-11-05T01:27:00.000Z\",\"answer\":\"B1 is acceptable.\"},{\"askedAt\":\"2026-11-10T00:52:00.000Z\",\"question\":\"Good Morning,\\n\\nCould you please confirm the type and status of the water service located near the stormwater pipe in Jersey Street road reserve and whether the service is still required?\\n\\nThank you\",\"answeredAt\":\"2026-11-11T00:04:00.000Z\",\"answer\":\"Service is not required.\"}],\"updates\":[{\"at\":\"2026-11-03T04:43:00.000Z\",\"description\":\"Please note: The following addenda have been recently added.\\n\\n1. Added: \\t (Addendum) VP528577 Footpath and Drainage Construction - Tender Attendance Sheet.pdf\\n\\n2. Added: \\t (Addendum) VP528577 Footpath and Drainage Construction - Tender Meeting Minutes.pdf\\n\\nPlease consider these addenda when responding.\"}]}",
+        "at": "2026-11-10T23:49:10.050Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "7cb4a20324524922aaa9c5cffc0ee42c",
     "source": "vendorpanel",
     "reference": "VP523363",
@@ -46682,6 +47398,49 @@
     "archivedAt": "2026-10-16T21:48:57.937Z"
   },
   {
+    "id": "8aafc249746b4ba590e2a451b9a0dc71",
+    "source": "vendorpanel",
+    "reference": "VP530463",
+    "title": "QED 6534 2026 Woodridge SS - Admin & RC Relocation (with design responsibility)",
+    "description": "Please reach out to Henry Wilson from Lambert & Rehbein for all documentation and queries at DETE.Tenders@lar.net.au.\n\nThe Department of Education (DoE) is inviting tenders for refurbishment of the administration and resource centre located at Woodridge State School @ Wembley Road &, Railway Parade, Woodridge QLD 4114.\n\nTenders are to be submitted by Wednesday 11th of November at 2pm to DETE.Tenders@lar.net.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-21T00:56:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8aafc249746b4ba590e2a451b9a0dc71s530463s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "34-167914",
+      "opensAt": "2026-10-20T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-08T04:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 08 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 25 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-21T22:01:57.159Z",
+    "changes": [],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "8b211f2409114da4b7a10c806ddfc778",
     "source": "vendorpanel",
     "reference": "VP524167",
@@ -47253,6 +48012,122 @@
       }
     ],
     "archivedAt": "2026-10-07T23:22:52.819Z"
+  },
+  {
+    "id": "8c8f3456803247228226ad8c8bbfe251",
+    "source": "vendorpanel",
+    "reference": "VP529761",
+    "title": "CTWW014 - 26/27 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct",
+    "description": "OVERVIEW\n\nFraser Coast Regional Council is inviting offers from suitably qualified and experienced Tenderers for CTWW014 - 26/27 - Sewerage Pump Stations: Switchboard Replacement Package - Design & Construct.\n\nSUBMISSION OF TENDER DOCUMENTS\n\nPlease be advised that tender response forms are to be submitted as three(3) documents only and in the following format:\n\n- Non-Price Response Form: PDF including all supporting documentation as one (1) document. This PDF must not contain any price related criteria.\n\n- Price Response Form: Excel\n\n- Contract Amendment Particulars: Excel\n\nFailure to comply with this requirement may result in a non-conforming offer.",
+    "buyer": "Fraser Coast Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "ELEC, Lighting, Equip & Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-12T01:00:00.000Z",
+    "closingAtRaw": "12/Nov/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-15T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 13,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8c8f3456803247228226ad8c8bbfe251s529761seddc4f0a8cf346b8a6104f0011c41f23s1557",
+    "vendorPanelDetails": {
+      "buyerAddress": "23 Main St\nPialba, Queensland 4655\nAustralia",
+      "buyerWebsite": "http://www.frasercoast.qld.gov.au",
+      "buyerDescription": "Fraser Coast Regional Council",
+      "buyerReference": "CTWW014 - 26/27",
+      "opensAt": "2026-10-15T14:00:00.000Z",
+      "opensAtRaw": "Friday 16 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-08T01:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 08 November 2026 11:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 10 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-19T23:16:00.000Z",
+          "question": "Can I please request keys so Tanners Electrical can conduct a site visit to confirm particulars?",
+          "answeredAt": "2026-10-20T05:16:00.000Z",
+          "answer": "Please refer to Addendum #1"
+        },
+        {
+          "askedAt": "2026-10-20T21:41:00.000Z",
+          "question": "Hi,\n\nCould FCRC please advise names and contacts for their preferred systems integrators for these works?\n\nThank you",
+          "answeredAt": "2026-10-20T23:59:00.000Z",
+          "answer": "Please refer to Addendum #2"
+        },
+        {
+          "askedAt": "2026-10-21T00:19:00.000Z",
+          "question": "Could Council please provide their preferred Local Suppliers for Civil, Structural, Mechanical.",
+          "answeredAt": "2026-10-21T05:30:00.000Z",
+          "answer": "Please refer to Addendum #3"
+        },
+        {
+          "askedAt": "2026-10-21T00:25:00.000Z",
+          "question": "Could you please confirm if the current Kingfisher RTU and Citect Scada systems are SOCI Compliant to IEC6243 and if they comply with the Critical Infrastructure Act?",
+          "answeredAt": "2026-10-21T05:30:00.000Z",
+          "answer": "Please refer to Addendum #3"
+        },
+        {
+          "askedAt": "2026-10-29T21:27:00.000Z",
+          "question": "Is tendering for switchboard manufacture and supply (Partial scope ) Permitted?",
+          "answeredAt": "2026-11-01T23:33:00.000Z",
+          "answer": "Please refer to Addendum #4."
+        },
+        {
+          "askedAt": "2026-10-29T23:44:00.000Z",
+          "question": "Hi,\n\nWe just had a couple of queries on the intent behind some of the clauses contained within the specifications. Most of these are resolved by the precedence contained within the contract, however we just wanted to ensure we are offering a solution that aligns with FCRC preferences,\n\nSwitchboard internal temperature\n\nE-005 requires the switchboard internal ambient temperature to remain at or below 35°C during normal operation. This would require air conditioning, particularly as the typical designs specify the board be designed for 40 degrees ambient.\n\nCould Council please confirm whether the 35°C internal temperature limit is mandatory for these installations, or whether compliance may be demonstrated through the switchboard temperature-rise assessment under the nominated ambient conditions?\n\nOutdoor switchboard IP rating\n\nE-005 requires external switchboards to be IP56 or better. E-002 also specifies IP66 for outdoor switchboards exposed directly to the elements, with IP56 applying where the switchboard is installed under a suitable shelter.\n\nCould Council please confirm that IP56 is acceptable at each nominated site, or identify any sites where an IP66 enclosure is required due to direct weather exposure?\n\nSMS alarm dialler\n\nThe preferred-equipment schedule identifies an Australis M2M SMS alarm dialler; however, the dialler is not included in the listed Council free-issued equipment.\n\nCould Council please confirm whether the SMS dialler will be free issue by Council or is to be included within the contractor’s scope?\n\nThank you",
+          "answeredAt": "2026-11-01T23:33:00.000Z",
+          "answer": "Please refer to Addendum #4."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-20T05:16:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) CTWW014 - 2627 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct - Addendum #1.pdf\n\n2. Added: \t (Addendum) CTWW014 - 2627 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct - SPS30 HB Ground Detail Survey.PDF\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-10-20T23:59:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CTWW014 - 2627 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct - Addendum #2.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-21T05:29:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CTWW014 - 2627 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct - Addendum #3.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-11-01T23:32:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CTWW014 - 2627 - Sewerage Pump Stations - Switchboard Replacement Package - Design & Construct - Addendum #4.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-15T21:52:02.816Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "10",
+        "at": "2026-10-20T21:59:13.572Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "12",
+        "at": "2026-10-21T22:01:57.159Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "13",
+        "at": "2026-11-03T01:24:27.452Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "8c943b8d0bb34618b5c1bb8d67f70f2f",
@@ -48090,6 +48965,49 @@
       }
     ],
     "archivedAt": "2026-11-05T00:02:40.372Z"
+  },
+  {
+    "id": "900e416fd9b640cbb56d3ced7f2c6d83",
+    "source": "vendorpanel",
+    "reference": "VP529612",
+    "title": "T2027-05 Ausgrid HV Augmentation Works for the Apex Park Redevelopment Project",
+    "description": "The purpose of the project is to carry out early works to support the redevelopment of Apex Park Cessnock.\n\nThe project is being funded from contributions by the Commonwealth via the Regional Precincts and Partnerships Program (rPPP).The redevelopment consists of:\n\n•\tNaturalization to the drainage channel\n\n•\tLandscaping and cultural artwork\n\n•\tCarparking, lighting, shelters and footpaths\n\nProvide a Lump Sum Tender for the works detailed within the Contract Documentation which may be generally described as the Apex Park – Ausgrid HV augmentation and associated works.\n\nThe Contract Documentation includes Electrical Design documents, Geotechnical Reports, Survey, Services information, Preliminaries, Australian Standards and Codes of Practice.\n\nPRE TENDER MEETING: Wednesday, 28 October 2026 at 1pm - Apex Park Cessnock\n\nTENDER DEADLINE DATE: Wednesday 11th November 2026 at 2pm",
+    "buyer": "Cessnock City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-20T18:43:00.000Z",
+    "contact": null,
+    "documentCount": 14,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=900e416fd9b640cbb56d3ced7f2c6d83s529612s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Vincent St\nCessnock, New South Wales 2325\nAustralia",
+      "buyerWebsite": "http://www.cessnock.nsw.gov.au/",
+      "buyerDescription": "Cessnock City Council Local government has been in operation in the Cessnock area since 1906 when the Shire of Cessnock held its first meeting.\n\nDuring the following years there were several amalgamations and splits as new Shires were formed and reshaped until Cessnock was declared a City in 1958.\n\nRecords created or received by a service provider relating to the performance of a contract are considered State Records under the State Records Act 1998 (NSW). Service providers must make and keep records of all matters relating to the performance of the contract including but not limited to records of inspections, testing and compliance, records of accounts, timesheets and reports produced. Council retains an immediate right of access to all records to assess compliance with the requirements of the contract and meet other legal obligations. For further information please visit Doing Business with Council.\n\nPRIVACY & PERSONAL INFORMATION PROTECTION NOTICE; Suppliers are advised that all (if any) personal information, required to be provided with their submission, is intended only for use by Council staff. The purpose being for the assessment (in accordance with the Local Government Regulations). The information will be stored at Council’s Administration Centre in accordance with the requirements of the State Records Act 1998 and will comply with the Privacy and Personal Information Protection Act 1988 (NSW) (the PPIP Act) and Council's Privacy Management Plan.",
+      "buyerReference": null,
+      "opensAt": "2026-10-20T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 21 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-09T03:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-22T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 23 December 2026 (AUS Eastern Standard Time)",
+      "background": "The project is being funded from Regional Precincts and Partnerships Program (rPPP).\n\nFunding will support construction at Apex Park within the Cessnock Business District. The project will transform an underutilised park into a precinct connecting local businesses, community groups, service providers and the Cessnock Pool recreation area.\n\nThe Regional Precincts and Partnerships Program is part of the Australian Government’s ‘Community Infrastructure Program’. The objectives of the Program are to:\n\n•\tfacilitate place-based and partnership approaches to planning, design, stewardship and accountability;\n\n•\tprovide targeted benefits related to productivity, equity, and resilience for the people of regional, rural and remote Australia;\n\n•\tsupport community priorities for regional cities, rural or remote centres and areas;\n\n•\treflect the Australian Government’s approach outlined in the Regional Investment Framework.",
+      "desiredOutcomes": "EVALUATION CRITERIA\n\n•\tPrice\n\n•\tMethodology / Program\n\n•\tRelevant Experience and Capability\n\n•\tWHS, Environmental and Quality Management\n\n•\tLocal Consideration\n\n•\tSocial Procurement",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Hunter"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-20T21:59:13.572Z",
+    "changes": [],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "90211a5fa2c547a4a760f74bd9bdcd4f",
@@ -51821,6 +52739,85 @@
     "archivedAt": "2026-10-28T22:54:33.133Z"
   },
   {
+    "id": "9f4cb5bce08b43fcb8bc86015e7a7afa",
+    "source": "vendorpanel",
+    "reference": "VP530451",
+    "title": "Expression of Interest Snowy River Hostel",
+    "description": "Snowy Monaro Regional Council (SMRC) owns the Snowy River Hostel at 7 Jindalee St, Berridale. The site includes Lot 3 DP261695, Lot 3 DP801367 and Lot 10 DP1130244. The Snowy River Hostel (SRH) was a 14-bed aged care facility however was closed on 28 March 2024. Since then, the building has been vacant and currently not utilised. SMRC is seeking Expressions of Interest from suitably qualified organisations to provide Council with proposals to use the Snowy SRH site for community purposes.",
+    "buyer": "Snowy Monaro Regional Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Community & Social Services"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-11-11T12:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 10:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-21T00:30:00.000Z",
+    "contact": null,
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9f4cb5bce08b43fcb8bc86015e7a7afas530451s3042a24f284440dda01247ddebc36fa8s1553",
+    "vendorPanelDetails": {
+      "buyerAddress": "81 Commissioner St\nCooma, New South Wales 2630\nAustralia",
+      "buyerWebsite": "https://www.snowymonaro.nsw.gov.au/",
+      "buyerDescription": "Snowy Monaro Regional Council",
+      "buyerReference": null,
+      "opensAt": "2026-10-20T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 21 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-11T11:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 10:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-17T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 18 November 2026 (AUS Eastern Standard Time)",
+      "background": "In 2020, the Governing Body resolved to begin the process of divesting from residential aged care. Council was successful in an application for grant funding from the Australian Government to assist in this process. The initial plan called for the transition of both Yallambee Lodge and Snowy River Hostel to a new operator, with a provision requiring expansion services into Jindabyne following the transition.\n\nThe information and history of Council’s divestment journey is provided on Council’s website: The Future of Snowy River Hostel | Snowy Monaro Regional Council\n\nIn January 2024, Council sought expressions of interest to provide short-term respite care (or similar services) for residents of the Snowy Monaro through the repurposing of the SRH in Berridale. The process was concluded with no suitable provider for this purpose.\n\nOn 15 October 2026, Council resolved that:\n\nAn expression of interest process be run for proposals to use of the Snowy River Hostel site for community purposes.\n\nBy approaching this expression of interest with a less prescriptive, outcome-based approach it can support increased market innovation and better solutions.",
+      "desiredOutcomes": "The objectives of this EOI are to repurpose the SRH by:\n\n•\tIdentifying available options and solutions within the market.\n\n•\tExploring opportunities that reduce Council’s risk exposure such as ongoing financial costs, asset management and legislative governance and compliance.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: ACT (all other areas)\n2: Canberra",
+        "New South Wales\n1: Illawarra\n2: South Eastern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-30T01:49:00.000Z",
+          "question": "Dear Snowy Monaro Regional Council Team,\n\nWe are currently preparing an Expression of Interest for the Snowy River Hostel (VP530451) and would appreciate clarification on a couple of matters.\n\nWe are interested in the entire site identified in the EOI, comprising Lot 3 DP261695, Lot 3 DP801367 and Lot 10 DP1130244.\n\nCould Council please confirm whether the vacant land situated behind the existing hostel forms part of these parcels and whether all three parcels would be available under a potential lease, purchase or transfer arrangement?\n\nWe would also appreciate receiving any existing building floor plans and site plans showing the layout of the hostel and the boundaries of the land parcels.\n\nThank you for your assistance. We look forward to submitting our proposal.",
+          "answeredAt": "2026-11-02T02:56:00.000Z",
+          "answer": "Hi Moniquea,\n\nThank you for your question, please see below:\n\n1.- ‘Could you please confirm whether the vacant land situated behind the hotel forms part of these parcels and whether all three parcels would be available under a potential lease, purchase or transfer agreement?’\n\nResponse: No. The vacant land located directly behind the hostel is privately owned and therefore does not form part of the proposed agreement.\n\nIn relation to the three (3) lots identified in the EOI documentation, their inclusion and any associated arrangements will be subject to further discussions and negotiations with the successful respondent based on the market’s appetite.\n\n2.- Floor Plans: Enclosed as an adendum to the EOI.\n\nThank you"
+        },
+        {
+          "askedAt": "2026-11-02T03:19:00.000Z",
+          "question": "Please provide copies of the current consent, whether the sie is affected by constraints such as bushfire or flooding, and confirm the zoning of the site. If possible, please provide a deposited plan / 88B",
+          "answeredAt": "2026-11-04T23:24:00.000Z",
+          "answer": "Good morning,\n\nPlease see response as an enlcosed addendum.\n\nThank you"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-02T03:00:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) imgw-410155322.pdf\n\n2. Added: \t (Addendum) imgw-410160602.pdf\n\n3. Added: \t (Addendum) imgw-410160817.pdf\n\n4. Added: \t (Addendum) imgw-410161024.pdf\n\n5. Added: \t (Addendum) imgw-410161117.pdf\n\n6. Added: \t (Addendum) imgw-410161157.pdf\n\n7. Added: \t (Addendum) Snowy River Hostel.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-11-04T23:28:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) EOI -Snowry River Hostel Addendum 2- compressed.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-21T22:01:57.159Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "1",
+        "to": "8",
+        "at": "2026-11-03T01:24:27.452Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-11-05T00:02:40.372Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "9f7a5eef29eb4918bb9d702395ea123e",
     "source": "vendorpanel",
     "reference": "VP527555",
@@ -54282,6 +55279,97 @@
     "archivedAt": "2026-10-08T23:35:46.725Z"
   },
   {
+    "id": "a4aa20d436fe44219467e2767bce43bb",
+    "source": "vendorpanel",
+    "reference": "VP529411",
+    "title": "Design, Supply and Construct Playground - Ferngrove Park, Ballina",
+    "description": "Ballina Shire Council is seeking to engage a suitably qualified and experienced Contractor to undertake design, supply, and construction of a public playground at Ferngrove Park, Ballina.\n\nThe playground must be constructed to the required standards in accordance the Ballina Shire Playground Upgrade and Management Plan, relevant playground hierarchy and attached specifications.\n\nSpecifically, Council requires that the Contractor:\n\n\t•\tmaintain a high standard of work, health and safety.\n\n\t•\tunderstand the sensitive environmental issues of the area\n\n\t•\tfollow current best practice within the industry; and\n\n\t•\tutilize new technical innovations and methodologies.\n\nThe full scope of works and services requested are provided in the request documents.",
+    "buyer": "Ballina Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation",
+      "Sport, Recreation Equip, Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-14T00:05:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=a4aa20d436fe44219467e2767bce43bbs529411",
+    "vendorPanelDetails": {
+      "buyerAddress": "40 Cherry St\nBallina, New South Wales 2478\nAustralia",
+      "buyerWebsite": "https://www.ballina.nsw.gov.au/",
+      "buyerDescription": "Ballina Shire Council is located on the New South Wales Far North Coast, 770 kilometres north of Sydney and 190 kilometres south of Brisbane. The Shire, an area of 484 square kilometres, is set amongst a picturesque rural-coastal landscape and enjoys a temperate to mild subtropical climate.\n\nThe Shires resident population is approximately 45,000 with major service centre Ballina servicing the major townships of Alstonville, Lennox Head, Wollongbar, and Wardell. As well as a number of smaller villages and localities including Cumbalum, Teven, Tintenbar and Knockrow.\n\nBallina Shire Council acknowledges that we are here on the land of the Bundjalung people. The Bundjalung are the traditional owners of this land and are part of the oldest surviving continuous culture in the world.",
+      "buyerReference": "BSC5125",
+      "opensAt": "2026-10-13T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 14 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-04T03:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 04 November 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2027-01-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 10 January 2027 (AUS Eastern Standard Time)",
+      "background": "Ballina Shire Council has an adopted Playground Upgrade and Management Plan that identifies a hierarchy and program for the renewal and upgrade of its playgrounds. Several priority playground projects are identified each financial year to progress the outcomes of this plan. Ferngrove Park playground upgrade is identified in this plan.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Richmond-Tweed"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-20T01:35:00.000Z",
+          "question": "Would Council please consider a one-week extension for this RFT to allow additional time for the preparation of a comprehensive submission and to ensure we can fully demonstrate our capability and proposed approach to delivering the project?",
+          "answeredAt": "2026-10-22T01:08:00.000Z",
+          "answer": "Tender closing date has been extended by one week. Please refer to VendorPanel for the revised date."
+        },
+        {
+          "askedAt": "2026-10-21T23:44:00.000Z",
+          "question": "Due to current weather conditions making driving dangerous, I am unable to get to the sites. I was wondering if it would be possible to get a weeks extension on the tender submission please?",
+          "answeredAt": "2026-10-22T01:08:00.000Z",
+          "answer": "Tender closing date has been extended by one week. Please refer to VendorPanel for the revised date."
+        },
+        {
+          "askedAt": "2026-10-25T16:03:00.000Z",
+          "question": "The RFQ site details name Campbell Park, Campbell Avenue, Wollongbar - can Council confirm the site is Ferngrove Park, Ballina?",
+          "answeredAt": "2026-10-26T02:56:00.000Z",
+          "answer": "Confirming that the Site Details should be:\n\nFerngrove Park\n\nElkhorn Parade, Ballina, NSW, 2478\n\nLot 47, DP 1148641"
+        },
+        {
+          "askedAt": "2026-11-02T05:40:00.000Z",
+          "question": "1) Can council please confirm the finished levels that they are wanting to achieve on this park. Are you wanting bark softfall to replace the rubber? If so do you want us to excavate the existing area to achieve the 400mm depth for bark, or do we install a new edge on the inside of the concrete path to gain height for the bark?\n\n2) The existing play structure doesn't meet the 2.5m from top of structure to underside of shade. Can you confirm if this 2.5m clearance is required from top of the new structure?",
+          "answeredAt": "2026-11-03T05:21:00.000Z",
+          "answer": "1) The submission must consider the best methodology to meet the brief and specifications based on the design to be proposed.\n\n2) Based on the existing clearance, submissions that do not achieve 2.5m will be accepted and evaluated against the stated criteria. The extent of non-conformance must be stated."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-14T01:36:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Attachment - DRAFT Short Form Contract.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-10-22T01:11:00.000Z",
+          "description": "Tender closing date has been extended by one week."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-14T21:59:10.357Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-04T04:00:00.000Z",
+        "to": "2026-11-11T04:00:00.000Z",
+        "at": "2026-10-22T21:59:00.631Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "04/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "11/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-22T21:59:00.631Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
     "id": "a4bb04b049e34c50b302744d30628a7a",
     "source": "vendorpanel",
     "reference": "VP524716",
@@ -54615,6 +55703,102 @@
       }
     ],
     "archivedAt": "2026-09-30T23:18:46.499Z"
+  },
+  {
+    "id": "a6ca9d4be0cf49af820bd4a810e4e100",
+    "source": "vendorpanel",
+    "reference": "VP529547",
+    "title": "Supply and Install of 14 kVA Standby Generator at DUA SES",
+    "description": "The Contractor shall supply, install, connect, test and commission a new 14 kVA standby generator, complete with a suitably rated Automatic Transfer Switch (ATS) and all associated electrical and ancillary works required to provide a complete, compliant and fully operational automatic standby power system.\n\nThe works shall be submitted as per a fixed lump sum The Contract shall be undertaken on a Fixed Lump Sum basis, with the Contractor agreeing to complete the full scope of works in accordance with the Contract specifications and all other contractual requirements for the agreed Fixed Lump Sum Contract Price. The Contract Price shall be deemed to include all labour, materials, plant, equipment, supervision, overheads, profit and all other costs necessary for the proper completion of the Works.\n\nThe Contractor shall allow for all minor and incidental works reasonably required for a complete installation, whether specifically identified in this scope or not.\n\nRefer to Attachment B -14kVA_Generator_Procurement_Specification for specific requirements from Council.\n\nProjected to be completed by end of December 2026.\n\nDelivery address: Duaringa SES Shed, 19 Mary Street, Duaringa QLD 4712",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-11T04:00:00.000Z",
+    "closingAtRaw": "11/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-20T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=a6ca9d4be0cf49af820bd4a810e4e100s529547s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260254",
+      "opensAt": "2026-10-20T14:00:00.000Z",
+      "opensAtRaw": "Wednesday 21 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-17T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 18 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-21T00:19:00.000Z",
+          "question": "Subject: RFQ260254 – RFI 001 – Missing Technical Specification\n\nWe refer to RFQ260254 – Supply and Install of 14 kVA Standby Generator at DUA SES.\n\nSection 1, page 3 of the Request for Quotation references the following document:\n\nAttachment A – 102751 – DUA SES Facility Generator – Electrical and Installation Specification.\n\nThis document does not appear to have been included in the tender documentation available to us.\n\nCould Council please provide a copy of this specification, including any associated drawings, electrical schematics and installation details, to allow us to accurately assess and price the required works?\n\nWe would appreciate receiving the information as soon as possible to enable preparation of a compliant quotation prior to the tender closing date of 4 November 2026.\n\nKind regards,\n\nGMH Electrical",
+          "answeredAt": "2026-10-21T00:35:00.000Z",
+          "answer": "Hi Greg, the attachment A specification is located on page 5 of RFQ260254 - Request for Quotation - Supply & Install of Standby Gen at DUA SES. Thanks, CHRC."
+        },
+        {
+          "askedAt": "2026-10-27T10:04:00.000Z",
+          "question": "Hi Team,\n\nWould it be possible to arrange a site inspection at the Duaringa SES facility prior to the tender closing date?\n\nWe would like to inspect the existing switchboard, electrical infrastructure and proposed generator location to ensure we can provide an accurate and competitive quotation.\n\nWe're flexible with availability and happy to work around a suitable time for Council or the SES representative.\n\nThanks in advance!",
+          "answeredAt": "2026-10-28T03:46:00.000Z",
+          "answer": "Hi Koji, you are welcome to attend the site yourself to look at the switchboard, electrical infrastructure and proposed generator location. Thanks, CHRC."
+        },
+        {
+          "askedAt": "2026-10-28T03:51:00.000Z",
+          "question": "Hi,\n\nCan we please request an extension of 1 week in order to inspect the site.\n\nKind Regards,",
+          "answeredAt": "2026-10-28T04:00:00.000Z",
+          "answer": "Hi Hollis, the RFQ has been extended by 1 week. Thanks, CHRC."
+        },
+        {
+          "askedAt": "2026-10-30T00:02:00.000Z",
+          "question": "We have reviewed the existing switchboard and site location. Could Council please confirm the intended position of the generator, preferably on a marked-up site plan showing the Council-provided generator base?\n\nIdeally, we would position the generator near the incoming mains supply and existing switchboard, subject to suitable clearances, access and installation requirements.\n\nAlternatively, is there a nominated Council representative we can speak with by phone to clarify the positioning and cable route? This will help us accurately allow for the installation works.",
+          "answeredAt": "2026-11-02T21:54:00.000Z",
+          "answer": "Hi Andrew, a map has been uploaded with the location of where the generator will be positioned. Thanks, CHRC."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-28T03:59:00.000Z",
+          "description": "**Please note that the RFQ closing date has been extended by 1 week. The new closing date is Wednesday 11 November 2026 at 2:00 PM**"
+        },
+        {
+          "at": "2026-11-02T21:51:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Site Map 19 Mary Street Duaringa Qld.jpg\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-20T21:59:13.572Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-04T04:00:00.000Z",
+        "to": "2026-11-11T04:00:00.000Z",
+        "at": "2026-10-28T22:54:33.133Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "04/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "11/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-28T22:54:33.133Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-11-03T01:24:27.452Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "a6d325b37ffa4687a13cf19f124ecbaf",
@@ -76430,6 +77614,70 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-11T22:04:43.234Z"
+  },
+  {
+    "id": "ebf1bfd5ddc14022be9848ffcf658f4c",
+    "source": "vendorpanel",
+    "reference": "VP529637",
+    "title": "CTWW024 - 26/27 - Boundary Road - Water Main - Supply of Pipework and Fittings",
+    "description": "OVERVIEW\n\nFraser Coast Regional Council is inviting offers from suitably qualified and experienced Tenderers for CTWW024 - 26/27 - Boundary Road: Water Main - Supply of Pipework and Fittings.\n\nSUBMISSION OF TENDER DOCUMENTS\n\nPlease be advised that tender response forms are to be submitted as two (2) documents only and in the following format:\n\n- Non-Price Response Form: PDF including all supporting documentation as one (1) document. This PDF must not contain any price related criteria.\n\n- Price Response Form: Excel\n\nFailure to comply with this requirement may result in a non-conforming offer.",
+    "buyer": "Fraser Coast Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-12T01:00:00.000Z",
+    "closingAtRaw": "12/Nov/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-15T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 7,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=ebf1bfd5ddc14022be9848ffcf658f4cs529637",
+    "vendorPanelDetails": {
+      "buyerAddress": "23 Main St\nPialba, Queensland 4655\nAustralia",
+      "buyerWebsite": "http://www.frasercoast.qld.gov.au",
+      "buyerDescription": "Fraser Coast Regional Council",
+      "buyerReference": "CTWW024 - 26/27",
+      "opensAt": "2026-10-15T14:00:00.000Z",
+      "opensAtRaw": "Friday 16 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-08T01:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 08 November 2026 11:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-09T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 10 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-15T23:36:00.000Z",
+          "question": "Good morning,\n\nWe are reviewing the documents and noticed that the Scope of Works header notes \"CTWW013 – 25/26 – MB Water Network: Pallas Street – Supply of Pipes & Fittings\".\n\nCould you please share the Scope of Works document for this proposed tender.\n\nMany thanks",
+          "answeredAt": "2026-10-16T00:23:00.000Z",
+          "answer": "Please refer to Addendum #1"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-16T00:23:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) CTWW024 - 2627 - Boundary Road - Water Main - Supply of Pipework and Fittings - Addendum #1.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-15T21:52:02.816Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "7",
+        "at": "2026-10-16T21:48:57.937Z"
+      }
+    ],
+    "archivedAt": "2026-11-12T01:08:23.524Z"
   },
   {
     "id": "ebf99ca40b7f49dead460e8013a3b71c",
