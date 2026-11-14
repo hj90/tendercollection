@@ -1560,6 +1560,33 @@
     "archivedAt": "2026-10-30T22:43:00.194Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/4dbd8688-1ead-4d1c-b11b-c0f6636cb6fd",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/4dbd8688-1ead-4d1c-b11b-c0f6636cb6fd",
+    "reference": "DTE-RFI-2026-01",
+    "title": "The Defence Targeting Enterprise",
+    "description": "The Commonwealth are interested in solutions that support, enhance or automate one or more phases of the Joint Targeting Cycle across a range of functional areas. This RFI is intended to inform our understanding of current market capabilities and support the ongoing development of the Targeting Program. Responses relating to existing, demonstrable capabilities, as well as emerging and innovative solutions, are encouraged in accordance with the RFI.",
+    "publishedAt": "2026-10-30T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "43230000 - Software"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T05:00:00.000Z",
+    "closingAtRaw": "13-Nov-2026 4:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Contract Manager\nEmail Address:\nddg.msd.miib.dteprocurement@defence.gov.au",
+      "name": "Contract Manager",
+      "email": "ddg.msd.miib.dteprocurement@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-30T22:43:00.194Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/4e0338d5-6a9c-41d3-affc-23816bf1c903",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/4e0338d5-6a9c-41d3-affc-23816bf1c903",
     "reference": "P26/267",
@@ -1867,6 +1894,33 @@
     "archivedAt": "2026-11-06T23:35:26.416Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8",
+    "reference": "S-EST11095",
+    "title": "HMAS Cairns Minor Refurbishment, QLD",
+    "description": "This project involves decommission and replace chiller condensing units, replace staircases, ladders, eye wash station piping and fixing, sanitary fixtures and light fittings. Internal patch and painting to walls, door, ceiling and floor. Protection coating to wharf piles and support frames. Corrosion treatment.",
+    "publishedAt": "2026-10-12T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": "QLD",
+    "categories": [
+      "72100000 - Building construction and support and maintenance and repair services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-13T01:00:00.000Z",
+    "closingAtRaw": "13-Nov-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Administrator - Aurecon - S-EST11095\nEmail Address:\nQldTenders.PDS@aurecongroup.com",
+      "name": "Tender Administrator - Aurecon - S-EST11095",
+      "email": "QldTenders.PDS@aurecongroup.com"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-13T01:01:06.071Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5e45cd07-6916-41aa-bc68-b22033697004",
     "reference": "S-EST10714",
@@ -1892,6 +1946,40 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-10-13T01:01:06.071Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/5f844ba7-631f-45bc-b698-f8e7a1b218d7",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5f844ba7-631f-45bc-b698-f8e7a1b218d7",
+    "reference": "LCD-26-0078",
+    "title": "Land Capability Division - Professional Development Programs",
+    "description": "The Land Capability Professional Development Program (LCPDP) seeks industry solutions for the design, development and delivery of professional development learning solutions supporting personnel operating within the Defence Capability System. The procurement includes the development and delivery of the following courses: Capability Realisation in the DCS - Managing the RAA and MSA; Introduction to Project and Program Management for DCS Practitioners; Introduction to Defence Finance for DCS Practitioners; Business Acumen for DCS Practitioners; and Communicating Effectively in the DCS. Respondents may propose face-to-face, virtual, online or blended delivery models, with learning products suitable for ongoing delivery and management within Defence learning environments, including the Learning Experience Platform (LXP).",
+    "publishedAt": "2026-10-19T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "86000000 - Education and Training Services"
+    ],
+    "requestType": "rfp",
+    "closingAt": "2026-11-12T23:00:00.000Z",
+    "closingAtRaw": "13-Nov-2026 10:00 am (ACT Local Time)",
+    "contact": {
+      "raw": "ahq-lc.tenders@defence.gov.au\nPhone:\n00",
+      "name": "ahq-lc.tenders@defence.gov.au",
+      "phone": "00"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-19T22:41:08.884Z",
+    "changes": [
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"land.capabilitypdprogram@resources.defence.gov.au\\nPhone:\\n00\",\"name\":\"land.capabilitypdprogram@resources.defence.gov.au\",\"phone\":\"00\"}",
+        "to": "{\"raw\":\"ahq-lc.tenders@defence.gov.au\\nPhone:\\n00\",\"name\":\"ahq-lc.tenders@defence.gov.au\",\"phone\":\"00\"}",
+        "at": "2026-10-21T22:01:57.159Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/621a19e4-7819-44d5-9877-ffba3724044e",
@@ -8261,6 +8349,49 @@
     "archivedAt": "2026-10-07T23:22:52.819Z"
   },
   {
+    "id": "0157411f396d44009ad3d5e3bedaa737",
+    "source": "vendorpanel",
+    "reference": "VP530717",
+    "title": "27_015 - Register of Pre-Qualified Suppliers for the Provision of Tyres & Assoc Products & Services",
+    "description": "Southern Downs Regional Council invites tenders from suitably qualified tenderers for Appointment as a Pre-Qualified Supplier for the Provision of Tyres and Associated Products and Services",
+    "buyer": "Southern Downs Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Fleet Servicing & Accessories"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-22T03:56:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0157411f396d44009ad3d5e3bedaa737s530717sdf934c4a503b4d398b992edde8194044s1566",
+    "vendorPanelDetails": {
+      "buyerAddress": "64 Fitzroy St\nWarwick, Queensland 4370\nAustralia",
+      "buyerWebsite": "http://www.southerndowns.qld.gov.au/",
+      "buyerDescription": "The Southern Downs Regional Council was formed on the 15th of March 2008 as an outcome of the Queensland Local Government Reform process. This new governing body encompasses the areas previously occupied by the Warwick and Stanthorpe Shire Councils.",
+      "buyerReference": "27_015",
+      "opensAt": "2026-10-21T14:00:00.000Z",
+      "opensAtRaw": "Thursday 22 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 10 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 11 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "0183e4b52ddc42db9c9d50976b7b6133",
     "source": "vendorpanel",
     "reference": "VP521147",
@@ -11771,6 +11902,49 @@
     "firstSeenAt": "2026-09-24T22:48:30.626Z",
     "changes": [],
     "archivedAt": "2026-11-03T01:24:27.452Z"
+  },
+  {
+    "id": "0b46006ce6514e3d88b6896887dbe718",
+    "source": "vendorpanel",
+    "reference": "VP529684",
+    "title": "92783DC2 - Design & Construct Water Rectification Upgrade-PIMLICO STATE HIGH SCHOOL",
+    "description": "92783DC2 – Design & Construct Water Rectification Upgrade - PIMLICO STATE HIGH SCHOOL, 59-77 FULHAM ROAD,\n\nPIMLICO QLD 4812\n\nPricing: 60 points\n\nNon Price Criteria: 40 points (Methodology and Program, Design and Construct Capability, Local Benefits, Regional and\n\nCommunity Benefits and impacts on communities)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: Date of Acceptance of Tender\n\nDate for Practical Completion: Within 24 weeks of acceptance\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/\n\nunder reference number 92783DC2",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-16T05:17:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=0b46006ce6514e3d88b6896887dbe718s529684s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "9-15 Langton St\nGarbutt, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "92783DC2",
+      "opensAt": "2026-10-15T14:00:00.000Z",
+      "opensAtRaw": "Friday 16 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 04 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: Offshore (QLD)\n11: South West\n12: Sunshine Coast\n13: West Moreton\n14: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-16T21:48:57.937Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "0bb7b6d2a48c4430840abb1d86726de2",
@@ -18492,6 +18666,137 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "2041c353ce7345debba2a1dd251d7f4a",
+    "source": "vendorpanel",
+    "reference": "VP529823",
+    "title": "Provision of water main and sewer construction civil works",
+    "description": "RoadTek is seeking offers for the provision of Water Main & Sewer Construction Civil Works.\n\nThe works are required in advance of the reconstruction & upgrade of Walker Street & Bruce Highway Intersection in Maryborough.\n\nAs The completion is essential to allow the upgrade to proceed. The works include Supply, install, relocate, test, commissioning and the removal and disposal of redundant water main.\n\nWorks by Offeror:\n\nUndertake the works as detailed and in accordance with the plan in Attachment C – Prelim Drawings Water Main & Sewer extract.\n\nAll work associated with the Offer shall be performed in accordance with the following Specifications.\n\nMRS170 Public Utilities in Road Projects Site Works (07/25)\n\nMRTS03 (03/25) Drainage, Retaining Structures and Protective Treatments.\n\nMRS03 (03/25) Drainage, retaining structures and protective treatments.\n\nMRTS04(03/25) General Earthworks\n\nMRS04 (03/25) General Earthworks\n\nA copy of this specification is available from www.tmr.qld.gov.au or by contacting the project manager.\n\nIn addition, the water mains must be installed in accordance with WSAA water code and its associated drawings.",
+    "buyer": "Department of Transport and Main Roads - RoadTek",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T02:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 12:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-16T00:58:00.000Z",
+    "contact": {
+      "raw": "Alanna Young Email: alanna.r.young@tmr.qld.gov.au Tel: 07 41312532",
+      "name": "Alanna Young",
+      "email": "alanna.r.young@tmr.qld.gov.au",
+      "phone": "07 41312532"
+    },
+    "documentCount": 9,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2041c353ce7345debba2a1dd251d7f4as529823s786e232eacbb4e31b23c50bf234a0226s1611",
+    "vendorPanelDetails": {
+      "buyerAddress": "2/7 Takalvan St\nBundaberg West, Queensland 4670\nAustralia",
+      "buyerWebsite": "https://www.tmr.qld.gov.au/",
+      "buyerDescription": "The Department of Transport and Main Roads provides reliable, resilient and responsive transport networks and digital services that are safe and accessible for everyone. This procurement is led by TMR's RoadTek branch.",
+      "buyerReference": "RTWB033",
+      "opensAt": "2026-10-15T14:00:00.000Z",
+      "opensAtRaw": "Friday 16 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-11T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 12:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 11 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": "Offers MUST be received via email to RoadTek_Wide_Bay_Procurement@tmr.qld.gov.au by the closing date and time.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Sunshine Coast\n2: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-30T05:48:00.000Z",
+          "question": "Could you please confirm whether TMR contractor accreditation or pre-qualification is required for these works? We could not find a specific requirement in the RFQ documents or addenda NTT-01 to NTT-03. If it applies, could you please advise the required pre-qualification category or level, and any registration requirements? Thank you for your help.",
+          "answeredAt": "2026-11-09T02:33:00.000Z",
+          "answer": "Good afternoon,\n\nRegarding your question, NTT-05 has been issued today with a formal response."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-19T23:58:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum-or-Clarification (1).pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-26T04:05:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum-or-Clarification (2).pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-27T04:54:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum-or-Clarification (3).pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-11-05T04:48:00.000Z",
+          "description": "Please note: The following attachments and addenda have been recently added.\n\n1. Added: \t (Addendum) Addendum-or-Clarification (4).pdf\n\n2. Added: \t Watermain and Sewer Prelim Drawings.pdf\n\nPlease consider these attachments and addenda when responding."
+        },
+        {
+          "at": "2026-11-09T02:33:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum-or-Clarification (5).pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-16T21:48:57.937Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-30T07:00:00.000Z",
+        "to": "2026-11-06T07:00:00.000Z",
+        "at": "2026-10-20T21:59:13.572Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "30/Oct/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "06/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-20T21:59:13.572Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-10-20T21:59:13.572Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-10-26T22:55:59.516Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "5",
+        "to": "6",
+        "at": "2026-10-27T22:44:08.070Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-11-06T07:00:00.000Z",
+        "to": "2026-11-13T02:00:00.000Z",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "06/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "13/Nov/2026 12:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "6",
+        "to": "8",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "8",
+        "to": "9",
+        "at": "2026-11-10T01:48:10.581Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "205139f1aa724d448e5b5b8b9d30d9d9",
     "source": "vendorpanel",
     "reference": "VP520686",
@@ -21885,6 +22190,62 @@
       }
     ],
     "archivedAt": "2026-10-09T22:57:41.458Z"
+  },
+  {
+    "id": "2c4036f0f4704eb99e2b91daf80ff511",
+    "source": "vendorpanel",
+    "reference": "VP528948",
+    "title": "Carry out Replacement of 4 Kitchenettes - Edmund Sheppard Courthouse, 31 Walker Street, Townsville",
+    "description": "The Queensland Government is seeking Proposals from appropriately licenced contractors to Carry out removal of existing, and installation of four (4) new Kitchenettes at EDMUND SHEPPARD COURTHOUSE, 31 WALKER STREET, TOWNSVILLE QLD 4810\n\nPricing: 80 points\n\nNon Price Criteria: 20 points (Local Benefits, Social Benefits, Methodology & Program)\n\nContractor to hold appropriate QBCC Builders licence to undertakes works\n\nTime for Commencement: within 2 weeks of acceptance\n\nDate for Practical Completion: within 10 weeks from acceptance\n\nSite Inspection scheduled for 7:00am, Tuesday 20th of October 2026.\n\nAttendees are to RSVP by email to QBuild.NQ.Tenders@hpw.qld.gov.au no later than 2.00pm, Friday 16th of October 2026.\n\nYour RSVP to include attendees name and contact details.\n\nNo RSVP = No Admittance to Site\n\nNo further site inspections can be undertaken.\n\nTender documentation for this project is available from the QBuild eTender website at https://etender.hpw.qld.gov.au/ under reference number QBNQ450BLD1\n\nSubmissions are to be submitted electronically via the QBuild eTender website https://etender.hpw.qld.gov.au/",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-10T01:35:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=2c4036f0f4704eb99e2b91daf80ff511s528948s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "9-15 Langton St\nGarbutt, Queensland 4814\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "QBNQ450BLD1",
+      "opensAt": "2026-10-09T14:00:00.000Z",
+      "opensAtRaw": "Saturday 10 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 25 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-10T22:05:08.502Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-10T04:00:00.000Z",
+        "to": "2026-11-13T04:00:00.000Z",
+        "at": "2026-11-03T23:45:51.315Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-11-03T23:45:51.315Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "2ce0faa3ec6b4d99846183951fbf4f8e",
@@ -26152,6 +26513,49 @@
       }
     ],
     "archivedAt": "2026-10-22T21:59:00.631Z"
+  },
+  {
+    "id": "3e97f6f8232f45b4b7b04a6572b3376d",
+    "source": "vendorpanel",
+    "reference": "VP530453",
+    "title": "QED 6539 2026 Oakey SHS - Block B Amenities Renewal (with design responsibility)",
+    "description": "Please contact Adrian Watts – Project Manager on adrian@honeywill.com.au with your company details and tender documentation will be emailed to contractors. Details of the site inspection will be advised in the email and letters to tenderers.\n\nThe Department of Education (DoE) is calling for tender submissions for the renewal and refurbishment of the Block B Amenities at Oakey State High School, located at 1 Campbell Street, Oakey QLD 4401, as part of the Prioritised Nominated Project (PNP) program.\n\nThe scope of works comprises of the refurbishment of the existing Block B Student Boys Amenities at Oakey SHS, including complete demolition of the existing internal partitions and wall to create a new layout with improved passive supervision, new floor finishes, cubicles, painting, fixtures and associated hydraulic and electrical works. All works are to be completed by March 2027.\n\nTender submissions will be accepted from contractors that meet the following requirements:\n\n•\tAppropriate QBCC Builders licences to undertake the entire scope of works\n\n•\tProfessional Indemnity Insurance to the value of $1,000,000.00\n\nQBCC Licensing and Professional Indemnity Insurance\n\nIt is anticipated that a minimum of a QBCC (Medium Rise) builders’ licence will be required for this project. Contractors are required to hold Professional Indemnity Insurance in accordance with the contract.\n\nSubmissions close on 13/11/2026 at 3:00pm via email to tenders@honeywill.com.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T05:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 03:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-25T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=3e97f6f8232f45b4b7b04a6572b3376ds530453s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "34-167525",
+      "opensAt": "2026-10-25T14:00:00.000Z",
+      "opensAtRaw": "Monday 26 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-10T05:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 10 November 2026 03:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 04 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Darling Downs"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-25T21:18:18.384Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "3e9e9a9693a14ecc8f2982bb2e4e0031",
@@ -31200,6 +31604,49 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "4ff3af2c600746d5991c590991e50d6f",
+    "source": "vendorpanel",
+    "reference": "VP529933",
+    "title": "2 Stephen St, Thursday Island - Construction of 4 x 3 Bed Units",
+    "description": "Tenders please note:\n\nServices: Principal Contractor (Document and Construct)\n\nThe Queensland Government through QBuild, a business unit of the Department of Housing and Public Works, invites suitably qualified contractors to submit an offer for:\n\nConstruction of 4 x 3 Bed Units, 2 Stephen Street, Thursday Island.\n\nEligibility requires at a minimum the following:\n\n\t• Appropriate QBCC Builders licence to undertake the entire scope of works\n\n\t• Public Liability Insurance - Minimum of $20m\n\n\t• Office located within the FNQ region\n\n\t• Prequalification (PQC) Registration\n\nTender documentation is available from the eTender website at https://etender.hpw.qld.gov.au/\n\nSubmissions are to be electronic via the QBuild eTender site. The tender close date is Friday 13th November 2026 at 14:00pm AEST\n\nIf you are not Eligible to tender on this project, please contact PQC on 1800 072 621 or PQCRegistrar@hpw.qld.gov.au for further details",
+    "buyer": "QBuild",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-16T06:06:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=4ff3af2c600746d5991c590991e50d6fs529933s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "31 Grove St\nParramatta Park, Queensland 4870\nAustralia",
+      "buyerWebsite": "https://www.housing.qld.gov.au/about/department/business-areas/public-works/qbuild",
+      "buyerDescription": "A commercialsed business unit of the Department of Housing and Public Works (DHPW)",
+      "buyerReference": "94763",
+      "opensAt": "2026-10-15T14:00:00.000Z",
+      "opensAtRaw": "Friday 16 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-06T04:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 06 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 25 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-16T21:48:57.937Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "5039d13a68af42649a6bcaa6a727bfe2",
     "source": "vendorpanel",
     "reference": "VP523376",
@@ -31741,6 +32188,147 @@
       }
     ],
     "archivedAt": "2026-09-18T22:00:51.010Z"
+  },
+  {
+    "id": "525082a7fcd7403cb23fd2a32be24baf",
+    "source": "vendorpanel",
+    "reference": "VP528572",
+    "title": "GIS support and development services",
+    "description": "Walcha Council is seeking proposals through a reverse brief process, to provide GIS services for the establishment and ongoing maintenance of its ArcGIS software platform.",
+    "buyer": "Walcha Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Engineer, Research, Tech services",
+      "Financial & Insurance Services",
+      "IT & Telecomms"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T07:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-07T23:09:00.000Z",
+    "contact": null,
+    "documentCount": 2,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=525082a7fcd7403cb23fd2a32be24bafs528572",
+    "vendorPanelDetails": {
+      "buyerAddress": "2W Hamilton St\nWalcha, New South Wales 2354\nAustralia",
+      "buyerWebsite": "http://www.walcha.nsw.gov.au/",
+      "buyerDescription": "The natural beauty of the Shire is quite breathtaking. The Shire is home to the magnificent Macleay Gorges and boasts some 205,000 hectares of dedicated national park, wilderness and state forest. Parts of our Werrikimbe National Park are World Heritage listed.\n\nThe Shire is also a well known trout fishing mecca, boasting some 1,500 km of trout streams which are a home to Rainbow and Brown trout. The township of Walcha is 1,067 metres above sea level, with one of the highest point in the district being at \"The Flags\" (42 kilometres south of Walcha) which is 1,400 metres above sea level. The highest point is in the Riamukka area, 38 kilometres south of Walcha, where the Grundy Trig Station and the Grundy Fire Tower are situated which is recorded as 1,463 metres. The Shire covers an area of 640,028 hectares (2,475 square miles/6,400 square kilometres). The population of the Shire is approximately 3,224 (Census 2016) which includes approximately 1,700 in the Town of Walcha.",
+      "buyerReference": "W26/280",
+      "opensAt": "2026-10-07T14:00:00.000Z",
+      "opensAtRaw": "Thursday 08 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-11T06:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 05:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 04 December 2026 (AUS Eastern Standard Time)",
+      "background": "Council previously utilised IntraMaps as its GIS platform, however a decision was made approximately 18 months ago to transition to ArcGIS. Since this time, the relevant staff have moved on from the organisation and the transition project has stalled. Initial work has resulted in a rudimentary GIS environment that does not meet Council’s operational needs.",
+      "desiredOutcomes": "Desired:\n\n1.\tMulti-phase Road Map\n\n2.\tDetailed Phase Map\n\n3.\tStandards for Asset Coding\n\n4.\tBest Practices for New Datasets\n\n5.\tWidgets and Applications to enhance service\n\n6.\tValue-add Components\n\nConditions - Relevant information on Council’s existing GIS can be released after a signed NDA.",
+      "buyerQuestions": [
+        "Outline your experience with similar projects.",
+        "Please outline your fees/rates."
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Hunter\n2: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-09T05:54:00.000Z",
+          "question": "Is Council open to a remotely delivered engagement, with support and training provided by video, and work carried out directly in Council’s ArcGIS Online organisation? Are there any Council IT or data policies restricting contractor access from outside Australia?",
+          "answeredAt": "2026-10-09T06:12:00.000Z",
+          "answer": "Hello Ricki,\n\nYou are welcome to submit a tender, and it will be evaluated on its merits. There are no policies restricting contractor access outside Australia."
+        },
+        {
+          "askedAt": "2026-10-11T05:55:00.000Z",
+          "question": "1. Is Council’s current environment ArcGIS Online, ArcGIS Enterprise, or both? Which ArcGIS licences does Council hold (user types and quantities), and when do they renew?\n\n2. Which datasets are already loaded into ArcGIS? What format are the remaining IntraMaps-era datasets in (for example MapInfo TAB, SQL Server, shapefile or CAD)?\n\n3. Which property and rating system does Council use? Can it produce a scheduled export (for example CSV or a database view) of assessment number, owner names and property address?\n\n4. Is the $30,000 Phase 1 limit exclusive of GST? Does it exclude ArcGIS software licensing and travel costs?\n\n5. Can Phase 1 be priced as a fixed lump sum alongside the pricing schedule, with the schedule covering ongoing support after Phase 1?\n\n6. What is Council’s expected commencement date following the 20 November decision?\n\n7. Is remote delivery with scheduled on-site visits (for example kickoff and training) acceptable, or does Council have a minimum on-site requirement?\n\n8. For planning proposals, will Council’s planning staff or an external planning consultant prepare the final maps to NSW planning mapping standards, with the GIS supplying the data and map templates?\n\n9. Roughly how many staff will use the GIS (viewers, editors and field users)? Is there a nominated staff member who will own the GIS and receive mentoring?\n\n10. Does Council use Microsoft 365 / Entra ID for staff sign-in?",
+          "answeredAt": "2026-10-12T03:29:00.000Z",
+          "answer": "1. Council has a 3-year enterprise agreement with Esri that gives access to both ArcGIS Online and ArcGIS Enterprise. However, to my knowledge, the Enterprise was never deployed.\n\nFor User types, Enterprise should have according to the agreement:\n\nContributor - 5\n\nMobile Worker - 25\n\nCreator - 25\n\nProfessional - 5\n\nProfessional Plus - 5\n\nFor ArcGIS Online:\n\nContributor - 15\n\nCreator - 100\n\nMobile Worker - 100\n\nProfessional - 20\n\nProfessional Plus - 20\n\nViewer – 700\n\n2. The data has been fully migrated over from IntraMaps to ArcGIS Online as feature layers and webmaps.\n\n3. Council uses Civica Authority as its property and rating system and it is capable of exporting the data as a CSV.\n\n4. $30,000 is exclusive of GST. Council has already procured ArcGIS software licences and the $30,000 limit is not required for this purpose. The $30,000 should include the travel cost.\n\n5. It would be acceptable but may impact scoring in the circumstance that multiple vendors have similar offers.\n\n6. We would be looking to engage as soon as possible after decision period.\n\n7. Council does not have a minimum on-site requirement however would prefer on-site visits for kick-off meeting and staff training.\n\n8. We would be looking for assistance for preparation of maps.\n\n9. Approximately 4 staff members will consistently use the GIS initially through ‘Creator’ & ‘Professional’ user types. However, this anticipated to increase as capabilities are developed. An estimated 40 staff will use the ‘Viewer’ user type.\n\nThere is a nominated staff member for mentoring.\n\n10. Council is currently transitioning to Microsoft 365 for staff sign in."
+        },
+        {
+          "askedAt": "2026-10-13T04:47:00.000Z",
+          "question": "Dear Walcha Council,\n\nCould you please respond to our two clarifications below:\n\n1) Regarding the NDA srequiring signing - our legal team has reviwed and requests is a way to revise section 8 so this NDA does not survive indefinitely? Woolpert would prefer to put some time period, our default is 3 years, but we would agree to 5 years.\n\n2) In relation to the multi-phase GIS roadmap strategy development - is this tender for the strategy only, or includes the deployment of the first phase GIS system?\n\nKind regards, Team Woolpert Australia",
+          "answeredAt": "2026-10-19T00:26:00.000Z",
+          "answer": "1. Council is agreeable to revising section 8 to a term of three years.\n\n2. The tendor is meant for both the roadmap development strategy & a deployment for the first phase as outlined in the RFQ."
+        },
+        {
+          "askedAt": "2026-10-13T07:10:00.000Z",
+          "question": "My priority questions would be:\n\n1. ArcGIS environment: Is Council currently using ArcGIS Online, ArcGIS Enterprise, ArcGIS Pro, or a combination? What licences and subscriptions are available?\n\n2. Existing work: What components of the transition from IntraMaps have already been completed, and what remains usable?\n\n3. Data availability: What formats and sources contain Council's property, cadastre, water, sewer and planning datasets?\n\n4. Property information: How is ownership data currently accessed, and what restrictions apply to its display?\n\n5. System integration: Are there existing property, rating, asset management or document management systems that the GIS must integrate with?\n\n6. Operational users: How many internal users will need GIS access, and is public-facing access required?\n\n7. Budget: Is the $30,000 Phase 1 ceiling inclusive or exclusive of GST, and does it include software licences and hosting?\n\n8. Contract arrangements: What ongoing support term and service availability does Council envisage?",
+          "answeredAt": "2026-10-18T23:47:00.000Z",
+          "answer": "1. Council is currently using ArcGIS Online & ArcGIS Pro. Council does have access to ArcGIS Enterprise but it has not been deployed. Council has licences for:\n\nArcGIS Online\n\nProfessional Plus: 20\n\nProfessional: 20\n\nCreator: 100\n\nContributor: 15\n\nMobile Worker: 100\n\nViewer: 700\n\nArcGIS Enterprise\n\nContributor - 5\n\nMobile Worker - 25\n\nCreator - 25\n\nProfessional - 5\n\nProfessional Plus - 5\n\n2. The data from IntraMaps has all been migrated to ArcGIS but the connection between our new GIS system and our organizations enterprise system, Civica Authority wasn’t re-established.\n\n3. Council’s data is mainly stored in our enterprise management software, in physical records & as feature layers in our GIS.\n\n4. Property ownership data is stored in Council’s Corporate Register software, Authority, where staff currently perform direct property enquiry searches. It is understood that Authority contained a suitable export feature to allow IntraMaps direct access to this database. Note that Council is expecting to transition to Authority Altitude in the short term.\n\n5. The GIS solution should integrate with Authority, and Content Manager.\n\n6. Currently only 4 users use it consistently with an estimated 40 more users in the future with access to ‘Viewer’ user role. Public-facing access is not required in the initial stage.\n\n7. $30,000 is exclusive of GST. Council has already procured ArcGIS licences but if any additional licences/software would be needed. They can be itemized and included in proposal.\n\n8. Council prefers a retainer model providing a dedicated allocation of support hours per week. These hours can be used for general GIS purposes, troubleshooting, advisory and other operational needs. It is noted that Council’s GIS needs will vary from week to week, and so an ‘actual hours’ may be beneficial."
+        },
+        {
+          "askedAt": "2026-10-14T22:14:00.000Z",
+          "question": "Could Council please confirm whether it currently holds any FME (Feature Manipulation Engine) licences, or uses FME for spatial data transformation, integration or automated data-processing workflows?\n\nIf so, it would be helpful to understand which FME products are available and whether they are currently deployed.\n\nThis will assist us in assessing the available integration options and preparing our proposed technical approach.",
+          "answeredAt": "2026-10-18T23:43:00.000Z",
+          "answer": "Council has access to ‘Data Inoperability for Pro’ but it has not been downloaded."
+        },
+        {
+          "askedAt": "2026-10-15T05:40:00.000Z",
+          "question": "1. Does Council have staff (or a support arrangement with Civica) who can configure a scheduled Civica Authority export of assessment number, owner names, property address and lot/DP? Is there a shared network or SharePoint location where that export can be saved and read by a server running scheduled scripts?\n\n2. To automate the property data refresh, is Council able to provide a server or virtual machine (Windows preferred) where Python scripts can be run on a schedule, for example using Windows Task Scheduler? If so, does it have ArcGIS Pro or Python installed, and can a contractor access it remotely (for example through VPN or remote desktop)? Does Council also hold licences for any other automation tools, such as FME or Power Automate?\n\n3. Does Council maintain an asset register (for example a Civica Authority module or another asset management system) that issues asset IDs for its sewer, water and other networks?\n\n4. What insurance does Council require of the successful supplier (for example public liability and professional indemnity), and at what minimum cover?",
+          "answeredAt": "2026-10-18T23:42:00.000Z",
+          "answer": "1. It can be arranged by Council.\n\n2. Council can provide it on request; posses Power Automate.\n\n3. Council maintains an asset register through Civica Authority where a sequential numerical ID is assigned to assets as they are added into the system.\n\n4. Council would require:\n\n- Public Liability - $20 million\n\n- Professional Indemnity - $ 5 million\n\n- Worker's Compensation\n\n- Motor Vehicles"
+        },
+        {
+          "askedAt": "2026-10-18T23:49:00.000Z",
+          "question": "Do you require the NDA to be returned to you before submitting the tender response?\n\n4 RFQ Response\n\nDo you want the response to use these as headings\n\nDoes 4.2 refer to the Phase 1, high priority work\n\nIt is not clear where 3-6 is referenced in the detail of the RFQ.",
+          "answeredAt": "2026-10-27T00:40:00.000Z",
+          "answer": "1. The NDA is required in order to grant you access to our GIS to help prepare a more accurate proposal.\n\n2. Please feel free to use these headings if they are suitable for your response.\n\n3. Yes, 4.2 refers to Phase 1 of the road map related to 2.2 & 2.3 from scope of deliverables.\n\n4. Section 3.6 is to help Council accurately review offers."
+        },
+        {
+          "askedAt": "2026-10-19T00:49:00.000Z",
+          "question": "Regarding Council's motor vehicle insurance requirement, could you please clarify whether this applies only where vehicles are used in delivering the services?\n\nOur company would not be supplying a company vehicle. Any required site visits would involve a consultant using their own appropriately insured vehicle or a hire vehicle.\n\nWould evidence of suitable vehicle insurance for the individual consultant be acceptable, rather than a separate motor vehicle policy held by 2dSearch?",
+          "answeredAt": "2026-10-19T01:16:00.000Z",
+          "answer": "This would only apply to vehicles used in delivering the services. Council would request evidence of insurance later in the process, documentation would not be required at this stage."
+        },
+        {
+          "askedAt": "2026-10-19T00:51:00.000Z",
+          "question": "Hi,\n\n1. Given the nature of a reverse brief, is council open to variations or alternatives to software packages or tools used which may provide additional benefits, more cost effective, or more fit for purpose? Or is Council committed to a long term development of Esri GIS solutions?\n\n2. Can Council supply a Software Inventory and anticipated system architecture of where GIS solutions will sit once completed?\n\n3. Does Council intend for the successful respondent to have the opportunity to continue into future implementation phases of the proposed direction, or is Council's intention to separately procure implementation services following completion of the initial engagement?",
+          "answeredAt": "2026-10-27T02:06:00.000Z",
+          "answer": "1. Council would be open to alternative software packages/tools.\n\n2. Council’s current GIS is deployed as SaaS & is sitting on a cloud\n\n3. Council’s intention is to continue working with the successful respondent through future implementation phases."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-12T00:51:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) NDA - GIS Support and Development Services.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-26T06:21:00.000Z",
+          "description": "Good Afternoon All,\n\nWe are extending the deadline by another week as Council have experienced and are continually experiencing technical issues from our system migration last week.\n\nThis has caused complications for our emails and other processes.\n\nThank you for your understanding and patience.\n\nBest regards,\n\nDarshan"
+        },
+        {
+          "at": "2026-11-04T23:33:00.000Z",
+          "description": "Good Morning All,\n\nDue to the delays in processing the NDAs, the deadline will be extended to Friday, 13th of November at 5:00 PM AEDT\n\nBest Regards,\n\nDarshan"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-07T23:22:52.819Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-30T07:00:00.000Z",
+        "to": "2026-11-06T07:00:00.000Z",
+        "at": "2026-10-26T22:55:59.516Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "30/Oct/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "06/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-26T22:55:59.516Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-11-06T07:00:00.000Z",
+        "to": "2026-11-13T07:00:00.000Z",
+        "at": "2026-11-05T00:02:40.372Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "06/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "13/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-11-05T00:02:40.372Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "525e8a5aef8043f59016033cd6662083",
@@ -39982,6 +40570,50 @@
     "archivedAt": "2026-10-16T21:48:57.937Z"
   },
   {
+    "id": "6f10de12343b482f9f02ce9dc7774297",
+    "source": "vendorpanel",
+    "reference": "VP530706",
+    "title": "TC26111- MI187739- Lot 68 New Village Street, Mabuiag (Flooring Upgrade)",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-22T02:58:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=6f10de12343b482f9f02ce9dc7774297s530706",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26111",
+      "opensAt": "2026-10-21T14:00:00.000Z",
+      "opensAtRaw": "Thursday 22 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-02-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 11 February 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "6f2f77cc8c364771a6c279c3b689b003",
     "source": "vendorpanel",
     "reference": "VP526722",
@@ -43868,6 +44500,90 @@
     "archivedAt": "2026-09-24T22:48:30.626Z"
   },
   {
+    "id": "7cfa2c4bf68f4e3b81cfce500bec9781",
+    "source": "vendorpanel",
+    "reference": "VP528718",
+    "title": "RFQ260245 Electrical Technical Inspection & Maintenance",
+    "description": "The primary goal is to provide services to Emerald Airport with Electrical Technical Inspections, Installations & Maintenance.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "ELEC, Lighting, Equip & Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T07:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-11T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7cfa2c4bf68f4e3b81cfce500bec9781s528718",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260245",
+      "opensAt": "2026-10-11T14:00:00.000Z",
+      "opensAtRaw": "Monday 12 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-13T07:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 20 November 2026 (E. Australia Standard Time)",
+      "background": "As per the Scope of Supply",
+      "desiredOutcomes": "Maintain Compliance",
+      "buyerQuestions": [
+        "Provide past aviation experiences and qualifications"
+      ],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Far North\n4: Fitzroy\n5: Gold Coast\n6: Mackay\n7: Northern\n8: South West\n9: Sunshine Coast"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-23T02:17:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Addendum.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-10-27T00:23:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Goods and or Services Contract 2026.pdf\n\nPlease consider this addendum when responding.\n\nCouncil wishes to advise all contractors that the originally published Goods and Services contract document contained an inadvertent \"Draft\" watermark.\n\nThe document has now been replaced with the formal version, with the watermark removed.\n\nNo changes have been made to the contract terms and conditions. Contractors are requested to use the updated document for the submission."
+        },
+        {
+          "at": "2026-11-05T10:07:00.000Z",
+          "description": "Notice to all tenderers - Extension of Tender Closing Date:\n\nPlease be advised that the closing date for the current RFQ has been extended by one (1) week, from Friday, 6 Nov 2026 to Friday, 13 Nov 2026.\n\nThis extension is intended to provide additional opportunity for interested suppliers to participate in the RFQ process and submit their proposals.\n\nConsequently, the RFQ evaluation period and anticipated contract commencement date will also be extended by one (1) week to accommodate the revised procurement timeline.\n\nAll other items, conditions, and requirements of the RFQ remain unchanged.\n\nWe appreciate your interest and participation in this RFQ process."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-11T22:34:03.290Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-10-23T21:44:44.471Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-10-27T22:44:08.070Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-11-06T07:00:00.000Z",
+        "to": "2026-11-13T07:00:00.000Z",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "06/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "to": "13/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-11-06T23:35:26.416Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "7d6438d1f1254c398969fdc827007d04",
     "source": "vendorpanel",
     "reference": "VP525510",
@@ -44753,6 +45469,101 @@
       }
     ],
     "archivedAt": "2026-10-21T22:01:57.159Z"
+  },
+  {
+    "id": "7ef4d6f5f8834895a054ab9459417beb",
+    "source": "vendorpanel",
+    "reference": "VP531164",
+    "title": "RFQ2027.16 Installation of Seven Culverts",
+    "description": "Cootamundra-Gundagai Regional Council is seeking quotations from suitably qualified contractors for culvert replacement works at various locations within the Local Government Area. The works include excavation of existing culverts, installation of new culvert pipes and associated road restoration works. Further details are provided within the RFQ documentation.",
+    "buyer": "Cootamundra-Gundagai Regional Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-11-13T07:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-27T00:08:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=7ef4d6f5f8834895a054ab9459417bebs531164",
+    "vendorPanelDetails": {
+      "buyerAddress": "81 Wallendoon St\nCootamundra, New South Wales 2590\nAustralia",
+      "buyerWebsite": "https://www.cgrc.nsw.gov.au/",
+      "buyerDescription": "Cootamundra-Gundagai Regional Council was formed by Proclamation of the NSW Government on 12 May 2016.\n\nCootamundra-Gundagai Regional Council provides services and support to a community of approximately 11,500 people, including residents of Cootamundra and Gundagai, as well as the villages of Adjungbilly, Coolac, Muttama, Nangus, Stockinbingal, Tumblong and Wallendbeen.\n\nCouncil is focused on ensuring that the community benefits from this amalgamation, with our highest priority being to continue delivering quality local services that our communities value and rely on. It is the aim of the administration to build a united team and a united community that is inclusive, forward-thinking and lays the foundations for a strong and effective local government.",
+      "buyerReference": "RFQ2027.16",
+      "opensAt": "2026-10-26T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 27 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-13T06:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 05:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 11 December 2026 (AUS Eastern Standard Time)",
+      "background": "Site Meeting\n\nA site meeting will be held:\n\nTime - 10:00am\n\nDate - Wednesday 4 November 2026\n\nLocation - No 4 Stockpile site, Olympic Highway at intersection with North Jindalee Road. A location picture is included in section 8 of the RFQ documentation.\n\nContractors are strongly encouraged to attend and familiarise themselves with the project requirements and site conditions.\n\nFurther details regarding the meeting location and arrangements are provided within the RFQ documentation.\n\nQuestions relating to the RFQ should be submitted via VendorPanel.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Murrumbidgee"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-03T02:05:00.000Z",
+          "question": "Hi,\n\nCan I get answers to the below requested RFI's\n\n1.\tExcavation: Confirm excavation depths, trench widths, existing ground conditions and whether rock, groundwater or unsuitable material is expected.\n\n2.\tPipe Installation: Confirm pipe weights, lifting arrangements and whether a 20–25T excavator will be sufficient or additional lifting equipment is required.\n\n3.\tWaste Disposal: Confirm whether excavated material can be reused, where waste must be disposed of and whether Council will waive tip fees.\n\n4.\tWorking Duration: Confirm whether all seven culverts can be completed consecutively, permitted working hours, road closures and any restrictions affecting productivity.\n\n5.\tCouncil-Supplied Materials: Confirm that pipes, gravel and stabilised sand will be available when required, including who transports materials from the stockpile.\n\n6.\tScope Clarifications: Confirm responsibility for compaction testing, survey/set-out, service identification, dewatering and pavement preparation requirements.\n\n7.\tHeadwalls: Confirm Council will undertake all concrete and headwall works, particularly for the six-cell culvert (178661).\n\n8.\tVariations/Delays: Clarify how unforeseen excavation conditions, additional works and delays caused by Council's activities will be managed and paid.\n\nThank you",
+          "answeredAt": "2026-11-03T07:09:00.000Z",
+          "answer": "Thank you for your enquiries.\n\nPlease refer to Addendum No. 1, and the R11 Stormwater Drainage PDF uploaded to vendor panel 03.11.2026.\n\nKind regards\n\nCGRC"
+        },
+        {
+          "askedAt": "2026-11-03T02:44:00.000Z",
+          "question": "Hi There,\n\nPlease provide the location and Time of the site meeting of Wednesday 04th November 2026.\n\nRegards,",
+          "answeredAt": "2026-11-03T02:58:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nA site meeting will be held:\n\nTime - 10:00am\n\nDate - Wednesday 4 November 2026\n\nLocation - No 4 Stockpile site, Olympic Highway at intersection with North Jindalee Road. A location picture is included in section 8 of the RFQ documentation.\n\nContractors are strongly encouraged to attend and familiarise themselves with the project requirements and site conditions.\n\nKind regards\n\nCGRC"
+        },
+        {
+          "askedAt": "2026-11-10T01:21:00.000Z",
+          "question": "Based on the drawing supplied the designed location of new culvert and the original culvert are not the same for culvert no’s: 178659,178660,178662,178663,178663A. For construction and pricing, the new culvert has to be installed first and dig out the old culvert and back fill it? Or the new culverts will be installed at the same location by digging out the old culvert? Please clarify",
+          "answeredAt": "2026-11-10T04:31:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nTfNSW have confirmed culverts will be renewed in their existing position. Please refer to document \"DS2026-000056 Issue 2 -NFC - 50% Detail Design - MR78 - Jindalee Pavement Rehab\" uploaded 10.11.2026.\n\nKind regards\n\nCGRC"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-03T07:07:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t Addendum No 1.pdf\n\n2. Added: \t R11 Stormwater Drainage.pdf\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-11-06T00:19:00.000Z",
+          "description": "Please note: The following attachment has been recently added regarding changes to the scope of works.\n\n1. Added: \t Addendum No 2 - Clarifications following Site-Meeting 4.11.2026.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-10T04:35:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\nTfNSW have now confirmed culverts will be renewed in their existing position. Please refer to attached, updated drawings.\n\n1. Added: \t DS2026-000056 Issue 2 - NFC - 50% Detail Design - MR78 - Jindalee Pavement Rehab.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-27T22:44:08.070Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "1",
+        "to": "3",
+        "at": "2026-11-03T23:45:51.315Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "4",
+        "to": "5",
+        "at": "2026-11-10T23:49:10.050Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "7f9d2511b3854fa691d3375196c034d0",
@@ -46214,6 +47025,50 @@
     "firstSeenAt": "2026-09-29T00:01:53.504Z",
     "changes": [],
     "archivedAt": "2026-10-28T22:54:33.133Z"
+  },
+  {
+    "id": "8380fb6735fa4ccab90bb826a774478c",
+    "source": "vendorpanel",
+    "reference": "VP530673",
+    "title": "TC26110- MI187717- Various Residences of MOA- Floor Package #15",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-22T00:55:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=8380fb6735fa4ccab90bb826a774478cs530673",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26110",
+      "opensAt": "2026-10-21T14:00:00.000Z",
+      "opensAtRaw": "Thursday 22 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-02-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 11 February 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "839387c2c7a147559e92d9ccf09fcdea",
@@ -49631,6 +50486,163 @@
     "archivedAt": "2026-10-21T22:01:57.159Z"
   },
   {
+    "id": "8e93778779e446d58076e7f6264693f3",
+    "source": "vendorpanel",
+    "reference": "VP525382",
+    "title": "Palm Island Tourism Commercial & Operating Partner",
+    "description": "Palm Island Aboriginal Shire Council is seeking an experienced Tourism Commercial Development & Operational Readiness Partner to support the development and commercial activation of Palm Island’s emerging tourism offering.\n\nThe successful Partner will provide specialist tourism, commercial and operational-readiness services, including tourism product and visitor-experience development, commercial and operating-model development, D&C design and delivery interface, marketing and distribution planning, local participation and workforce planning, operational readiness, and assistance to Council to procure and transition to a separate long-term Tourism Operating Partner.\n\nThe engagement does not include the ongoing day-to-day commercial operation of the tourism offering following Commercial Opening.",
+    "buyer": "Palm Island Aboriginal Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Event Management & Services",
+      "Marketing & Communications",
+      "Training & Development",
+      "Travel & Tourism"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-09-11T22:25:00.000Z",
+    "contact": {
+      "raw": "Marcio Fialho Email: marcio.fialho@palmcouncil.qld.gov.au Tel: 0448339292",
+      "name": "Marcio Fialho",
+      "email": "marcio.fialho@palmcouncil.qld.gov.au",
+      "phone": "0448339292"
+    },
+    "documentCount": 26,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=8e93778779e446d58076e7f6264693f3s525382",
+    "vendorPanelDetails": {
+      "buyerAddress": "1 Main St\nPalm Island, Queensland 4816\nAustralia",
+      "buyerWebsite": "http://www.piac.com.au/",
+      "buyerDescription": "Palm Island Aboriginal Shire Council",
+      "buyerReference": "PIASC.2627.WTRL02",
+      "opensAt": "2026-09-11T14:00:00.000Z",
+      "opensAtRaw": "Saturday 12 September 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-19T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 20 November 2026 (E. Australia Standard Time)",
+      "background": "Council is progressing the Palm Island Walking Trails & Tourism Activation Project, including walking trails, visitor facilities, tourism accommodation and associated tourism infrastructure.\n\nA separate Design & Construct procurement is being undertaken for the infrastructure works. The Tourism Commercial Development & Operational Readiness Partner will work alongside Council, the D&C Contractor and relevant community, cultural, tourism and government stakeholders to ensure the infrastructure and tourism offering are commercially and operationally ready for launch.\n\nTenderers should demonstrate relevant experience in tourism commercial development, destination and product development, operational readiness, tourism operating models, market development, remote or regional tourism and, preferably, experience working with First Nations communities.",
+      "desiredOutcomes": "Council is seeking outcomes including:\n\n- a commercially viable and culturally appropriate Palm Island tourism offering;\n\n- market-ready tourism products and an integrated visitor experience;\n\n- effective tourism and operational input into infrastructure design and delivery;\n\n- a robust future commercial and operating model;\n\n- strong local employment, Ranger participation, local procurement and enterprise-development outcomes;\n\n- effective marketing, sales and distribution planning;\n\n- demonstrated operational readiness ahead of Commercial Opening;\n\n- a complete procurement package and procurement support for the future Tourism Operating Partner; and\n\n- effective transition and handover to the subsequently appointed operator.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: ACT (all other areas)",
+        "New South Wales\n1: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Gold Coast\n3: Sunshine Coast",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-01T04:52:00.000Z",
+          "question": "Good Afternoon Mr Fialho,\n\nUpon reviewing the documents for the tender, I find some parts need further qualification in order to respond, especially in the area of iii. Proposed Performance-Based Variable Fee.\n\nIs this section able to be discussed and negotiated if our company was shortlisted in the tender process?\n\nMany thanks,\n\nJoanne",
+          "answeredAt": "2026-10-03T05:56:00.000Z",
+          "answer": "Council is currently reviewing the procurement approach. The procurement requirements will be subject to substantial modifications to better reflect market conditions, including the commercial and remuneration arrangements.\n\nAn extension of the current tender period will also be provided to allow proponents sufficient time to consider the revised requirements and prepare their submissions.\n\nAn addendum setting out the revised requirements and updated closing date will be issued shortly through VendorPanel."
+        },
+        {
+          "askedAt": "2026-10-25T14:48:00.000Z",
+          "question": "What is Council's current forecast date for Commercial Opening, so milestone timing can be planned?",
+          "answeredAt": "2026-10-25T20:10:00.000Z",
+          "answer": "Council's current forecast for Commercial Opening is April/May 2028, subject to completion of construction, commissioning and operational readiness activities.\n\nThis timeframe is indicative and should be used for tender milestone planning purposes."
+        },
+        {
+          "askedAt": "2026-10-25T22:58:00.000Z",
+          "question": "Hi there,\n\nHoping you can provide some clarification on the following:\n\n•\tWhere is the trails and infrastructure tender up to, and what are the design, construction and handover timeframes?\n\n•\tWhat sort of input are they expecting from us while the D&C work is underway—design reviews, site meetings, commissioning?\n\n•\tDo they have a sense of when you might want to start procuring the long-term operator?\n\n•\tIs there an indicative budget or expected level of effort for this contract?\n\n•\tHow many in person Palm Island visits should be catered for in our milestone prices?\n\n•\tFor booking and data systems, are you expecting us to recommend requirements, or actually select and set up a system? Who would cover licences and ongoing costs?\n\n•\tIf the D&C program shifts and delays readiness or operator procurement, how would the contract program and fees be adjusted?\n\nThank you",
+          "answeredAt": "2026-10-26T06:00:00.000Z",
+          "answer": "D&C procurement and program\n\nThe separate Walking Trails D&C procurement is currently in market and is scheduled to close on 6 November 2026 at 2:00 PM AEST, with contract award targeted for early December 2026. Construction is currently anticipated to occur approximately April–December 2027, followed by commissioning and operational-readiness activities during January–March 2028. These dates are indicative and subject to the outcome of the D&C procurement and final contractor program.\n\nInput during D&C delivery\n\nThe Partner is expected to provide tourism, commercial, visitor-experience and operational-readiness input through relevant design reviews, interface workshops/meetings, commissioning, handover and readiness reviews as required. The Partner's role is advisory and does not transfer design or construction responsibility from the D&C Contractor.\n\nFuture Tourism Operating Partner procurement\n\nCouncil expects this procurement to commence once the D&C design and delivery have progressed sufficiently to provide reasonable certainty regarding the infrastructure, operating requirements and anticipated Commercial Opening. Indicatively, Council expects this to occur during 2027, sufficiently ahead of opening to allow for procurement, appointment and operator mobilisation.\n\nBudget / level of effort\n\nCouncil has not nominated an indicative budget. Tenderers should propose and price the resources and level of effort they consider necessary to deliver the specified outcomes and milestone deliverables, clearly identifying relevant assumptions.\n\nPalm Island visits\n\nCouncil has not prescribed a fixed number of in-person visits. Tenderers should include an appropriate allowance within their milestone pricing based on their proposed methodology and clearly state their assumptions. Where Council subsequently requests materially additional attendance beyond the accepted scope and methodology, this would be managed in accordance with the Contract.\n\nBooking and data systems\n\nThe primary requirement is to develop and recommend the functional, commercial, data, ownership, integration and interoperability requirements for the future operating environment. The Partner is not expected under the current scope to procure and operate an ongoing booking platform. Any specific pre-opening implementation activity would require Council direction. Ongoing system licences and operating costs would ultimately be allocated between Council and/or the future Tourism Operating Partner through the approved operating model and future operator procurement.\n\nChanges to the D&C program\n\nThe Partner's program is expected to remain aligned with the D&C delivery program. If the D&C program changes, the services program would be updated accordingly. A change in timing alone does not automatically result in an adjustment to fees. Where a change results in material additional or changed Services, any adjustment would require prior Council approval and be managed through the Contract's Variation and/or Schedule of Rates provisions."
+        },
+        {
+          "askedAt": "2026-10-27T01:48:00.000Z",
+          "question": "Hello,.\n\nIs it possible to get the tender response/Return schedule as a Word document?\n\nMany thanks",
+          "answeredAt": "2026-10-27T10:53:00.000Z",
+          "answer": "Thank you for your enquiry.\n\nThe Word version of the Tender Response / Return Schedule has already been made available on VendorPanel through a previous addendum.\n\nPlease refer to the addendum documentation to access the file."
+        },
+        {
+          "askedAt": "2026-11-08T22:30:00.000Z",
+          "question": "Could Council please clarify the anticipated duration of the engagement, including the current forecast timing for Commercial Opening? Could Council also confirm the extent of the successful tenderer’s involvement following Commercial Opening, including any transition or post-opening support expected, and the anticipated period for which this support would be required?",
+          "answeredAt": "2026-11-09T00:33:00.000Z",
+          "answer": "Council anticipates commencement of the engagement in December 2026, with services continuing through tourism commercial development, infrastructure design and delivery, operational readiness, procurement of the future Tourism Operating Partner, and associated transition and handover activities.\n\nThe current indicative programme anticipates Commercial Opening around May 2028, subject to construction progress, statutory approvals and operational readiness.\n\nAs outlined in Part B – Specification, the engagement will continue until Council accepts completion of the required services. It is not based on a fixed operating term.\n\nThe successful tenderer will be responsible for supporting the procurement, mobilisation and transition to the future Tourism Operating Partner, including transfer of relevant plans, systems, commercial information and operational-readiness documentation.\n\nOngoing day-to-day tourism operations following Commercial Opening are excluded from this contract. Any post-opening involvement will be limited to completing agreed transition and handover obligations. No separate fixed post-opening support period is currently prescribed.\n\nTenderers should price the full scope specified in Part B, including transition and handover, and identify their proposed delivery programme and resource commitments."
+        },
+        {
+          "askedAt": "2026-11-08T22:30:00.000Z",
+          "question": "Could Council please clarify the anticipated duration of the engagement, including the current forecast timing for Commercial Opening? Could Council also confirm the extent of the successful tenderer’s involvement following Commercial Opening, including any transition or post-opening support expected, and the anticipated period for which this support would be required?",
+          "answeredAt": "2026-11-09T00:34:00.000Z",
+          "answer": "Council anticipates commencement of the engagement in December 2026, with services continuing through tourism commercial development, infrastructure design and delivery, operational readiness, procurement of the future Tourism Operating Partner, and associated transition and handover activities.\n\nThe current indicative programme anticipates Commercial Opening around May 2028, subject to construction progress, statutory approvals and operational readiness.\n\nAs outlined in Part B – Specification, the engagement will continue until Council accepts completion of the required services. It is not based on a fixed operating term.\n\nThe successful tenderer will be responsible for supporting the procurement, mobilisation and transition to the future Tourism Operating Partner, including transfer of relevant plans, systems, commercial information and operational-readiness documentation.\n\nOngoing day-to-day tourism operations following Commercial Opening are excluded from this contract. Any post-opening involvement will be limited to completing agreed transition and handover obligations. No separate fixed post-opening support period is currently prescribed.\n\nTenderers should price the full scope specified in Part B, including transition and handover, and identify their proposed delivery programme and resource commitments."
+        },
+        {
+          "askedAt": "2026-11-09T03:52:00.000Z",
+          "question": "The response form provides a space to enter Cyber Insurance details - is cyber insurance mandatory? Is it sufficient to say it can be obtained if necessary or must a COC be provided?",
+          "answeredAt": "2026-11-09T05:56:00.000Z",
+          "answer": "Cyber insurance is not mandatory at the tender submission stage, and a Certificate of Currency is not required with the submission.\n\nTenderers may indicate that cyber insurance can be obtained if required. Any applicable insurance requirements will be confirmed with the successful tenderer prior to contract execution."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-09-11T23:17:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) Palm Island Tourism Governance_ Commercial and Operating Model.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-09-12T00:30:00.000Z",
+          "description": "Tenderers are advised that the tender program is amended to correct the date for Approval of Preferred Tenderer.\n\nThe correct timeframe is:\n\nApproval of Preferred Tenderer – 26–30 October 2026\n\nThe previous reference to September 2026 was an administrative error.\n\nAll other requirements and dates of the Invitation to Tender remain unchanged."
+        },
+        {
+          "at": "2026-09-23T02:33:00.000Z",
+          "description": "Tenderers are advised that the previously scheduled Tenderer Information Session has been postponed.\n\nA further Addendum will be issued through VendorPanel confirming the revised date and time for the Information Session.\n\nTenderers should continue to monitor VendorPanel for further updates.\n\nAll other requirements of the Invitation to Tender remain unchanged."
+        },
+        {
+          "at": "2026-10-12T22:32:00.000Z",
+          "description": "Tenderers are advised that the Tender Closing Date for this procurement has been extended as follows:\n\nPrevious Tender Closing: Friday, 16 October 2026 at 2:00 PM AEST\n\nRevised Tender Closing: Friday, 30 October 2026 at 2:00 PM AEST\n\nTenderers are also advised that the Supplier Query Cut-Off Date has been set as follows:\n\nSupplier Query Cut-Off: Monday, 26 October 2026 at 2:00 PM AEST\n\nFollowing the Supplier Query Cut-Off Date and time, Tenderers will no longer be able to submit further queries through VendorPanel.\n\nTenderers are encouraged to submit any outstanding queries sufficiently in advance of the Supplier Query Cut-Off Date to allow adequate time for consideration and response.\n\nAll other requirements, terms and conditions of the Invitation to Tender remain unchanged."
+        },
+        {
+          "at": "2026-10-17T04:48:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 1. Part A - Tender Information and Conditions.pdf\n\n2. Added: \t (Addendum) 2. Part B - Specification.pdf\n\n3. Added: \t (Addendum) 3. Part C - Conditions of Contract.pdf\n\n4. Added: \t (Addendum) 4. Part D - Return Schedules.pdf\n\n5. Added: \t (Addendum) 5. Part D - Return Schedules.docx\n\n6. Added: \t (Addendum) 6. Part D - Return Schedules - Pricing.xlsx\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-10-26T05:21:00.000Z",
+          "description": "Tenderers are advised that the Tenderer Information Session scheduled for 27 October 2026 has been changed as follows:\n\nPrevious time: 2:00 PM AEST\n\nRevised time: 4:00 PM AEST\n\nThe session will be held via Microsoft Teams:\n\nJoin: https://teams.microsoft.com/meet/410018223841599?p=dCIvmhXiZa8EI4uu0D\n\nMeeting ID: 410 018 223 841 599\n\nPasscode: Yt2n37iL\n\nAll other tender requirements and dates remain unchanged."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-09-12T21:47:26.281Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-10-16T04:00:00.000Z",
+        "to": "2026-10-30T04:00:00.000Z",
+        "at": "2026-10-13T01:01:06.071Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "16/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "30/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-13T01:01:06.071Z"
+      },
+      {
+        "field": "description",
+        "from": "Palm Island Aboriginal Shire Council (Council) is seeking to appoint a suitably qualified and experienced Palm Island Tourism Commercial & Operating Partner (Partner) to support the development, commercial activation, operational readiness and initial operation of Palm Island’s emerging tourism offering.\n\nThe engagement will provide Council with specialist tourism, commercial and operating capability across the full establishment lifecycle, commencing during procurement and delivery of the associated tourism infrastructure and continuing through tourism product development, operational mobilisation, Commercial Opening and the initial operating period.\n\nThe Partner will work collaboratively with Council and relevant local, cultural, government and tourism-sector stakeholders to establish a coordinated, commercially sustainable and culturally appropriate tourism offering that supports increased visitation and economic participation on Palm Island.\n\nThe engagement will broadly progress through the following lifecycle:\n\n1.\tD&C Procurement Support – providing specialist tourism, commercial and operational input to Council during procurement of the Design and Construct (D&C) contractor for the Walking Trails and associated tourism infrastructure.\n\n2.\tDesign and Tourism Product Development – providing operational and commercial input during design development while progressively developing the tourism products, visitor experience and operating arrangements that will utilise the infrastructure.\n\n3.\tOperational Readiness and Commercial Mobilisation – establishing the systems, processes, market channels, workforce and service-provider arrangements necessary for Commercial Opening.\n\n4.\tCommercial Operations – leading the commercial coordination and day-to-day operation of the Council tourism offering following Commercial Opening, in accordance with the requirements of this Specification.\n\nThe Contract will comprise a Pre-Opening Period, followed by an Initial Operating Term of twenty-four (24) months from Commercial Opening, with a Council-controlled option to extend the operating term for up to a further three (3) years.",
+        "to": "Palm Island Aboriginal Shire Council is seeking an experienced Tourism Commercial Development & Operational Readiness Partner to support the development and commercial activation of Palm Island’s emerging tourism offering.\n\nThe successful Partner will provide specialist tourism, commercial and operational-readiness services, including tourism product and visitor-experience development, commercial and operating-model development, D&C design and delivery interface, marketing and distribution planning, local participation and workforce planning, operational readiness, and assistance to Council to procure and transition to a separate long-term Tourism Operating Partner.\n\nThe engagement does not include the ongoing day-to-day commercial operation of the tourism offering following Commercial Opening.",
+        "at": "2026-10-17T21:07:15.059Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-10-30T04:00:00.000Z",
+        "to": "2026-11-13T04:00:00.000Z",
+        "at": "2026-10-17T21:07:15.059Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "30/Oct/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "to": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+        "at": "2026-10-17T21:07:15.059Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "8eb56f31eeff4913886483596913ae31",
     "source": "vendorpanel",
     "reference": "VP528324",
@@ -50470,6 +51482,49 @@
     "archivedAt": "2026-10-30T22:43:00.194Z"
   },
   {
+    "id": "91c54824cce24d9194fb21c8a33bb96f",
+    "source": "vendorpanel",
+    "reference": "VP532946",
+    "title": "Adult Mental Health Step Up Step Down and Community Care Unit Services [CHHHS]",
+    "description": "The Cairns and Hinterland Hospital and Health Service (CHHHS) seek offers from appropriately qualified, experienced and recovery focused Non-Governmental Organisations (NGO’s), for the provision of contemporary Non-Clinical psychosocial rehabilitation services in community bed-based facilities which will ensure Consumers with a severe and persistent mental illness or disorder aged 18 years to 65 years receive the relevant treatment required, in a timely manner.\n\nA distinctive feature is the collaborative operational relationship between the Customer and the Supplier in the delivery of the multidisciplinary, quality, recovery focused Services. In delivering adult Community Bed-Based Services and, as part of the Models of Service, the Customer will partner with the Supplier to provide the necessary recovery-based treatment, support and care to Consumers.",
+    "buyer": "Queensland Health",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Healthcare Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-12-07T04:00:00.000Z",
+    "closingAtRaw": "07/Dec/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-11-10T04:46:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=91c54824cce24d9194fb21c8a33bb96fs532946s99858359486b4d3899bc47a81cfe4df4s1573",
+    "vendorPanelDetails": {
+      "buyerAddress": "O’Connell Tce\nBowen Hills, Queensland 4006\nAustralia",
+      "buyerWebsite": "https://www.health.qld.gov.au/",
+      "buyerDescription": "Providing a world-class health system for all Queenslanders",
+      "buyerReference": null,
+      "opensAt": "2026-11-09T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-26T04:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 26 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-04-05T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 06 April 2027 (E. Australia Standard Time)",
+      "background": "Community Bed-Based Services are part of the extended treatment service continuum and aim to offer the least possible disruption to their community connections. Provision of Community Bed Based Services occur at two (2) CHHHS owned facilities in the Cairns Region.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-10T23:49:10.050Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "9218fa9f67d94bd6ab6cfba28aecb3df",
     "source": "vendorpanel",
     "reference": "VP529554",
@@ -50606,6 +51661,78 @@
     "firstSeenAt": "2026-09-29T23:15:43.191Z",
     "changes": [],
     "archivedAt": "2026-10-27T22:44:08.070Z"
+  },
+  {
+    "id": "926ed779633349e2930959b9966cbc27",
+    "source": "vendorpanel",
+    "reference": "VP531877",
+    "title": "Marketplace Common Area Furniture Upgrade",
+    "description": "Muswellbrook Marketplace is seeking submissions from appropriately qualified and experienced Respondents for the supply, delivery and installation of commercial-grade furniture for identified common areas within Muswellbrook Marketplace.",
+    "buyer": "Muswellbrook Shire Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Furniture & Furnishings"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-30T02:29:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=926ed779633349e2930959b9966cbc27s531877sb7841a97c0c84fe689646cc7de7f0318s1570",
+    "vendorPanelDetails": {
+      "buyerAddress": "60-82 Bridge St\nMuswellbrook, New South Wales 2333\nAustralia",
+      "buyerWebsite": "https://www.muswellbrook.nsw.gov.au/",
+      "buyerDescription": "Muswellbrook Shire is a local government area in the Upper Hunter region of New South Wales, Australia. The Shire is situated adjacent to the New England Highway and the Hunter railway line.\n\nMuswellbrook Shire was established on 1 July 1979 from the amalgamation of the Municipality of Muswellbrook with the adjacent Denman Shire.",
+      "buyerReference": null,
+      "opensAt": "2026-10-29T14:00:00.000Z",
+      "opensAtRaw": "Friday 30 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-06T03:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 06 November 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-24T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 25 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Hunter\n2: Illawarra\n3: Mid-North Coast\n4: Northern\n5: Sydney"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-06T03:23:00.000Z",
+          "question": "Hello -\n\nCan we please have the floor plans and photos for this project to help and quote up?\n\nThanks",
+          "answeredAt": "2026-11-09T00:20:00.000Z",
+          "answer": "Please see attachment - Marketplace - Floorplan Furniture RFQ"
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-09T00:19:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t Marketplace - Floorplan Furniture RFQ.jpg\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-11T00:27:00.000Z",
+          "description": "Please note: The following attachment has been recently added. Updated photos of the areas identified for the Marketplace Furniture Upgrade.\n\n1. Added: \t Photos.zip\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-30T22:43:00.194Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "2",
+        "to": "3",
+        "at": "2026-11-10T01:48:10.581Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-11-10T23:49:10.050Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "92feba2990554c34ba50d4dbce3222fe",
@@ -54047,6 +55174,60 @@
       }
     ],
     "archivedAt": "2026-11-12T01:08:23.524Z"
+  },
+  {
+    "id": "9f635ec7576f405dbe7230c0779a2965",
+    "source": "vendorpanel",
+    "reference": "VP531487",
+    "title": "Healthcare AI Market Capability and Partnership Models",
+    "description": "Metro South Hospital and Health Service (MSHHS) is seeking information from the market regarding the capability and willingness of suppliers to enter into a strategic partnership arrangement for the co-design, development, validation and deployment of artificial intelligence (AI)-enabled solutions within a public hospital and health service environment.",
+    "buyer": "Metro South Hospital and Health Service",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "IT & Telecomms"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T00:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 10:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-30T04:55:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=9f635ec7576f405dbe7230c0779a2965s531487se5e0fee99bee4eef813ebcd8f1872d76s1578",
+    "vendorPanelDetails": {
+      "buyerAddress": "building 19 / 2404 Logan Rd\nEight Mile Plains, Queensland 4113\nAustralia",
+      "buyerWebsite": "https://www.metrosouth.health.qld.gov.au/",
+      "buyerDescription": "We're committed to providing high quality care and improving the health and wellbeing of people in our community. Together we will create Australia’s healthiest community.",
+      "buyerReference": "SP26-532",
+      "opensAt": "2026-10-29T14:00:00.000Z",
+      "opensAtRaw": "Friday 30 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-13T00:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 10:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-02-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 11 February 2027 (E. Australia Standard Time)",
+      "background": "This RFI is directed to established product or platform providers with demonstrated healthcare domain capability and the technical, product and implementation capacity to support an ongoing program of AI-enabled improvement across multiple clinical and operational domains. It is not directed toward general advisory services, staff augmentation, standalone custom software development, or suppliers offering only a single narrowly defined point solution.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you completed the RFQ documentation?",
+        "Have included a Word version of the RFQ document?",
+        "Please acknowledge that you aware there will be no extensions for this RFI."
+      ],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: ACT (all other areas)\n2: Canberra",
+        "New South Wales\n1: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Gold Coast\n3: Sunshine Coast",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-30T22:43:00.194Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "9f7a5eef29eb4918bb9d702395ea123e",
@@ -61300,6 +62481,49 @@
     "archivedAt": "2026-11-10T01:48:10.581Z"
   },
   {
+    "id": "b510dca0a16449cfa7dac907c8df79b0",
+    "source": "vendorpanel",
+    "reference": "VP530471",
+    "title": "QED 6528 2026 The Hall SS - Amenities Refurbishment (with design responsibility)",
+    "description": "Please reach out to Henry Wilson from Lambert & Rehbein for tender documentation and queries on henry.w@lar.net.au.\n\nThe Department of Education (DoE) is inviting tenders for refurbishment of an existing amenities block located at The Hall State School @ 2 Murray St, Wandal QLD 4700.\n\nTenders are to be submitted by Friday 13th of November at 2pm to DETE.Tenders@lar.net.au",
+    "buyer": "Department of Education",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint."
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-22T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=b510dca0a16449cfa7dac907c8df79b0s530471s86939366ab6046bc956fc34a397b1db5s1547",
+    "vendorPanelDetails": {
+      "buyerAddress": "30 Mary St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.education.qld.gov.au/",
+      "buyerDescription": "The Department of Education delivers world-class education services for Queenslanders at every stage of their personal and professional development. Through key portfolios – Early Childhood (External link https://earlychildhood.qld.gov.au/) and Education (External link https://education.qld.gov.au/) – we strive to ensure that Queenslanders have the education they need to contribute to the economy.",
+      "buyerReference": "34-167458",
+      "opensAt": "2026-10-22T14:00:00.000Z",
+      "opensAtRaw": "Friday 23 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-10T04:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 10 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 27 November 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Central West"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "b6230a5e4b3f43d6a871bef9d5121ac6",
     "source": "vendorpanel",
     "reference": "VP527165",
@@ -63710,6 +64934,58 @@
       }
     ],
     "archivedAt": "2026-11-03T23:45:51.315Z"
+  },
+  {
+    "id": "bd88a3b3d2f84922b3921f85a79d6181",
+    "source": "vendorpanel",
+    "reference": "VP531969",
+    "title": "Expression of Interest - Chemical Supply for Coal Processing and Biodiesel Production",
+    "description": "The Bloomfield Group (TBG) invites Expressions of Interest (EOI) from suitably qualified suppliers for the supply of process chemicals to its Hunter Valley coal mining operations and biodiesel production facility.\n\nThis EOI seeks to identify suppliers with the relevant products, technical expertise and supply capability to meet TBG’s requirements. Respondents may nominate one or more chemical categories and are not required to supply all chemicals listed.\n\nThis EOI forms the first stage of a two-stage procurement process to identify prospective tenderers for potential invitation to a subsequent private Request for Tender (RFT). Invitations to participate in the RFT may be restricted to respondents who submit a response to this EOI.\n\nPricing is not required at this stage. Detailed technical specifications, commercial conditions, volume requirements, delivery arrangements and pricing schedules, as applicable, will be provided during the RFT stage.\n\nThe issue of this EOI does not commit or otherwise oblige TBG to proceed with an RFT, invite any respondent to participate in an RFT, enter into an agreement, or acquire any goods or services.\n\nCOAL PROCESSING CHEMICAL REQUIREMENTS\n\nTBG operates three (3) coal handling and preparation plants (CHPPs) in the Hunter Valley, NSW, requiring process chemicals for coal preparation, flotation and water treatment.\n\nThe sites covered by this EOI are:\n\n•\tRix’s Creek South - Rix’s Creek Lane, Singleton NSW 2330\n\n•\tRix’s Creek North - 653 Bridgman Road, Singleton NSW 2323\n\n•\tBloomfield - Four Mile Creek Road, Ashtonfield NSW 2323\n\nThe chemicals required are:\n\n•\tFlocculant\n\n•\tCoagulant\n\n•\tFlotation Reagents (Frothers and Collectors)\n\n•\tAntiscalant\n\nBIODIESEL PRODUCTION CHEMICAL REQUIREMENTS\n\nThe scope of this EOI also includes process chemicals required for biodiesel production at the Biodiesel Industries Australia (BIA) manufacturing facility.\n\nThe site covered by this EOI is:\n\n•\tBiodiesel Industries Australia - 62 Racecourse Road, Rutherford NSW 2320\n\nThe chemicals required are:\n\n•\tMethanol\n\n•\tSodium Methylate\n\n•\tAcetic Acid\n\n•\tBiocide (suitable for use with biodiesel)\n\n•\tAntioxidants (such as Tertiary Butylhydroquinone) suitable for use with biodiesel",
+    "buyer": "The Bloomfield Group",
+    "buyerType": null,
+    "state": null,
+    "categories": [
+      "Chemicals, Biochemical, Gas"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-11-13T01:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 11:00 AM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-11-02T03:13:00.000Z",
+    "contact": null,
+    "documentCount": 0,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=bd88a3b3d2f84922b3921f85a79d6181s531969s3bccddb5f16c4a62802583c2fe6406bds1550",
+    "vendorPanelDetails": {
+      "buyerAddress": "Four Mile Creek Rd\nAshtonfield, New South Wales 2323\nAustralia",
+      "buyerWebsite": "https://www.bloomcoll.com.au/",
+      "buyerDescription": "The Bloomfield Group is a proud and successful Australian mining and engineering group.\n\nAustralian owned and operated, we have been part of the community for more than 85 years and employ hundreds of local people.",
+      "buyerReference": "BLG00307",
+      "opensAt": "2026-11-01T14:00:00.000Z",
+      "opensAtRaw": "Monday 02 November 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-11T00:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 11 November 2026 11:00 AM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 11 December 2026 (AUS Eastern Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Provide a brief overview of your organisation and relevant experience supplying process chemicals to comparable operations.",
+        "Identify the specific chemicals and categories your organisation can supply.",
+        "Outline your technical expertise, product support, application knowledge and ability to assist with process optimisation, where applicable.",
+        "Please outline your organisation’s capability to supply, install and service equipment that complements the supply of process chemicals, including batching, dosing and control systems.",
+        "Briefly describe your supply arrangements, including manufacturing or sourcing capability, inventory management and measures to maintain continuity of supply.",
+        "Describe your distribution network, transport arrangements and ability to service the relevant Hunter Valley mine sites and/or BIA.",
+        "Outline your quality assurance systems, safety management practices, relevant regulatory compliance arrangements and identify any applicable certifications.",
+        "Describe relevant environmental management practices and any product or supply-chain initiatives that may provide operational or environmental benefits."
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Hunter"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-03T01:24:27.452Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "bdab56226f4a4452af94e2e2337c8cf3",
@@ -67622,6 +68898,52 @@
     "archivedAt": "2026-10-09T22:57:41.458Z"
   },
   {
+    "id": "c958496c3cd1449fb54ff2cb620447d7",
+    "source": "vendorpanel",
+    "reference": "VP529186",
+    "title": "CT2027009 Tertiary Filter Media Replacement",
+    "description": "Council invites tenders from suitably qualified and experienced contractors for the supply, installation and refurbishment of tertiary filter media at the Narrung Street and Kooringal Wastewater Treatment Plants (WWTPs).\n\nThe works include replacement of filter media within four tertiary filter cells at Narrung Street WWTP and three tertiary filter cells at Kooringal WWTP, together with refurbishment works required to restore the filters to near-new operating condition.\n\nThe contract will be awarded as a single Supply and Install Contract. Tenderers shall provide all labour, materials, plant, equipment, supervision, testing and commissioning necessary to complete the works.\n\nRefer to RFT documentation for more information.",
+    "buyer": "Wagga Wagga City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-14T23:44:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=c958496c3cd1449fb54ff2cb620447d7s529186",
+    "vendorPanelDetails": {
+      "buyerAddress": "243 Baylis St\nWagga Wagga, New South Wales 2650\nAustralia",
+      "buyerWebsite": "https://wagga.nsw.gov.au/",
+      "buyerDescription": "Wagga Wagga is a vibrant city nestled in the heart of the Riverina on the banks of the Murrumbidgee River. The largest city in inland New South Wales, Wagga Wagga encompasses a total land area of 4,825 sq km and is perfectly situated about 455 kilometres south-west of Sydney and 452 kilometres north-east of Melbourne.\n\nServing more than 66,000 residents, The Wagga Wagga City Council is the 39th largest Local government area by population and the 48th by land area of the 128 LGA’s in NSW.",
+      "buyerReference": "CT2027009",
+      "opensAt": "2026-10-14T14:00:00.000Z",
+      "opensAtRaw": "Thursday 15 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-06T03:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 06 November 2026 02:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2027-01-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 12 January 2027 (AUS Eastern Standard Time)",
+      "background": "A pre-tender briefing will be held on 27 October at 11:00 am. Meeting point is 120 Narrung Street Wagga Wagga NSW 2650.\n\nWhilst this briefing is not compulsory, Tenderers are encouraged to attend to obtain a first-hand understanding of the works required.\n\nRegistration to attend should be sent to procurement@wagga.nsw.gov.au.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [
+        "Have you attached financial statements (refer to section 5.9 in Part A RFT)?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Murrumbidgee"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-15T21:52:02.816Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "c9953e506a8447a7a94eacaf8167bc87",
     "source": "vendorpanel",
     "reference": "VP520504",
@@ -68776,6 +70098,63 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-16T22:27:38.012Z"
+  },
+  {
+    "id": "ccaa808b6ef94c53ae4997febff97347",
+    "source": "vendorpanel",
+    "reference": "VP528826",
+    "title": "Forward Procurement Notice: Logan & Moreton Bay Indoor Sports Centres and Sunshine Coast Stadium",
+    "description": "The Games Independent Infrastructure and Coordination Authority (GIICA) is preparing to take three more Brisbane 2032 venues to market. Between October and November 2026, GIICA intends to release head contractor procurement packages for the Logan Indoor Sports Centre, the Moreton Bay Indoor Sports Centre, and the Sunshine Coast Stadium upgrade.\n\nHead Contractor means the contractor engaged by GIICA under the Main Works Contract for each relevant venue. GIICA is seeking the services of experienced, qualified construction companies.\n\nGIICA intends to begin head contractor procurement for three Brisbane 2032 venues from October 2026. This Forward Procurement Notice gives industry early visibility of these opportunities, including the procurement approach and indicative timing for each venue, so that businesses can plan their resourcing and supply chain engagement.\n\nPlease see the attached Forward Procurement Notice for further information.",
+    "buyer": "Games Independent Infrastructure&Coordination Ath",
+    "buyerType": "state-agency",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T07:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-09T02:58:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=ccaa808b6ef94c53ae4997febff97347s528826s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "33 Charlotte St\nBrisbane City, Queensland 4000\nAustralia",
+      "buyerWebsite": "https://www.giica.au/",
+      "buyerDescription": "The Games Independent Infrastructure and Coordination Authority is responsible for: (a) investigating and planning for potential venues and villages, and related infrastructure, for the Brisbane 2032 Olympic and Paralympic Games.",
+      "buyerReference": null,
+      "opensAt": "2026-10-08T14:00:00.000Z",
+      "opensAtRaw": "Friday 09 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-13T06:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 05:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-11-26T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 27 November 2026 (AUS Eastern Standard Time)",
+      "background": "This is a Forward Procurement Notice only and is not an expression of interest or invitation to offer. Details are indicative and subject to change.\n\nFurther information will be provided as part of the formal tender process.",
+      "desiredOutcomes": "This is a Forward Procurement Notice only and is not an expression of interest or invitation to offer. Details are indicative and subject to change.\n\nFurther information will be provided as part of the formal tender process.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Australian Capital Territory\n1: Canberra",
+        "New South Wales\n1: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett",
+        "South Australia\n1: Adelaide",
+        "Tasmania\n1: Greater Hobart",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Perth"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-15T01:09:00.000Z",
+          "question": "Hello,\n\nI sent an email earlier this week requesting an update on when the Logan Indoor Sports Centre EOI documents would be released to market.\n\nSending now via Vendor Panel to make sure it has been received by GIICA\n\nAppreciate an update.\n\nThanks\n\nMichael",
+          "answeredAt": "2026-10-15T07:42:00.000Z",
+          "answer": "Hi Michael,\n\nThank you for your question.\n\nGIICA has released the Logan Indoor Sports Centre EOI on VendorPanel today (15 October 2026). Please see the Tender with VP Reference VP529611.\n\nKind regards,\n\nGIICA"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-09T22:57:41.458Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "ccf92a1c3ad04e229979f26a10078954",
@@ -72570,6 +73949,118 @@
     "archivedAt": "2026-09-25T22:55:03.789Z"
   },
   {
+    "id": "d746b2bfb5ee4cb1a26f975e49cc388f",
+    "source": "vendorpanel",
+    "reference": "VP528978",
+    "title": "PASC-2026-005 Pormpuraaw ASC - Register of Preferred Suppliers (EOI)",
+    "description": "See attached \"expression of Interest (EOI) / Invitation to Tender.",
+    "buyer": "Pormpuraaw Aboriginal Shire Council",
+    "buyerType": null,
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation",
+      "Engineer, Research, Tech services",
+      "Financial & Insurance Services",
+      "Hardware & Hand Tools",
+      "Horticulture & Arboriculture",
+      "HR Services & Recruitment",
+      "Legal Services",
+      "Plant & Equipment - Hire",
+      "Waste Management & Landfill"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-11-13T07:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-19T22:53:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=d746b2bfb5ee4cb1a26f975e49cc388fs528978",
+    "vendorPanelDetails": {
+      "buyerAddress": "Thinraathin St\nPormpuraaw, Queensland 4892\nAustralia",
+      "buyerWebsite": "None Provided",
+      "buyerDescription": "To be updated",
+      "buyerReference": "PASC-2026-005",
+      "opensAt": "2026-10-19T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 20 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-13T07:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-11T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 12 January 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Northern"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-10-19T23:16:00.000Z",
+          "question": "Could you please confirm whether crane hire services are required as part of this EOI?",
+          "answeredAt": "2026-10-25T21:31:00.000Z",
+          "answer": "Yes, your services can be part of this EOI. Please include details of your capabilities and associated services in your submission."
+        },
+        {
+          "askedAt": "2026-10-20T00:42:00.000Z",
+          "question": "Good morning\n\nThe EOI package states the submission closes on 04.11.2026, however Vendor Panel states the submission closes 13.11.2026.\n\nPlease confirm the correct submission closing date.\n\nThank you",
+          "answeredAt": "2026-10-25T21:38:00.000Z",
+          "answer": "Thank you for your query.\n\nThe submission closing date stated in the EOI package is incorrect. The correct submission closing date is 13 November 2026, as displayed on VendorPanel.\n\nPlease use 13.11.2026 as the official closing date for this EOI. We apologise for any confusion caused by the discrepancy and appreciate you bringing this to our attention.\n\nKind regards,\n\n Hassan Binawel"
+        },
+        {
+          "askedAt": "2026-10-20T03:35:00.000Z",
+          "question": "Hello\n\nCan you please confirm if Surveying, town planning, environmental or landscape architecture services are required on this PSA?\n\nKind regards",
+          "answeredAt": "2026-10-25T21:31:00.000Z",
+          "answer": "Yes, your services can be part of this EOI. Please include details of your capabilities and associated services in your submission."
+        },
+        {
+          "askedAt": "2026-10-21T01:40:00.000Z",
+          "question": "Please confirm whether the Council will consider proposals from Quantity Surveying firms. Thanks.",
+          "answeredAt": "2026-10-25T21:31:00.000Z",
+          "answer": "Yes, your services can be part of this EOI. Please include details of your capabilities and associated services in your submission."
+        },
+        {
+          "askedAt": "2026-10-21T02:08:00.000Z",
+          "question": "Would Council consider Electrical Engineering Consultant who specialises in Water, Sewerage & Waste, as the EOI document states Engineering Consultant - General; & Engineering Consultant - Water, Sewerage & Waste.",
+          "answeredAt": "2026-10-25T21:32:00.000Z",
+          "answer": "Yes, your services can be part of this EOI. Please include details of your capabilities and associated services in your submission."
+        },
+        {
+          "askedAt": "2026-10-21T03:45:00.000Z",
+          "question": "Hi,\n\nCould I ask you to please clarify the closing date? In the Expression of Interest (EOI) / Invitation to Tender Document it states closing Date as 4 November 2026 however on Vendor Panel it states 13 November 2026.\n\nThank you",
+          "answeredAt": "2026-10-25T21:38:00.000Z",
+          "answer": "Thank you for your query.\n\nThe submission closing date stated in the EOI package is incorrect. The correct submission closing date is 13 November 2026, as displayed on VendorPanel.\n\nPlease use 13.11.2026 as the official closing date for this EOI. We apologise for any confusion caused by the discrepancy and appreciate you bringing this to our attention.\n\nKind regards,\n\n Hassan Binawel"
+        },
+        {
+          "askedAt": "2026-10-22T06:41:00.000Z",
+          "question": "Please confirm the due date as the EOI form states the due date is 04/11/2026 however vendorpanel closes on 13/11/2026\n\nThank you kindly,",
+          "answeredAt": "2026-10-25T21:39:00.000Z",
+          "answer": "Thank you for your query.\n\nThe submission closing date stated in the EOI package is incorrect. The correct submission closing date is 13 November 2026, as displayed on VendorPanel.\n\nPlease use 13.11.2026 as the official closing date for this EOI. We apologise for any confusion caused by the discrepancy and appreciate you bringing this to our attention.\n\nKind regards,\n\n Hassan Binawel"
+        },
+        {
+          "askedAt": "2026-10-23T04:44:00.000Z",
+          "question": "For suppliers outside Pormpuraaw, should travel, accommodation and freight be built into the hourly rates or quoted on each order?",
+          "answeredAt": "2026-10-26T22:23:00.000Z",
+          "answer": "Keep ravel, accommodation and freight separate from the hourly rates as they are prone to change, and in some instances goods or accommodation may be council supplied items depending on time of year and accessibility to Pormpuraaw."
+        },
+        {
+          "askedAt": "2026-10-24T00:18:00.000Z",
+          "question": "Could you please clarify whether tenderers for the Project Management, Engineering Consultant – Civil and Engineering Consultant – General categories are required to hold the specified insurance policies at the time of EOI submission or whether the appropriate cover can be obtained prior to commencing any engagement?",
+          "answeredAt": "2026-10-25T21:32:00.000Z",
+          "answer": "Yes, your services can be part of this EOI. Please include details of your capabilities and associated services in your submission."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-10-19T23:13:00.000Z",
+          "description": "Extend date due to upload"
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-20T21:59:13.572Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "d74f8893f70b4378abbac7dec0658542",
     "source": "vendorpanel",
     "reference": "VP522636",
@@ -73813,6 +75304,50 @@
     "archivedAt": "2026-10-19T22:41:08.884Z"
   },
   {
+    "id": "da3b32eee20e4562813d8f352b280d55",
+    "source": "vendorpanel",
+    "reference": "VP530708",
+    "title": "TC26112- MI187777- Lot 113 Esplanade Road, Warraber (DISMOD DM-3509) Bathroom",
+    "description": "Please complete \"7.3 Lump Sum Price Breakdown Schedule\"\n\nIf the line breakdowns for the \"7.3 Lump Sum Price Breakdown Schedule\" have been amended the RFQ will be classed as non-conforming.\n\nIf the quotation form and Response Schedules are not completed the RFQ will be classed as non-conforming (Items 7.1 through to 7.8)\n\nAll Specifications etc are attached for download.\n\nJOB SUMMARY GUIDELINES\n\nPlease refer to the following information when completing the Job Summary.",
+    "buyer": "Torres Strait Island Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rfq",
+    "closingAt": "2026-11-13T04:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 02:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-22T03:03:00.000Z",
+    "contact": null,
+    "documentCount": 1,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=da3b32eee20e4562813d8f352b280d55s530708",
+    "vendorPanelDetails": {
+      "buyerAddress": "46 Victoria Parade\nThursday Island, Queensland 4875\nAustralia",
+      "buyerWebsite": "http://www.tsirc.qld.gov.au/",
+      "buyerDescription": "The Torres Strait Island Region is a local government area in Far North Queensland, Australia, covering part of the Torres Strait Islands. It was created in March 2008 out of 15 autonomous Island Councils during a period of statewide local government reform. It has offices in each of its 15 communities, and satellite services in Thursday Island and in Cairns (which are outside of the region).",
+      "buyerReference": "TC26112",
+      "opensAt": "2026-10-21T14:00:00.000Z",
+      "opensAtRaw": "Thursday 22 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-09T04:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 09 November 2026 02:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-02-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 11 February 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Far North\n2: Mackay\n3: North West\n4: Northern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
+  },
+  {
     "id": "daf5790b5a8041169e04ed844d302080",
     "source": "vendorpanel",
     "reference": "VP520146",
@@ -73958,6 +75493,49 @@
       }
     ],
     "archivedAt": "2026-10-07T23:22:52.819Z"
+  },
+  {
+    "id": "db81882eae9c4d18be96f3cb93da1029",
+    "source": "vendorpanel",
+    "reference": "VP527407",
+    "title": "Coaching and Development Panel",
+    "description": "Queensland Rail invites suitably qualified and experienced suppliers to submit a tender for inclusion on a Coaching & Development Panel.\n\nThe panel will support Queensland Rail's commitment to developing leadership capability and workforce effectiveness across both operational and corporate environments. Successful suppliers will partner with Queensland Rail to deliver high-quality coaching and professional development services that build organisational capability, support career progression, and enhance leadership effectiveness across the business.\n\nThe panel arrangement will be established for an initial period of two (2) years, with options to extend at Queensland Rail's discretion.\n\nSuppliers may submit proposals for one or both of the following service categories:\n\nCategory 1: Coaching Services\n\nProvision of individual and group coaching services designed to support employees and leaders at various organisational levels, including leadership development, performance improvement, career progression, and succession readiness.\n\nCategory 2: Professional Development Workshops\n\nDesign and delivery of engaging, practical and innovative professional development workshops aligned to Queensland Rail's capability and leadership development objectives.\n\nSuppliers should clearly articulate their methodologies, experience, and areas of specialisation, including how their services align with Queensland Rail's Capability and Level of Work Frameworks.",
+    "buyer": "Queensland Rail",
+    "buyerType": "goc",
+    "state": "QLD",
+    "categories": [
+      "Training & Development"
+    ],
+    "requestType": "panel",
+    "closingAt": "2026-11-13T06:00:00.000Z",
+    "closingAtRaw": "13/Nov/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-06T00:12:00.000Z",
+    "contact": null,
+    "documentCount": 5,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=db81882eae9c4d18be96f3cb93da1029s527407s6c3888255d9e45a9a5f704f1695d8bf7s1605",
+    "vendorPanelDetails": {
+      "buyerAddress": "Ann St\nFortitude Valley, Queensland\nAustralia",
+      "buyerWebsite": "http://www.queenslandrail.com.au",
+      "buyerDescription": "Founded in 1865, Queensland Rail has a proud history of connecting Queensland communities and supporting local jobs, industries and economies. We are committed to providing a customer-focused, safe, modern and world-class rail service for Queenslanders.\nWith total assets of $8.0 billion, and a network that extends more than 6,600 kilometres across the state, we are also focused on providing customers and Queenslanders with an efficient and value for money service.\nOur 7,500 strong workforce delivers services across our South East Queensland and Regional networks, including Travel and Tourism services and Regional Freight.\nOur South East Queensland team provides 8,392 services each week, supporting our customers to reach their destination safely and on-time. In 2019-2020, 44 million passenger trips were taken on the South East Queensland network (a decrease of approximately 20 per cent compared to 2018-2019, associated with COVID-19).\nThe Regional networks commuter and rail tourism markets are serviced by the Travel and Tourism products. These comprise eight services connecting Regional communities across Queensland with other Regional centres and the South East Queensland corner. These services support the Queensland tourism industry through the provision of unique rail tourism experiences including special events and charters through the operation of a small fleet of heritage services.\nOur Regional networks and Freight team provides rail access for freight operators and other Queensland Rail supply chain customers to enable the critical transport of resources and general freight across the state.\nWe are proud of the role we play in providing vital passenger and freight services and we are dedicated to ensuring that our systems, procedures and practices reflect the highest standards of corporate governance.",
+      "buyerReference": "QRP-26-31",
+      "opensAt": "2026-10-05T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 06 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-13T06:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-02-10T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Thursday 11 February 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Gold Coast\n6: Mackay\n7: North West\n8: Northern\n9: South West\n10: Sunshine Coast\n11: West Moreton\n12: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-06T00:27:25.014Z",
+    "changes": [],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "dbbf648519324e7688974d356d4b3b34",
@@ -74330,6 +75908,62 @@
       }
     ],
     "archivedAt": "2026-10-23T21:44:44.471Z"
+  },
+  {
+    "id": "dcd9c5900ec0439c9afecf29feb70d99",
+    "source": "vendorpanel",
+    "reference": "VP530042",
+    "title": "Twentieth Street Stormwater Upgrade",
+    "description": "The Town of Gawler is seeking a suitably qualified and experienced Civil Contractor to undertake works to upgrade the existing stormwater infrastructure in Twentieth Street by installing new pits, culverts, junctions and connection to the existing Council stormwater network at Adelaide Road.",
+    "buyer": "Town of Gawler",
+    "buyerType": "council",
+    "state": "SA",
+    "categories": [
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-13T07:30:00.000Z",
+    "closingAtRaw": "13/Nov/2026 05:00 PM (UTC+09:30) Adelaide time",
+    "publishedAt": "2026-10-19T01:05:00.000Z",
+    "contact": {
+      "raw": "Alec Walsh Email: alec.walsh@gawler.sa.gov.au Tel: 0885220136",
+      "name": "Alec Walsh",
+      "email": "alec.walsh@gawler.sa.gov.au",
+      "phone": "0885220136"
+    },
+    "documentCount": 8,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=dcd9c5900ec0439c9afecf29feb70d99s530042",
+    "vendorPanelDetails": {
+      "buyerAddress": "43 High St\nGawler East, South Australia 5118\nAustralia",
+      "buyerWebsite": "https://www.gawler.sa.gov.au/",
+      "buyerDescription": "Town of Gawler",
+      "buyerReference": "TOG26/27-16",
+      "opensAt": "2026-10-18T14:00:00.000Z",
+      "opensAtRaw": "Monday 19 October 2026 (Cen. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-10T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 10 November 2026 05:00 PM (Cen. Australia Daylight Time)",
+      "expectedDecisionAt": "2026-12-03T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Friday 04 December 2026 (Cen. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "South Australia\n1: Adelaide\n2: Outer Adelaide"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-19T22:41:08.884Z",
+    "changes": [
+      {
+        "field": "contact",
+        "from": "{\"raw\":\"Shannon Smith Email: shannon.smith@gawler.sa.gov.au Tel: 8522 0110\",\"name\":\"Shannon Smith\",\"email\":\"shannon.smith@gawler.sa.gov.au\",\"phone\":\"8522 0110\"}",
+        "to": "{\"raw\":\"Alec Walsh Email: alec.walsh@gawler.sa.gov.au Tel: 0885220136\",\"name\":\"Alec Walsh\",\"email\":\"alec.walsh@gawler.sa.gov.au\",\"phone\":\"0885220136\"}",
+        "at": "2026-10-20T21:59:13.572Z"
+      }
+    ],
+    "archivedAt": "2026-11-14T00:00:41.696Z"
   },
   {
     "id": "dd1e27d61f2f4c2c9dea4eeddd3deadc",
