@@ -41882,6 +41882,59 @@
     "archivedAt": "2026-10-01T23:32:33.983Z"
   },
   {
+    "id": "733925e9f38541f4becc3622c14a8602",
+    "source": "vendorpanel",
+    "reference": "VP531484",
+    "title": "Top Dressing Blackwater/Bluff Sporting Fields",
+    "description": "Central Highlands Regional Council is seeking quotations from suitably qualified contractors to undertake sports field renovation works at nominated sporting fields within Blackwater and Bluff.\n\nThe works are intended to improve turf health, alleviate soil compaction, enhance drainage, improve playing surface quality, and support the long-term sustainability and safe use of community sporting facilities.\n\nThe successful contractor shall provide all labour, plant, equipment, materials and supervision necessary to undertake the following:\n\n•\tSolid Tine Aeration of nominated sporting fields using suitable sports turf equipment. (Only Blackwater Junior Rugby League Field)\n\n•\tHollow Tine Aeration (Coring) to relieve soil compaction and improve root zone performance. (All fields except Junior League Field)\n\n•\tCollection, processing and management of extracted cores where required.\n\n•\tApply Lime to Rugby Union Field Only @ 750kg/Ha. Water in from Irrigation\n\n•\tSupply and application of approved top dressing material.\n\n•\tMechanical spreading and incorporation of top dressing to achieve a uniform surface finish of at least 30mm\n\n•\tDrag matting, brushing or similar finishing techniques to ensure even distribution of material.\n\n•\tProtection of existing turf, irrigation systems, drainage infrastructure and surrounding assets.\n\n•\tRemoval and lawful disposal of waste materials generated during the works.\n\n•\tSite clean-up and reinstatement upon completion.\n\nThe Contractor is responsible for undertaking works in accordance with industry best practice, relevant workplace health and safety legislation, and manufacturer recommendations for all equipment used.\n\nWorks must be completed in a manner that minimises disruption to sporting clubs and facility users while maintaining safe access to surrounding areas. Any damage caused to Council assets during the works shall be rectified by the Contractor at no cost to Council.\n\nUpon completion, the Contractor shall provide confirmation of:\n\n•\tAreas treated.\n\n•\tAeration and coring methodology utilised.\n\n•\tQuantity and specification of top dressing material applied.\n\n•\tAny defects, irrigation faults or field condition issues identified during the works.\n\nThe completed surface must provide an even, safe and high-quality playing area suitable for community and competitive sporting use.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Building Products & Materials",
+      "Construction & Operation",
+      "Plant & Equipment - Hire",
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-15T07:00:00.000Z",
+    "closingAtRaw": "15/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-11-01T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=733925e9f38541f4becc3622c14a8602s531484",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260266",
+      "opensAt": "2026-11-01T14:00:00.000Z",
+      "opensAtRaw": "Monday 02 November 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-15T07:00:00.000Z",
+      "queryCutoffAtRaw": "Sunday 15 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-17T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 18 November 2026 (E. Australia Standard Time)",
+      "background": "Central Highlands Regional Council manages a number of natural turf sporting fields within the communities of Blackwater and Bluff. These facilities are heavily utilised throughout the year for community sport, recreation, school activities and organised competitions.\n\nTo maintain safe, healthy and high-quality playing surfaces, Council is seeking quotations from suitably qualified contractors to undertake aeration, coring and top dressing works. These maintenance activities are essential to improve soil structure, alleviate compaction, promote healthy turf growth, enhance drainage, and provide a safer and more consistent playing surface for users.\n\nThe works form part of Council's ongoing sports field maintenance program and are aimed at extending turf life, improving surface condition, and reducing risks associated with uneven ground, poor drainage and wear caused by high usage.",
+      "desiredOutcomes": "The Contractor shall:\n\n1.\tComplete aeration of all nominated sporting fields in Blackwater and Bluff using suitable sports turf equipment.\n\n2.\tComplete hollow tine or solid tine coring of all nominated playing surfaces in accordance with industry best practice.\n\n3.\tSupply, transport and apply approved top dressing material at the agreed application rate.\n\n4.\tIncorporate and level top dressing to achieve a uniform playing surface.\n\n5.\tRemove or manage extracted cores and dispose of waste materials appropriately.\n\n6.\tProtect existing irrigation systems, drainage infrastructure and other Council assets throughout the works.\n\n7.\tLeave all work sites clean, safe and fit for return to service.\n\n8.\tProvide a completion report detailing:\n\no\tFields treated.\n\no\tAeration and coring methods used.\n\no\tQuantity of top dressing applied.\n\no\tAny defects, irrigation issues or maintenance concerns identified during the works.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-02T22:05:00.000Z",
+          "question": "Hi\n\nThank you for the opportunity to provide a quotation for the proposed renovation works.\n\nCould you please confirm the dimensions of the fields included in the RFQ? We currently have the following sizes recorded:\n\nBlackwater Senior Rugby League - 9,600m2\n\nBlackwater Touch Fields - 11,000m2\n\nBlackwater Jnr Rugby League - 8,800m2\n\nBlackwater Soccer Fields - 9,650m2\n\nBlackwater Rugby Union Fields - 9,650m2\n\nBluff Sporting Complex - 9,900m2\n\nCould you also please advise the anticipated timeframe for the works to be undertaken, including the expected commencement date and any preferred completion deadlines?\n\nThis will assist us in accurately preparing our quotation and planning the required resources.",
+          "answeredAt": "2026-11-02T23:14:00.000Z",
+          "answer": "We have the field sizes as roughly the following\n\nBlackwater Touch Fields - 11,250m2\n\nBlackwater Jnr Rugby League - 9,375m2\n\nBlackwater Snr Rugby League - 9,375m2\n\nBlackwater Soccer Fields - 10,125m2\n\nBlackwater Rugby Union Fields - 9,375m2\n\nBluff Sporting Complex - 9,375m2\n\nWe would request that Blackwater Jnr League be completed as the first completed.\n\nCHRC would like the Top Dressings to start Late November/Early December and be completed prior to Christmas if possible. Happy to negotiate time frame with successful applicant"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-03T01:24:27.452Z",
+    "changes": [],
+    "archivedAt": "2026-11-15T23:13:45.099Z"
+  },
+  {
     "id": "73676e52af2346ea889ae32cde2034ad",
     "source": "vendorpanel",
     "reference": "VP524608",
