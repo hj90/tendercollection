@@ -5,9 +5,9 @@
     "message": null
   },
   "austender": {
-    "status": "unavailable",
-    "snapshotAt": "2026-11-20T00:58:40.559Z",
-    "message": "Feed unavailable; previous snapshot retained. Check the source for current information."
+    "status": "ok",
+    "snapshotAt": "2026-11-21T23:38:16.174Z",
+    "message": null
   },
   "nsw": {
     "status": "ok",

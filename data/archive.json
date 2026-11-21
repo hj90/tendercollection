@@ -1522,6 +1522,33 @@
     "archivedAt": "2026-10-16T21:48:57.937Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/477be49e-a999-4b82-8081-370e11d6922a",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/477be49e-a999-4b82-8081-370e11d6922a",
+    "reference": "DCET-NTSOLAR",
+    "title": "Defence – Northern Territory Solar Farms Operation and Maitenance Market Sounding",
+    "description": "To assist the Commonwealth of Australia (Commonwealth), represented by the Department of Defence, in considering a future procurement for operations and maintenance services for solar farms within the Northern Territory the Commonwealth invites participation in this market sounding from persons or entities that may be interested in providing all or part of the required services (Respondent).",
+    "publishedAt": "2026-10-23T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": "NT",
+    "categories": [
+      "72100000 - Building construction and support and maintenance and repair services"
+    ],
+    "requestType": "eoi",
+    "closingAt": "2026-11-20T01:00:00.000Z",
+    "closingAtRaw": "20-Nov-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Corey Sutton\nEmail Address:\ndreesp.pmo@defence.gov.au",
+      "name": "Corey Sutton",
+      "email": "dreesp.pmo@defence.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-23T21:44:44.471Z",
+    "changes": [],
+    "archivedAt": "2026-11-21T23:38:16.174Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/4830556e-3d58-4335-94f8-a1cf751e2ee7",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/4830556e-3d58-4335-94f8-a1cf751e2ee7",
     "reference": "FIN-2025-26-00788",
@@ -2110,6 +2137,33 @@
     "archivedAt": "2026-11-06T23:35:26.416Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/5d31d4a0-901b-4436-8d76-e16fae99a73c",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5d31d4a0-901b-4436-8d76-e16fae99a73c",
+    "reference": "S-EST11059",
+    "title": "HMAS Penguin Refurbishment Works, NSW",
+    "description": "Refurbishment works at HMAS Penguin. The works include hot water system replacement, minor refurbishments to ablutions, and installation of a PA system.",
+    "publishedAt": "2026-10-08T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Department of Defence - DSRG",
+    "buyerType": "other",
+    "state": "NSW",
+    "categories": [
+      "72100000 - Building construction and support and maintenance and repair services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-20T01:00:00.000Z",
+    "closingAtRaw": "20-Nov-2026 12:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Tender Administrator - Mott MacDonald Pty Ltd\nEmail Address:\nPDS.NSW.Tenders@mottmac.com",
+      "name": "Tender Administrator - Mott MacDonald Pty Ltd",
+      "email": "PDS.NSW.Tenders@mottmac.com"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-08T23:35:46.725Z",
+    "changes": [],
+    "archivedAt": "2026-11-21T23:38:16.174Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/5d837394-ffed-4bc9-b509-c1ef5aa6f85d",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5d837394-ffed-4bc9-b509-c1ef5aa6f85d",
     "reference": "GWEOS/NOT/99180/1",
@@ -2135,6 +2189,46 @@
     "firstSeenAt": "2026-09-07T23:56:50.390Z",
     "changes": [],
     "archivedAt": "2026-11-06T23:35:26.416Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/5d910c27-bdea-40ab-9c4b-ba49b38bd4f1",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/5d910c27-bdea-40ab-9c4b-ba49b38bd4f1",
+    "reference": "6387-2026-27",
+    "title": "Cultural Heritage Assessments and Engagement",
+    "description": "The Bureau is seeking a specialised service provider to undertake comprehensive Rapid-Cultural Heritage Risk Assessment and Cultural Heritage Field Assessments (CHFA).\nRefer to Statement of Requirements.",
+    "publishedAt": "2026-10-22T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Bureau of Meteorology",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "93141707 - Cultural heritage preservation or promotion services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-20T06:00:00.000Z",
+    "closingAtRaw": "20-Nov-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Rachael Del Rio\nEmail Address:\ntenders@bom.gov.au",
+      "name": "Rachael Del Rio",
+      "email": "tenders@bom.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-22T21:59:00.631Z",
+    "changes": [
+      {
+        "field": "closingAt",
+        "from": "2026-11-18T03:00:00.000Z",
+        "to": "2026-11-20T06:00:00.000Z",
+        "at": "2026-11-17T02:11:49.745Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "18-Nov-2026 2:00 pm (ACT Local Time)",
+        "to": "20-Nov-2026 5:00 pm (ACT Local Time)",
+        "at": "2026-11-17T02:11:49.745Z"
+      }
+    ],
+    "archivedAt": "2026-11-21T23:38:16.174Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/5e34ce6b-5336-418f-84a1-17d3c56184e8",
@@ -2733,6 +2827,33 @@
       }
     ],
     "archivedAt": "2026-10-08T23:35:46.725Z"
+  },
+  {
+    "id": "https://www.tenders.gov.au/Atm/Show/7238cb45-2e73-4014-9236-380d489de64e",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/7238cb45-2e73-4014-9236-380d489de64e",
+    "reference": "6287-2026-27",
+    "title": "EEC Radar Parts",
+    "description": "Please refer to attached documentation",
+    "publishedAt": "2026-10-26T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Bureau of Meteorology",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "41100000 - Laboratory and scientific equipment"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-20T06:00:00.000Z",
+    "closingAtRaw": "20-Nov-2026 5:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Procurement Manager - Julie\nEmail Address:\ntenders@bom.gov.au",
+      "name": "Procurement Manager - Julie",
+      "email": "tenders@bom.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-26T22:55:59.516Z",
+    "changes": [],
+    "archivedAt": "2026-11-21T23:38:16.174Z"
   },
   {
     "id": "https://www.tenders.gov.au/Atm/Show/72e3a249-4388-47cc-9ca4-eaed371f0758",
