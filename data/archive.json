@@ -5095,6 +5095,33 @@
     "archivedAt": "2026-10-15T21:52:02.816Z"
   },
   {
+    "id": "https://www.tenders.gov.au/Atm/Show/db9bfd68-3f50-4c76-a044-dd6445d880a3",
+    "sourceUrl": "https://www.tenders.gov.au/Atm/Show/db9bfd68-3f50-4c76-a044-dd6445d880a3",
+    "reference": "APSC2690",
+    "title": "Design and development of Strategic capability learning solution",
+    "description": "The APS Academy seeks to engage an experienced learning and development supplier to design and develop a suite of learning experiences focused on strengthening strategic capability across the Australian Public Service (APS). The Academy is seeking the development of 2 distinct programs:\n· one aimed at APS employees to build strategic thinking capability (APS4 to APS6)\n· one aimed at Executive Level (EL) employees to strengthen strategic leadership capability (EL1 and EL2)",
+    "publishedAt": "2026-10-19T00:00:00.000Z",
+    "source": "austender",
+    "buyer": "Australian Public Service Commission",
+    "buyerType": "other",
+    "state": null,
+    "categories": [
+      "86000000 - Education and Training Services"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-24T04:00:00.000Z",
+    "closingAtRaw": "24-Nov-2026 3:00 pm (ACT Local Time)",
+    "contact": {
+      "raw": "Tenders\nEmail Address:\ntenders@apsc.gov.au",
+      "name": "Tenders",
+      "email": "tenders@apsc.gov.au"
+    },
+    "documentCount": null,
+    "firstSeenAt": "2026-10-19T22:41:08.884Z",
+    "changes": [],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
+  },
+  {
     "id": "https://www.tenders.gov.au/Atm/Show/dd694c98-0182-4b7b-b473-cee5c6d72ef5",
     "sourceUrl": "https://www.tenders.gov.au/Atm/Show/dd694c98-0182-4b7b-b473-cee5c6d72ef5",
     "reference": "97237",
@@ -9480,6 +9507,50 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-15T22:30:52.819Z"
+  },
+  {
+    "id": "02748401c61241448afba53108aac186",
+    "source": "vendorpanel",
+    "reference": "VP531038",
+    "title": "C26034 - Dunn Park Living Wetland",
+    "description": "As per the Request for Tender documents.",
+    "buyer": "City of Albany",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Construction & Operation",
+      "Water & Sewage"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-25T02:00:00.000Z",
+    "closingAtRaw": "25/Nov/2026 10:00 AM (UTC+08:00) Perth time",
+    "publishedAt": "2026-10-27T21:00:00.000Z",
+    "contact": null,
+    "documentCount": 10,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=02748401c61241448afba53108aac186s531038",
+    "vendorPanelDetails": {
+      "buyerAddress": "102 North Rd\nYakamia, Western Australia 6330\nAustralia",
+      "buyerWebsite": "https://www.albany.wa.gov.au/",
+      "buyerDescription": "Albany is a city at the southern tip of Western Australia. It's known for its beaches, such as popular Middleton Beach. East of the city, Two Peoples Bay Nature Reserve is home to secluded Little Beach. Albany’s Historic Whaling Station, a former whale processing plant, now houses a museum. Migrating whales pass off the coast at Torndirrup National Park, where steep cliffs give way to dramatic rock formations",
+      "buyerReference": "C26034",
+      "opensAt": "2026-10-27T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 28 October 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-18T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 18 November 2026 10:00 AM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-22T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 23 December 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Lower Great Southern\n2: Midlands\n3: Perth\n4: South West\n5: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-10-27T22:44:08.070Z",
+    "changes": [],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
   },
   {
     "id": "027b22f457244a3283dbed5683091a0e",
@@ -13958,6 +14029,57 @@
       }
     ],
     "archivedAt": "2026-10-09T22:57:41.458Z"
+  },
+  {
+    "id": "0d1d54b575db433b84ee9439f794d21d",
+    "source": "vendorpanel",
+    "reference": "VP532780",
+    "title": "Emerald Saleyards Labour Services",
+    "description": "Central Highlands Regional Council (Council) operates the Emerald Saleyards, a live livestock trading and handling facility supporting livestock receival, sales, dipping, feeding, spelling and dispatch. Council requires reliable and competent contract labour to maintain safe and effective operations, including scheduled sale days, weekend animal welfare requirements and fluctuating livestock activity.\n\nThis procurement is intended to supplement Council's internal and agency labour resources by providing contracted weekend livestock services, sale day scalehouse gate operations and additional operational labour as required. Council will retain operational oversight and direction through its authorised officers. Council may award individual service components or the combined scope to one or more suppliers, with no exclusivity unless expressly agreed.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation",
+      "Farming & Animal Services & Equip"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-24T07:00:00.000Z",
+    "closingAtRaw": "24/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-11-09T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=0d1d54b575db433b84ee9439f794d21ds532780",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260261",
+      "opensAt": "2026-11-09T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 10 November 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-19T07:00:00.000Z",
+      "queryCutoffAtRaw": "Thursday 19 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-11-30T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 01 December 2026 (E. Australia Standard Time)",
+      "background": "Capacity to deliver the agreed roster and service component(s) quoted, including nominated suitable replacement personnel for absences.\n\nPersonnel must be competent in safe livestock handling and the duties allocated, hold relevant licences and undertake Council site inductions before commencing work.\n\nCompliance with applicable workplace health and safety, livestock welfare, biosecurity and site traffic management requirements, Council procedures and reasonable directions.\n\nCurrent workers compensation insurance as required by Queensland legislation and public liability insurance of at least $20 million per claim.\n\nDisclosure of actual, potential or perceived conflicts of interest, including connections with agents, livestock buyers/sellers and other contractors; Council must accept proposed controls.\n\nAcceptance of the Council Goods and/or Services Contract, subject to any clearly disclosed departures.",
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-17T02:57:00.000Z",
+          "question": "Hi, Can you please confirm the close date and time for this RFQ. Vendor Panel says 24th November 6pm, however documents say 23rd November 5pm.\n\nthanks\n\nSophie",
+          "answeredAt": "2026-11-17T04:08:00.000Z",
+          "answer": "The closing date will be as per the dates in vendor panel the 24th of November 6pm."
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-10T01:48:10.581Z",
+    "changes": [],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
   },
   {
     "id": "0d56b30ec5b749f8a57e1d2fed7f0bbb",
@@ -35673,6 +35795,63 @@
     "archivedAt": "2026-09-15T22:30:52.819Z"
   },
   {
+    "id": "46e5f32ed5194ee6990bb073ee49462f",
+    "source": "vendorpanel",
+    "reference": "VP532133",
+    "title": "Stage 2 Woodriff Lane Creative Lighting Project - Artistic Overlay",
+    "description": "Stage 2 of the project seeks to design, fabricate and install a new artistic overlay retrofitted onto four (4) existing light pole frames in Woodriff Lane. The scope of works for delivery are as follows:\n\n- Assess and review the existing light pole frames and lighting infrastructure in Woodriff Lane.?\n\n- Design an artistic overlay which is functional and works with the newly upgraded lighting infrastructure. The design should consider a connection to the Penrith Local Government Area. Engagement of a local artist from the Penrith LGA or Western Sydney is encouraged but not mandatory.\n\n- Fabricate and manufacture four (4) new artistic overlays. The fabrication should consider a lifespan of 5+ years or longer and withstand all weather conditions. The artistic overlay should integrate functionally with the RGBW lighting infrastructure and system.\n\n- Install the four (4) new artistic overlays to the existing frames.\n\n- Provide a comprehensive user and maintenance manual to equip relevant staff with the knowledge required to maintain the artistic overlay.",
+    "buyer": "Penrith City Council",
+    "buyerType": "council",
+    "state": "NSW",
+    "categories": [
+      "Architecture, Design, Planning",
+      "ELEC, Lighting, Equip & Services",
+      "Graphical, Photographic & Art"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-24T07:00:00.000Z",
+    "closingAtRaw": "24/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-11-02T23:17:00.000Z",
+    "contact": null,
+    "documentCount": 4,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=46e5f32ed5194ee6990bb073ee49462fs532133",
+    "vendorPanelDetails": {
+      "buyerAddress": "601 High St\nPenrith, New South Wales 2750\nAustralia",
+      "buyerWebsite": "https://www.penrithcity.nsw.gov.au/",
+      "buyerDescription": "Penrith City Council is a large general purpose Local Government Authority in New South Wales. It is a dynamic organisation located approximately 55 kilometres west of Sydney’s Central Business District at the foothills of the Blue Mountains. Penrith is one of the larger metropolitan local government areas, covering an area of 404.9 square kilometres with a population of approximately 194,134.",
+      "buyerReference": "PCC26/27-341",
+      "opensAt": "2026-11-02T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 03 November 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-23T06:00:00.000Z",
+      "queryCutoffAtRaw": "Monday 23 November 2026 05:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-14T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 15 December 2026 (AUS Eastern Standard Time)",
+      "background": "Please refer to the attached Project Brief and Request for Quotation documentation for further information.",
+      "desiredOutcomes": "Please refer to the attached Project Brief and Request for Quotation documentation for further information.",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-11-06T04:42:00.000Z",
+          "description": "Please note: The following addenda have been recently added or updated.\n\n1. Added: \t (Addendum) Contract Minor Works - Stage 2 Woodriff Lane Lighting Project Artistic Overlay.docx\n\n- Change to correct $5 million professional indemnity insurance required.\n\n2. Added: \t (Addendum) Request for Quotation - Stage 2 Woodriff Lane Lighting Project Artistic Overlay.docx\n\n- Change to correct RFQ closing date on 24 November, 5pm.\n\n3. Added: \t (Addendum) Structural Specifications - Stage 2 Woodriff Lane Lighting Project Artistic Overlay.pdf\n\n- Additional information on the specifications of the exisiting light pole frames.\n\nPlease consider these addenda when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-11-03T01:24:27.452Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "3",
+        "to": "4",
+        "at": "2026-11-06T23:35:26.416Z"
+      }
+    ],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
+  },
+  {
     "id": "4719b43954744dc59e5b67615be25763",
     "source": "vendorpanel",
     "reference": "VP527842",
@@ -50223,6 +50402,92 @@
     "archivedAt": "2026-09-30T23:18:46.499Z"
   },
   {
+    "id": "71bbf27d251d41eeaaa4468fb1d467c2",
+    "source": "vendorpanel",
+    "reference": "VP531032",
+    "title": "C26033 - Construction and Installation of Concrete Bus Shelters for the City of Albany",
+    "description": "As per the Request for Tender documents.",
+    "buyer": "City of Albany",
+    "buyerType": "council",
+    "state": "WA",
+    "categories": [
+      "Building Trade, Repairs, Maint.",
+      "Construction & Operation"
+    ],
+    "requestType": "rft",
+    "closingAt": "2026-11-25T02:00:00.000Z",
+    "closingAtRaw": "25/Nov/2026 10:00 AM (UTC+08:00) Perth time",
+    "publishedAt": "2026-10-27T21:00:00.000Z",
+    "contact": null,
+    "documentCount": 14,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=71bbf27d251d41eeaaa4468fb1d467c2s531032",
+    "vendorPanelDetails": {
+      "buyerAddress": "102 North Rd\nYakamia, Western Australia 6330\nAustralia",
+      "buyerWebsite": "https://www.albany.wa.gov.au/",
+      "buyerDescription": "Albany is a city at the southern tip of Western Australia. It's known for its beaches, such as popular Middleton Beach. East of the city, Two Peoples Bay Nature Reserve is home to secluded Little Beach. Albany’s Historic Whaling Station, a former whale processing plant, now houses a museum. Migrating whales pass off the coast at Torndirrup National Park, where steep cliffs give way to dramatic rock formations",
+      "buyerReference": "C26033",
+      "opensAt": "2026-10-27T16:00:00.000Z",
+      "opensAtRaw": "Wednesday 28 October 2026 (W. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-18T02:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 18 November 2026 10:00 AM (W. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-22T16:00:00.000Z",
+      "expectedDecisionAtRaw": "Wednesday 23 December 2026 (W. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Western Australia\n1: Central\n2: Lower Great Southern\n3: Midlands\n4: Perth\n5: South West\n6: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-29T22:30:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26033_Addendum - 1.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-03T22:41:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26033_Addendum - 2.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-05T23:10:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26033_Addendum - 3.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-09T00:49:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t C26033_Addendum - 4.pdf\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-27T22:44:08.070Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "11",
+        "at": "2026-10-30T22:43:00.194Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "11",
+        "to": "12",
+        "at": "2026-11-05T00:02:40.372Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "13",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "14",
+        "at": "2026-11-10T01:48:10.581Z"
+      }
+    ],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
+  },
+  {
     "id": "71c152b646dc486e8722f7e2574c4434",
     "source": "vendorpanel",
     "reference": "VP520815",
@@ -60496,6 +60761,162 @@
       }
     ],
     "archivedAt": "2026-11-06T23:35:26.416Z"
+  },
+  {
+    "id": "8b88d34f89cf468da9abae756f3e9f50",
+    "source": "vendorpanel",
+    "reference": "VP527543",
+    "title": "Construction of the Warburton (WA) Dialysis Facility",
+    "description": "NHS (Ngaanyatjarra Health Service), in partnership with Purple House, is seeking a Head Contractor to deliver a Design and Construct (D&C) commission for a new 4-chair, nurse-assisted haemodialysis facility at Warburton, in the Ngaanyatjarra Lands, Western Australia. The facility is to be delivered as a modular building, prefabricated off-site and transported to Warburton for installation and completion, with a 40-year design life.\n\nAnticipated works commencement is 22 February 2027, with Practical Completion required by 29 October 2027.\n\nThe site is located on the Ngaanyatjarra Lands, a remote community in Western Australia. Tenderers must allow for all mobilisation, module transport, accommodation and logistics associated with a remote site of this nature.",
+    "buyer": "Jenarc",
+    "buyerType": null,
+    "state": null,
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-24T07:00:00.000Z",
+    "closingAtRaw": "24/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+    "publishedAt": "2026-10-14T18:00:00.000Z",
+    "contact": null,
+    "documentCount": 20,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=8b88d34f89cf468da9abae756f3e9f50s527543s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Dairy Rd\nFyshwick, Australian Capital Territory 2609\nAustralia",
+      "buyerWebsite": "https://www.jenarc.com.au/",
+      "buyerDescription": "Jenarc is a client-side project management company that specialises in construction delivery, particularly in regional and remote areas of Australia.",
+      "buyerReference": null,
+      "opensAt": "2026-10-14T14:00:00.000Z",
+      "opensAtRaw": "Thursday 15 October 2026 (AUS Eastern Standard Time)",
+      "queryCutoffAt": "2026-11-13T06:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 13 November 2026 05:00 PM (AUS Eastern Daylight Time)",
+      "expectedDecisionAt": "2026-12-21T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 22 December 2026 (AUS Eastern Standard Time)",
+      "background": "Jenarc, as the lead design consultant, has been working with NHS to progress the design of this facility through to 70%, with architectural and all services documentation (mechanical, structural, fire, electrical and hydraulics) now complete and included in this tender package.\n\nAs a D&C commission, the successful Head Contractor will take on responsibility for design development and documentation from 70% through to Issue for Construction (IFC), in addition to fabrication, delivery, installation, and all testing and commissioning of the facility.\n\nThe project has proceeded through the The Licensing and Accreditation Regulatory Unit's (LARU) AIP (Approved in Principle) pathway associated with its funding. All dialysis, water treatment and biomedical equipment is client-supplied; the Head Contractor is responsible for all associated services rough-in, connections and builder's work in connection required to receive this equipment.",
+      "desiredOutcomes": "The successful outcome of this project is the delivery of a fully commissioned, modular 4-chair dialysis facility at Warburton, enabling community members from Warburton and surrounding Western Desert communities to access ongoing dialysis treatment on country. This supports the project's broader objectives of improved treatment attendance, better health outcomes, and continuity of cultural connection, reducing the need for patients to relocate away from family and community for treatment.\n\nTenderers should demonstrate a methodology and program that reflects genuine experience in remote Aboriginal communities, comparable healthcare and modular construction delivery, and a strong approach to cultural safety, WHS management, and Aboriginal employment and local subcontractor participation throughout delivery.",
+      "buyerQuestions": [
+        "Have you included:\n\nSchedule A - Pricing Schedule\n\nWithin your Tender?",
+        "Have you included:\n\nSchedule B - Pricing Schedule\n\nWithin your Tender?",
+        "Have you included:\n\nSchedule C - Program\n\nWithin your Tender?",
+        "Have you included:\n\nEvidence of an adaptable and compliant WHS system\n\nWithin your Tender?",
+        "Have you included:\n\nCurrent Insurance policy certificates of currency\n\n a) 20M Public Liability Insurance\n b) 10M Professional Indemnity Insurance\n c) Workers’ Compensation Insurance\n\nWithin your tender?",
+        "Does your company hold a current WA Builder's Licence?",
+        "Have you accepted all addendums that have been provided to date?"
+      ],
+      "serviceRegions": [
+        "New South Wales\n1: Central West\n2: Northern\n3: Sydney",
+        "Northern Territory\n1: Darwin",
+        "Queensland\n1: Brisbane\n2: Gold Coast\n3: Sunshine Coast",
+        "South Australia\n1: Adelaide\n2: Northern\n3: Outer Adelaide",
+        "Victoria\n1: Melbourne",
+        "Western Australia\n1: Central\n2: Kimberley\n3: Lower Great Southern\n4: Midlands\n5: Perth\n6: Pilbara\n7: South Eastern\n8: South West\n9: Upper Great Southern"
+      ],
+      "publicQuestions": [],
+      "updates": [
+        {
+          "at": "2026-10-23T01:28:00.000Z",
+          "description": "Please note: The following attachments have been recently added.\n\n1. Added: \t 01. Addendum - Tender Briefing.docx\n\n2. Added: \t 02. Addendum - Questions.docx\n\nPlease consider these attachments when responding."
+        },
+        {
+          "at": "2026-10-26T05:44:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 02. Addendum - Questions.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-10-30T00:25:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 03. Addendum - Landscaping Design.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-01T23:10:00.000Z",
+          "description": "Please note: The following addenda have been recently added.\n\n1. Added: \t (Addendum) 04. Addendum - RFT_ Warburton Dialysis.pdf\n\n2. Added: \t (Addendum) 05. Addendum - Key program dates.pdf\n\n3. Added: \t (Addendum) 06. Addendum - Tender Brief Meeting Minutes.pdf\n\nPlease consider these addenda when responding."
+        },
+        {
+          "at": "2026-11-06T06:04:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t 07. Addendum - Site Plan Design Discrepancies.pdf\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-16T05:35:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 08. Addendum - Existing Dwelling & Solar Pricing.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-11-17T06:52:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 09. Addendum - AS 4902-2000 - Version 20250218 - Warburton Dialysis.pdf\n\nPlease consider this addendum when responding."
+        },
+        {
+          "at": "2026-11-20T05:25:00.000Z",
+          "description": "Please note: The following addendum has been recently added.\n\n1. Added: \t (Addendum) 10. Addendum - Brine Pump Clarrification.pdf\n\nPlease consider this addendum when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-14T21:59:10.357Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "10",
+        "to": "12",
+        "at": "2026-10-23T21:44:44.471Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-11-10T07:00:00.000Z",
+        "to": "2026-11-17T07:00:00.000Z",
+        "at": "2026-10-26T22:55:59.516Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "10/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "17/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-10-26T22:55:59.516Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "13",
+        "at": "2026-10-30T22:43:00.194Z"
+      },
+      {
+        "field": "closingAt",
+        "from": "2026-11-17T07:00:00.000Z",
+        "to": "2026-11-24T07:00:00.000Z",
+        "at": "2026-11-01T22:32:06.656Z"
+      },
+      {
+        "field": "closingAtRaw",
+        "from": "17/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "to": "24/Nov/2026 05:00 PM (UTC+10:00) Canberra, Melbourne, Sydney time",
+        "at": "2026-11-01T22:32:06.656Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "16",
+        "at": "2026-11-01T22:32:06.656Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "16",
+        "to": "17",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "17",
+        "to": "18",
+        "at": "2026-11-17T02:11:49.745Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "18",
+        "to": "19",
+        "at": "2026-11-18T01:26:27.033Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "19",
+        "to": "20",
+        "at": "2026-11-21T00:26:31.925Z"
+      }
+    ],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
   },
   {
     "id": "8bc76c50434344a49c0dc7f2ecfe76fb",
@@ -89211,6 +89632,79 @@
     "archivedAt": "2026-11-18T01:26:27.033Z"
   },
   {
+    "id": "d5c88e0a0020407f843a9f302d9124c3",
+    "source": "vendorpanel",
+    "reference": "VP531695",
+    "title": "DRFA Program Kooingal Court Reconstruction",
+    "description": "Banana Shire Council invites Tenders from suitably qualified Tenderers for Reconstruction works of DRFA Program Kooingal Court Reconstruction in the locality of Biloela Area as described in more detail in Part 5 – Scope.",
+    "buyer": "Banana Shire Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Construction & Operation"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-25T01:00:00.000Z",
+    "closingAtRaw": "25/Nov/2026 11:00 AM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-10-29T03:01:00.000Z",
+    "contact": null,
+    "documentCount": 14,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=d5c88e0a0020407f843a9f302d9124c3s531695s50c818bb80c044cab1c37a23ba39eee8s1554",
+    "vendorPanelDetails": {
+      "buyerAddress": "Valentine Plains Rd\nBiloela, Queensland 4715\nAustralia",
+      "buyerWebsite": "https://www.banana.qld.gov.au/",
+      "buyerDescription": "The Shire of Banana is a local government area located in the Capricorn region of Queensland, Australia, inland from the regional city of Gladstone. The shire was named after the first township in the region, which in turn was named for the burial site of a huge dun coloured bullock named 'Banana'.",
+      "buyerReference": "T2627.12",
+      "opensAt": "2026-10-28T14:00:00.000Z",
+      "opensAtRaw": "Thursday 29 October 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-25T01:00:00.000Z",
+      "queryCutoffAtRaw": "Wednesday 25 November 2026 11:00 AM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-23T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Sunday 24 January 2027 (E. Australia Standard Time)",
+      "background": "The Scope of Works comprises this Scope of Works, including;\n\n(a)\tAppendix A – General Specification\n\n(b)\tAppendix B – Pricing Schedule\n\n(c)\tAppendix C1 – Locality Map\n\n(d)\tAppendix C2 – Pavement and Seal Design\n\n(e)\tAppendix D – Technical Specification\n\n(f)\tAppendix E – QRA Treatment Guide 2020-21\n\n(g)\tAppendix F – Minimum Traffic Signage",
+      "desiredOutcomes": "Work cover\n\nPublic Liability\n\nInsurance\n\nSimilar Experience\n\nLocal Content",
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "New South Wales\n1: Sydney",
+        "Queensland\n1: Brisbane\n2: Central West\n3: Darling Downs\n4: Far North\n5: Fitzroy\n6: Gold Coast\n7: Mackay\n8: North West\n9: Northern\n10: South West\n11: Sunshine Coast\n12: West Moreton\n13: Wide Bay-Burnett"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-08T21:46:00.000Z",
+          "question": "Does the Cul-de-sac currently have seal on it , or has council profiled the site and removed it.\n\nIf it is currently sealed is the removal to be included in the first pay item of pavement reconstruction.",
+          "answeredAt": "2026-11-09T04:09:00.000Z",
+          "answer": "Hi Tim,\n\nThanks for your query.\n\nPlease check the notice 2, I just uploaded for everyone access.\n\nThanks."
+        }
+      ],
+      "updates": [
+        {
+          "at": "2026-11-05T02:20:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t T2627.12 DRFA Program Kooingal Court Reconstruction Notice 1.docx\n\nPlease consider this attachment when responding."
+        },
+        {
+          "at": "2026-11-09T04:05:00.000Z",
+          "description": "Please note: The following attachment has been recently added.\n\n1. Added: \t T2627.12 DRFA Program Kooingal Court Reconstruction Notice 2.docx\n\nPlease consider this attachment when responding."
+        }
+      ]
+    },
+    "firstSeenAt": "2026-10-29T23:02:11.469Z",
+    "changes": [
+      {
+        "field": "documentCount",
+        "from": "12",
+        "to": "13",
+        "at": "2026-11-06T23:35:26.416Z"
+      },
+      {
+        "field": "documentCount",
+        "from": "13",
+        "to": "14",
+        "at": "2026-11-10T01:48:10.581Z"
+      }
+    ],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
+  },
+  {
     "id": "d6206cac10094387baaf20aee3406dff",
     "source": "vendorpanel",
     "reference": "VP525984",
@@ -92356,6 +92850,63 @@
       }
     ],
     "archivedAt": "2026-11-19T00:50:50.645Z"
+  },
+  {
+    "id": "dd812451545c4c4dba9cd9a19ee61827",
+    "source": "vendorpanel",
+    "reference": "VP531715",
+    "title": "RFT260076 - Supply & Deliver One Class 15 Graders",
+    "description": "Supply & Deliver Two Class 15 Graders",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Plant & Equipment - Purchase"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-24T06:00:00.000Z",
+    "closingAtRaw": "24/Nov/2026 04:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-11-02T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/tsi.axd?id=dd812451545c4c4dba9cd9a19ee61827s531715s111af72106254df692875753cc768ed3s1597",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFT260076",
+      "opensAt": "2026-11-02T14:00:00.000Z",
+      "opensAtRaw": "Tuesday 03 November 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-17T06:00:00.000Z",
+      "queryCutoffAtRaw": "Tuesday 17 November 2026 04:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2027-01-04T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 05 January 2027 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [
+        {
+          "askedAt": "2026-11-03T23:54:00.000Z",
+          "question": "Good Morning,\n\nCan you please confirm if this request is for one (1) or two (2) graders?\n\nVenderPanel Name specifies two (2) graders\n\nDocumentation specifies one (1) grader.\n\nThank you.",
+          "answeredAt": "2026-11-09T21:08:00.000Z",
+          "answer": "One"
+        }
+      ],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-03T01:24:27.452Z",
+    "changes": [
+      {
+        "field": "title",
+        "from": "RFT260076 - Supply & Deliver Two Class 15 Graders",
+        "to": "RFT260076 - Supply & Deliver One Class 15 Graders",
+        "at": "2026-11-05T00:02:40.372Z"
+      }
+    ],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
   },
   {
     "id": "dd92bd4054924e43bcbb5410cb8afd1e",
@@ -104496,6 +105047,53 @@
     "firstSeenAt": "2026-09-07T13:44:00.867Z",
     "changes": [],
     "archivedAt": "2026-09-08T04:25:30.028Z"
+  },
+  {
+    "id": "fe820f4b19154ec99c2464f0f328e0c9",
+    "source": "vendorpanel",
+    "reference": "VP533238",
+    "title": "RFQ260264 Assessment of Central Highlands Regional Council Washdown Facilities",
+    "description": "Review each of the 4 Council washdown facilities across the Central Highlands, determine its condition, understand how much they are utilised now and likely to be used in the future, identify any upgrades required, and recommend where washdown facilities should be located to best support Council operations, biosecurity requirements and regional industries all when considering the legislative obligations by Council.\n\nAll 4 reviews to by submitted to Council by 10 May 2027.\n\nThe washdown facilities are located within the region at Duaringa, Emerald, Rolleston and Springsure.",
+    "buyer": "Central Highlands Regional Council",
+    "buyerType": "council",
+    "state": "QLD",
+    "categories": [
+      "Business & Administrative Services",
+      "Construction & Operation",
+      "Engineer, Research, Tech services",
+      "Environmental & Heritage Services",
+      "Financial & Insurance Services"
+    ],
+    "requestType": "other",
+    "closingAt": "2026-11-24T07:00:00.000Z",
+    "closingAtRaw": "24/Nov/2026 05:00 PM (UTC+10:00) Brisbane time",
+    "publishedAt": "2026-11-11T19:00:00.000Z",
+    "contact": null,
+    "documentCount": 3,
+    "sourceUrl": "https://www.vendorpanel.com.au/PublicTenderAccess.aspx?id=fe820f4b19154ec99c2464f0f328e0c9s533238",
+    "vendorPanelDetails": {
+      "buyerAddress": "65 Egerton St\nEmerald, Queensland 4720\nAustralia",
+      "buyerWebsite": "https://www.centralhighlands.qld.gov.au/",
+      "buyerDescription": "The Central Highlands region is in Central Queensland, Australia. The region encompasses an area of around 60 000 square kilometres, making it just short of the size of Tasmania.\n\nIt is home to around 30 000 people who live in the thirteen unique communities of Arcadia Valley, Bauhinia, Blackwater, Bluff, Capella, Comet, Dingo, Duaringa, Emerald, Rolleston, Sapphire Gemfields, Springsure and Tieri.\n\nOur region is rich in minerals and agriculture, thriving on irrigation sourced from water storage on the Nogoa and Comet rivers. We claim the largest sapphire-producing fields in the Southern Hemisphere.\n\nMajor freight routes through the region include the north-south link between Charters Towers and northern New South Wales—identified as the inland transport alternative between Cairns and Melbourne.",
+      "buyerReference": "RFQ260264",
+      "opensAt": "2026-11-11T14:00:00.000Z",
+      "opensAtRaw": "Thursday 12 November 2026 (E. Australia Standard Time)",
+      "queryCutoffAt": "2026-11-20T07:00:00.000Z",
+      "queryCutoffAtRaw": "Friday 20 November 2026 05:00 PM (E. Australia Standard Time)",
+      "expectedDecisionAt": "2026-12-07T14:00:00.000Z",
+      "expectedDecisionAtRaw": "Tuesday 08 December 2026 (E. Australia Standard Time)",
+      "background": null,
+      "desiredOutcomes": null,
+      "buyerQuestions": [],
+      "serviceRegions": [
+        "Queensland\n1: Fitzroy"
+      ],
+      "publicQuestions": [],
+      "updates": []
+    },
+    "firstSeenAt": "2026-11-12T01:08:23.524Z",
+    "changes": [],
+    "archivedAt": "2026-11-25T02:51:38.802Z"
   },
   {
     "id": "ff0519d75fe14719b7fe94e7f796ad75",
